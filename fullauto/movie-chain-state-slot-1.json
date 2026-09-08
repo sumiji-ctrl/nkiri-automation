@@ -331,64 +331,80 @@
    "blocked_at": 1788879172
   },
   "https://thenkiri.com/out-of-the-blue-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "63857|https://thenkiri.com/out-of-the-blue-2022-download-hollywood-movie/|08/29/2022 16:15:59|09/02/2023 15:21:32|{'rendered': 'Out of the Blue (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879271.2353933
+   "last_attempt": 1788879271.2353933,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/the-next-365-days-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "60539|https://thenkiri.com/the-next-365-days-2022-download-hollywood-movie/|08/20/2022 13:44:12|09/02/2023 15:15:40|{'rendered': 'The Next 365 Days (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879272.452003
+   "last_attempt": 1788879272.452003,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/secret-headquarters-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "59326|https://thenkiri.com/secret-headquarters-2022-download-hollywood-movie/|08/17/2022 17:16:31|09/02/2023 15:09:56|{'rendered': 'Secret Headquarters (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879273.566993
+   "last_attempt": 1788879273.566993,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/minions-the-rise-of-gru-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58266|https://thenkiri.com/minions-the-rise-of-gru-2022-download-hollywood-movie/|08/16/2022 09:03:13|07/15/2024 11:39:00|{'rendered': 'Minions The Rise of Gru (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879274.5850966
+   "last_attempt": 1788879274.5850966,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/wedding-season-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58194|https://thenkiri.com/wedding-season-2022-download-hollywood-movie/|08/16/2022 08:35:19|09/02/2023 14:57:59|{'rendered': 'Wedding Season (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879275.7842987
+   "last_attempt": 1788879275.7842987,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/vr-fighter-2022-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47377|https://thenkiri.com/vr-fighter-2022-download-chinese-movie/|07/30/2022 11:12:16|09/02/2023 15:06:00|{'rendered': 'VR Fighter (2022) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879276.7842183
+   "last_attempt": 1788879276.7842183,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/jalsa-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47151|https://thenkiri.com/jalsa-2022-download-indian-movie/|07/27/2022 08:08:52|02/24/2024 19:07:20|{'rendered': 'Jalsa (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879285.1854513
+   "last_attempt": 1788879285.1854513,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/the-outlaws-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47023|https://thenkiri.com/the-outlaws-2022-download-korean-movie/|07/25/2022 07:34:28|12/25/2023 06:48:48|{'rendered': 'The Outlaws (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879346.2983572
+   "last_attempt": 1788879346.2983572,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879405
   },
   "https://thenkiri.com/my-chilling-roommate-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "46772|https://thenkiri.com/my-chilling-roommate-2022-download-korean-movie/|07/21/2022 07:34:22|09/02/2023 14:45:34|{'rendered': 'My Chilling Roommate (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878311.6547163
+   "attempts": 3,
+   "last_attempt": 1788879406.5928338
   },
   "https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "46458|https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/|07/15/2022 06:03:35|09/02/2023 14:47:55|{'rendered': 'Love Accidentally (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878313.6078827
+   "attempts": 3,
+   "last_attempt": 1788879407.4881716
   },
   "https://thenkiri.com/vikram-2022-download-indian-movie/": {
    "status": "pending",
@@ -443,6 +459,12 @@
    "signature": "43987|https://thenkiri.com/blind-war-2022-download-chinese-movie/|06/13/2022 11:58:41|09/02/2023 14:09:42|{'rendered': 'Blind War (2022) | Download Chinese Movie'}",
    "attempts": 1,
    "last_attempt": 1788879059.361012
+  },
+  "https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43720|https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/|06/09/2022 05:53:55|09/02/2023 14:07:36|{'rendered': 'Downton Abbey A New Era (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879408.8838975
   }
  },
  "series_links": {
