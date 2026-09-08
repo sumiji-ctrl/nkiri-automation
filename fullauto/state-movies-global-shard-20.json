@@ -1093,8 +1093,8 @@
   "https://thenkiri.com/good-grief-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "106579|https://thenkiri.com/good-grief-2023-download-hollywood-movie/|2024-01-06T11:49:43|2024-01-06T11:49:43|{'rendered': 'Good Grief (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828430.3003013
+   "attempts": 3,
+   "last_attempt": 1788830574.9835064
   },
   "https://thenkiri.com/confession-2023-download-korean-movie/": {
    "status": "pending",
@@ -1137,6 +1137,48 @@
    "signature": "69220|https://thenkiri.com/gunjan-saxena-the-kargil-girl-2020-download-indian-movie/|2022-10-25T14:11:36|2023-09-02T16:25:17|{'rendered': 'Gunjan Saxena: The Kargil Girl (2020) | Download Indian Movie'}",
    "attempts": 1,
    "last_attempt": 1788830057.632446
+  },
+  "https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "64429|https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/|2022-09-05T06:20:25|2023-09-02T15:27:22|{'rendered': 'Shabaash Mithu (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830608.853999
+  },
+  "https://thenkiri.com/not-okay-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "47272|https://thenkiri.com/not-okay-2022-download-hollywood-movie/|2022-07-29T09:57:52|2023-09-02T14:51:46|{'rendered': 'Not Okay (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830609.8753784
+  },
+  "https://thenkiri.com/blasted-2022-download-norwegian-movie/": {
+   "status": "pending",
+   "signature": "45241|https://thenkiri.com/blasted-2022-download-norwegian-movie/|2022-06-29T06:12:36|2023-09-02T14:28:40|{'rendered': 'Blasted (2022) | Download Norwegian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830625.191205
+  },
+  "https://thenkiri.com/zero-contact-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43106|https://thenkiri.com/zero-contact-2022-download-hollywood-movie/|2022-05-27T17:04:42|2023-09-02T14:02:19|{'rendered': 'Zero Contact (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830626.3077176
+  },
+  "https://thenkiri.com/unplugging-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "41036|https://thenkiri.com/unplugging-2022-download-hollywood-movie/|2022-04-30T12:18:26|2023-09-02T13:51:05|{'rendered': 'Unplugging (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830627.4466481
+  },
+  "https://thenkiri.com/boon-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38976|https://thenkiri.com/boon-2022-download-hollywood-movie/|2022-04-02T13:16:24|2023-09-02T13:36:21|{'rendered': 'Boon (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830628.3495557
+  },
+  "https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37458|https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/|2022-03-03T20:07:47|2023-09-02T13:10:23|{'rendered': 'The Weekend Away (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830629.3789754
   }
  },
  "series_links": {

@@ -171,8 +171,8 @@
   "https://thenkiri.com/namib-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "129077|https://thenkiri.com/namib-s01-complete-korean-drama/|2024-12-23T16:42:19|2025-01-28T17:25:47|{'rendered': 'Namib S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788828519.29649
+   "attempts": 3,
+   "last_attempt": 1788830658.56683
   },
   "https://thenkiri.com/no-way-out-the-roulette-complete-korean-drama/": {
    "status": "done",
@@ -185,6 +185,12 @@
    "signature": "112022|https://thenkiri.com/my-fair-lady-s01-complete-korean-drama/|2024-03-09T08:27:16|2024-03-09T08:27:16|{'rendered': 'My Fair Lady S01 (Complete) | Korean Drama'}",
    "attempts": 1,
    "last_attempt": 1788830466.7390807
+  },
+  "https://thenkiri.com/goryeo-khitan-war-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "102794|https://thenkiri.com/goryeo-khitan-war-s01-complete-korean-drama/|2023-11-11T17:45:43|2024-03-11T07:02:34|{'rendered': 'Goryeo-Khitan War S01 (Episode 32 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788831672.5757573
   }
  },
  "series_links": {
