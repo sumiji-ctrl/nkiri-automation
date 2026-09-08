@@ -1139,52 +1139,60 @@
    "completed_at": 1788827047
   },
   "https://thenkiri.com/alcarras-2022-download-spanish-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64469|https://thenkiri.com/alcarras-2022-download-spanish-movie/|2022-09-05T06:57:15|2023-09-02T15:26:49|{'rendered': 'Alcarràs (2022) | Download Spanish Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832210.9465141
+   "last_attempt": 1788832210.9465141,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834216
   },
   "https://thenkiri.com/vr-fighter-2022-download-chinese-movie/": {
    "status": "pending",
    "signature": "47377|https://thenkiri.com/vr-fighter-2022-download-chinese-movie/|2022-07-30T11:12:16|2023-09-02T15:06:00|{'rendered': 'VR Fighter (2022) | Download Chinese Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832212.891936
+   "attempts": 3,
+   "last_attempt": 1788834219.322599
   },
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45420|https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/|2022-07-01T08:18:02|2023-09-02T14:27:35|{'rendered': 'Terror on the Prairie (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832214.2875533
+   "attempts": 3,
+   "last_attempt": 1788834220.732008
   },
   "https://thenkiri.com/show-me-the-ghost-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "43361|https://thenkiri.com/show-me-the-ghost-2021-download-korean-movie/|2022-06-01T19:59:48|2023-09-02T14:01:46|{'rendered': 'Show Me the Ghost (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832215.6748407
+   "attempts": 3,
+   "last_attempt": 1788834222.4757555
   },
   "https://thenkiri.com/the-aviary-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41160|https://thenkiri.com/the-aviary-2022-download-hollywood-movie/|2022-05-01T16:14:51|2023-09-02T13:50:27|{'rendered': 'The Aviary (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832217.031226
+   "attempts": 3,
+   "last_attempt": 1788834224.4177098
   },
   "https://thenkiri.com/umma-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39272|https://thenkiri.com/umma-2022-download-hollywood-movie/|2022-04-08T10:30:36|2023-07-08T11:08:36|{'rendered': 'Umma (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832218.996982
+   "attempts": 3,
+   "last_attempt": 1788834226.5886528
   },
   "https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37506|https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/|2022-03-04T16:00:54|2023-09-02T13:10:06|{'rendered': 'The Story of My Wife (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832220.4167056
+   "attempts": 3,
+   "last_attempt": 1788834228.1922061
   },
   "https://thenkiri.com/red-rocket-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36315|https://thenkiri.com/red-rocket-2021-download-hollywood-movie/|2022-02-08T18:58:42|2023-09-02T13:40:30|{'rendered': 'Red Rocket (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832222.0982344
+   "attempts": 3,
+   "last_attempt": 1788834230.0839133
+  },
+  "https://thenkiri.com/sex-appeal-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35065|https://thenkiri.com/sex-appeal-2022-download-hollywood-movie/|2022-01-14T11:45:14|2023-09-02T13:25:52|{'rendered': 'Sex Appeal (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834232.1461835
   }
  },
  "series_links": {

@@ -210,16 +210,24 @@
    "blocked_at": 1788832238
   },
   "https://thenkiri.com/every-year-after-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "159062|https://thenkiri.com/every-year-after-s01-complete-tv-series/|2026-06-10T14:14:16|2026-06-10T14:33:08|{'rendered': 'Every Year After S01 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788832374.784745
+   "last_attempt": 1788832374.784745,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834246
   },
   "https://thenkiri.com/a-good-girls-guide-to-murder-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "157853|https://thenkiri.com/a-good-girls-guide-to-murder-s02-complete-tv-series/|2026-05-27T10:41:05|2026-05-27T10:41:05|{'rendered': 'A Good Girl’s Guide to Murder S02 (Complete) | TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788834433.1430948
+  },
+  "https://thenkiri.com/believe-me-complete-tv-series/": {
+   "status": "pending",
+   "signature": "156726|https://thenkiri.com/believe-me-complete-tv-series/|2026-05-12T07:53:29|2026-05-12T07:53:29|{'rendered': 'Believe Me (Complete)  | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788832560.7349834
+   "last_attempt": 1788834558.2255795
   }
  },
  "series_links": {
