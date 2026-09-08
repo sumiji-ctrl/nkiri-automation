@@ -1231,28 +1231,30 @@
    "blocked_at": 1788859266
   },
   "https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "32666|https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/|2021-11-26T08:12:32|2023-09-02T13:05:32|{'rendered': 'Jonas Brothers Family Roast (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859267.2397335
+   "last_attempt": 1788859267.2397335,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861507
   },
   "https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31634|https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/|2021-11-07T10:00:49|2023-09-02T10:58:30|{'rendered': 'Inglourious Basterds (2009) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788859269.7057247
+   "attempts": 3,
+   "last_attempt": 1788861508.895913
   },
   "https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/": {
    "status": "pending",
    "signature": "30467|https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/|2021-10-13T11:09:14|2023-09-02T10:13:29|{'rendered': 'Pokémon the Movie: Secrets of the Jungle DUBBED | Download Japanese Animation'}",
-   "attempts": 2,
-   "last_attempt": 1788859270.651821
+   "attempts": 3,
+   "last_attempt": 1788861509.8311353
   },
   "https://thenkiri.com/censor-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "17714|https://thenkiri.com/censor-2021-download-hollywood-movie/|2021-06-18T13:52:44|2023-09-02T09:23:15|{'rendered': 'Censor (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788859279.8944435
+   "attempts": 3,
+   "last_attempt": 1788861520.143542
   },
   "https://thenkiri.com/radhe-2021-download-bollywood-movie/": {
    "status": "done",
@@ -1263,8 +1265,8 @@
   "https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "13541|https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/|2021-03-02T12:46:35|2023-09-02T08:41:07|{'rendered': 'Cosmic Sin (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788859331.4118986
+   "attempts": 3,
+   "last_attempt": 1788861532.8703537
   },
   "https://thenkiri.com/the-lord-of-the-rings-2-the-two-towers-2002-download-hollywood-movie/": {
    "status": "done",
@@ -1277,6 +1279,18 @@
    "signature": "8352|https://thenkiri.com/cuties-dubbed-version-2020-download-hollywood-movie/|2020-09-11T13:29:45|2023-09-02T08:03:10|{'rendered': 'Cuties DUBBED Version (2020) | Download Hollywood Movie'}",
    "modified": "2023-09-02T08:03:10",
    "completed_at": 1788859392
+  },
+  "https://thenkiri.com/desperados-2-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "6465|https://thenkiri.com/desperados-2-2020-download-hollywood-movie/|2020-07-04T11:54:48|2023-09-02T07:36:51|{'rendered': 'Desperados (2020) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788861575.4155726
+  },
+  "https://thenkiri.com/download-midsommar/": {
+   "status": "pending",
+   "signature": "1919|https://thenkiri.com/download-midsommar/|2019-09-24T07:32:21|2024-02-26T14:20:38|{'rendered': 'Midsommar (2019) | Download Hollywood Movies'}",
+   "attempts": 1,
+   "last_attempt": 1788861600.724814
   }
  },
  "series_links": {

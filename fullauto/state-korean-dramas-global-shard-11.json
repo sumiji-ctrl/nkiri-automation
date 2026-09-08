@@ -213,16 +213,22 @@
    "blocked_at": 1788859296
   },
   "https://thenkiri.com/korean-ghost-stories-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "77210|https://thenkiri.com/korean-ghost-stories-complete-korean-drama/|2022-12-19T12:33:48|2023-09-02T14:21:32|{'rendered': 'Korean Ghost Stories (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788859517.6803036
+   "modified": "2023-09-02T14:21:32",
+   "completed_at": 1788861601
   },
   "https://thenkiri.com/may-i-help-you-complete-korean-drama/": {
    "status": "pending",
    "signature": "68480|https://thenkiri.com/may-i-help-you-complete-korean-drama/|2022-10-19T20:12:58|2024-02-23T21:09:28|{'rendered': 'May I Help You S01 (Complete) | Korean Drama'}",
    "attempts": 1,
    "last_attempt": 1788860748.1763184
+  },
+  "https://thenkiri.com/alchemist-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "47233|https://thenkiri.com/alchemist-s01-complete-korean-drama/|2022-07-28T16:18:25|2023-09-02T14:51:52|{'rendered': 'Alchemist S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788861604.878425
   }
  },
  "series_links": {
@@ -547,6 +553,7 @@
   "https://downloadwella.com/t0h4yo8ce11s/May.I.Help.You.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y_0xsVNe65A1cVr6v0fKs3hn2nWC87WS",
   "https://downloadwella.com/qrtw2fct1dap/May.I.Help.You.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z2g2Igbf2EOSFBxxev0yj7M1xki76a-f",
   "https://downloadwella.com/kezpyt36xypt/May.I.Help.You.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EfQseYvUlrZOUzRaouBedUlWXvwWeqGH",
-  "https://downloadwella.com/x7e44qkpq68n/May.I.Help.You.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_lVID6BoGSRxlzN7ad7kN60WXid9Oauw"
+  "https://downloadwella.com/x7e44qkpq68n/May.I.Help.You.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_lVID6BoGSRxlzN7ad7kN60WXid9Oauw",
+  "https://downloadwella.com/umt8wbx1omcg/Korean.Ghost.Stories.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/04q1nemHP1mVrWzkKvGWAc6DjE5XiHwe"
  }
 }

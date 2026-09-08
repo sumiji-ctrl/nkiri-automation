@@ -1261,10 +1261,12 @@
    "blocked_at": 1788859251
   },
   "https://thenkiri.com/ak-vs-ak-2020-download-bollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "13547|https://thenkiri.com/ak-vs-ak-2020-download-bollywood-movie/|2021-03-02T13:09:07|2023-09-02T08:41:04|{'rendered': 'Ak Vs Ak (2020) | Download Bollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859265.9017005
+   "last_attempt": 1788859265.9017005,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861493
   },
   "https://thenkiri.com/the-lord-of-the-rings-1-the-fellowship-of-the-ring-2001-download-hollywood-movie/": {
    "status": "done",
@@ -1287,8 +1289,8 @@
   "https://thenkiri.com/download-scary-stories-to-tell-in-the-dark/": {
    "status": "pending",
    "signature": "2579|https://thenkiri.com/download-scary-stories-to-tell-in-the-dark/|2019-10-23T09:49:53|2024-02-25T07:46:49|{'rendered': 'Scary Stories to Tell in the Dark (2019) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788859386.2408214
+   "attempts": 2,
+   "last_attempt": 1788861535.6668708
   }
  },
  "series_links": {

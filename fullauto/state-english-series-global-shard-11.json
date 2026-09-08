@@ -254,8 +254,14 @@
   "https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/": {
    "status": "pending",
    "signature": "152555|https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/|2026-03-19T08:04:48|2026-04-01T15:09:04|{'rendered': 'The Hunt S01 (Episode 6 Added) | Foreign TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788861565.9859562
+  },
+  "https://thenkiri.com/under-salt-mash-complete-tv-series/": {
+   "status": "pending",
+   "signature": "151350|https://thenkiri.com/under-salt-mash-complete-tv-series/|2026-03-03T12:22:39|2026-03-03T12:22:39|{'rendered': 'Under Salt Mash (Episode 1 – 6 Added) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788859834.2697952
+   "last_attempt": 1788862853.6825304
   }
  },
  "series_links": {
@@ -508,6 +514,9 @@
   "https://downloadwella.com/izqzkxth3a7l/The.Hunt.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_zBkmPGW4EPIe_tt51eS_ze9G3Hq2WZh",
   "https://downloadwella.com/2cyjvpl7mjfv/The.Hunt.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VPmHEjzyNdxjKuUMLYWduckFjmw-w1nJ",
   "https://downloadwella.com/n2d0faro6x81/The.Hunt.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7KCjWlfpKvhfr0NMztq3JzBvNmb3-w-5",
-  "https://downloadwella.com/1uwxy9dtckqs/The.Hunt.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MTWNjuGP_0pnP9HweKFHsd493lDsepwc"
+  "https://downloadwella.com/1uwxy9dtckqs/The.Hunt.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MTWNjuGP_0pnP9HweKFHsd493lDsepwc",
+  "https://downloadwella.com/z6gsisl9h38e/Under.Salt.Marsh.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yhAjHdsF7-k5P1FgcnmJhF-9wRQTZExJ",
+  "https://downloadwella.com/a9cgv5wfr77n/Under.Salt.Marsh.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_3NVaaqk0wIwPPcV2WwASwV1ASqtONb8",
+  "https://downloadwella.com/cqod1ys92h3t/Under.Salt.Marsh.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xkMpLEwOR5f5lLrJ9pGaPhNBfqAQBVP_"
  }
 }
