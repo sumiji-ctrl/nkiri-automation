@@ -199,16 +199,24 @@
    "blocked_at": 1788841474
   },
   "https://thenkiri.com/my-dearest-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96425|https://thenkiri.com/my-dearest-s01-complete-korean-drama/|2023-08-04T21:44:40|2024-02-24T22:52:53|{'rendered': 'My Dearest S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788842324.6202586
+   "last_attempt": 1788842324.6202586,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859345
   },
   "https://thenkiri.com/decoy-aka-the-bait-s01-part-2-complete-korean-drama/": {
    "status": "pending",
    "signature": "86475|https://thenkiri.com/decoy-aka-the-bait-s01-part-2-complete-korean-drama/|2023-04-07T15:05:11|2023-12-16T06:01:15|{'rendered': 'Decoy aka The Bait S01 Part 2 (Episode 5 & 6 Added) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788859424.1348093
+  },
+  "https://thenkiri.com/korean-ghost-stories-complete-korean-drama-2/": {
+   "status": "pending",
+   "signature": "77257|https://thenkiri.com/korean-ghost-stories-complete-korean-drama-2/|2022-12-19T13:38:03|2023-09-02T14:21:14|{'rendered': 'Ghost  S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788842437.0164988
+   "last_attempt": 1788859841.0640306
   }
  },
  "series_links": {
@@ -508,6 +516,23 @@
   "https://downloadwella.com/a4ysnjt3s3u9/No.Way.Out.The.Roulette.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gI_WHzTD-0Ks5uERlrVRLJzFFZypDKly",
   "https://downloadwella.com/qpgo1aqq1tup/No.Way.Out.The.Roulette.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8Q-SVGjHPb3iQv6WcUPSXyd91RN-H0SD",
   "https://downloadwella.com/8d45ib9s5jsu/No.Way.Out.The.Roulette.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D_ebnAlOgIjy5UOSE9E_l9jdAKpkuegp",
-  "https://downloadwella.com/6omd7eo15ejp/No.Way.Out.The.Roulette.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uC4V4TGHyyAvOc67Y3y4XKQcXJolviD9"
+  "https://downloadwella.com/6omd7eo15ejp/No.Way.Out.The.Roulette.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uC4V4TGHyyAvOc67Y3y4XKQcXJolviD9",
+  "https://downloadwella.com/zw7koka4o3lw/Decoy.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h43Usy5F088PS42QiHg9t8zrOUY-nNbn",
+  "https://downloadwella.com/u4j6fjzgrgyy/Decoy.Part.2.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1MVxxHWr60Kh6CZDFzPjRlkPctgVxjR_",
+  "https://downloadwella.com/7gl3zdxfbipg/Decoy.Part.2.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nk17uzH-GDXleDfS6QkQltsQypLJlxt1",
+  "https://downloadwella.com/t2bua7y3wsxc/Ghost.2012.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b16Rdpt_c-Sokl5_wf2k8SWbbo9TwWkC",
+  "https://downloadwella.com/xnklfzyteul1/Ghost.2012.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lHbQQh2whRvOORlXD170X82bzRLmupmN",
+  "https://downloadwella.com/lq4lxih5ueks/Ghost.2012.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o0Vc4HRvTSIFG8QmiaQryGWxW17H8ASi",
+  "https://downloadwella.com/gw6ca341qgu6/Ghost.2012.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/veexOucM7AmIlWIz_71t6Ara-VqelEQL",
+  "https://downloadwella.com/ee0gafxzstsa/Ghost.2012.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xcNOniXMhwp0I1nVtiNyRJxLnT7Q7Pon",
+  "https://downloadwella.com/tfad023v2fg8/Ghost.2012.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OOaGcw0jAWAEuFugDq-7CTgNlc1SG4pb",
+  "https://downloadwella.com/sivg0b8e4vu4/Ghost.2012.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Zfl1CRloZn-GrnZgNngmRYv-MpHYgDZ-",
+  "https://downloadwella.com/r32bzqwrp9yf/Ghost.2012.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7gNTSpZoyui9Htt6A_JltJfvsBvDjwQj",
+  "https://downloadwella.com/ztoi8r7o64jw/Ghost.2012.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tKNLBHzadDPqQmi_VxRE8X7MN_xnFF6_",
+  "https://downloadwella.com/lgycjqw05rqp/Ghost.2012.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T5mBgCIpM6gZR6OQFdG8lXnGlJ7rGfnn",
+  "https://downloadwella.com/w9nrqonob4m1/Ghost.2012.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Gxr0n_3PGuXXKAJGYQozdhA4DYD6BsWk",
+  "https://downloadwella.com/rslz9nwlgsku/Ghost.2012.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x-GRBX0bqdFrvIgJ-HttL6-CLxYRhdPk",
+  "https://downloadwella.com/5r0uf1e9keio/Ghost.2012.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u9Rh6dJPxDJDOuqCbU9CWEizaMAJ7VEr",
+  "https://downloadwella.com/yha48zftp6ku/Ghost.2012.E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5Vkfi1raZMJ62AWUm0vFpHGGPUwNxeCI"
  }
 }

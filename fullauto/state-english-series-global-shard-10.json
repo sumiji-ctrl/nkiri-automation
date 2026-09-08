@@ -224,16 +224,32 @@
    "blocked_at": 1788834209
   },
   "https://thenkiri.com/m-i-a-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156384|https://thenkiri.com/m-i-a-complete-tv-series/|2026-05-07T14:55:20|2026-05-07T14:55:20|{'rendered': 'M.I.A. (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788841742.0978909
+   "last_attempt": 1788841742.0978909,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859330
   },
   "https://thenkiri.com/running-point-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155213|https://thenkiri.com/running-point-s02-complete-tv-series/|2026-04-23T17:09:34|2026-04-23T17:09:50|{'rendered': 'Running Point S02 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788842048.5560005
+   "last_attempt": 1788842048.5560005,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859330
+  },
+  "https://thenkiri.com/beef-complete-tv-series/": {
+   "status": "done",
+   "signature": "154473|https://thenkiri.com/beef-complete-tv-series/|2026-04-16T10:21:48|2026-05-25T13:13:30|{'rendered': 'BEEF S02 (Complete) | TV Series'}",
+   "modified": "2026-05-25T13:13:30",
+   "completed_at": 1788859605
+  },
+  "https://thenkiri.com/the-rookie-s08-episode-1-11-added-tv-series/": {
+   "status": "done",
+   "signature": "153154|https://thenkiri.com/the-rookie-s08-episode-1-11-added-tv-series/|2026-03-28T12:04:15|2026-05-05T09:59:40|{'rendered': 'The Rookie S08 (Episode 18 Added) | TV Series'}",
+   "modified": "2026-05-05T09:59:40",
+   "completed_at": 1788861394
   }
  },
  "series_links": {
@@ -458,6 +474,32 @@
   "https://downloadwella.com/shx20isb4013/The.Bear.S05E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gRb3tFqlbjCkYJkqdw8MiQsfTUoLhtZZ",
   "https://downloadwella.com/4np8vyrdx143/The.Bear.S05E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lT7arVv2TuL9QElNbVanIUCItcNDX1By",
   "https://downloadwella.com/eguxjhtdajbp/The.Bear.S05E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cq-eDDX_1TaqsnbIE2XJjT6oLqAxcUMu",
-  "https://downloadwella.com/lkvyenw81pv0/The.Bear.S05E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/elIDu4Sh3asg8dmXopHPsCY1qz_UM5lM"
+  "https://downloadwella.com/lkvyenw81pv0/The.Bear.S05E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/elIDu4Sh3asg8dmXopHPsCY1qz_UM5lM",
+  "https://downloadwella.com/3zjwxg1adcuq/BEEF.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9rbBMpYzRPhZMoBIsIGOE4TUBD42rjRk",
+  "https://downloadwella.com/boz1p8ns75d1/BEEF.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YTXEjk-NlucC8S8ccPE28VgfnyTZqGvR",
+  "https://downloadwella.com/1v30192r2fmt/BEEF.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I9-KoM_vTlrPKCB2OurXCKxVSmJf7scd",
+  "https://downloadwella.com/iy11ms6auayg/BEEF.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mcYI4TnVUDsfWdMKK4Dt0QqSoojwhh61",
+  "https://downloadwella.com/hz5loyp7rw08/BEEF.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q7AIxyoDsPoJpJh3JAi70sjaN6zdjarn",
+  "https://downloadwella.com/hq16svjlbhrc/BEEF.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-jN4oz5H5pleVN3XwZJBkJOJzQlqaml5",
+  "https://downloadwella.com/sjx91reoz3ms/BEEF.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Tb0tv8yWkkOwAFaH3xXWhuuaHibtTSc5",
+  "https://downloadwella.com/81r91xjfvvkt/BEEF.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1DFuVeJy7WlC-bmvk9uhTnABYl6DFqQZ",
+  "https://downloadwella.com/o0vvwwbvxhiu/The.Rookie.S08E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dC9PDmVMqST__nWmZmi0ANRkXACFuRU4",
+  "https://downloadwella.com/rj8rs07t9qip/The.Rookie.S08E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uqciMhT4kBs6hMRsWvPCxzFfogAPDbFI",
+  "https://downloadwella.com/g9jg4rfsu4pr/The.Rookie.S08E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l_LfFGKrACMGs_bGZsaoUzLoin9p9MSp",
+  "https://downloadwella.com/kef3woh3igok/The.Rookie.S08E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jkArUnTDKxXUyo395tKy9YNnml6rSKor",
+  "https://downloadwella.com/jnz7k647w3rz/The.Rookie.S08E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BpBgWoCrwfOkecyKqioAMpH5j85DdGFm",
+  "https://downloadwella.com/6lx7dbiaanvz/The.Rookie.S08E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-HOGxL-Qk4FrQzVRKqltey9NMLnM0dSz",
+  "https://downloadwella.com/mj3u89r6wsf8/The.Rookie.S08E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cze9rncbaavVbDw2OXeyeMep0wZr5FOm",
+  "https://downloadwella.com/459xnxjderr2/The.Rookie.S08E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OnzW67sF_Z0xlD4yN7lPUyiG_PbmAd9w",
+  "https://downloadwella.com/otzdgbidj8mc/The.Rookie.S08E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I9VvVYPQKXIz86auAc36fwonf4viVRBj",
+  "https://downloadwella.com/7lwrmdhfgcnj/The.Rookie.S08E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6EeFBWid9lqXK6jC6ln5JrGEoohdfWl1",
+  "https://downloadwella.com/w6arlc06ivi7/The.Rookie.S08E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QO_213MeNb1_XooXnzcUzMhyFOHCtLQA",
+  "https://downloadwella.com/qcq2whliwujy/The.Rookie.S08E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wEGr4a7NorE9D6rJarSBr-51Fo8ruS_b",
+  "https://downloadwella.com/gkv9xtdf6i7q/The.Rookie.S08E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XslLurtjsIe_NHxEhewzbzDc4WJGg8iB",
+  "https://downloadwella.com/qugxmiox5ocv/The.Rookie.S08E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zMLukKm3uWSeKyw-cuioBskV98QzF8iq",
+  "https://downloadwella.com/gjmdmqq89xmp/The.Rookie.S08E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S7B8x5Re67u01sJPPvgXCtXjyEj87XGz",
+  "https://downloadwella.com/6rgdezoy2mwu/The.Rookie.S08E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rW0gV5I9EFM4tHGn1ogzOkCZIoeN0n33",
+  "https://downloadwella.com/shsygrwjqchu/The.Rookie.S08E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-6k6rYmZ3QNQvYa2A6dchpwLPhNtrp-x",
+  "https://downloadwella.com/2l54trdj2o5f/The.Rookie.S08E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n6ewOnq9lsNCOZ2LO6dfguKJx0fK1KhC"
  }
 }

@@ -1163,52 +1163,100 @@
    "blocked_at": 1788837981
   },
   "https://thenkiri.com/not-okay-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47272|https://thenkiri.com/not-okay-2022-download-hollywood-movie/|2022-07-29T09:57:52|2023-09-02T14:51:46|{'rendered': 'Not Okay (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841432.147699
+   "last_attempt": 1788841432.147699,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859300
   },
   "https://thenkiri.com/blasted-2022-download-norwegian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45241|https://thenkiri.com/blasted-2022-download-norwegian-movie/|2022-06-29T06:12:36|2023-09-02T14:28:40|{'rendered': 'Blasted (2022) | Download Norwegian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841450.3689144
+   "last_attempt": 1788841450.3689144,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859300
   },
   "https://thenkiri.com/zero-contact-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43106|https://thenkiri.com/zero-contact-2022-download-hollywood-movie/|2022-05-27T17:04:42|2023-09-02T14:02:19|{'rendered': 'Zero Contact (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841451.7061057
+   "last_attempt": 1788841451.7061057,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859300
   },
   "https://thenkiri.com/unplugging-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41036|https://thenkiri.com/unplugging-2022-download-hollywood-movie/|2022-04-30T12:18:26|2023-09-02T13:51:05|{'rendered': 'Unplugging (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841453.4256256
+   "last_attempt": 1788841453.4256256,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859300
   },
   "https://thenkiri.com/boon-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38976|https://thenkiri.com/boon-2022-download-hollywood-movie/|2022-04-02T13:16:24|2023-09-02T13:36:21|{'rendered': 'Boon (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841454.8675873
+   "last_attempt": 1788841454.8675873,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859300
   },
   "https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37458|https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/|2022-03-03T20:07:47|2023-09-02T13:10:23|{'rendered': 'The Weekend Away (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841456.9578722
+   "last_attempt": 1788841456.9578722,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859300
   },
   "https://thenkiri.com/the-long-night-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36205|https://thenkiri.com/the-long-night-2022-download-hollywood-movie/|2022-02-06T18:06:59|2023-09-02T13:37:37|{'rendered': 'The Long Night (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841458.8616636
+   "attempts": 3,
+   "last_attempt": 1788859301.551664
   },
   "https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34968|https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/|2022-01-12T08:07:30|2023-09-02T13:26:21|{'rendered': 'A Journal for Jordan (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841460.3938055
+   "attempts": 3,
+   "last_attempt": 1788859302.4427595
+  },
+  "https://thenkiri.com/dont-look-up-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34002|https://thenkiri.com/dont-look-up-2021-download-hollywood-movie/|2021-12-24T11:11:29|2023-09-02T13:15:34|{'rendered': 'Don’t Look Up (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859303.2980204
+  },
+  "https://thenkiri.com/avengers-endgame-2019-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32848|https://thenkiri.com/avengers-endgame-2019-download-hollywood-movie/|2021-11-29T11:34:04|2023-09-02T13:08:37|{'rendered': 'Avengers Endgame (2019) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859304.0833476
+  },
+  "https://thenkiri.com/hell-hath-no-fury-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31768|https://thenkiri.com/hell-hath-no-fury-2021-download-hollywood-movie/|2021-11-10T09:56:56|2023-09-02T11:01:51|{'rendered': 'Hell Hath No Fury (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859305.0368845
+  },
+  "https://thenkiri.com/copshop-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30561|https://thenkiri.com/copshop-2021-download-hollywood-movie/|2021-10-14T09:30:12|2023-09-02T10:13:01|{'rendered': 'Copshop (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859307.5902743
+  },
+  "https://thenkiri.com/rurouni-kenshin-2021-download-japanese-movie/": {
+   "status": "done",
+   "signature": "17794|https://thenkiri.com/rurouni-kenshin-2021-download-japanese-movie/|2021-06-19T11:32:06|2024-02-25T07:56:09|{'rendered': 'Rurouni Kenshin (2021) | Download JAPANESE Movie'}",
+   "modified": "2024-02-25T07:56:09",
+   "completed_at": 1788859372
+  },
+  "https://thenkiri.com/midnight-runners-2017-download-korean-movie-2/": {
+   "status": "pending",
+   "signature": "16522|https://thenkiri.com/midnight-runners-2017-download-korean-movie-2/|2021-05-24T12:15:43|2024-02-25T08:03:42|{'rendered': 'Recalled (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859383.491658
   }
  },
  "series_links": {
@@ -1418,6 +1466,7 @@
   "https://downloadwella.com/crorqatt4gat/Your.Fault.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/kPJEmMrfzwwbsnwTEwvN_btlNBghJyW0",
   "https://downloadwella.com/40mcmxklw3jd/Demise.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/oXoHAgPvcX_hp3ACFA8l2GGKcOhPmJlZ",
   "https://downloadwella.com/4fl9cp5ipwct/A.Quiet.Place.Day.One.(2024).HC.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/1qCsPVxMbUVEiLUIm3mhbT_OXkWO8YdV",
-  "https://downloadwella.com/c28inkdfxu7b/Main.Atal.Hoon.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/-sy_m7q8UoHZzBG6qRHqexQKPU7joEn6"
+  "https://downloadwella.com/c28inkdfxu7b/Main.Atal.Hoon.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/-sy_m7q8UoHZzBG6qRHqexQKPU7joEn6",
+  "https://downloadwella.com/ve5pi98vhw2i/Rurouni.Kenshin.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4_Jr-j5N1auQIccGOFqnx17Rt2WDM4bK"
  }
 }

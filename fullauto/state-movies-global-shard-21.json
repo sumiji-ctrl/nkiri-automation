@@ -1173,52 +1173,68 @@
    "blocked_at": 1788837995
   },
   "https://thenkiri.com/revealer-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45136|https://thenkiri.com/revealer-2022-download-hollywood-movie/|2022-06-27T09:04:34|2023-09-02T14:20:22|{'rendered': 'Revealer (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841446.6718314
+   "last_attempt": 1788841446.6718314,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859315
   },
   "https://thenkiri.com/rrr-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42874|https://thenkiri.com/rrr-2022-download-indian-movie/|2022-05-25T16:30:07|2023-09-02T14:02:35|{'rendered': 'RRR (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841448.7408323
+   "last_attempt": 1788841448.7408323,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859315
   },
   "https://thenkiri.com/crush-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "40959|https://thenkiri.com/crush-2022-download-hollywood-movie/|2022-04-29T12:28:46|2023-09-02T13:51:24|{'rendered': 'Crush (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841482.2826705
+   "modified": "2023-09-02T13:51:24",
+   "completed_at": 1788859339
   },
   "https://thenkiri.com/pirates-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38968|https://thenkiri.com/pirates-2022-download-hollywood-movie/|2022-04-02T13:11:43|2023-09-02T13:36:24|{'rendered': 'Pirates (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841483.6334503
+   "attempts": 3,
+   "last_attempt": 1788859340.7425714
   },
   "https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/": {
    "status": "pending",
    "signature": "37380|https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/|2022-03-03T08:49:30|2023-09-02T13:10:42|{'rendered': 'The Pilot A Battle for Survival (2021) | Download Russian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841484.813114
+   "attempts": 3,
+   "last_attempt": 1788859341.591212
   },
   "https://thenkiri.com/through-my-window-2022-download-spanish-movie/": {
    "status": "pending",
    "signature": "36164|https://thenkiri.com/through-my-window-2022-download-spanish-movie/|2022-02-05T10:15:18|2023-09-02T13:37:42|{'rendered': 'Through My Window (2022) | Download Spanish Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841485.9907885
+   "attempts": 3,
+   "last_attempt": 1788859342.3121471
   },
   "https://thenkiri.com/the-legend-of-la-llorona-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34962|https://thenkiri.com/the-legend-of-la-llorona-2021-download-hollywood-movie/|2022-01-12T07:54:18|2023-09-02T13:23:09|{'rendered': 'The Legend of La Llorona (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841487.4557276
+   "attempts": 3,
+   "last_attempt": 1788859343.0720239
   },
   "https://thenkiri.com/encanto-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33996|https://thenkiri.com/encanto-2021-download-hollywood-movie/|2021-12-24T10:20:58|2023-09-02T13:15:37|{'rendered': 'Encanto (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841488.6372666
+   "attempts": 3,
+   "last_attempt": 1788859343.8165846
+  },
+  "https://thenkiri.com/the-avengers-2012-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32841|https://thenkiri.com/the-avengers-2012-download-hollywood-movie/|2021-11-29T11:28:52|2023-09-02T13:08:40|{'rendered': 'The Avengers (2012) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859344.6538124
+  },
+  "https://thenkiri.com/shang-chi-and-the-legends-of-the-ten-rings-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31753|https://thenkiri.com/shang-chi-and-the-legends-of-the-ten-rings-2021-download-hollywood-movie/|2021-11-10T08:00:49|2023-09-02T10:57:16|{'rendered': 'Shang-Chi and the Legends of the Ten Rings (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859345.574774
   }
  },
  "series_links": {
@@ -1426,6 +1442,7 @@
   "https://downloadwella.com/hkjj749mrlss/Bai.She.Fu.sheng.(NKIRI.COM).2024.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/h1Y6x5TFiTPoJxzQ7I_FVYHXqyfsyyhE",
   "https://downloadwella.com/p7vhxlxmv0xd/Uprising.(NKIRI.COM).2024.KOREAN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/AW6TXMyQm_tsfcbaI7h6ismSWZxekZer",
   "https://downloadwella.com/c09icbhzuesu/Young.Woman.and.the.Sea.(NKIRI.COM).2024.DSNP.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/bRkrKbL1G9I_52Zm08TkNPjMMWy_Yffd",
-  "https://downloadwella.com/wi89pasn4hdx/Murder.Mubarak.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/AJ0uM2BRmz5OjAo2kohafw9nBTzC7tXN"
+  "https://downloadwella.com/wi89pasn4hdx/Murder.Mubarak.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/AJ0uM2BRmz5OjAo2kohafw9nBTzC7tXN",
+  "https://downloadwella.com/8mmiyyxfa69a/Crush.(NKIRI.CM).2022.HULU.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/dorAgrZAw_WaNtku8jjY9-_t2nkV4gSf"
  }
 }
