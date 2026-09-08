@@ -226,16 +226,24 @@
    "blocked_at": 1788838037
   },
   "https://thenkiri.com/believe-me-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156726|https://thenkiri.com/believe-me-complete-tv-series/|2026-05-12T07:53:29|2026-05-12T07:53:29|{'rendered': 'Believe Me (Complete)  | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788838154.5584083
+   "last_attempt": 1788838154.5584083,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841412
   },
   "https://thenkiri.com/my-brother-the-minotaur-complete-tv-series/": {
    "status": "pending",
    "signature": "155363|https://thenkiri.com/my-brother-the-minotaur-complete-tv-series/|2026-04-25T08:47:37|2026-04-25T08:47:37|{'rendered': 'My Brother the Minotaur (Complete) | TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788841711.44572
+  },
+  "https://thenkiri.com/big-mood-s02-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154508|https://thenkiri.com/big-mood-s02-complete-tv-series/|2026-04-16T15:04:09|2026-04-16T15:06:29|{'rendered': 'Big Mood S02 (Complete) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788838463.8072612
+   "last_attempt": 1788841915.00491
   }
  },
  "series_links": {

@@ -1181,52 +1181,76 @@
    "blocked_at": 1788836062
   },
   "https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41131|https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/|2022-05-01T08:23:49|2023-09-02T13:50:35|{'rendered': 'Fortress Sniper’s Eye (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838023.7676575
+   "last_attempt": 1788838023.7676575,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841397
   },
   "https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39265|https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/|2022-04-08T10:25:46|2023-09-02T13:39:39|{'rendered': 'All the Old Knives (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838024.6698308
+   "last_attempt": 1788838024.6698308,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841397
   },
   "https://thenkiri.com/fresh-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37500|https://thenkiri.com/fresh-2022-download-hollywood-movie/|2022-03-04T13:40:10|2023-09-02T13:10:09|{'rendered': 'Fresh (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838025.4887125
+   "last_attempt": 1788838025.4887125,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841397
   },
   "https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36305|https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/|2022-02-08T18:07:28|2023-09-02T13:40:33|{'rendered': 'Dallas Buyers Club (2013) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838026.2407472
+   "attempts": 3,
+   "last_attempt": 1788841398.4068615
   },
   "https://thenkiri.com/the-tragedy-of-macbeth-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35058|https://thenkiri.com/the-tragedy-of-macbeth-2021-download-hollywood-movie/|2022-01-14T11:35:52|2023-09-02T13:25:55|{'rendered': 'The Tragedy of Macbeth (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838027.1197498
+   "attempts": 3,
+   "last_attempt": 1788841399.1971323
   },
   "https://thenkiri.com/the-kindred-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34123|https://thenkiri.com/the-kindred-2022-download-hollywood-movie/|2021-12-28T08:41:35|2023-09-02T13:15:19|{'rendered': 'The Kindred (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838027.9842045
+   "attempts": 3,
+   "last_attempt": 1788841399.9493396
   },
   "https://thenkiri.com/the-last-duel-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32869|https://thenkiri.com/the-last-duel-2021-download-hollywood-movie/|2021-11-29T12:26:15|2023-09-02T13:08:27|{'rendered': 'The Last Duel (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838028.8942358
+   "attempts": 3,
+   "last_attempt": 1788841400.8515425
   },
   "https://thenkiri.com/passing-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31801|https://thenkiri.com/passing-2021-download-hollywood-movie/|2021-11-10T16:08:30|2023-09-02T11:01:33|{'rendered': 'Passing (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838029.6750326
+   "attempts": 3,
+   "last_attempt": 1788841401.6404016
+  },
+  "https://thenkiri.com/halloween-kills-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30619|https://thenkiri.com/halloween-kills-2021-download-hollywood-movie/|2021-10-15T10:02:38|2023-09-02T10:12:45|{'rendered': 'Halloween Kills (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841402.6204998
+  },
+  "https://thenkiri.com/the-hobbit-desolation-of-smaug-2013-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "18022|https://thenkiri.com/the-hobbit-desolation-of-smaug-2013-download-hollywood-movie/|2021-06-28T17:54:29|2023-09-02T09:25:38|{'rendered': 'The Hobbit Desolation of Smaug (2013) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841434.813791
+  },
+  "https://thenkiri.com/cruella-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "16709|https://thenkiri.com/cruella-2021-download-hollywood-movie/|2021-05-28T14:08:54|2023-12-25T06:33:57|{'rendered': 'Cruella (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841474.7189326
   }
  },
  "series_links": {

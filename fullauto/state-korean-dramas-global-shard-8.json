@@ -197,16 +197,32 @@
    "blocked_at": 1788834261
   },
   "https://thenkiri.com/colded-blooded-intern-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96744|https://thenkiri.com/colded-blooded-intern-s01-complete-korean-drama/|2023-08-11T18:30:03|2024-02-23T10:39:13|{'rendered': 'Colded Blooded Intern S01 (Episode 11 & 12 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788838413.1124272
+   "last_attempt": 1788838413.1124272,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841427
   },
   "https://thenkiri.com/bora-deborah-aka-true-to-love-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "86878|https://thenkiri.com/bora-deborah-aka-true-to-love-complete-korean-drama/|2023-04-13T06:06:58|2023-12-19T10:05:44|{'rendered': 'Bora! Deborah aka True to Love (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788838923.069344
+   "last_attempt": 1788838923.069344,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841427
+  },
+  "https://thenkiri.com/the-king-of-desert-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "77521|https://thenkiri.com/the-king-of-desert-complete-korean-drama/|2022-12-21T15:08:34|2023-12-19T07:18:42|{'rendered': 'The King of Desert S01 (Episode 1-6 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788841600.0940773
+  },
+  "https://thenkiri.com/choco-milk-shake-episode-1-added-korean-drama/": {
+   "status": "pending",
+   "signature": "69283|https://thenkiri.com/choco-milk-shake-episode-1-added-korean-drama/|2022-10-26T08:58:54|2023-09-02T16:25:03|{'rendered': 'Choco Milk Shake (Episode 11 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788841834.1000435
   }
  },
  "series_links": {
