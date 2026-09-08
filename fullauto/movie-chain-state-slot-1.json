@@ -211,16 +211,18 @@
    "completed_at": 1788876172
   },
   "https://thenkiri.com/limit-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "79390|https://thenkiri.com/limit-2022-download-korean-movie/|01/11/2023 06:15:10|09/02/2023 16:39:00|{'rendered': 'Limit (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877138.8655162
+   "last_attempt": 1788877138.8655162,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788877210
   },
   "https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/": {
    "status": "pending",
    "signature": "77346|https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/|12/21/2022 10:05:07|09/02/2023 14:20:10|{'rendered': 'Home Alone 2: Lost in New York (1992) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788876273.6949065
+   "attempts": 3,
+   "last_attempt": 1788877309.3947098
   },
   "https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -359,6 +361,18 @@
    "signature": "47023|https://thenkiri.com/the-outlaws-2022-download-korean-movie/|07/25/2022 07:34:28|12/25/2023 06:48:48|{'rendered': 'The Outlaws (2022) | Download Korean Movie'}",
    "attempts": 1,
    "last_attempt": 1788877150.0817146
+  },
+  "https://thenkiri.com/my-chilling-roommate-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "46772|https://thenkiri.com/my-chilling-roommate-2022-download-korean-movie/|07/21/2022 07:34:22|09/02/2023 14:45:34|{'rendered': 'My Chilling Roommate (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877310.2815611
+  },
+  "https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "46458|https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/|07/15/2022 06:03:35|09/02/2023 14:47:55|{'rendered': 'Love Accidentally (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877312.7653503
   }
  },
  "series_links": {
