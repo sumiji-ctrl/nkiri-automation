@@ -43,10 +43,12 @@
    "completed_at": 1788872748
   },
   "https://thenkiri.com/love-in-the-big-city-2024-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "128809|https://thenkiri.com/love-in-the-big-city-2024-download-korean-movie/|12/16/2024 11:53:56|12/17/2024 18:47:18|{'rendered': 'Love in the Big City (2024) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874686.8481913
+   "last_attempt": 1788874686.8481913,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874795
   },
   "https://thenkiri.com/wwe-crown-jewel-2024-download-wresting-special/": "skipped (wwe)",
   "https://thenkiri.com/escape-2024-download-korean-movie/": {
