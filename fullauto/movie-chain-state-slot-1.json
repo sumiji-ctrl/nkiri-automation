@@ -133,46 +133,60 @@
    "blocked_at": 1788875676
   },
   "https://thenkiri.com/transformers-complete-collection-1-5-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "97268|https://thenkiri.com/transformers-complete-collection-1-5-download-hollywood-movie/|08/23/2023 10:48:43|02/24/2024 21:09:17|{'rendered': 'Transformers Collection 1 – 5 | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875677.2550306
+   "last_attempt": 1788875677.2550306,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/zoey-102-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96023|https://thenkiri.com/zoey-102-2023-download-hollywood-movie/|07/27/2023 13:38:28|09/02/2023 17:59:04|{'rendered': 'Zoey 102 (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875678.8951378
+   "last_attempt": 1788875678.8951378,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/biosphere-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "93030|https://thenkiri.com/biosphere-2023-download-hollywood-movie/|07/07/2023 19:24:56|09/02/2023 17:16:11|{'rendered': 'Biosphere (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875681.9575527
+   "last_attempt": 1788875681.9575527,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/worlds-best-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "92126|https://thenkiri.com/worlds-best-2023-download-hollywood-movie/|06/23/2023 11:48:46|09/02/2023 17:07:34|{'rendered': 'World’s Best (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875693.1695871
+   "last_attempt": 1788875693.1695871,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/mafia-mamma-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "88666|https://thenkiri.com/mafia-mamma-2023-download-hollywood-movie/|05/04/2023 09:26:05|09/02/2023 17:49:51|{'rendered': 'Mafia Mamma (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875694.777494
+   "last_attempt": 1788875694.777494,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/soulmate-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "87374|https://thenkiri.com/soulmate-2023-download-korean-movie/|04/18/2023 10:00:46|09/02/2023 17:41:16|{'rendered': 'Soulmate (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875696.5569923
+   "last_attempt": 1788875696.5569923,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/shoot-me-in-the-heart-2015-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "85187|https://thenkiri.com/shoot-me-in-the-heart-2015-download-korean-movie/|03/25/2023 05:43:23|09/02/2023 17:26:05|{'rendered': 'Shoot Me in the Heart (2015) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788875698.0486555
+   "last_attempt": 1788875698.0486555,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876446
   },
   "https://thenkiri.com/batman-the-doom-that-came-to-gotham-2023-download-hollywood-movie/": {
    "status": "pending",
@@ -207,8 +221,8 @@
   "https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "76402|https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/|12/13/2022 18:58:52|09/02/2023 14:02:15|{'rendered': 'The Fabelmans (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788874920.4421768
+   "attempts": 2,
+   "last_attempt": 1788876448.6137016
   },
   "https://thenkiri.com/darby-and-the-dead-2022-download-hollywood-movie/": {
    "status": "done",
@@ -245,6 +259,36 @@
    "signature": "69581|https://thenkiri.com/the-nan-movie-2022-download-hollywood-movie/|10/27/2022 12:16:29|09/02/2023 16:31:51|{'rendered': 'The Nan Movie (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788876341.8117602
+  },
+  "https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/": {
+   "status": "pending",
+   "signature": "69411|https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/|10/26/2022 13:53:40|09/02/2023 16:24:25|{'rendered': 'Love per Square Foot (2018) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788876503.5931473
+  },
+  "https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/": {
+   "status": "done",
+   "signature": "69086|https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/|10/25/2022 11:57:36|09/02/2023 16:25:39|{'rendered': 'Along with the Gods: The Last 49 Days (2018) | Download Korean Movie'}",
+   "modified": "09/02/2023 16:25:39",
+   "completed_at": 1788876564
+  },
+  "https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "67920|https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/|10/14/2022 10:31:37|09/02/2023 16:09:38|{'rendered': 'Stars at Noon (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788876566.2451425
+  },
+  "https://thenkiri.com/hunt-2022-download-korean-movie/": {
+   "status": "done",
+   "signature": "66931|https://thenkiri.com/hunt-2022-download-korean-movie/|10/02/2022 07:30:52|09/02/2023 16:00:48|{'rendered': 'Hunt (2022) | Download Korean Movie'}",
+   "modified": "09/02/2023 16:00:48",
+   "completed_at": 1788876637
+  },
+  "https://thenkiri.com/dig-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "66250|https://thenkiri.com/dig-2022-download-hollywood-movie/|09/23/2022 10:51:13|02/23/2024 12:18:23|{'rendered': 'Dig (2022) | Download Hollywood Movie'}",
+   "modified": "02/23/2024 12:18:23",
+   "completed_at": 1788876714
   }
  },
  "series_links": {
@@ -258,6 +302,9 @@
   "https://downloadwella.com/00pddfmqpmbd/Darby.and.The.Dead.(NKIRI.COM).2022.HULU.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/V4jDEYIFiniIYpwSwjgfkFP7XDAZ9wvX",
   "https://downloadwella.com/jk4f0ejhq0qd/%7Bnkiri.com%7D_The_Battle_Roar_to_Victory_(2018)_jdfu.mkv.html": "https://v1.vidfiles.com/d/xCk5g4P-t5EmOLmE4FjsiUAACOfplRLr",
   "https://downloadwella.com/1rcb8kazaeph/Black.Adam.(NKIRI.COM).2022.REPACK.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7FypOuC8Mnex7F7FUC0P44cTAdxxynIU",
-  "https://downloadwella.com/axz8iamc0gmd/Black.Panther.Wakanda.Forever.(NKIRI.COM).2022.BluRay.DOWNLOADED.FROM.NKIRI.COM.b.mkv.html": "https://v1.vidfiles.com/d/FbtCM_yFd-hefmUcSpe67LPPlzL71wbN"
+  "https://downloadwella.com/axz8iamc0gmd/Black.Panther.Wakanda.Forever.(NKIRI.COM).2022.BluRay.DOWNLOADED.FROM.NKIRI.COM.b.mkv.html": "https://v1.vidfiles.com/d/FbtCM_yFd-hefmUcSpe67LPPlzL71wbN",
+  "https://downloadwella.com/gc0kuw30yong/Along.With.the.Gods.The.Last.49.Days.(NKIRI.COM).2018.480p.BluRay.x264.mkv.html": "https://v1.vidfiles.com/d/j9_rmrVBRG1FTKwzWf6yDZT8cV5zmNrb",
+  "https://downloadwella.com/twnqzqx8s4mg/Hunt.(NKIRI.COM).2022.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Xhl6uXhLhDWRVzksCABgDDuRgBSDko0C",
+  "https://downloadwella.com/zwp2f1limkpx/Dig.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/UNwqoItaM0ZhN_n0_wzF2JZOAe3ya9c8"
  }
 }
