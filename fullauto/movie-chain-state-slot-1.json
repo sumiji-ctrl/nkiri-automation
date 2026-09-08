@@ -219,16 +219,18 @@
    "blocked_at": 1788877210
   },
   "https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "77346|https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/|12/21/2022 10:05:07|09/02/2023 14:20:10|{'rendered': 'Home Alone 2: Lost in New York (1992) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877309.3947098
+   "last_attempt": 1788877309.3947098,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788877423
   },
   "https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "76402|https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/|12/13/2022 18:58:52|09/02/2023 14:02:15|{'rendered': 'The Fabelmans (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788876448.6137016
+   "attempts": 3,
+   "last_attempt": 1788877425.748348
   },
   "https://thenkiri.com/darby-and-the-dead-2022-download-hollywood-movie/": {
    "status": "done",
@@ -251,26 +253,26 @@
   "https://thenkiri.com/wonder-park-2019-download-hollywood-movie/": {
    "status": "pending",
    "signature": "71392|https://thenkiri.com/wonder-park-2019-download-hollywood-movie/|11/13/2022 15:05:47|09/02/2023 16:50:38|{'rendered': 'Wonder Park (2019) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876328.102507
+   "attempts": 2,
+   "last_attempt": 1788877436.8989189
   },
   "https://thenkiri.com/deborah-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "70156|https://thenkiri.com/deborah-2022-download-hollywood-movie/|11/01/2022 14:07:46|09/02/2023 16:34:46|{'rendered': 'Deborah (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876338.7129645
+   "modified": "09/02/2023 16:34:46",
+   "completed_at": 1788877522
   },
   "https://thenkiri.com/the-nan-movie-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "69581|https://thenkiri.com/the-nan-movie-2022-download-hollywood-movie/|10/27/2022 12:16:29|09/02/2023 16:31:51|{'rendered': 'The Nan Movie (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876341.8117602
+   "attempts": 2,
+   "last_attempt": 1788877524.3543706
   },
   "https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/": {
    "status": "pending",
    "signature": "69411|https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/|10/26/2022 13:53:40|09/02/2023 16:24:25|{'rendered': 'Love per Square Foot (2018) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876503.5931473
+   "attempts": 2,
+   "last_attempt": 1788877577.9055903
   },
   "https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/": {
    "status": "done",
@@ -373,6 +375,12 @@
    "signature": "46458|https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/|07/15/2022 06:03:35|09/02/2023 14:47:55|{'rendered': 'Love Accidentally (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788877312.7653503
+  },
+  "https://thenkiri.com/vikram-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "46153|https://thenkiri.com/vikram-2022-download-indian-movie/|07/11/2022 11:42:48|09/02/2023 14:41:52|{'rendered': 'Vikram (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877579.3664577
   }
  },
  "series_links": {
@@ -390,6 +398,7 @@
   "https://downloadwella.com/gc0kuw30yong/Along.With.the.Gods.The.Last.49.Days.(NKIRI.COM).2018.480p.BluRay.x264.mkv.html": "https://v1.vidfiles.com/d/j9_rmrVBRG1FTKwzWf6yDZT8cV5zmNrb",
   "https://downloadwella.com/twnqzqx8s4mg/Hunt.(NKIRI.COM).2022.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Xhl6uXhLhDWRVzksCABgDDuRgBSDko0C",
   "https://downloadwella.com/zwp2f1limkpx/Dig.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/UNwqoItaM0ZhN_n0_wzF2JZOAe3ya9c8",
-  "https://downloadwella.com/rhc07dgvb2jj/Anchor.(NKIRI.COM).2022.BluRay.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/H5DeLmFOOUuOSBoa2EzADgas1qk50EjW"
+  "https://downloadwella.com/rhc07dgvb2jj/Anchor.(NKIRI.COM).2022.BluRay.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/H5DeLmFOOUuOSBoa2EzADgas1qk50EjW",
+  "https://downloadwella.com/2p6pcep89gbv/Deborah.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/uNvzltlTNul5GwAZG30FXrjBETTtkOIp"
  }
 }
