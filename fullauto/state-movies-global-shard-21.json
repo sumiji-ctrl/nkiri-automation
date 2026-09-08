@@ -1109,64 +1109,116 @@
    "blocked_at": 1788832233
   },
   "https://thenkiri.com/love-in-taipei-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96613|https://thenkiri.com/love-in-taipei-2023-download-hollywood-movie/|2023-08-10T10:18:19|2023-09-02T17:59:25|{'rendered': 'Love in Taipei (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834264.9628344
+   "last_attempt": 1788834264.9628344,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/the-highway-family-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "90785|https://thenkiri.com/the-highway-family-2022-download-korean-movie/|2023-06-02T15:46:28|2023-09-02T18:02:25|{'rendered': 'The Highway Family (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834348.73195
+   "last_attempt": 1788834348.73195,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/winnie-the-pooh-blood-and-honey-2023-download-hollywood-movies/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "84930|https://thenkiri.com/winnie-the-pooh-blood-and-honey-2023-download-hollywood-movies/|2023-03-21T13:53:29|2023-09-02T17:26:31|{'rendered': 'Winnie the Pooh: Blood and Honey (2023) | Download Hollywood Movies'}",
    "attempts": 3,
-   "last_attempt": 1788834384.244451
+   "last_attempt": 1788834384.244451,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/limit-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "79390|https://thenkiri.com/limit-2022-download-korean-movie/|2023-01-11T06:15:10|2023-09-02T16:39:00|{'rendered': 'Limit (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834385.845259
+   "last_attempt": 1788834385.845259,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/disenchanted-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "73287|https://thenkiri.com/disenchanted-2022-download-hollywood-movie/|2022-11-18T13:41:50|2023-09-02T16:57:36|{'rendered': 'Disenchanted (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834420.2654583
+   "last_attempt": 1788834420.2654583,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/forbidden-dream-2020-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69211|https://thenkiri.com/forbidden-dream-2020-download-korean-movie/|2022-10-25T13:57:32|2023-09-02T16:25:24|{'rendered': 'Forbidden Dream (2019) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834455.17807
+   "last_attempt": 1788834455.17807,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/cuttputlli-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64418|https://thenkiri.com/cuttputlli-2022-download-indian-movie/|2022-09-05T06:10:51|2023-09-02T15:27:30|{'rendered': 'Cuttputlli (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834488.4604123
+   "last_attempt": 1788834488.4604123,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/jalsa-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47151|https://thenkiri.com/jalsa-2022-download-indian-movie/|2022-07-27T08:08:52|2024-02-24T19:07:20|{'rendered': 'Jalsa (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834524.3402064
+   "last_attempt": 1788834524.3402064,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837995
   },
   "https://thenkiri.com/revealer-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45136|https://thenkiri.com/revealer-2022-download-hollywood-movie/|2022-06-27T09:04:34|2023-09-02T14:20:22|{'rendered': 'Revealer (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830720.1637712
+   "attempts": 2,
+   "last_attempt": 1788837996.67212
   },
   "https://thenkiri.com/rrr-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "42874|https://thenkiri.com/rrr-2022-download-indian-movie/|2022-05-25T16:30:07|2023-09-02T14:02:35|{'rendered': 'RRR (2022) | Download Indian Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788837997.7467844
+  },
+  "https://thenkiri.com/crush-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "40959|https://thenkiri.com/crush-2022-download-hollywood-movie/|2022-04-29T12:28:46|2023-09-02T13:51:24|{'rendered': 'Crush (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788830721.348143
+   "last_attempt": 1788838028.8724434
+  },
+  "https://thenkiri.com/pirates-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38968|https://thenkiri.com/pirates-2022-download-hollywood-movie/|2022-04-02T13:11:43|2023-09-02T13:36:24|{'rendered': 'Pirates (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838029.8167558
+  },
+  "https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/": {
+   "status": "pending",
+   "signature": "37380|https://thenkiri.com/the-pilot-a-battle-for-survival-2021-download-russian-movie/|2022-03-03T08:49:30|2023-09-02T13:10:42|{'rendered': 'The Pilot A Battle for Survival (2021) | Download Russian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838030.7286346
+  },
+  "https://thenkiri.com/through-my-window-2022-download-spanish-movie/": {
+   "status": "pending",
+   "signature": "36164|https://thenkiri.com/through-my-window-2022-download-spanish-movie/|2022-02-05T10:15:18|2023-09-02T13:37:42|{'rendered': 'Through My Window (2022) | Download Spanish Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838031.5597584
+  },
+  "https://thenkiri.com/the-legend-of-la-llorona-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34962|https://thenkiri.com/the-legend-of-la-llorona-2021-download-hollywood-movie/|2022-01-12T07:54:18|2023-09-02T13:23:09|{'rendered': 'The Legend of La Llorona (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838032.4426923
+  },
+  "https://thenkiri.com/encanto-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "33996|https://thenkiri.com/encanto-2021-download-hollywood-movie/|2021-12-24T10:20:58|2023-09-02T13:15:37|{'rendered': 'Encanto (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838033.268468
   }
  },
  "series_links": {

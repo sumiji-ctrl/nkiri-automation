@@ -183,22 +183,24 @@
    "completed_at": 1788815955
   },
   "https://thenkiri.com/my-fair-lady-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112022|https://thenkiri.com/my-fair-lady-s01-complete-korean-drama/|2024-03-09T08:27:16|2024-03-09T08:27:16|{'rendered': 'My Fair Lady S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788834822.005655
+   "last_attempt": 1788834822.005655,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838025
   },
   "https://thenkiri.com/goryeo-khitan-war-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "102794|https://thenkiri.com/goryeo-khitan-war-s01-complete-korean-drama/|2023-11-11T17:45:43|2024-03-11T07:02:34|{'rendered': 'Goryeo-Khitan War S01 (Episode 32 Added) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788835938.954725
+   "attempts": 3,
+   "last_attempt": 1788838993.568376
   },
   "https://thenkiri.com/my-dearest-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "96425|https://thenkiri.com/my-dearest-s01-complete-korean-drama/|2023-08-04T21:44:40|2024-02-24T22:52:53|{'rendered': 'My Dearest S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788833881.9595804
+   "attempts": 2,
+   "last_attempt": 1788839800.9900985
   }
  },
  "series_links": {

@@ -226,14 +226,14 @@
   "https://thenkiri.com/m-i-a-complete-tv-series/": {
    "status": "pending",
    "signature": "156384|https://thenkiri.com/m-i-a-complete-tv-series/|2026-05-07T14:55:20|2026-05-07T14:55:20|{'rendered': 'M.I.A. (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788834488.970628
+   "attempts": 2,
+   "last_attempt": 1788838275.3256075
   },
   "https://thenkiri.com/running-point-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "155213|https://thenkiri.com/running-point-s02-complete-tv-series/|2026-04-23T17:09:34|2026-04-23T17:09:50|{'rendered': 'Running Point S02 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788834796.1714978
+   "attempts": 2,
+   "last_attempt": 1788838574.134242
   }
  },
  "series_links": {

@@ -1099,88 +1099,116 @@
    "blocked_at": 1788832218
   },
   "https://thenkiri.com/confession-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "101846|https://thenkiri.com/confession-2023-download-korean-movie/|2023-10-25T09:35:02|2023-10-25T09:35:02|{'rendered': 'Confession (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834228.598919
+   "last_attempt": 1788834228.598919,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/heart-of-stone-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96734|https://thenkiri.com/heart-of-stone-2023-download-hollywood-movie/|2023-08-11T10:38:36|2024-02-23T14:59:25|{'rendered': 'Heart of Stone (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834264.4380386
+   "last_attempt": 1788834264.4380386,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/ambush-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "90887|https://thenkiri.com/ambush-2023-download-hollywood-movie/|2023-06-05T08:29:23|2023-09-02T18:06:31|{'rendered': 'Ambush (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834266.09718
+   "last_attempt": 1788834266.09718,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/i-can-speak-2017-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "85180|https://thenkiri.com/i-can-speak-2017-download-korean-movie/|2023-03-24T14:15:59|2023-09-02T17:26:11|{'rendered': 'I Can Speak (2017) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834299.252597
+   "last_attempt": 1788834299.252597,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/jung__e-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "79891|https://thenkiri.com/jung__e-2023-download-korean-movie/|2023-01-20T14:21:09|2024-02-24T19:45:18|{'rendered': 'JUNG__E (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834337.931339
+   "last_attempt": 1788834337.931339,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "73582|https://thenkiri.com/lyle-lyle-crocodile-2022-download-hollywood-movie/|2022-11-22T08:49:20|2023-09-02T13:45:07|{'rendered': 'Lyle, Lyle, Crocodile (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834339.689925
+   "last_attempt": 1788834339.689925,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/gunjan-saxena-the-kargil-girl-2020-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69220|https://thenkiri.com/gunjan-saxena-the-kargil-girl-2020-download-indian-movie/|2022-10-25T14:11:36|2023-09-02T16:25:17|{'rendered': 'Gunjan Saxena: The Kargil Girl (2020) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834374.5191433
+   "last_attempt": 1788834374.5191433,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64429|https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/|2022-09-05T06:20:25|2023-09-02T15:27:22|{'rendered': 'Shabaash Mithu (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834408.5864449
+   "last_attempt": 1788834408.5864449,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837981
   },
   "https://thenkiri.com/not-okay-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "47272|https://thenkiri.com/not-okay-2022-download-hollywood-movie/|2022-07-29T09:57:52|2023-09-02T14:51:46|{'rendered': 'Not Okay (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830609.8753784
+   "attempts": 2,
+   "last_attempt": 1788837982.604272
   },
   "https://thenkiri.com/blasted-2022-download-norwegian-movie/": {
    "status": "pending",
    "signature": "45241|https://thenkiri.com/blasted-2022-download-norwegian-movie/|2022-06-29T06:12:36|2023-09-02T14:28:40|{'rendered': 'Blasted (2022) | Download Norwegian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830625.191205
+   "attempts": 2,
+   "last_attempt": 1788837997.1038833
   },
   "https://thenkiri.com/zero-contact-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "43106|https://thenkiri.com/zero-contact-2022-download-hollywood-movie/|2022-05-27T17:04:42|2023-09-02T14:02:19|{'rendered': 'Zero Contact (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830626.3077176
+   "attempts": 2,
+   "last_attempt": 1788837998.1446185
   },
   "https://thenkiri.com/unplugging-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41036|https://thenkiri.com/unplugging-2022-download-hollywood-movie/|2022-04-30T12:18:26|2023-09-02T13:51:05|{'rendered': 'Unplugging (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830627.4466481
+   "attempts": 2,
+   "last_attempt": 1788837999.3213527
   },
   "https://thenkiri.com/boon-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38976|https://thenkiri.com/boon-2022-download-hollywood-movie/|2022-04-02T13:16:24|2023-09-02T13:36:21|{'rendered': 'Boon (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830628.3495557
+   "attempts": 2,
+   "last_attempt": 1788838000.2929697
   },
   "https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37458|https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/|2022-03-03T20:07:47|2023-09-02T13:10:23|{'rendered': 'The Weekend Away (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788838001.379551
+  },
+  "https://thenkiri.com/the-long-night-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36205|https://thenkiri.com/the-long-night-2022-download-hollywood-movie/|2022-02-06T18:06:59|2023-09-02T13:37:37|{'rendered': 'The Long Night (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788830629.3789754
+   "last_attempt": 1788838002.3556836
+  },
+  "https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34968|https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/|2022-01-12T08:07:30|2023-09-02T13:26:21|{'rendered': 'A Journal for Jordan (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788838003.2411356
   }
  },
  "series_links": {
