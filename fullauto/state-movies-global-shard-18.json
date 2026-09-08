@@ -1235,28 +1235,32 @@
    "blocked_at": 1788842975
   },
   "https://thenkiri.com/avengers-age-of-ultron-2015-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "32860|https://thenkiri.com/avengers-age-of-ultron-2015-download-hollywood-movie/|2021-11-29T11:47:48|2023-09-02T13:08:29|{'rendered': 'Avengers Age of Ultron (2015) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788842976.4837291
+   "last_attempt": 1788842976.4837291,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859250
   },
   "https://thenkiri.com/the-miseducation-of-bindu-2019-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "31795|https://thenkiri.com/the-miseducation-of-bindu-2019-download-hollywood-movie/|2021-11-10T16:00:46|2023-09-02T11:01:36|{'rendered': 'The Miseducation of Bindu (2019) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788842977.8654728
+   "last_attempt": 1788842977.8654728,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859250
   },
   "https://thenkiri.com/fever-dream-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "30613|https://thenkiri.com/fever-dream-2021-download-hollywood-movie/|2021-10-15T09:48:46|2023-09-02T10:12:49|{'rendered': 'Fever Dream (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788842979.2742796
+   "attempts": 2,
+   "last_attempt": 1788859251.849352
   },
   "https://thenkiri.com/black-light-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "17920|https://thenkiri.com/black-light-2020-download-korean-movie/|2021-06-22T07:43:05|2023-09-02T09:26:04|{'rendered': 'Black Light (2020) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788842980.8866453
+   "attempts": 2,
+   "last_attempt": 1788859253.1950302
   },
   "https://thenkiri.com/the-chronicles-of-evil-2015-download-korean-movie/": {
    "status": "done",
@@ -1279,8 +1283,20 @@
   "https://thenkiri.com/scooby-doo-happy-halloween-2020-download-hollywood-movie/": {
    "status": "pending",
    "signature": "8847|https://thenkiri.com/scooby-doo-happy-halloween-2020-download-hollywood-movie/|2020-10-02T12:14:43|2023-09-02T08:10:59|{'rendered': 'Scooby Doo Happy Halloween (2020) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788843885.0439975
+   "attempts": 2,
+   "last_attempt": 1788859254.6470716
+  },
+  "https://thenkiri.com/black-panther-2018-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "6781|https://thenkiri.com/black-panther-2018-download-hollywood-movie/|2020-07-14T12:45:56|2023-09-02T07:42:44|{'rendered': 'Black Panther (2018) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:42:44",
+   "completed_at": 1788859280
+  },
+  "https://thenkiri.com/download-zpmbie-land-2/": {
+   "status": "done",
+   "signature": "3057|https://thenkiri.com/download-zpmbie-land-2/|2019-12-20T09:41:04|2023-09-02T07:18:54|{'rendered': 'Zombieland: Double Tap (2019) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:18:54",
+   "completed_at": 1788859315
   }
  },
  "series_links": {
@@ -1492,6 +1508,8 @@
   "https://downloadwella.com/y4nci0qtcymd/Tiger.3.(NKIRI.COM).2023.WEB-HD.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/EoFNHkg4YJTwIw8aZ-mcLa34QnwUVCjy",
   "https://downloadwella.com/47yb3fpblaqu/The.Chronicles.of.Evil.(NKIRI.COM).2015.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/aRkUkI3J5heKK82StbzpRvAJgcr_Ljrh",
   "https://downloadwella.com/hi7289l7a9co/Minari.(NKIRI.COM).2020.KOREAN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/8FgZYiub0mxdvTu0fnG6LWl8k1rpn9Pe",
-  "https://downloadwella.com/7ohpq6azzs8d/Fallo!.(NKIRI.COM).2003.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/lzvXfD9t5jCN6ggyAcdl6olD7kikr6qn"
+  "https://downloadwella.com/7ohpq6azzs8d/Fallo!.(NKIRI.COM).2003.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/lzvXfD9t5jCN6ggyAcdl6olD7kikr6qn",
+  "https://downloadwella.com/zze1eggfzis6/Black.Panther.(NKIRI.COM).2018.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/LErx16YAHnoZAe09E5YzXdl7VGR2NE_j",
+  "https://downloadwella.com/x9ho7om8zq2c/Zombieland.Double.Tap_%7Bnkiri.com%7D.mkv.html": "https://v1.vidfiles.com/d/RZARUPAf2dxeIIGDe919AXLTb9cNBG3E"
  }
 }

@@ -234,16 +234,30 @@
    "blocked_at": 1788841481
   },
   "https://thenkiri.com/running-point-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155356|https://thenkiri.com/running-point-s01-complete-tv-series/|2026-04-24T19:12:54|2026-04-24T19:12:54|{'rendered': 'Running Point S01 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788845986.62634
+   "last_attempt": 1788845986.62634,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859280
   },
   "https://thenkiri.com/ronaldinho-the-one-and-only-complete-documentary-series/": {
    "status": "done",
    "signature": "154485|https://thenkiri.com/ronaldinho-the-one-and-only-complete-documentary-series/|2026-04-16T12:14:51|2026-04-16T13:13:30|{'rendered': 'Ronaldinho: The One and Only (Complete) | Documentary Series'}",
    "modified": "2026-04-16T13:13:30",
    "completed_at": 1788846582
+  },
+  "https://thenkiri.com/dear-killer-nannies-s01-complete-foreign-tv-series/": {
+   "status": "pending",
+   "signature": "153495|https://thenkiri.com/dear-killer-nannies-s01-complete-foreign-tv-series/|2026-04-01T18:23:55|2026-04-02T11:02:33|{'rendered': 'Dear Killer Nannies S01 (Complete) | Foreign TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788860158.1194327
+  },
+  "https://thenkiri.com/a-woman-of-substance-s01-complete-tv-series/": {
+   "status": "done",
+   "signature": "152582|https://thenkiri.com/a-woman-of-substance-s01-complete-tv-series/|2026-03-19T13:05:21|2026-03-19T13:05:21|{'rendered': 'A Woman of Substance S01 (Complete ) | TV Series'}",
+   "modified": "2026-03-19T13:05:21",
+   "completed_at": 1788860541
   }
  },
  "series_links": {
@@ -488,6 +502,16 @@
   "https://downloadwella.com/jkityuxqgfvq/Running.Point.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SU_IvwKb9nW2RuUKbHHa8yBX0CUIJyRP",
   "https://downloadwella.com/lhuqq5fuck9m/Ronaldinho.The.One.and.Only.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zYvMpXNWoN37g08Y28f35Poyw12GBTP0",
   "https://downloadwella.com/dhr0tcul3xdz/Ronaldinho.The.One.and.Only.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xo43SZDu-9HfQAF6WukdelxRMOUqWpRX",
-  "https://downloadwella.com/mzync67o4s9j/Ronaldinho.The.One.and.Only.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gdSSBgC6GA4wCla3N8tv7L6HgqFUB7bV"
+  "https://downloadwella.com/mzync67o4s9j/Ronaldinho.The.One.and.Only.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gdSSBgC6GA4wCla3N8tv7L6HgqFUB7bV",
+  "https://downloadwella.com/2l337lv3uhcl/Dear.Killer.Nannies.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ty-QU1EKcd8cuaJtZSgn1HMhgtSTqEtz",
+  "https://downloadwella.com/d8g8dgwb8w4m/Dear.Killer.Nannies.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fILQUIToHlpgahH6Vkqks_Vqv-oaj_Xm",
+  "https://downloadwella.com/6u46vb1jmu43/Dear.Killer.Nannies.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NP9l3ly2B9kJlsmZ2nxHqpcxkzk_CpPT",
+  "https://downloadwella.com/djsjn9zcpmk3/Dear.Killer.Nannies.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vEYfvVRtJHP--TjR5KQgDE9FbOWHiq-0",
+  "https://downloadwella.com/edvtqd4qj5ty/Dear.Killer.Nannies.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bNPNpI8dxVkA8K4D8jBBaq3JLtfoOEn6",
+  "https://downloadwella.com/cfwzjsch715i/Dear.Killer.Nannies.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LMkpLAtIn4nRVA9aGSpTAUxwC8BAx2tF",
+  "https://downloadwella.com/ou104nhhhf2e/Dear.Killer.Nannies.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WKUB9V5v14a56_IMEiBL8mefouRhQZrE",
+  "https://downloadwella.com/aeof2nahreup/A.woman.of.Substance.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mvZ1H3sJK5Txy764VeurkK9j77r5INg7",
+  "https://downloadwella.com/474ezntwqou3/A.woman.of.Substance.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IuvOHqfDBK-s7ysTjDnD71ctEJfc8JdT",
+  "https://downloadwella.com/q5zoglhtygsv/A.woman.of.Substance.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yOFCXQr0amzlaogGWCk1rwt6KH17wSZ0"
  }
 }

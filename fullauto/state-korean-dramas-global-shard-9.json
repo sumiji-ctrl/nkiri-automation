@@ -207,22 +207,24 @@
    "blocked_at": 1788841496
   },
   "https://thenkiri.com/haha-bus-s01-complete-korean-variety-show/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "86828|https://thenkiri.com/haha-bus-s01-complete-korean-variety-show/|2023-04-12T18:20:44|2024-09-09T07:50:31|{'rendered': 'Haha Bus S01 (Complete) | Korean Variety Show'}",
    "attempts": 3,
-   "last_attempt": 1788846180.358928
+   "last_attempt": 1788846180.358928,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859295
   },
   "https://thenkiri.com/trolley-complete-korean-drama/": {
    "status": "pending",
    "signature": "77284|https://thenkiri.com/trolley-complete-korean-drama/|2022-12-19T18:20:06|2023-12-15T06:58:19|{'rendered': 'Trolley S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788842361.479224
+   "attempts": 2,
+   "last_attempt": 1788860801.824461
   },
   "https://thenkiri.com/she-makes-my-heart-flutter-episodes-1-2-added-korean-drama/": {
    "status": "pending",
    "signature": "68872|https://thenkiri.com/she-makes-my-heart-flutter-episodes-1-2-added-korean-drama/|2022-10-24T15:11:19|2024-02-27T20:21:47|{'rendered': 'She Makes My Heart Flutter (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788846867.815102
+   "attempts": 2,
+   "last_attempt": 1788860813.7841904
   }
  },
  "series_links": {
@@ -542,6 +544,20 @@
   "https://downloadwella.com/jrk00ukldryh/She.Makes.My.Heart.Flutter.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SO3Y-Sk698EwnD3ygYKPBFYikDlxwVsN",
   "https://downloadwella.com/vwaczs3cp26e/She.Makes.My.Heart.Flutter.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N30r2T1zpkfhFGIVX_YsgiiveLAlYYRS",
   "https://downloadwella.com/3r4p93k9cpfa/she-makes-my-heart-flutter-E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0143RBktVzOV5TpoC2U8bKnapF13OdWT",
-  "https://downloadwella.com/l6p8eaq5m9wm/She.Makes.My.Heart.Flutter.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sptEvwqHsCChc6hS9wL_eM5Xi-IcSDbo"
+  "https://downloadwella.com/l6p8eaq5m9wm/She.Makes.My.Heart.Flutter.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sptEvwqHsCChc6hS9wL_eM5Xi-IcSDbo",
+  "https://downloadwella.com/fntvjhorazwp/Trolley.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IIjLj2Wvwz6LAQocWqOJwu17bbj1e4Qb",
+  "https://downloadwella.com/7efmb25yalvu/Trolley.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tTycTFVn_ov7kgN7q1mhr8sakiyoC_g9",
+  "https://downloadwella.com/0ltc4107uwq8/Trolley.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TejC2ZqDtLc4bxFxPlZpC7skzqBQnrWg",
+  "https://downloadwella.com/figf0ofv73nu/Trolley.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/00LCLhBhy6ielkrHirxxYRFiG7nV8E0c",
+  "https://downloadwella.com/g9ri9dabcr55/Trolley.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BJBhHGlF5YBtGsdGCA3rwJ2BLprZMfYE",
+  "https://downloadwella.com/oswuph1fz6zz/Trolley.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7fikui7korMpbz9Ss9EMvyrZGpo4Kgv-",
+  "https://downloadwella.com/yyeluvxemtdp/Trolley.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ARLHVMmrRJo4YXYso1D1as8ShHwJGOpd",
+  "https://downloadwella.com/srer4b2isf31/Trolley.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gVyw2lARF2qt59HJOAqjXufVPUSv1oGi",
+  "https://downloadwella.com/3rh22yj3hy88/Trolley.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iMvWhuGSSzn3_phKQ0MEwaCtns3hHqg5",
+  "https://downloadwella.com/lecelbdebdw2/Trolley.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Qn2h1DQJIisqGUcJSYJjQp-SEodl-g6",
+  "https://downloadwella.com/q8d8o6hj4qnh/Trolley.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v4mIboahllQB18toOaqx6Sht_OGfGh6H",
+  "https://downloadwella.com/9k3ve5j80bg5/Trolley.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jq8llzpgP1D3A4F7TKmwwUEb6MiQaqib",
+  "https://downloadwella.com/pkqsjwnuov31/Trolley.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qec7GXeGbmHiw1bpbq48Z4SZEVZ8ZpfS",
+  "https://downloadwella.com/svyixa8vdbfr/Trolley.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rxUzhMz4ZKNe316nATQDqX-4YTsIcGE_"
  }
 }
