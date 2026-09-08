@@ -198,14 +198,20 @@
   "https://thenkiri.com/ransom-canyon-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "162543|https://thenkiri.com/ransom-canyon-s02-complete-tv-series/|2026-07-23T11:25:45|2026-07-23T11:25:45|{'rendered': 'Ransom Canyon S02 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788812506.1968462
+   "attempts": 2,
+   "last_attempt": 1788828587.1675637
   },
   "https://thenkiri.com/adventure-time-side-quests-complete-tv-series/": {
    "status": "done",
    "signature": "160562|https://thenkiri.com/adventure-time-side-quests-complete-tv-series/|2026-06-30T17:03:43|2026-06-30T17:03:43|{'rendered': 'Adventure Time: Side Quests (Episode 1 – 20 Added) | TV Series'}",
    "modified": "2026-06-30T17:03:43",
    "completed_at": 1788816700
+  },
+  "https://thenkiri.com/the-fortune-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "159052|https://thenkiri.com/the-fortune-s01-complete-tv-series/|2026-06-10T11:51:13|2026-06-10T12:42:42|{'rendered': 'The Fortune S01 (Episode 1 – 4 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828751.0375812
   }
  },
  "series_links": {

@@ -171,14 +171,20 @@
   "https://thenkiri.com/motel-california-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "129798|https://thenkiri.com/motel-california-s01-complete-korean-drama/|2025-01-10T18:56:53|2025-02-15T20:01:24|{'rendered': 'Motel California S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788813012.2282786
+   "attempts": 2,
+   "last_attempt": 1788828583.8625677
   },
   "https://thenkiri.com/bad-memory-eraser-episode-1-added-korean-drama/": {
    "status": "done",
    "signature": "119183|https://thenkiri.com/bad-memory-eraser-episode-1-added-korean-drama/|2024-08-02T15:53:09|2024-09-21T16:48:35|{'rendered': 'Bad Memory Eraser S01 (Complete) | Korean Drama'}",
    "modified": "2024-09-21T16:48:35",
    "completed_at": 1788817468
+  },
+  "https://thenkiri.com/a-poem-a-day-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "112192|https://thenkiri.com/a-poem-a-day-s01-complete-korean-drama/|2024-03-12T12:08:43|2024-03-12T12:08:43|{'rendered': 'A Poem A Day S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788829101.861964
   }
  },
  "series_links": {
