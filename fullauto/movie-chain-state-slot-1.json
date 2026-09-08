@@ -461,14 +461,14 @@
   "https://thenkiri.com/airlift-2016-download-indian-movie-2/": {
    "status": "pending",
    "signature": "44494|https://thenkiri.com/airlift-2016-download-indian-movie-2/|06/19/2022 20:48:52|09/02/2023 14:11:19|{'rendered': 'Airlift (2016) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879901.08944
+   "attempts": 3,
+   "last_attempt": 1788880849.646099
   },
   "https://thenkiri.com/spiderhead-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|06/17/2022 09:53:20|09/02/2023 14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788879903.4209647
+   "attempts": 3,
+   "last_attempt": 1788880851.1713955
   },
   "https://thenkiri.com/blind-war-2022-download-chinese-movie/": {
    "status": "pending",
@@ -563,8 +563,20 @@
   "https://thenkiri.com/choose-or-die-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39700|https://thenkiri.com/choose-or-die-2022-download-hollywood-movie/|04/15/2022 09:04:27|09/02/2023 13:41:09|{'rendered': 'Choose or Die (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788880851.9479446
+  },
+  "https://thenkiri.com/american-reject-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39539|https://thenkiri.com/american-reject-2022-download-hollywood-movie/|04/13/2022 11:07:09|09/02/2023 13:41:40|{'rendered': 'American Reject (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788879904.8787274
+   "last_attempt": 1788880853.4158955
+  },
+  "https://thenkiri.com/agent-game-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39436|https://thenkiri.com/agent-game-2022-download-hollywood-movie/|04/11/2022 06:50:17|09/02/2023 13:38:56|{'rendered': 'Agent Game (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880854.280846
   }
  },
  "series_links": {
