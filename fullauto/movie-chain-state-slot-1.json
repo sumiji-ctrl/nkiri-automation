@@ -435,10 +435,12 @@
    "blocked_at": 1788879670
   },
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45420|https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/|07/01/2022 08:18:02|09/02/2023 14:27:35|{'rendered': 'Terror on the Prairie (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879672.3001456
+   "last_attempt": 1788879672.3001456,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879776
   },
   "https://thenkiri.com/revealer-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -535,6 +537,24 @@
    "signature": "41131|https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/|05/01/2022 08:23:49|09/02/2023 13:50:35|{'rendered': 'Fortress Sniper’s Eye (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788879602.0301473
+  },
+  "https://thenkiri.com/brut-force-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "40299|https://thenkiri.com/brut-force-2022-download-hollywood-movie/|04/22/2022 09:18:18|09/02/2023 13:45:38|{'rendered': 'Brut Force (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879777.8892193
+  },
+  "https://thenkiri.com/sonic-the-hedgehog-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "40001|https://thenkiri.com/sonic-the-hedgehog-2020-download-hollywood-movie/|04/20/2022 04:13:25|09/02/2023 13:43:25|{'rendered': 'Sonic the Hedgehog (2020) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879778.7351177
+  },
+  "https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39899|https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/|04/19/2022 06:31:01|09/02/2023 13:43:54|{'rendered': 'All Eyez on Me (2017) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879779.5785792
   }
  },
  "series_links": {
