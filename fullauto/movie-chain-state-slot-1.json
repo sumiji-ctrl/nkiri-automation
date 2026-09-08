@@ -763,16 +763,20 @@
    "blocked_at": 1788883965
   },
   "https://thenkiri.com/american-underdog-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36117|https://thenkiri.com/american-underdog-2021-download-hollywood-movie/|02/04/2022 10:22:55|09/02/2023 13:38:02|{'rendered': 'American Underdog (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788884847.3542843
+   "last_attempt": 1788884847.3542843,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788884948
   },
   "https://thenkiri.com/nightmare-alley-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "35987|https://thenkiri.com/nightmare-alley-2021-download-hollywood-movie/|02/01/2022 14:07:40|09/02/2023 13:38:38|{'rendered': 'Nightmare Alley (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788884848.1465495
+   "last_attempt": 1788884848.1465495,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788884948
   },
   "https://thenkiri.com/the-ledge-2022-download-hollywood-movie/": {
    "status": "pending",
