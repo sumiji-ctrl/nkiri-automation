@@ -1245,10 +1245,12 @@
    "blocked_at": 1788842988
   },
   "https://thenkiri.com/halloween-kills-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "30619|https://thenkiri.com/halloween-kills-2021-download-hollywood-movie/|2021-10-15T10:02:38|2023-09-02T10:12:45|{'rendered': 'Halloween Kills (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788853854.7512767
+   "last_attempt": 1788853854.7512767,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861462
   },
   "https://thenkiri.com/the-hobbit-desolation-of-smaug-2013-download-hollywood-movie/": {
    "status": "done",
@@ -1265,14 +1267,14 @@
   "https://thenkiri.com/ludo-2020-download-bollywood-movie/": {
    "status": "pending",
    "signature": "13632|https://thenkiri.com/ludo-2020-download-bollywood-movie/|2021-03-04T12:34:51|2023-09-02T08:44:10|{'rendered': 'Ludo (2020) | Download Bollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788853856.5715933
+   "attempts": 3,
+   "last_attempt": 1788861504.9021137
   },
   "https://thenkiri.com/baby-done-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "10431|https://thenkiri.com/baby-done-2021-download-hollywood-movie/|2021-01-23T12:40:07|2023-09-02T08:32:16|{'rendered': 'Baby Done (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788853871.5017707
+   "attempts": 3,
+   "last_attempt": 1788861535.5127287
   },
   "https://thenkiri.com/save-yourselves-2020-download-hollywood-movie/": {
    "status": "done",
@@ -1283,8 +1285,8 @@
   "https://thenkiri.com/the-twilight-saga-new-moon-download-hollywood-movie/": {
    "status": "pending",
    "signature": "6829|https://thenkiri.com/the-twilight-saga-new-moon-download-hollywood-movie/|2020-07-16T11:08:43|2023-09-02T07:42:30|{'rendered': 'The Twilight Saga 2 : New Moon (2009) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788853921.78963
+   "attempts": 3,
+   "last_attempt": 1788861578.4124248
   },
   "https://thenkiri.com/download-a-beautiful-day-in-the-neighbourhood-2019-download-hollywood-movi/": {
    "status": "done",

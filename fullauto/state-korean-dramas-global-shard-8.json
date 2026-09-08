@@ -213,16 +213,32 @@
    "blocked_at": 1788841427
   },
   "https://thenkiri.com/the-king-of-desert-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "77521|https://thenkiri.com/the-king-of-desert-complete-korean-drama/|2022-12-21T15:08:34|2023-12-19T07:18:42|{'rendered': 'The King of Desert S01 (Episode 1-6 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788853938.4742312
+   "last_attempt": 1788853938.4742312,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861492
   },
   "https://thenkiri.com/choco-milk-shake-episode-1-added-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69283|https://thenkiri.com/choco-milk-shake-episode-1-added-korean-drama/|2022-10-26T08:58:54|2023-09-02T16:25:03|{'rendered': 'Choco Milk Shake (Episode 11 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788854009.4425836
+   "last_attempt": 1788854009.4425836,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861492
+  },
+  "https://thenkiri.com/a-model-family-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "57797|https://thenkiri.com/a-model-family-s01-complete-korean-drama/|2022-08-17T20:46:06|2023-09-02T15:09:20|{'rendered': 'A Model Family S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788861541.0215988
+  },
+  "https://thenkiri.com/anna-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "45214|https://thenkiri.com/anna-complete-korean-drama/|2022-06-28T17:44:14|2023-09-02T14:28:48|{'rendered': 'Anna S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788861545.8788695
   }
  },
  "series_links": {

@@ -1267,10 +1267,12 @@
    "blocked_at": 1788842974
   },
   "https://thenkiri.com/brothers-by-blood-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "10438|https://thenkiri.com/brothers-by-blood-2021-download-hollywood-movie/|2021-01-23T12:55:25|2023-09-02T08:32:12|{'rendered': 'Brothers by Blood (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788853855.3184876
+   "last_attempt": 1788853855.3184876,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861447
   },
   "https://thenkiri.com/scooby-doo-and-wwe-curse-of-the-speed-demon-2016-download-hollywood-movie/": "skipped (wwe)",
   "https://thenkiri.com/the-twilight-saga-3-eclipse-download-hollywood-movie/": {

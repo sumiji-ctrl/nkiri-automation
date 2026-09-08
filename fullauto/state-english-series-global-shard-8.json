@@ -242,16 +242,30 @@
    "blocked_at": 1788853868
   },
   "https://thenkiri.com/big-mood-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "154508|https://thenkiri.com/big-mood-s02-complete-tv-series/|2026-04-16T15:04:09|2026-04-16T15:06:29|{'rendered': 'Big Mood S02 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788854009.5686934
+   "last_attempt": 1788854009.5686934,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861477
   },
   "https://thenkiri.com/gomorrah-the-origins-s01-complete-foreign-tv-series/": {
    "status": "done",
    "signature": "153530|https://thenkiri.com/gomorrah-the-origins-s01-complete-foreign-tv-series/|2026-04-02T11:02:22|2026-04-02T11:07:08|{'rendered': 'Gomorrah: The Origins S01 (Complete) | Foreign TV Series'}",
    "modified": "2026-04-02T11:07:08",
    "completed_at": 1788858068
+  },
+  "https://thenkiri.com/radioactive-emergency-s01-complete-foreign-tv-series/": {
+   "status": "pending",
+   "signature": "152607|https://thenkiri.com/radioactive-emergency-s01-complete-foreign-tv-series/|2026-03-20T07:59:54|2026-03-20T07:59:54|{'rendered': 'Radioactive Emergency S01 (Complete) | Foreign TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788863693.2562842
+  },
+  "https://thenkiri.com/cia-complete-tv-series-drama/": {
+   "status": "pending",
+   "signature": "151442|https://thenkiri.com/cia-complete-tv-series-drama/|2026-03-04T13:37:51|2026-06-02T11:34:28|{'rendered': 'CIA (Complete) | Tv series Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788866202.437315
   }
  },
  "series_links": {
@@ -504,6 +518,13 @@
   "https://downloadwella.com/giordyrmzgye/Gomorrah.The.Origins.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iqEZdYJUM_eKNLQzHrwVSIUoBUV-PHOy",
   "https://downloadwella.com/zc4fnj83make/Gomorrah.The.Origins.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VnMZz_TubeouYpA_-_BY3OSmLQD5OyBo",
   "https://downloadwella.com/4uszuxylpsck/Gomorrah.The.Origins.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/myOV5YGR065HqIoHWE4bAAVsLzRuQGQS",
-  "https://downloadwella.com/bri5m43xt3ee/Gomorrah.The.Origins.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IVNISdilpFYI3V-GgTYgQ4OwFl-Qw_jC"
+  "https://downloadwella.com/bri5m43xt3ee/Gomorrah.The.Origins.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IVNISdilpFYI3V-GgTYgQ4OwFl-Qw_jC",
+  "https://downloadwella.com/qj9h82xolvhz/Radioactive.Emergency.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E8tyczozScXFNKDZgX4mOnDQtD7Bl4vU",
+  "https://downloadwella.com/3vgu6tmpr4nn/Radioactive.Emergency.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Epu1SzQwgL-jzS_ASLNK8gyH_Mbzb7j-",
+  "https://downloadwella.com/oye9mlj4o92r/CIA.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J02bpEE6_eDdgxqet74hKhWQq_tu0BhZ",
+  "https://downloadwella.com/andiypqtdkki/CIA.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/339ayAZe0KnheP863Aep1iCMXDdtqmaq",
+  "https://downloadwella.com/cl87vag7ozzw/CIA.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/15K2Napz_6rrJPdgAJgQ-7IJAKagsUtf",
+  "https://downloadwella.com/cisawwq276pt/CIA.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YUJoTb9qnGwTx07aDDm5VI34mv4rDuzT",
+  "https://downloadwella.com/yt1zz7yo1ydb/CIA.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uY0VxV-ZiNFY8Ncx5NIq8EtqgyoCQoY8"
  }
 }
