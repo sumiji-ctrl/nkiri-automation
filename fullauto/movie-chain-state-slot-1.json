@@ -457,14 +457,14 @@
   "https://thenkiri.com/airlift-2016-download-indian-movie-2/": {
    "status": "pending",
    "signature": "44494|https://thenkiri.com/airlift-2016-download-indian-movie-2/|06/19/2022 20:48:52|09/02/2023 14:11:19|{'rendered': 'Airlift (2016) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878884.9183471
+   "attempts": 2,
+   "last_attempt": 1788879901.08944
   },
   "https://thenkiri.com/spiderhead-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|06/17/2022 09:53:20|09/02/2023 14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878885.9617121
+   "attempts": 2,
+   "last_attempt": 1788879903.4209647
   },
   "https://thenkiri.com/blind-war-2022-download-chinese-movie/": {
    "status": "pending",
@@ -555,6 +555,12 @@
    "signature": "39899|https://thenkiri.com/all-eyez-on-me-2017-download-hollywood-movie/|04/19/2022 06:31:01|09/02/2023 13:43:54|{'rendered': 'All Eyez on Me (2017) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788879779.5785792
+  },
+  "https://thenkiri.com/choose-or-die-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39700|https://thenkiri.com/choose-or-die-2022-download-hollywood-movie/|04/15/2022 09:04:27|09/02/2023 13:41:09|{'rendered': 'Choose or Die (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879904.8787274
   }
  },
  "series_links": {
