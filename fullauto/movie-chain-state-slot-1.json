@@ -169,6 +169,24 @@
    "signature": "81576|https://thenkiri.com/an-action-hero-2022-download-bollywood-movie/|02/07/2023 12:05:19|09/02/2023 17:06:21|{'rendered': 'An Action Hero (2022) | Download Bollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788874317.7722306
+  },
+  "https://thenkiri.com/black-panther-2-wakanda-forever-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "81022|https://thenkiri.com/black-panther-2-wakanda-forever-2022-download-hollywood-movie/|01/31/2023 08:06:29|09/02/2023 16:58:49|{'rendered': 'Black Panther 2: Wakanda Forever (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788874498.0532308
+  },
+  "https://thenkiri.com/limit-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "79390|https://thenkiri.com/limit-2022-download-korean-movie/|01/11/2023 06:15:10|09/02/2023 16:39:00|{'rendered': 'Limit (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788874502.5355873
+  },
+  "https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "77346|https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/|12/21/2022 10:05:07|09/02/2023 14:20:10|{'rendered': 'Home Alone 2: Lost in New York (1992) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788874618.2619176
   }
  },
  "series_links": {
