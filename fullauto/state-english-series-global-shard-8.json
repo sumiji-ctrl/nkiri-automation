@@ -204,14 +204,14 @@
   "https://thenkiri.com/x-men-97-s02-episode-1-3-added-tv-series/": {
    "status": "pending",
    "signature": "160622|https://thenkiri.com/x-men-97-s02-episode-1-3-added-tv-series/|2026-07-01T09:13:41|2026-08-12T08:59:47|{'rendered': 'X-Men ’97 S02 (Episode 9 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788823044.775608
+   "attempts": 3,
+   "last_attempt": 1788830636.5855317
   },
   "https://thenkiri.com/every-year-after-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "159062|https://thenkiri.com/every-year-after-s01-complete-tv-series/|2026-06-10T14:14:16|2026-06-10T14:33:08|{'rendered': 'Every Year After S01 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788827009.4621332
+   "attempts": 2,
+   "last_attempt": 1788830782.20052
   }
  },
  "series_links": {
