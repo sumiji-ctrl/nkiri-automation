@@ -1205,52 +1205,92 @@
    "blocked_at": 1788841397
   },
   "https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36305|https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/|2022-02-08T18:07:28|2023-09-02T13:40:33|{'rendered': 'Dallas Buyers Club (2013) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841398.4068615
+   "last_attempt": 1788841398.4068615,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842988
   },
   "https://thenkiri.com/the-tragedy-of-macbeth-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "35058|https://thenkiri.com/the-tragedy-of-macbeth-2021-download-hollywood-movie/|2022-01-14T11:35:52|2023-09-02T13:25:55|{'rendered': 'The Tragedy of Macbeth (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841399.1971323
+   "last_attempt": 1788841399.1971323,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842988
   },
   "https://thenkiri.com/the-kindred-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34123|https://thenkiri.com/the-kindred-2022-download-hollywood-movie/|2021-12-28T08:41:35|2023-09-02T13:15:19|{'rendered': 'The Kindred (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841399.9493396
+   "last_attempt": 1788841399.9493396,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842988
   },
   "https://thenkiri.com/the-last-duel-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "32869|https://thenkiri.com/the-last-duel-2021-download-hollywood-movie/|2021-11-29T12:26:15|2023-09-02T13:08:27|{'rendered': 'The Last Duel (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841400.8515425
+   "last_attempt": 1788841400.8515425,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842988
   },
   "https://thenkiri.com/passing-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "31801|https://thenkiri.com/passing-2021-download-hollywood-movie/|2021-11-10T16:08:30|2023-09-02T11:01:33|{'rendered': 'Passing (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841401.6404016
+   "last_attempt": 1788841401.6404016,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842988
   },
   "https://thenkiri.com/halloween-kills-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "30619|https://thenkiri.com/halloween-kills-2021-download-hollywood-movie/|2021-10-15T10:02:38|2023-09-02T10:12:45|{'rendered': 'Halloween Kills (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841402.6204998
+   "attempts": 2,
+   "last_attempt": 1788842990.8039556
   },
   "https://thenkiri.com/the-hobbit-desolation-of-smaug-2013-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "18022|https://thenkiri.com/the-hobbit-desolation-of-smaug-2013-download-hollywood-movie/|2021-06-28T17:54:29|2023-09-02T09:25:38|{'rendered': 'The Hobbit Desolation of Smaug (2013) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841434.813791
+   "modified": "2023-09-02T09:25:38",
+   "completed_at": 1788843194
   },
   "https://thenkiri.com/cruella-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "16709|https://thenkiri.com/cruella-2021-download-hollywood-movie/|2021-05-28T14:08:54|2023-12-25T06:33:57|{'rendered': 'Cruella (2021) | Download Hollywood Movie'}",
+   "modified": "2023-12-25T06:33:57",
+   "completed_at": 1788843556
+  },
+  "https://thenkiri.com/ludo-2020-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "13632|https://thenkiri.com/ludo-2020-download-bollywood-movie/|2021-03-04T12:34:51|2023-09-02T08:44:10|{'rendered': 'Ludo (2020) | Download Bollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788841474.7189326
+   "last_attempt": 1788843558.5004451
+  },
+  "https://thenkiri.com/baby-done-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "10431|https://thenkiri.com/baby-done-2021-download-hollywood-movie/|2021-01-23T12:40:07|2023-09-02T08:32:16|{'rendered': 'Baby Done (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788843572.8109617
+  },
+  "https://thenkiri.com/save-yourselves-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "8926|https://thenkiri.com/save-yourselves-2020-download-hollywood-movie/|2020-10-06T23:51:33|2023-09-02T08:10:14|{'rendered': 'Save Yourselves ! (2020) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:10:14",
+   "completed_at": 1788844116
+  },
+  "https://thenkiri.com/the-twilight-saga-new-moon-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "6829|https://thenkiri.com/the-twilight-saga-new-moon-download-hollywood-movie/|2020-07-16T11:08:43|2023-09-02T07:42:30|{'rendered': 'The Twilight Saga 2 : New Moon (2009) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788844169.6381385
+  },
+  "https://thenkiri.com/download-a-beautiful-day-in-the-neighbourhood-2019-download-hollywood-movi/": {
+   "status": "done",
+   "signature": "3109|https://thenkiri.com/download-a-beautiful-day-in-the-neighbourhood-2019-download-hollywood-movi/|2019-12-26T09:28:42|2023-09-02T07:18:38|{'rendered': 'A Beautiful Day in the Neighbourhood (2019) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:18:38",
+   "completed_at": 1788844517
   }
  },
  "series_links": {
@@ -1463,6 +1503,10 @@
   "https://downloadwella.com/nvr9xylc6a30/The.Painter.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/TT7ki_-olGkVtQnlYeV_688fr3Pn0eyM",
   "https://downloadwella.com/gwwbu1s3ohml/Miguel.Wants.to.Fight.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/U09Zs8lbfEkZ6VUCh0IJWI3MpCU34TuW",
   "https://downloadwella.com/l5qprey86sdn/Ride.On.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/HhXodduidu3QcwPsTw2zVYSjXqh1ooFw",
-  "https://downloadwella.com/2exqs15q8yqv/Christmas.on.Mistletoe.Farm.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/26KLD1ypsuDdEqbuaBLYas-QLL1vjWMY"
+  "https://downloadwella.com/2exqs15q8yqv/Christmas.on.Mistletoe.Farm.(NKIRI.COM).2022.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/26KLD1ypsuDdEqbuaBLYas-QLL1vjWMY",
+  "https://downloadwella.com/023imeydldkd/The.Hobbit.The.Desolation.of.Smaug.(NKIRI.COM).2013.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/iw3EwZgdQ6tl96l7Vdvx0rvXMdF_Gwtw",
+  "https://downloadwella.com/hdz2asan9os3/Cruella.2021.(NKIRI.COM).WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/k79BiApN9_wmUF_K6vLmQCOQpAmjRn9F",
+  "https://downloadwella.com/am18ip9o2agw/Save.Yourselve.(NKIRI.COM).2020.480p.BluRay.mkv.html": "https://v1.vidfiles.com/d/G827oxyx-3LhQtERDMs_gYD4By8rI1KL",
+  "https://downloadwella.com/6s9ywopophyf/A.Beautiful.Day.In.The.Neighborhood.(NKIRI.COM).2019.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ZcuW0ckbHPuAIbrRYfmZpfq8JDPmef9g"
  }
 }
