@@ -395,16 +395,20 @@
    "blocked_at": 1788879405
   },
   "https://thenkiri.com/my-chilling-roommate-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46772|https://thenkiri.com/my-chilling-roommate-2022-download-korean-movie/|07/21/2022 07:34:22|09/02/2023 14:45:34|{'rendered': 'My Chilling Roommate (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879406.5928338
+   "last_attempt": 1788879406.5928338,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879461
   },
   "https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46458|https://thenkiri.com/love-accidentally-2022-download-hollywood-movie/|07/15/2022 06:03:35|09/02/2023 14:47:55|{'rendered': 'Love Accidentally (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879407.4881716
+   "last_attempt": 1788879407.4881716,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879461
   },
   "https://thenkiri.com/vikram-2022-download-indian-movie/": {
    "status": "pending",
@@ -465,6 +469,54 @@
    "signature": "43720|https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/|06/09/2022 05:53:55|09/02/2023 14:07:36|{'rendered': 'Downton Abbey A New Era (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788879408.8838975
+  },
+  "https://thenkiri.com/are-we-in-love-2020-download-korean-movie/": {
+   "status": "pending",
+   "signature": "43604|https://thenkiri.com/are-we-in-love-2020-download-korean-movie/|06/07/2022 07:23:40|09/02/2023 14:04:40|{'rendered': 'Are We in Love? (2020) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879473.0073092
+  },
+  "https://thenkiri.com/show-me-the-ghost-2021-download-korean-movie/": {
+   "status": "pending",
+   "signature": "43361|https://thenkiri.com/show-me-the-ghost-2021-download-korean-movie/|06/01/2022 19:59:48|09/02/2023 14:01:46|{'rendered': 'Show Me the Ghost (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879474.1548984
+  },
+  "https://thenkiri.com/rrr-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "42874|https://thenkiri.com/rrr-2022-download-indian-movie/|05/25/2022 16:30:07|09/02/2023 14:02:35|{'rendered': 'RRR (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879475.102311
+  },
+  "https://thenkiri.com/save-the-cinema-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "42806|https://thenkiri.com/save-the-cinema-2022-download-hollywood-movie/|05/24/2022 19:16:45|09/02/2023 13:59:15|{'rendered': 'Save the Cinema (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879475.9835417
+  },
+  "https://thenkiri.com/chipn-dale-rescue-rangers-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "42512|https://thenkiri.com/chipn-dale-rescue-rangers-2022-download-hollywood-movie/|05/20/2022 12:47:58|09/02/2023 14:00:04|{'rendered': 'Chip’n Dale: Rescue Rangers (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879490.968305
+  },
+  "https://thenkiri.com/on-the-count-of-three-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "42024|https://thenkiri.com/on-the-count-of-three-2022-download-hollywood-movie/|05/13/2022 19:47:43|09/02/2023 13:58:02|{'rendered': 'On the Count of Three (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879491.8499632
+  },
+  "https://thenkiri.com/the-witch-part-1-the-subversion-2018-download-korean-movie/": {
+   "status": "pending",
+   "signature": "41877|https://thenkiri.com/the-witch-part-1-the-subversion-2018-download-korean-movie/|05/12/2022 11:45:20|09/02/2023 13:54:55|{'rendered': 'The Witch: Part 1 The Subversion (2018) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879492.663883
+  },
+  "https://thenkiri.com/the-takedown-2022-download-french-movie/": {
+   "status": "pending",
+   "signature": "41517|https://thenkiri.com/the-takedown-2022-download-french-movie/|05/06/2022 19:51:38|09/02/2023 13:52:45|{'rendered': 'The Takedown (2022) | Download FRENCH Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879494.1015775
   }
  },
  "series_links": {
