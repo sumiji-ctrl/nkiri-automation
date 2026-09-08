@@ -234,16 +234,24 @@
    "blocked_at": 1788841412
   },
   "https://thenkiri.com/my-brother-the-minotaur-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155363|https://thenkiri.com/my-brother-the-minotaur-complete-tv-series/|2026-04-25T08:47:37|2026-04-25T08:47:37|{'rendered': 'My Brother the Minotaur (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788845703.7428358
+   "last_attempt": 1788845703.7428358,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788853868
   },
   "https://thenkiri.com/big-mood-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "154508|https://thenkiri.com/big-mood-s02-complete-tv-series/|2026-04-16T15:04:09|2026-04-16T15:06:29|{'rendered': 'Big Mood S02 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788846424.5652177
+   "attempts": 3,
+   "last_attempt": 1788854009.5686934
+  },
+  "https://thenkiri.com/gomorrah-the-origins-s01-complete-foreign-tv-series/": {
+   "status": "done",
+   "signature": "153530|https://thenkiri.com/gomorrah-the-origins-s01-complete-foreign-tv-series/|2026-04-02T11:02:22|2026-04-02T11:07:08|{'rendered': 'Gomorrah: The Origins S01 (Complete) | Foreign TV Series'}",
+   "modified": "2026-04-02T11:07:08",
+   "completed_at": 1788858068
   }
  },
  "series_links": {
@@ -488,6 +496,14 @@
   "https://downloadwella.com/3re0oqd2a4ie/My.Brother.the.Minotaur.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XWfFK5z5agrf2x9SPr80Ld1MBpcMMcaS",
   "https://downloadwella.com/cy4vw6o5927g/Big.Mood.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ruzrCL--_XMkFhrClhglavXsXVUAswiA",
   "https://downloadwella.com/fhnyryhp9ymo/Big.Mood.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WfMoyoVug9Iz8xKcakFTXzTSV64WSLvg",
-  "https://downloadwella.com/e7bubbb1wq35/Big.Mood.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CSaRbw-DxGIBadyd88ipqjZCmKXeAOq1"
+  "https://downloadwella.com/e7bubbb1wq35/Big.Mood.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CSaRbw-DxGIBadyd88ipqjZCmKXeAOq1",
+  "https://downloadwella.com/goxcca83igz3/Big.Mood.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3eyQJ7-Y5inrmU4MuqRfMYb6Wqg9HnKf",
+  "https://downloadwella.com/wlz4tnhsqo3l/Big.Mood.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/udTlvCGJRcw9avSFOfm0UVdPXkrHV94W",
+  "https://downloadwella.com/i3n6i4ycd92x/Gomorrah.The.Origins.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qS9lDiin8YIgrc5B1M6CGLpuKF8OhpTP",
+  "https://downloadwella.com/cbskzodct10p/Gomorrah.The.Origins.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eekHmT2nqNO_UFbfqczh3_IbF0lQRLXi",
+  "https://downloadwella.com/giordyrmzgye/Gomorrah.The.Origins.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iqEZdYJUM_eKNLQzHrwVSIUoBUV-PHOy",
+  "https://downloadwella.com/zc4fnj83make/Gomorrah.The.Origins.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VnMZz_TubeouYpA_-_BY3OSmLQD5OyBo",
+  "https://downloadwella.com/4uszuxylpsck/Gomorrah.The.Origins.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/myOV5YGR065HqIoHWE4bAAVsLzRuQGQS",
+  "https://downloadwella.com/bri5m43xt3ee/Gomorrah.The.Origins.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IVNISdilpFYI3V-GgTYgQ4OwFl-Qw_jC"
  }
 }
