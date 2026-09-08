@@ -325,8 +325,8 @@
   "https://thenkiri.com/heart-blackened-2017-download-korean-movie/": {
    "status": "pending",
    "signature": "64326|https://thenkiri.com/heart-blackened-2017-download-korean-movie/|09/03/2022 09:04:53|09/02/2023 15:27:43|{'rendered': 'Heart Blackened (2017) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877999.6870503
+   "attempts": 3,
+   "last_attempt": 1788879039.6343658
   },
   "https://thenkiri.com/out-of-the-blue-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -435,6 +435,12 @@
    "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|06/17/2022 09:53:20|09/02/2023 14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788878885.9617121
+  },
+  "https://thenkiri.com/blind-war-2022-download-chinese-movie/": {
+   "status": "pending",
+   "signature": "43987|https://thenkiri.com/blind-war-2022-download-chinese-movie/|06/13/2022 11:58:41|09/02/2023 14:09:42|{'rendered': 'Blind War (2022) | Download Chinese Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879059.361012
   }
  },
  "series_links": {
