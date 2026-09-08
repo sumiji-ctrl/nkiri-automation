@@ -683,40 +683,48 @@
    "blocked_at": 1788883535
   },
   "https://thenkiri.com/a-day-to-die-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37525|https://thenkiri.com/a-day-to-die-2022-download-hollywood-movie/|03/04/2022 18:07:27|09/02/2023 13:13:11|{'rendered': 'A Day to Die (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883536.6516116
+   "last_attempt": 1788883536.6516116,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883639
   },
   "https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37458|https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/|03/03/2022 20:07:47|09/02/2023 13:10:23|{'rendered': 'The Weekend Away (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883538.3590665
+   "last_attempt": 1788883538.3590665,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883639
   },
   "https://thenkiri.com/a-madea-homecoming-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37276|https://thenkiri.com/a-madea-homecoming-2022-download-hollywood-movie/|02/28/2022 15:50:04|09/02/2023 13:11:02|{'rendered': 'A Madea Homecoming (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883539.803585
+   "last_attempt": 1788883539.803585,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883639
   },
   "https://thenkiri.com/hellbounder-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37065|https://thenkiri.com/hellbounder-2021-download-hollywood-movie/|02/24/2022 19:57:18|09/02/2023 13:07:19|{'rendered': 'Hellbounder (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883541.2891095
+   "last_attempt": 1788883541.2891095,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883639
   },
   "https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/": {
    "status": "pending",
    "signature": "36926|https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/|02/21/2022 08:28:25|09/02/2023 13:08:53|{'rendered': 'Tokyo Revenger (2021) | Download JAPANESE Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882713.5940006
+   "attempts": 3,
+   "last_attempt": 1788883640.3951023
   },
   "https://thenkiri.com/scream-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36729|https://thenkiri.com/scream-2022-download-hollywood-movie/|02/16/2022 22:24:38|09/02/2023 13:42:16|{'rendered': 'Scream (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882714.8549778
+   "attempts": 3,
+   "last_attempt": 1788883641.2325132
   },
   "https://thenkiri.com/marry-me-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -771,6 +779,36 @@
    "signature": "35385|https://thenkiri.com/the-last-thing-mary-saw-2022-download-hollywood-movie/|01/21/2022 13:49:34|09/02/2023 13:28:04|{'rendered': 'The Last Thing Mary Saw (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788883155.6234868
+  },
+  "https://thenkiri.com/shattered-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35225|https://thenkiri.com/shattered-2022-download-hollywood-movie/|01/17/2022 12:47:15|09/02/2023 13:25:13|{'rendered': 'Shattered (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883642.0982366
+  },
+  "https://thenkiri.com/hotel-transylvania-4-transformania-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35071|https://thenkiri.com/hotel-transylvania-4-transformania-2022-download-hollywood-movie/|01/14/2022 12:35:47|09/02/2023 13:25:48|{'rendered': 'Hotel Transylvania 4 Transformania (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883642.9573376
+  },
+  "https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34968|https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/|01/12/2022 08:07:30|09/02/2023 13:26:21|{'rendered': 'A Journal for Jordan (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883643.7934985
+  },
+  "https://thenkiri.com/pushpa-the-rise-2021-download-indian-movie/": {
+   "status": "pending",
+   "signature": "34757|https://thenkiri.com/pushpa-the-rise-2021-download-indian-movie/|01/08/2022 13:10:02|09/02/2023 13:23:35|{'rendered': 'Pushpa: The Rise (2021) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883644.5567052
+  },
+  "https://thenkiri.com/the-commando-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34669|https://thenkiri.com/the-commando-2022-download-hollywood-movie/|01/07/2022 14:35:52|09/02/2023 13:24:00|{'rendered': 'The Commando (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883645.3331134
   }
  },
  "series_links": {
