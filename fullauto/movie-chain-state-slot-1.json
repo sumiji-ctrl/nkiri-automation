@@ -523,40 +523,48 @@
    "blocked_at": 1788881441
   },
   "https://thenkiri.com/chipn-dale-rescue-rangers-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42512|https://thenkiri.com/chipn-dale-rescue-rangers-2022-download-hollywood-movie/|05/20/2022 12:47:58|09/02/2023 14:00:04|{'rendered': 'Chip’n Dale: Rescue Rangers (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881462.0159457
+   "last_attempt": 1788881462.0159457,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881532
   },
   "https://thenkiri.com/on-the-count-of-three-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42024|https://thenkiri.com/on-the-count-of-three-2022-download-hollywood-movie/|05/13/2022 19:47:43|09/02/2023 13:58:02|{'rendered': 'On the Count of Three (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881465.1571233
+   "last_attempt": 1788881465.1571233,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881532
   },
   "https://thenkiri.com/the-witch-part-1-the-subversion-2018-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41877|https://thenkiri.com/the-witch-part-1-the-subversion-2018-download-korean-movie/|05/12/2022 11:45:20|09/02/2023 13:54:55|{'rendered': 'The Witch: Part 1 The Subversion (2018) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881467.2566404
+   "last_attempt": 1788881467.2566404,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881532
   },
   "https://thenkiri.com/the-takedown-2022-download-french-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41517|https://thenkiri.com/the-takedown-2022-download-french-movie/|05/06/2022 19:51:38|09/02/2023 13:52:45|{'rendered': 'The Takedown (2022) | Download FRENCH Movie'}",
    "attempts": 3,
-   "last_attempt": 1788881470.263141
+   "last_attempt": 1788881470.263141,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788881532
   },
   "https://thenkiri.com/love-sling-2018-download-korean-movie/": {
    "status": "pending",
    "signature": "41284|https://thenkiri.com/love-sling-2018-download-korean-movie/|05/04/2022 09:22:23|09/02/2023 13:53:25|{'rendered': 'Love + Sling (2018) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788880542.1048617
+   "attempts": 3,
+   "last_attempt": 1788881535.6641777
   },
   "https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41131|https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/|05/01/2022 08:23:49|09/02/2023 13:50:35|{'rendered': 'Fortress Sniper’s Eye (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788880543.4895382
+   "attempts": 3,
+   "last_attempt": 1788881536.934552
   },
   "https://thenkiri.com/brut-force-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -611,6 +619,36 @@
    "signature": "38925|https://thenkiri.com/apollo-10-1-2-a-space-age-childhood-2022-download-hollywood-movie/|04/01/2022 16:24:16|09/02/2023 13:36:40|{'rendered': 'Apollo 10 1/2 A Space Age Childhood (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788881165.6127841
+  },
+  "https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38653|https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/|03/26/2022 21:42:07|09/02/2023 13:24:34|{'rendered': 'Death on the Nile (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881539.5759838
+  },
+  "https://thenkiri.com/black-crab-2022-download-swedish-movie/": {
+   "status": "pending",
+   "signature": "38564|https://thenkiri.com/black-crab-2022-download-swedish-movie/|03/25/2022 07:53:58|09/02/2023 13:25:00|{'rendered': 'Black Crab (2022) | Download Swedish Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881542.659472
+  },
+  "https://thenkiri.com/rescued-by-ruby-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38194|https://thenkiri.com/rescued-by-ruby-2022-download-hollywood-movie/|03/18/2022 13:41:14|09/02/2023 13:14:42|{'rendered': 'Rescued by Ruby (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881545.4448752
+  },
+  "https://thenkiri.com/the-mad-womens-ball-2021-download-french-movie/": {
+   "status": "pending",
+   "signature": "38027|https://thenkiri.com/the-mad-womens-ball-2021-download-french-movie/|03/16/2022 06:11:31|09/02/2023 13:15:16|{'rendered': 'The Mad Women’s Ball (2021) | Download FRENCH Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881549.0144508
+  },
+  "https://thenkiri.com/turning-red-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37822|https://thenkiri.com/turning-red-2022-download-hollywood-movie/|03/11/2022 17:23:52|09/02/2023 13:12:23|{'rendered': 'Turning Red (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788881549.8614898
   }
  },
  "series_links": {
