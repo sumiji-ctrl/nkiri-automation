@@ -64,10 +64,12 @@
    "completed_at": 1788873975
   },
   "https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "115321|https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/|05/13/2024 06:12:14|05/13/2024 06:12:14|{'rendered': 'The Hunger Games Complete Collection | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874915.3192697
+   "last_attempt": 1788874915.3192697,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875015
   },
   "https://thenkiri.com/abcd-2-2015-download-indian-movie/": {
    "status": "done",
@@ -76,16 +78,20 @@
    "completed_at": 1788872811
   },
   "https://thenkiri.com/stopmotion-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112376|https://thenkiri.com/stopmotion-2024-download-hollywood-movie/|03/15/2024 09:18:02|03/15/2024 09:22:32|{'rendered': 'Stopmotion (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874916.135492
+   "last_attempt": 1788874916.135492,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875015
   },
   "https://thenkiri.com/dogman-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "107367|https://thenkiri.com/dogman-2023-download-hollywood-movie/|01/23/2024 12:48:16|01/23/2024 12:48:16|{'rendered': 'DogMan (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874917.4534788
+   "last_attempt": 1788874917.4534788,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788875015
   },
   "https://thenkiri.com/justice-league-crisis-on-infinite-earths-part-one-2023-download-hollywood-movie/": {
    "status": "done",
