@@ -309,10 +309,12 @@
    "completed_at": 1788876714
   },
   "https://thenkiri.com/delias-gone-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64908|https://thenkiri.com/delias-gone-2022-download-hollywood-movie/|09/09/2022 13:38:43|02/23/2024 13:12:13|{'rendered': 'Delias Gone (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878765.6111124
+   "last_attempt": 1788878765.6111124,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878872
   },
   "https://thenkiri.com/the-anchor-2022-download-korean-movie/": {
    "status": "done",
@@ -421,6 +423,18 @@
    "signature": "44888|https://thenkiri.com/rise-2022-download-hollywood-movie/|06/24/2022 10:14:21|09/02/2023 14:22:11|{'rendered': 'Rise (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788878768.5321028
+  },
+  "https://thenkiri.com/airlift-2016-download-indian-movie-2/": {
+   "status": "pending",
+   "signature": "44494|https://thenkiri.com/airlift-2016-download-indian-movie-2/|06/19/2022 20:48:52|09/02/2023 14:11:19|{'rendered': 'Airlift (2016) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878884.9183471
+  },
+  "https://thenkiri.com/spiderhead-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|06/17/2022 09:53:20|09/02/2023 14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878885.9617121
   }
  },
  "series_links": {
