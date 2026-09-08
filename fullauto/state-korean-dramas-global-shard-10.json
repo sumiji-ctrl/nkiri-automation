@@ -191,16 +191,24 @@
    "blocked_at": 1788838025
   },
   "https://thenkiri.com/goryeo-khitan-war-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "102794|https://thenkiri.com/goryeo-khitan-war-s01-complete-korean-drama/|2023-11-11T17:45:43|2024-03-11T07:02:34|{'rendered': 'Goryeo-Khitan War S01 (Episode 32 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788838993.568376
+   "last_attempt": 1788838993.568376,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841474
   },
   "https://thenkiri.com/my-dearest-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "96425|https://thenkiri.com/my-dearest-s01-complete-korean-drama/|2023-08-04T21:44:40|2024-02-24T22:52:53|{'rendered': 'My Dearest S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788839800.9900985
+   "attempts": 3,
+   "last_attempt": 1788842324.6202586
+  },
+  "https://thenkiri.com/decoy-aka-the-bait-s01-part-2-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "86475|https://thenkiri.com/decoy-aka-the-bait-s01-part-2-complete-korean-drama/|2023-04-07T15:05:11|2023-12-16T06:01:15|{'rendered': 'Decoy aka The Bait S01 Part 2 (Episode 5 & 6 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788842437.0164988
   }
  },
  "series_links": {
