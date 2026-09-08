@@ -275,10 +275,12 @@
    "blocked_at": 1788878565
   },
   "https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69411|https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/|10/26/2022 13:53:40|09/02/2023 16:24:25|{'rendered': 'Love per Square Foot (2018) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878615.274186
+   "last_attempt": 1788878615.274186,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878716
   },
   "https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/": {
    "status": "done",
@@ -287,10 +289,12 @@
    "completed_at": 1788876564
   },
   "https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "67920|https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/|10/14/2022 10:31:37|09/02/2023 16:09:38|{'rendered': 'Stars at Noon (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878616.2987332
+   "last_attempt": 1788878616.2987332,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878716
   },
   "https://thenkiri.com/hunt-2022-download-korean-movie/": {
    "status": "done",
@@ -307,8 +311,8 @@
   "https://thenkiri.com/delias-gone-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "64908|https://thenkiri.com/delias-gone-2022-download-hollywood-movie/|09/09/2022 13:38:43|02/23/2024 13:12:13|{'rendered': 'Delias Gone (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877749.1755757
+   "attempts": 3,
+   "last_attempt": 1788878765.6111124
   },
   "https://thenkiri.com/the-anchor-2022-download-korean-movie/": {
    "status": "done",
@@ -403,8 +407,20 @@
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45420|https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/|07/01/2022 08:18:02|09/02/2023 14:27:35|{'rendered': 'Terror on the Prairie (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788878766.418814
+  },
+  "https://thenkiri.com/revealer-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45136|https://thenkiri.com/revealer-2022-download-hollywood-movie/|06/27/2022 09:04:34|09/02/2023 14:20:22|{'rendered': 'Revealer (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788877751.2179966
+   "last_attempt": 1788878767.3114574
+  },
+  "https://thenkiri.com/rise-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44888|https://thenkiri.com/rise-2022-download-hollywood-movie/|06/24/2022 10:14:21|09/02/2023 14:22:11|{'rendered': 'Rise (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878768.5321028
   }
  },
  "series_links": {
