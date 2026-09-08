@@ -1163,52 +1163,108 @@
    "blocked_at": 1788838041
   },
   "https://thenkiri.com/sniper-the-white-raven-2022-download-ukrainian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47278|https://thenkiri.com/sniper-the-white-raven-2022-download-ukrainian-movie/|2022-07-29T10:13:38|2023-09-02T14:51:34|{'rendered': 'Sniper The White Raven (2022) | Download Ukrainian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838043.0182989
+   "last_attempt": 1788838043.0182989,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/montana-story-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45249|https://thenkiri.com/montana-story-2022-download-hollywood-movie/|2022-06-29T08:31:46|2023-09-02T14:28:32|{'rendered': 'Montana Story (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838044.1965678
+   "last_attempt": 1788838044.1965678,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/runway-34-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43199|https://thenkiri.com/runway-34-2022-download-indian-movie/|2022-05-29T12:37:44|2023-09-02T14:02:15|{'rendered': 'Runway 34 (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838045.5803018
+   "last_attempt": 1788838045.5803018,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/looop-lapeta-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41119|https://thenkiri.com/looop-lapeta-2022-download-indian-movie/|2022-05-01T08:11:30|2023-09-02T13:50:43|{'rendered': 'Looop Lapeta (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838046.6935751
+   "last_attempt": 1788838046.6935751,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/alice-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39144|https://thenkiri.com/alice-2022-download-hollywood-movie/|2022-04-05T15:30:26|2023-09-02T13:36:02|{'rendered': 'Alice (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838048.23416
+   "last_attempt": 1788838048.23416,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/american-girl-2021-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37468|https://thenkiri.com/american-girl-2021-download-chinese-movie/|2022-03-04T06:09:15|2023-09-02T13:10:20|{'rendered': 'American Girl (2021) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838049.6261878
+   "last_attempt": 1788838049.6261878,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/the-tinder-swindler-2022-download-documentary-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36220|https://thenkiri.com/the-tinder-swindler-2022-download-documentary-movie/|2022-02-06T18:59:55|2023-09-02T13:40:45|{'rendered': 'The Tinder Swindler (2022) | Download Documentary Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838050.8129263
+   "last_attempt": 1788838050.8129263,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841466
   },
   "https://thenkiri.com/brazen-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35013|https://thenkiri.com/brazen-2022-download-hollywood-movie/|2022-01-13T12:45:53|2023-09-02T13:26:17|{'rendered': 'Brazen (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788841468.38328
+  },
+  "https://thenkiri.com/cicada-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34086|https://thenkiri.com/cicada-2021-download-hollywood-movie/|2021-12-27T18:21:12|2023-09-02T13:15:27|{'rendered': 'Cicada (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788838052.0106065
+   "last_attempt": 1788841469.864705
+  },
+  "https://thenkiri.com/avengers-infinity-war-2018-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32854|https://thenkiri.com/avengers-infinity-war-2018-download-hollywood-movie/|2021-11-29T11:38:15|2023-09-02T13:08:33|{'rendered': 'Avengers Infinity War (2018) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841471.0520155
+  },
+  "https://thenkiri.com/rogue-city-2021-download-french-movie/": {
+   "status": "pending",
+   "signature": "31789|https://thenkiri.com/rogue-city-2021-download-french-movie/|2021-11-10T15:52:44|2023-09-02T11:01:43|{'rendered': 'Rogue City (2021) | Download FRENCH Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841472.2838109
+  },
+  "https://thenkiri.com/list-of-a-lifetime-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30607|https://thenkiri.com/list-of-a-lifetime-2021-download-hollywood-movie/|2021-10-15T09:42:20|2023-09-02T10:12:52|{'rendered': 'List of a Lifetime (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841473.636526
+  },
+  "https://thenkiri.com/wicked-2021-download-hollywood-movie-2/": {
+   "status": "pending",
+   "signature": "17856|https://thenkiri.com/wicked-2021-download-hollywood-movie-2/|2021-06-20T14:56:19|2026-08-25T08:32:10|{'rendered': 'Batman the Long Halloween Part One (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841474.524758
+  },
+  "https://thenkiri.com/wrath-of-man-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "16570|https://thenkiri.com/wrath-of-man-2021-download-hollywood-movie/|2021-05-25T18:41:51|2023-09-02T09:14:24|{'rendered': 'Wrath of Man (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841508.8316448
+  },
+  "https://thenkiri.com/accidental-detective-2-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "13607|https://thenkiri.com/accidental-detective-2-2020-download-hollywood-movie/|2021-03-04T11:59:42|2023-09-02T08:44:16|{'rendered': 'Accidental Detective 2 (2020) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841542.364293
   }
  },
  "series_links": {

@@ -199,16 +199,24 @@
    "blocked_at": 1788838071
   },
   "https://thenkiri.com/the-killing-vote-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96688|https://thenkiri.com/the-killing-vote-s01-complete-korean-drama/|2023-08-10T18:52:27|2024-02-24T12:41:55|{'rendered': 'The Killing Vote S01 (Episode 12 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788838665.3549662
+   "last_attempt": 1788838665.3549662,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841496
   },
   "https://thenkiri.com/haha-bus-s01-complete-korean-variety-show/": {
    "status": "pending",
    "signature": "86828|https://thenkiri.com/haha-bus-s01-complete-korean-variety-show/|2023-04-12T18:20:44|2024-09-09T07:50:31|{'rendered': 'Haha Bus S01 (Complete) | Korean Variety Show'}",
+   "attempts": 2,
+   "last_attempt": 1788841860.1350567
+  },
+  "https://thenkiri.com/trolley-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "77284|https://thenkiri.com/trolley-complete-korean-drama/|2022-12-19T18:20:06|2023-12-15T06:58:19|{'rendered': 'Trolley S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788839031.9481394
+   "last_attempt": 1788842361.479224
   }
  },
  "series_links": {

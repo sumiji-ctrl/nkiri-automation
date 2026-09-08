@@ -226,16 +226,24 @@
    "blocked_at": 1788838056
   },
   "https://thenkiri.com/everyone-is-doing-great-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156689|https://thenkiri.com/everyone-is-doing-great-s02-complete-tv-series/|2026-05-11T14:46:26|2026-05-11T14:46:26|{'rendered': 'Everyone Is Doing Great S02 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788838304.3974936
+   "last_attempt": 1788838304.3974936,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841481
   },
   "https://thenkiri.com/running-point-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "155356|https://thenkiri.com/running-point-s01-complete-tv-series/|2026-04-24T19:12:54|2026-04-24T19:12:54|{'rendered': 'Running Point S01 (Complete) | TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788841792.6483958
+  },
+  "https://thenkiri.com/ronaldinho-the-one-and-only-complete-documentary-series/": {
+   "status": "pending",
+   "signature": "154485|https://thenkiri.com/ronaldinho-the-one-and-only-complete-documentary-series/|2026-04-16T12:14:51|2026-04-16T13:13:30|{'rendered': 'Ronaldinho: The One and Only (Complete) | Documentary Series'}",
    "attempts": 1,
-   "last_attempt": 1788838617.229064
+   "last_attempt": 1788842002.911347
   }
  },
  "series_links": {
