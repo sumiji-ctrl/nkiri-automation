@@ -1055,10 +1055,12 @@
    "completed_at": 1788791536
   },
   "https://thenkiri.com/ziam-2025-download-foreign-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "139369|https://thenkiri.com/ziam-2025-download-foreign-movie/|2025-07-10T15:36:48|2025-07-10T15:36:48|{'rendered': 'Ziam (2025) | Download Foreign Movie'}",
    "attempts": 3,
-   "last_attempt": 1788830619.5607197
+   "last_attempt": 1788830619.5607197,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832233
   },
   "https://thenkiri.com/hear-me-our-summer-2024-download-korean-movie/": {
    "status": "done",
@@ -1091,64 +1093,68 @@
    "completed_at": 1788812761
   },
   "https://thenkiri.com/the-bricklayer-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106565|https://thenkiri.com/the-bricklayer-2023-download-hollywood-movie/|2024-01-06T11:35:44|2024-01-06T11:35:44|{'rendered': 'The Bricklayer (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788830620.6074913
+   "last_attempt": 1788830620.6074913,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832233
   },
   "https://thenkiri.com/the-exorcist-believer-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "101818|https://thenkiri.com/the-exorcist-believer-2023-download-hollywood-movie/|2023-10-24T08:39:33|2023-10-24T08:39:33|{'rendered': 'The Exorcist: Believer (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788830621.9341488
+   "last_attempt": 1788830621.9341488,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832233
   },
   "https://thenkiri.com/love-in-taipei-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "96613|https://thenkiri.com/love-in-taipei-2023-download-hollywood-movie/|2023-08-10T10:18:19|2023-09-02T17:59:25|{'rendered': 'Love in Taipei (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788829946.0964506
+   "attempts": 2,
+   "last_attempt": 1788832316.7731025
   },
   "https://thenkiri.com/the-highway-family-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "90785|https://thenkiri.com/the-highway-family-2022-download-korean-movie/|2023-06-02T15:46:28|2023-09-02T18:02:25|{'rendered': 'The Highway Family (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830049.9180703
+   "attempts": 2,
+   "last_attempt": 1788832428.1752098
   },
   "https://thenkiri.com/winnie-the-pooh-blood-and-honey-2023-download-hollywood-movies/": {
    "status": "pending",
    "signature": "84930|https://thenkiri.com/winnie-the-pooh-blood-and-honey-2023-download-hollywood-movies/|2023-03-21T13:53:29|2023-09-02T17:26:31|{'rendered': 'Winnie the Pooh: Blood and Honey (2023) | Download Hollywood Movies'}",
-   "attempts": 1,
-   "last_attempt": 1788830080.6721828
+   "attempts": 2,
+   "last_attempt": 1788832459.7521858
   },
   "https://thenkiri.com/limit-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "79390|https://thenkiri.com/limit-2022-download-korean-movie/|2023-01-11T06:15:10|2023-09-02T16:39:00|{'rendered': 'Limit (2021) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830082.6103985
+   "attempts": 2,
+   "last_attempt": 1788832461.1372244
   },
   "https://thenkiri.com/disenchanted-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "73287|https://thenkiri.com/disenchanted-2022-download-hollywood-movie/|2022-11-18T13:41:50|2023-09-02T16:57:36|{'rendered': 'Disenchanted (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830122.6216896
+   "attempts": 2,
+   "last_attempt": 1788832498.1522257
   },
   "https://thenkiri.com/forbidden-dream-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "69211|https://thenkiri.com/forbidden-dream-2020-download-korean-movie/|2022-10-25T13:57:32|2023-09-02T16:25:24|{'rendered': 'Forbidden Dream (2019) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830654.1163423
+   "attempts": 2,
+   "last_attempt": 1788832531.5993917
   },
   "https://thenkiri.com/cuttputlli-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "64418|https://thenkiri.com/cuttputlli-2022-download-indian-movie/|2022-09-05T06:10:51|2023-09-02T15:27:30|{'rendered': 'Cuttputlli (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830687.1867585
+   "attempts": 2,
+   "last_attempt": 1788832578.5350218
   },
   "https://thenkiri.com/jalsa-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "47151|https://thenkiri.com/jalsa-2022-download-indian-movie/|2022-07-27T08:08:52|2024-02-24T19:07:20|{'rendered': 'Jalsa (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788830718.4183385
+   "attempts": 2,
+   "last_attempt": 1788832610.6604772
   },
   "https://thenkiri.com/revealer-2022-download-hollywood-movie/": {
    "status": "pending",

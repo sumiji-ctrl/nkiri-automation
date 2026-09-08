@@ -210,14 +210,14 @@
   "https://thenkiri.com/alice-and-steve-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "158898|https://thenkiri.com/alice-and-steve-s01-complete-tv-series/|2026-06-08T12:57:20|2026-06-08T12:57:20|{'rendered': 'Alice and Steve S01 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788830783.9119532
+   "attempts": 3,
+   "last_attempt": 1788832431.4601917
   },
   "https://thenkiri.com/bad-thoughts-s02-complete-tv-series/": {
    "status": "pending",
    "signature": "157696|https://thenkiri.com/bad-thoughts-s02-complete-tv-series/|2026-05-25T13:17:52|2026-05-25T13:17:52|{'rendered': 'Bad Thoughts S02 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788830962.6572654
+   "attempts": 3,
+   "last_attempt": 1788832613.0053833
   }
  },
  "series_links": {
