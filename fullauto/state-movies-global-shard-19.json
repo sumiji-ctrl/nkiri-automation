@@ -1099,52 +1099,108 @@
    "blocked_at": 1788832196
   },
   "https://thenkiri.com/kandasamys-the-baby-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "101920|https://thenkiri.com/kandasamys-the-baby-2023-download-hollywood-movie/|2023-10-27T08:15:01|2023-10-27T08:15:01|{'rendered': 'Kandasamy’s: The Baby (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832289.9947827
+   "last_attempt": 1788832289.9947827,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/wonderwell-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96806|https://thenkiri.com/wonderwell-2023-download-hollywood-movie/|2023-08-13T09:39:35|2023-09-02T18:01:02|{'rendered': 'Wonderwell (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832369.1292791
+   "last_attempt": 1788832369.1292791,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/intimate-strangers-2018-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "90939|https://thenkiri.com/intimate-strangers-2018-download-korean-movie/|2023-06-05T18:31:10|2023-09-02T18:06:12|{'rendered': 'Intimate Strangers (2018) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832400.585879
+   "last_attempt": 1788832400.585879,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/shoot-me-in-the-heart-2015-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "85187|https://thenkiri.com/shoot-me-in-the-heart-2015-download-korean-movie/|2023-03-25T05:43:23|2023-09-02T17:26:05|{'rendered': 'Shoot Me in the Heart (2015) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832401.8956988
+   "last_attempt": 1788832401.8956988,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/innocence-2020-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "79992|https://thenkiri.com/innocence-2020-download-korean-movie/|2023-01-20T15:53:01|2023-09-02T16:45:50|{'rendered': 'Innocence (2020) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832403.1051733
+   "last_attempt": 1788832403.1051733,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/black-adam-bluray-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "73686|https://thenkiri.com/black-adam-bluray-2022-download-hollywood-movie/|2022-11-23T11:46:24|2023-09-02T13:44:49|{'rendered': 'Black Adam BluRay (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832435.8321664
+   "last_attempt": 1788832435.8321664,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/highway-2014-download-bollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69226|https://thenkiri.com/highway-2014-download-bollywood-movie/|2022-10-25T14:37:59|2023-09-02T16:25:14|{'rendered': 'Highway (2014) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832470.771802
+   "last_attempt": 1788832470.771802,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788834205
   },
   "https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "64436|https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/|2022-09-05T06:27:22|2023-09-02T15:27:14|{'rendered': 'Khuda Haafiz: Chapter 2 (2022) | Download Indian Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788834239.4545202
+  },
+  "https://thenkiri.com/sniper-the-white-raven-2022-download-ukrainian-movie/": {
+   "status": "pending",
+   "signature": "47278|https://thenkiri.com/sniper-the-white-raven-2022-download-ukrainian-movie/|2022-07-29T10:13:38|2023-09-02T14:51:34|{'rendered': 'Sniper The White Raven (2022) | Download Ukrainian Movie'}",
    "attempts": 1,
-   "last_attempt": 1788832504.9407089
+   "last_attempt": 1788834240.9649239
+  },
+  "https://thenkiri.com/montana-story-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45249|https://thenkiri.com/montana-story-2022-download-hollywood-movie/|2022-06-29T08:31:46|2023-09-02T14:28:32|{'rendered': 'Montana Story (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834242.3339584
+  },
+  "https://thenkiri.com/runway-34-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "43199|https://thenkiri.com/runway-34-2022-download-indian-movie/|2022-05-29T12:37:44|2023-09-02T14:02:15|{'rendered': 'Runway 34 (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834243.6363795
+  },
+  "https://thenkiri.com/looop-lapeta-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "41119|https://thenkiri.com/looop-lapeta-2022-download-indian-movie/|2022-05-01T08:11:30|2023-09-02T13:50:43|{'rendered': 'Looop Lapeta (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834244.9221833
+  },
+  "https://thenkiri.com/alice-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39144|https://thenkiri.com/alice-2022-download-hollywood-movie/|2022-04-05T15:30:26|2023-09-02T13:36:02|{'rendered': 'Alice (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834246.3296478
+  },
+  "https://thenkiri.com/american-girl-2021-download-chinese-movie/": {
+   "status": "pending",
+   "signature": "37468|https://thenkiri.com/american-girl-2021-download-chinese-movie/|2022-03-04T06:09:15|2023-09-02T13:10:20|{'rendered': 'American Girl (2021) | Download Chinese Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834247.6866224
+  },
+  "https://thenkiri.com/the-tinder-swindler-2022-download-documentary-movie/": {
+   "status": "pending",
+   "signature": "36220|https://thenkiri.com/the-tinder-swindler-2022-download-documentary-movie/|2022-02-06T18:59:55|2023-09-02T13:40:45|{'rendered': 'The Tinder Swindler (2022) | Download Documentary Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788834249.8127394
   }
  },
  "series_links": {
