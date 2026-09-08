@@ -459,22 +459,26 @@
    "blocked_at": 1788880732
   },
   "https://thenkiri.com/airlift-2016-download-indian-movie-2/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44494|https://thenkiri.com/airlift-2016-download-indian-movie-2/|06/19/2022 20:48:52|09/02/2023 14:11:19|{'rendered': 'Airlift (2016) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880849.646099
+   "last_attempt": 1788880849.646099,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880965
   },
   "https://thenkiri.com/spiderhead-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "44274|https://thenkiri.com/spiderhead-2022-download-hollywood-movie/|06/17/2022 09:53:20|09/02/2023 14:08:54|{'rendered': 'Spiderhead (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880851.1713955
+   "last_attempt": 1788880851.1713955,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880965
   },
   "https://thenkiri.com/blind-war-2022-download-chinese-movie/": {
    "status": "pending",
    "signature": "43987|https://thenkiri.com/blind-war-2022-download-chinese-movie/|06/13/2022 11:58:41|09/02/2023 14:09:42|{'rendered': 'Blind War (2022) | Download Chinese Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788880033.9464273
+   "attempts": 3,
+   "last_attempt": 1788880993.109262
   },
   "https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/": {
    "status": "pending",
