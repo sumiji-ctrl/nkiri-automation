@@ -1167,52 +1167,60 @@
    "blocked_at": 1788836063
   },
   "https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45037|https://thenkiri.com/murder-at-yellowstone-city-2022-download-hollywood-movie/|2022-06-25T13:06:00|2023-09-02T14:21:14|{'rendered': 'Murder at Yellowstone City (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788836064.1775396
+   "last_attempt": 1788836064.1775396,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788838040
   },
   "https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "42843|https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/|2022-05-25T12:58:56|2023-09-02T14:02:46|{'rendered': 'The Girl on a Bulldozer (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788836065.0844116
+   "attempts": 3,
+   "last_attempt": 1788838042.6247268
   },
   "https://thenkiri.com/brut-force-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "40299|https://thenkiri.com/brut-force-2022-download-hollywood-movie/|2022-04-22T09:18:18|2023-09-02T13:45:38|{'rendered': 'Brut Force (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788836065.9267917
+   "attempts": 3,
+   "last_attempt": 1788838043.7295265
   },
   "https://thenkiri.com/the-bubble-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38931|https://thenkiri.com/the-bubble-2022-download-hollywood-movie/|2022-04-01T16:29:55|2023-09-02T13:36:36|{'rendered': 'The Bubble (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788836066.9371254
+   "attempts": 3,
+   "last_attempt": 1788838044.9670744
   },
   "https://thenkiri.com/the-pirates-2014-download-korean-movie/": {
    "status": "pending",
    "signature": "37332|https://thenkiri.com/the-pirates-2014-download-korean-movie/|2022-03-02T18:03:53|2023-09-02T13:10:49|{'rendered': 'The Pirates (2014) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788836067.810146
+   "attempts": 3,
+   "last_attempt": 1788838046.0702531
   },
   "https://thenkiri.com/last-survivors-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36144|https://thenkiri.com/last-survivors-2022-download-hollywood-movie/|2022-02-04T13:57:19|2023-09-02T13:37:51|{'rendered': 'Last Survivors (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788836068.6576612
+   "attempts": 3,
+   "last_attempt": 1788838047.2052195
   },
   "https://thenkiri.com/pleasure-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34931|https://thenkiri.com/pleasure-2021-download-hollywood-movie/|2022-01-11T00:15:26|2023-09-02T13:23:14|{'rendered': 'Pleasure (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788836069.6546495
+   "attempts": 3,
+   "last_attempt": 1788838048.437124
   },
   "https://thenkiri.com/the-classic-2003-download-korean-movie/": {
    "status": "pending",
    "signature": "33964|https://thenkiri.com/the-classic-2003-download-korean-movie/|2021-12-23T15:41:45|2023-09-02T13:15:44|{'rendered': 'The Classic (2003) | Download Korean Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788838049.7502189
+  },
+  "https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32666|https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/|2021-11-26T08:12:32|2023-09-02T13:05:32|{'rendered': 'Jonas Brothers Family Roast (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788836070.7051902
+   "last_attempt": 1788838051.2540762
   }
  },
  "series_links": {
