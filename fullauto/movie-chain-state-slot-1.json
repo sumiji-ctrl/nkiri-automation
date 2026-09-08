@@ -253,10 +253,12 @@
    "completed_at": 1788875596
   },
   "https://thenkiri.com/wonder-park-2019-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "71392|https://thenkiri.com/wonder-park-2019-download-hollywood-movie/|11/13/2022 15:05:47|09/02/2023 16:50:38|{'rendered': 'Wonder Park (2019) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878447.6890047
+   "last_attempt": 1788878447.6890047,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878565
   },
   "https://thenkiri.com/deborah-2022-download-hollywood-movie/": {
    "status": "done",
@@ -265,16 +267,18 @@
    "completed_at": 1788877522
   },
   "https://thenkiri.com/the-nan-movie-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69581|https://thenkiri.com/the-nan-movie-2022-download-hollywood-movie/|10/27/2022 12:16:29|09/02/2023 16:31:51|{'rendered': 'The Nan Movie (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878449.417828
+   "last_attempt": 1788878449.417828,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878565
   },
   "https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/": {
    "status": "pending",
    "signature": "69411|https://thenkiri.com/love-per-square-foot-2018-download-indian-movie/|10/26/2022 13:53:40|09/02/2023 16:24:25|{'rendered': 'Love per Square Foot (2018) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877577.9055903
+   "attempts": 3,
+   "last_attempt": 1788878615.274186
   },
   "https://thenkiri.com/along-with-the-gods-the-last-49-days-2018-download-korean-movie/": {
    "status": "done",
@@ -285,8 +289,8 @@
   "https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "67920|https://thenkiri.com/stars-at-noon-2022-download-hollywood-movie/|10/14/2022 10:31:37|09/02/2023 16:09:38|{'rendered': 'Stars at Noon (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877630.3481305
+   "attempts": 3,
+   "last_attempt": 1788878616.2987332
   },
   "https://thenkiri.com/hunt-2022-download-korean-movie/": {
    "status": "done",
@@ -381,20 +385,20 @@
   "https://thenkiri.com/vikram-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "46153|https://thenkiri.com/vikram-2022-download-indian-movie/|07/11/2022 11:42:48|09/02/2023 14:41:52|{'rendered': 'Vikram (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877579.3664577
+   "attempts": 2,
+   "last_attempt": 1788878617.1399481
   },
   "https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45849|https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/|07/08/2022 12:43:13|09/02/2023 14:36:11|{'rendered': 'The Sea Beauty (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877631.8801744
+   "attempts": 2,
+   "last_attempt": 1788878618.400959
   },
   "https://thenkiri.com/dhaakad-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "45595|https://thenkiri.com/dhaakad-2022-download-indian-movie/|07/05/2022 11:51:53|09/02/2023 14:37:25|{'rendered': 'Dhaakad (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877633.2595334
+   "attempts": 2,
+   "last_attempt": 1788878619.3948505
   },
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
    "status": "pending",
