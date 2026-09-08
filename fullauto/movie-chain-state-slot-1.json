@@ -411,40 +411,46 @@
    "blocked_at": 1788879461
   },
   "https://thenkiri.com/vikram-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46153|https://thenkiri.com/vikram-2022-download-indian-movie/|07/11/2022 11:42:48|09/02/2023 14:41:52|{'rendered': 'Vikram (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879598.6180625
+   "last_attempt": 1788879598.6180625,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879670
   },
   "https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45849|https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/|07/08/2022 12:43:13|09/02/2023 14:36:11|{'rendered': 'The Sea Beauty (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879599.4003127
+   "last_attempt": 1788879599.4003127,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879670
   },
   "https://thenkiri.com/dhaakad-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45595|https://thenkiri.com/dhaakad-2022-download-indian-movie/|07/05/2022 11:51:53|09/02/2023 14:37:25|{'rendered': 'Dhaakad (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788879600.353502
+   "last_attempt": 1788879600.353502,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788879670
   },
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45420|https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/|07/01/2022 08:18:02|09/02/2023 14:27:35|{'rendered': 'Terror on the Prairie (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878766.418814
+   "attempts": 3,
+   "last_attempt": 1788879672.3001456
   },
   "https://thenkiri.com/revealer-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45136|https://thenkiri.com/revealer-2022-download-hollywood-movie/|06/27/2022 09:04:34|09/02/2023 14:20:22|{'rendered': 'Revealer (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878767.3114574
+   "attempts": 2,
+   "last_attempt": 1788879673.586553
   },
   "https://thenkiri.com/rise-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "44888|https://thenkiri.com/rise-2022-download-hollywood-movie/|06/24/2022 10:14:21|09/02/2023 14:22:11|{'rendered': 'Rise (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788878768.5321028
+   "attempts": 2,
+   "last_attempt": 1788879674.9654236
   },
   "https://thenkiri.com/airlift-2016-download-indian-movie-2/": {
    "status": "pending",
