@@ -643,58 +643,68 @@
    "blocked_at": 1788883048
   },
   "https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38653|https://thenkiri.com/death-on-the-nile-2022-download-hollywood-movie/|03/26/2022 21:42:07|09/02/2023 13:24:34|{'rendered': 'Death on the Nile (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883414.4025047
+   "last_attempt": 1788883414.4025047,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883535
   },
   "https://thenkiri.com/black-crab-2022-download-swedish-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38564|https://thenkiri.com/black-crab-2022-download-swedish-movie/|03/25/2022 07:53:58|09/02/2023 13:25:00|{'rendered': 'Black Crab (2022) | Download Swedish Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883416.212209
+   "last_attempt": 1788883416.212209,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883535
   },
   "https://thenkiri.com/rescued-by-ruby-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38194|https://thenkiri.com/rescued-by-ruby-2022-download-hollywood-movie/|03/18/2022 13:41:14|09/02/2023 13:14:42|{'rendered': 'Rescued by Ruby (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883417.6136484
+   "last_attempt": 1788883417.6136484,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883535
   },
   "https://thenkiri.com/the-mad-womens-ball-2021-download-french-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38027|https://thenkiri.com/the-mad-womens-ball-2021-download-french-movie/|03/16/2022 06:11:31|09/02/2023 13:15:16|{'rendered': 'The Mad Women’s Ball (2021) | Download FRENCH Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883418.9638429
+   "last_attempt": 1788883418.9638429,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883535
   },
   "https://thenkiri.com/turning-red-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37822|https://thenkiri.com/turning-red-2022-download-hollywood-movie/|03/11/2022 17:23:52|09/02/2023 13:12:23|{'rendered': 'Turning Red (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883420.5122325
+   "last_attempt": 1788883420.5122325,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883535
   },
   "https://thenkiri.com/a-day-to-die-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37525|https://thenkiri.com/a-day-to-die-2022-download-hollywood-movie/|03/04/2022 18:07:27|09/02/2023 13:13:11|{'rendered': 'A Day to Die (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882600.5366375
+   "attempts": 3,
+   "last_attempt": 1788883536.6516116
   },
   "https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37458|https://thenkiri.com/the-weekend-away-2022-download-hollywood-movie/|03/03/2022 20:07:47|09/02/2023 13:10:23|{'rendered': 'The Weekend Away (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882602.0359592
+   "attempts": 3,
+   "last_attempt": 1788883538.3590665
   },
   "https://thenkiri.com/a-madea-homecoming-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37276|https://thenkiri.com/a-madea-homecoming-2022-download-hollywood-movie/|02/28/2022 15:50:04|09/02/2023 13:11:02|{'rendered': 'A Madea Homecoming (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882603.6889331
+   "attempts": 3,
+   "last_attempt": 1788883539.803585
   },
   "https://thenkiri.com/hellbounder-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37065|https://thenkiri.com/hellbounder-2021-download-hollywood-movie/|02/24/2022 19:57:18|09/02/2023 13:07:19|{'rendered': 'Hellbounder (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882604.9890928
+   "attempts": 3,
+   "last_attempt": 1788883541.2891095
   },
   "https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/": {
    "status": "pending",
