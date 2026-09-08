@@ -1223,52 +1223,60 @@
    "blocked_at": 1788841402
   },
   "https://thenkiri.com/the-classic-2003-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "33964|https://thenkiri.com/the-classic-2003-download-korean-movie/|2021-12-23T15:41:45|2023-09-02T13:15:44|{'rendered': 'The Classic (2003) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841403.8905191
+   "last_attempt": 1788841403.8905191,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859266
   },
   "https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32666|https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/|2021-11-26T08:12:32|2023-09-02T13:05:32|{'rendered': 'Jonas Brothers Family Roast (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841405.1929867
+   "attempts": 3,
+   "last_attempt": 1788859267.2397335
   },
   "https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31634|https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/|2021-11-07T10:00:49|2023-09-02T10:58:30|{'rendered': 'Inglourious Basterds (2009) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841406.38385
+   "attempts": 2,
+   "last_attempt": 1788859269.7057247
   },
   "https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/": {
    "status": "pending",
    "signature": "30467|https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/|2021-10-13T11:09:14|2023-09-02T10:13:29|{'rendered': 'Pokémon the Movie: Secrets of the Jungle DUBBED | Download Japanese Animation'}",
-   "attempts": 1,
-   "last_attempt": 1788841407.614936
+   "attempts": 2,
+   "last_attempt": 1788859270.651821
   },
   "https://thenkiri.com/censor-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "17714|https://thenkiri.com/censor-2021-download-hollywood-movie/|2021-06-18T13:52:44|2023-09-02T09:23:15|{'rendered': 'Censor (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841418.4844162
+   "attempts": 2,
+   "last_attempt": 1788859279.8944435
   },
   "https://thenkiri.com/radhe-2021-download-bollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "16332|https://thenkiri.com/radhe-2021-download-bollywood-movie/|2021-05-18T08:50:03|2024-02-25T08:05:15|{'rendered': 'Radhe (2021) | Download Bollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841453.7534227
+   "modified": "2024-02-25T08:05:15",
+   "completed_at": 1788859318
   },
   "https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "13541|https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/|2021-03-02T12:46:35|2023-09-02T08:41:07|{'rendered': 'Cosmic Sin (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841469.5359693
+   "attempts": 2,
+   "last_attempt": 1788859331.4118986
   },
   "https://thenkiri.com/the-lord-of-the-rings-2-the-two-towers-2002-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "10086|https://thenkiri.com/the-lord-of-the-rings-2-the-two-towers-2002-download-hollywood-movie/|2021-01-09T10:22:12|2023-09-02T08:27:20|{'rendered': 'The Lord of the Rings 2: The Two Towers (2002) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841511.2700732
+   "modified": "2023-09-02T08:27:20",
+   "completed_at": 1788859372
+  },
+  "https://thenkiri.com/cuties-dubbed-version-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "8352|https://thenkiri.com/cuties-dubbed-version-2020-download-hollywood-movie/|2020-09-11T13:29:45|2023-09-02T08:03:10|{'rendered': 'Cuties DUBBED Version (2020) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:03:10",
+   "completed_at": 1788859392
   }
  },
  "series_links": {
@@ -1479,6 +1487,9 @@
   "https://downloadwella.com/djdglmitt44b/Justice.League.Crisis.on.Infinite.Earths.Part.Three.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4VQeRk850KBPY6AWnAfZaxHJ-mtEEOGG",
   "https://downloadwella.com/2d5axd65kw71/Citizen.of.a.Kind.(NKIRI.COM).2024.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/9hxxibZxM074IkC_mW-I5pJ6suMj8kz4",
   "https://downloadwella.com/gg2vx6ino3ud/The.Moon.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/yt160nys-lJtDLNdhBQaBVNxufHLSjWE",
-  "https://downloadwella.com/m9bd65y3oe8m/In.Dream.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/3B7eQuezarfejLRJffBna0NfqSuY4HkV"
+  "https://downloadwella.com/m9bd65y3oe8m/In.Dream.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/3B7eQuezarfejLRJffBna0NfqSuY4HkV",
+  "https://downloadwella.com/3qad6ecup3sm/Radhe.(NKIRI.COM).2021.Hindi.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/v2bYZ0BzDJrGkdMcs7Luyf1hEMUlhPMq",
+  "https://downloadwella.com/fzqppy6gdipg/The.Lord.of.the.Rings.The.Two.Towers.(NKIRI.COM).2002.ExD.BrRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/HjwCakVbsnTevngTvUgG_K7O_6UzkVr_",
+  "https://downloadwella.com/juuymrt2u7m0/Cuties.(NKIRI.COM).2020.FRENCH.DUBBED.480p.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/vwRizBZDcAb--wAkp1OyZ1h5ZaM10Oi2"
  }
 }

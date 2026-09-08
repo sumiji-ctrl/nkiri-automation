@@ -230,16 +230,32 @@
    "blocked_at": 1788836078
   },
   "https://thenkiri.com/stranger-things-tales-from-85-s04-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "155177|https://thenkiri.com/stranger-things-tales-from-85-s04-complete-tv-series/|2026-04-23T11:13:44|2026-04-23T11:31:34|{'rendered': 'Stranger Things: Tales from ’85(Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788841722.511075
+   "last_attempt": 1788841722.511075,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859281
   },
   "https://thenkiri.com/margos-got-money-troubles-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "154392|https://thenkiri.com/margos-got-money-troubles-complete-tv-series/|2026-04-15T10:35:06|2026-05-20T08:23:27|{'rendered': 'Margo’s Got Money Troubles (Episode 9 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788842029.9241927
+   "last_attempt": 1788842029.9241927,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859281
+  },
+  "https://thenkiri.com/the-rookie-s07-complete-tv-series/": {
+   "status": "done",
+   "signature": "153152|https://thenkiri.com/the-rookie-s07-complete-tv-series/|2026-03-28T12:01:11|2026-03-28T12:01:11|{'rendered': 'The Rookie S07 (Complete) | TV Series'}",
+   "modified": "2026-03-28T12:01:11",
+   "completed_at": 1788859720
+  },
+  "https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/": {
+   "status": "pending",
+   "signature": "152555|https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/|2026-03-19T08:04:48|2026-04-01T15:09:04|{'rendered': 'The Hunt S01 (Episode 6 Added) | Foreign TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788859834.2697952
   }
  },
  "series_links": {
@@ -469,6 +485,29 @@
   "https://downloadwella.com/wdit8480ozi1/The.Vampire.Lestat.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RITj6zO7YFREfUKe_Po6O3MRxrJPCB7j",
   "https://downloadwella.com/v1mrxqlupisf/The.Vampire.Lestat.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7R-4IxKbTpSPyUE-n6EaWHB2CHBvpPnV",
   "https://downloadwella.com/rkyq0dxkr3b0/The.Vampire.Lestat.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GXqlySTqyiPvUSnc0so3dimxiUMw16Rb",
-  "https://downloadwella.com/c4p3e3aa95mf/The.Vampire.Lestat.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6yiMEecLs0cboVVCPk91IM_nOdbLFAMu"
+  "https://downloadwella.com/c4p3e3aa95mf/The.Vampire.Lestat.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6yiMEecLs0cboVVCPk91IM_nOdbLFAMu",
+  "https://downloadwella.com/u5ahas4fsysk/The.Rookie.S07E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O0F6bzsu-K2-kaoW1pNRGX4oVJZbCdQ5",
+  "https://downloadwella.com/ftmv0j000879/The.Rookie.S07E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lK4L0Xuys8tTIeNWRU83tJsxpi3yTm8c",
+  "https://downloadwella.com/ivhe9fqf15so/The.Rookie.S07E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/THiLi-slkXvWXm_c7f9kVbybkre82G5s",
+  "https://downloadwella.com/cgnkcmf2u8oi/The.Rookie.S07E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0xJ7_6dIE0wvn4dDe-AnO-6iOltUq2DV",
+  "https://downloadwella.com/dd4y5lm5a4lu/The.Rookie.S07E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tZkVJnDG3Fk9nyysmEH7zFDOSHdNZJ67",
+  "https://downloadwella.com/oxvz1z4nzlj3/The.Rookie.S07E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K3Cpyyz0VzZDS8ol-CN-_s-Fpkt9A42Y",
+  "https://downloadwella.com/6p1t4bkozjth/The.Rookie.S07E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TD1gP30ufoUEVabRliTLltJQE3YLY3ck",
+  "https://downloadwella.com/0exoh8hwjxml/The.Rookie.S07E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZYbKzTqZnWoyCzX6fFE6WMZDO_koIp5h",
+  "https://downloadwella.com/grgih2rot9gr/The.Rookie.S07E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y-bRwHfgndPdQZIkwPEhw9Md7MSw1vjc",
+  "https://downloadwella.com/x3agfjhfswbn/The.Rookie.S07E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ID7v984vIC6PuzUOFMOSX6QmxcLrxEZk",
+  "https://downloadwella.com/16d8uhhptc2z/The.Rookie.S07E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/txzfVSv85QC3cbOuT5MJ8JbWyC1n-InJ",
+  "https://downloadwella.com/aoc93m36m2lr/The.Rookie.S07E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Jnnj0YodHGhMA-ibWDkbep1wL9JREH7l",
+  "https://downloadwella.com/lfrsyaog1jrt/The.Rookie.S07E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fk95_GiOvPNc7g5877hzUgj278i2OGJF",
+  "https://downloadwella.com/9jsernk71zn5/The.Rookie.S07E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-N4Fw41rm9VRBM4QLfhIe9foPQU83VL9",
+  "https://downloadwella.com/6tqzbdzflpao/The.Rookie.S07E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6RM60X61EgJ7UuzYaCNivbm_Km_sznrJ",
+  "https://downloadwella.com/mkwstfclo51y/The.Rookie.S07E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bW-XTQosCBPvRmku43JxNfdzY4WfSC52",
+  "https://downloadwella.com/bgwboymaxwt0/The.Rookie.S07E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PawNGNoXZh_9mBcRbrU0dXvn19KBAIri",
+  "https://downloadwella.com/wlxce2g3aa0m/The.Rookie.S07E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cucd8UGvRCSHtSLrIf2rWG54P4sUa8sC",
+  "https://downloadwella.com/arj71zmdxln2/The.Hunt.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aI1aivnzgHsfigPRQbO7GXgB9Wc1C90f",
+  "https://downloadwella.com/izqzkxth3a7l/The.Hunt.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_zBkmPGW4EPIe_tt51eS_ze9G3Hq2WZh",
+  "https://downloadwella.com/2cyjvpl7mjfv/The.Hunt.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VPmHEjzyNdxjKuUMLYWduckFjmw-w1nJ",
+  "https://downloadwella.com/n2d0faro6x81/The.Hunt.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7KCjWlfpKvhfr0NMztq3JzBvNmb3-w-5",
+  "https://downloadwella.com/1uwxy9dtckqs/The.Hunt.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MTWNjuGP_0pnP9HweKFHsd493lDsepwc"
  }
 }

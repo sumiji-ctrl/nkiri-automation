@@ -205,16 +205,24 @@
    "blocked_at": 1788841432
   },
   "https://thenkiri.com/duty-after-school-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "85703|https://thenkiri.com/duty-after-school-s01-complete-korean-drama/|2023-03-31T20:12:10|2023-12-19T09:51:12|{'rendered': 'Duty After School S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788841765.7329412
+   "last_attempt": 1788841765.7329412,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859296
   },
   "https://thenkiri.com/korean-ghost-stories-complete-korean-drama/": {
    "status": "pending",
    "signature": "77210|https://thenkiri.com/korean-ghost-stories-complete-korean-drama/|2022-12-19T12:33:48|2023-09-02T14:21:32|{'rendered': 'Korean Ghost Stories (Complete) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788859517.6803036
+  },
+  "https://thenkiri.com/may-i-help-you-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "68480|https://thenkiri.com/may-i-help-you-complete-korean-drama/|2022-10-19T20:12:58|2024-02-23T21:09:28|{'rendered': 'May I Help You S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788842019.456824
+   "last_attempt": 1788860748.1763184
   }
  },
  "series_links": {
@@ -518,6 +526,27 @@
   "https://downloadwella.com/np44aqwg69lq/Wonderful.World.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SmAwSmPyDPewOHxNaTt6yhaoSffCIbtS",
   "https://downloadwella.com/wzwn2ba9j8p8/Wonderful.World.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ccg_JDzxR7OQjkC3pn5axWaC-fTHxrPY",
   "https://downloadwella.com/09wmt2852thu/Wonderful.World.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FIJumfFxhRXmsKyDz_gM_DYZ4kFV6ji6",
-  "https://downloadwella.com/u6ue5ub4yts0/Wonderful.World.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S5gRAcwzzvYOv84sWCIlzs8uey1TAbxw"
+  "https://downloadwella.com/u6ue5ub4yts0/Wonderful.World.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S5gRAcwzzvYOv84sWCIlzs8uey1TAbxw",
+  "https://downloadwella.com/0d21ocf7w3rm/Korean.Ghost.Stories.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xpMuzNQuK1wVSMDH-r3ZMjrrKXPfBUnU",
+  "https://downloadwella.com/t3hmbxy5w1ty/Korean.Ghost.Stories.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pY7Rbgd8Bn_NhP2OSfqCarOT05bZW-jt",
+  "https://downloadwella.com/1zetbzab027x/Korean.Ghost.Stories.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ASeXQaLIsJpc2qp1voq47suBqh4DAzI9",
+  "https://downloadwella.com/sdvf6l2np1z4/Korean.Ghost.Stories.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mZr79291wmXSzDoj8wPrQD1qP3e3v9Ja",
+  "https://downloadwella.com/3x8cdmdj0ert/Korean.Ghost.Stories.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RqMJHgf-3kG_1s74slA_xWoYmVDq-HM7",
+  "https://downloadwella.com/kecsm5derwpj/Korean.Ghost.Stories.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0A9t9yxjgrHph4NQ5tw2QO_wYvtvdV9R",
+  "https://downloadwella.com/enslobjpjbiy/Korean.Ghost.Stories.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f04sZ0SaC95wvhBbDi9tku5axXBMHGHG",
+  "https://downloadwella.com/99rvkuc30mdu/May.I.Help.You.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mEeNpFHHqIZYW6G3XaYQSiayivC1VSbK",
+  "https://downloadwella.com/mn8dnhr9kp9b/May.I.Help.You.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uvOWXfiPdw4KjBsOTPZCRt1VUzUqHxrm",
+  "https://downloadwella.com/7m5nsyfskgmy/May.I.Help.You.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k3wpLVZnk-1RIWUYq_m5RCbLgNNHzzmh",
+  "https://downloadwella.com/dwlq0fcybbd9/May.I.Help.You.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-arhFgMsH-rRelO4Gp3hIx4WQSDlAv1O",
+  "https://downloadwella.com/tci8wg844ucs/May.I.Help.You.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9G--9io0GgMALZtKiKCVAnvdiUNT100-",
+  "https://downloadwella.com/0b3bfpxu5yp1/May.I.Help.You.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DDe6qj7JVcf1N8NjTGDvxALVHQmK4kfT",
+  "https://downloadwella.com/ah9d16eaomw3/May.I.Help.You.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dRnuF41jTyQa8ComHhKVxxgWr361LQNu",
+  "https://downloadwella.com/un0v0z5vct83/May.I.Help.You.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TTi-KaFDxLlLtaoK3Bc0XvQCmDzeSoDR",
+  "https://downloadwella.com/jx1f7e16v7oa/May.I.Help.You.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Cg9KeBnuk_uYYtTHYsg8KK9wrdK5lb9a",
+  "https://downloadwella.com/w7n74cbqt2n6/May.I.Help.You.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hhfC1sdgbEr3xE6uDiV5ksQGLKi-DWVR",
+  "https://downloadwella.com/t0h4yo8ce11s/May.I.Help.You.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y_0xsVNe65A1cVr6v0fKs3hn2nWC87WS",
+  "https://downloadwella.com/qrtw2fct1dap/May.I.Help.You.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z2g2Igbf2EOSFBxxev0yj7M1xki76a-f",
+  "https://downloadwella.com/kezpyt36xypt/May.I.Help.You.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EfQseYvUlrZOUzRaouBedUlWXvwWeqGH",
+  "https://downloadwella.com/x7e44qkpq68n/May.I.Help.You.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_lVID6BoGSRxlzN7ad7kN60WXid9Oauw"
  }
 }

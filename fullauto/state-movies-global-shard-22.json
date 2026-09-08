@@ -1205,52 +1205,90 @@
    "blocked_at": 1788838026
   },
   "https://thenkiri.com/eternals-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34940|https://thenkiri.com/eternals-2021-download-hollywood-movie/|2022-01-11T22:37:45|2023-09-02T13:23:11|{'rendered': 'Eternals (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841389.4677827
+   "last_attempt": 1788841389.4677827,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/wolf-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "33970|https://thenkiri.com/wolf-2021-download-hollywood-movie/|2021-12-23T15:47:44|2023-09-02T13:15:41|{'rendered': 'Wolf (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841390.8190775
+   "last_attempt": 1788841390.8190775,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/fast-furious-presents-hobbs-shaw-2019-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "32766|https://thenkiri.com/fast-furious-presents-hobbs-shaw-2019-download-hollywood-movie/|2021-11-28T05:59:45|2023-12-13T07:40:17|{'rendered': 'Fast & Furious Presents: Hobbs & Shaw (2019) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841392.2882228
+   "last_attempt": 1788841392.2882228,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/no-time-to-die-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "31722|https://thenkiri.com/no-time-to-die-2021-download-hollywood-movie/|2021-11-09T13:05:29|2023-09-02T10:57:57|{'rendered': 'No Time to Die (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841393.5444937
+   "last_attempt": 1788841393.5444937,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/bright-samurai-soul-download-japanese-animation/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "30477|https://thenkiri.com/bright-samurai-soul-download-japanese-animation/|2021-10-13T11:16:14|2023-09-02T10:13:26|{'rendered': 'Bright: Samurai Soul | Download Japanese Animation'}",
    "attempts": 3,
-   "last_attempt": 1788841394.885498
+   "last_attempt": 1788841394.885498,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/jagame-thandhiram-2021-download-bollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "17744|https://thenkiri.com/jagame-thandhiram-2021-download-bollywood-movie/|2021-06-19T06:25:00|2024-02-24T18:46:25|{'rendered': 'Jagame Thandhiram (2021) | Download Bollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841429.8607297
+   "last_attempt": 1788841429.8607297,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/the-rookies-2021-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "16385|https://thenkiri.com/the-rookies-2021-download-chinese-movie/|2021-05-20T10:50:26|2023-09-02T09:11:52|{'rendered': 'The Rookies (2021) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841465.0159614
+   "last_attempt": 1788841465.0159614,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788859251
   },
   "https://thenkiri.com/ak-vs-ak-2020-download-bollywood-movie/": {
    "status": "pending",
    "signature": "13547|https://thenkiri.com/ak-vs-ak-2020-download-bollywood-movie/|2021-03-02T13:09:07|2023-09-02T08:41:04|{'rendered': 'Ak Vs Ak (2020) | Download Bollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841481.8858428
+   "attempts": 3,
+   "last_attempt": 1788859265.9017005
+  },
+  "https://thenkiri.com/the-lord-of-the-rings-1-the-fellowship-of-the-ring-2001-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "10094|https://thenkiri.com/the-lord-of-the-rings-1-the-fellowship-of-the-ring-2001-download-hollywood-movie/|2021-01-09T10:35:52|2023-09-02T08:27:17|{'rendered': 'The Lord of the Rings 1: The Fellowship of the Ring (2001) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T08:27:17",
+   "completed_at": 1788859315
+  },
+  "https://thenkiri.com/i-met-a-girl-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "8427|https://thenkiri.com/i-met-a-girl-2020-download-hollywood-movie/|2020-09-14T12:08:10|2024-02-26T13:45:34|{'rendered': 'I Met a Girl (2020) | Download Hollywood Movie'}",
+   "modified": "2024-02-26T13:45:34",
+   "completed_at": 1788859340
+  },
+  "https://thenkiri.com/eurovision-song-contest-the-story-of-fire-saga-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "6575|https://thenkiri.com/eurovision-song-contest-the-story-of-fire-saga-2020-download-hollywood-movie/|2020-07-07T10:47:54|2023-09-02T07:40:08|{'rendered': 'Eurovision Song Contest : The Story of Fire Saga (2020) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:40:08",
+   "completed_at": 1788859378
+  },
+  "https://thenkiri.com/download-scary-stories-to-tell-in-the-dark/": {
+   "status": "pending",
+   "signature": "2579|https://thenkiri.com/download-scary-stories-to-tell-in-the-dark/|2019-10-23T09:49:53|2024-02-25T07:46:49|{'rendered': 'Scary Stories to Tell in the Dark (2019) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788859386.2408214
   }
  },
  "series_links": {
@@ -1466,6 +1504,9 @@
   "https://downloadwella.com/1t5fgv2mvf61/Who.Are.You.People.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/q4eoQBHAqRm9nakeU0Evzu6V-_T60aON",
   "https://downloadwella.com/u3rumt9izwq2/Devotion.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/V7WcMiJHhELj0LAmg8qPwQZlZcGfK-ss",
   "https://downloadwella.com/vqmktpvd8997/Savage.X.Fenty.Show.Vol.4.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4XDo5d6_0I3WzNlr-V-lJgK3O9yPJtVw",
-  "https://downloadwella.com/lznj2th1lr7h/Bajirao_Mastani.(NKIRI.COM).2015.Hindi.DVDRip.720p.ESubs.HEVC.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/BNcOAymNPnJ6-SD2fhCkn1znu5CpNwAE"
+  "https://downloadwella.com/lznj2th1lr7h/Bajirao_Mastani.(NKIRI.COM).2015.Hindi.DVDRip.720p.ESubs.HEVC.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/BNcOAymNPnJ6-SD2fhCkn1znu5CpNwAE",
+  "https://downloadwella.com/27dykgn23k15/The.Lord.of.the.Rings.The.Fellowship.of.the.Rings.(NKIRI.COM).THEATRICAL.EDITION.2001.1080p.BrRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/mr2p63AB3J41tww4xPwh-WvpN_7v3xK0",
+  "https://downloadwella.com/ple8bm469aq6/I.Met.A.Girl.(NKIRI.COM).2020.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/P9jd9Oeh1_E0V8G_tajJlQjJ7LzcRLAx",
+  "https://downloadwella.com/w0ovys3n9ufy/Eurovision.Song.Contest.The.Story.Of.Fire.Saga.(NKIRI.COM).2020.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/s2rSDDSC5_4HP9Gck_i-0C3GG5b5a_ci"
  }
 }
