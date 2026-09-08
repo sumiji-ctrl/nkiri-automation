@@ -183,8 +183,14 @@
   "https://thenkiri.com/wonderful-world-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "111583|https://thenkiri.com/wonderful-world-s01-complete-korean-drama/|2024-03-01T16:41:09|2024-04-13T16:53:55|{'rendered': 'Wonderful World S01 (Episode 14 Added) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788830711.1230302
+  },
+  "https://thenkiri.com/vigilante-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "102571|https://thenkiri.com/vigilante-s01-complete-korean-drama/|2023-11-08T13:00:12|2024-02-24T10:50:04|{'rendered': 'Vigilante S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788827704.9920118
+   "last_attempt": 1788830972.924719
   }
  },
  "series_links": {

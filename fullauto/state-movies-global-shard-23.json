@@ -1093,8 +1093,8 @@
   "https://thenkiri.com/dr-cheon-and-the-lost-talisman-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "106552|https://thenkiri.com/dr-cheon-and-the-lost-talisman-2023-download-korean-movie/|2024-01-06T11:21:54|2024-01-06T11:21:54|{'rendered': 'Dr. Cheon and the Lost Talisman (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788822999.8041124
+   "attempts": 3,
+   "last_attempt": 1788830607.9742157
   },
   "https://thenkiri.com/the-moon-2023-download-korean-movie/": {
    "status": "done",
@@ -1111,38 +1111,44 @@
   "https://thenkiri.com/the-goblin-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "90328|https://thenkiri.com/the-goblin-2022-download-korean-movie/|2023-05-26T12:23:34|2023-09-02T18:03:18|{'rendered': 'The Goblin (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788823129.8471723
+   "attempts": 2,
+   "last_attempt": 1788830661.6066685
   },
   "https://thenkiri.com/wedding-dress-2010-download-korean-movie/": {
    "status": "pending",
    "signature": "84248|https://thenkiri.com/wedding-dress-2010-download-korean-movie/|2023-03-13T09:36:13|2023-09-02T17:22:54|{'rendered': 'Wedding Dress (2010) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788823130.8089788
+   "attempts": 2,
+   "last_attempt": 1788830663.1837337
   },
   "https://thenkiri.com/white-noise-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "78267|https://thenkiri.com/white-noise-2022-download-hollywood-movie/|2022-12-30T10:38:46|2023-12-25T07:00:00|{'rendered': 'White Noise (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788823183.521387
+   "attempts": 2,
+   "last_attempt": 1788830697.315819
   },
   "https://thenkiri.com/black-adam-hdrip-korsub-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "72990|https://thenkiri.com/black-adam-hdrip-korsub-2022-download-hollywood-movie/|2022-11-16T09:13:48|2023-09-02T16:53:37|{'rendered': 'Black Adam HDRip KORSub (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788823236.4704614
+   "attempts": 2,
+   "last_attempt": 1788830730.943212
   },
   "https://thenkiri.com/mr-zoo-the-missing-vip-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "69104|https://thenkiri.com/mr-zoo-the-missing-vip-2020-download-korean-movie/|2022-10-25T12:11:25|2023-09-02T16:25:35|{'rendered': 'Mr. Zoo: The Missing VIP (2020) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788823237.5055716
+   "attempts": 2,
+   "last_attempt": 1788830732.3193564
   },
   "https://thenkiri.com/decision-ro-leave-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "64063|https://thenkiri.com/decision-ro-leave-2022-download-korean-movie/|2022-08-31T17:19:36|2023-09-02T15:20:43|{'rendered': 'Decision to Leave (2022) | Download Korean Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788830799.544462
+  },
+  "https://thenkiri.com/man-of-god-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "47109|https://thenkiri.com/man-of-god-2022-download-hollywood-movie/|2022-07-26T10:30:23|2023-09-02T14:52:21|{'rendered': 'Man of God (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788823285.3048186
+   "last_attempt": 1788830800.7750003
   }
  },
  "series_links": {

@@ -1093,8 +1093,8 @@
   "https://thenkiri.com/dangerous-waters-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "106559|https://thenkiri.com/dangerous-waters-2023-download-hollywood-movie/|2024-01-06T11:26:50|2024-01-06T11:26:50|{'rendered': 'Dangerous Waters (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788823002.6575634
+   "attempts": 3,
+   "last_attempt": 1788830592.8656664
   },
   "https://thenkiri.com/night-of-the-huted-2023-download-hollywood-movie/": {
    "status": "done",
@@ -1137,6 +1137,48 @@
    "signature": "69117|https://thenkiri.com/bajirao-mastani-2015-download-indian-movie/|2022-10-25T12:22:48|2023-09-02T16:25:29|{'rendered': 'Bajirao Mastani  (2015) | Download Indian Movie'}",
    "modified": "2023-09-02T16:25:29",
    "completed_at": 1788825135
+  },
+  "https://thenkiri.com/heart-blackened-2017-download-korean-movie/": {
+   "status": "pending",
+   "signature": "64326|https://thenkiri.com/heart-blackened-2017-download-korean-movie/|2022-09-03T09:04:53|2023-09-02T15:27:43|{'rendered': 'Heart Blackened (2017) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830665.7035005
+  },
+  "https://thenkiri.com/dasvi-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "47144|https://thenkiri.com/dasvi-2022-download-indian-movie/|2022-07-27T08:04:06|2023-09-02T14:52:08|{'rendered': 'Dasvi (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830746.7676198
+  },
+  "https://thenkiri.com/men-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45085|https://thenkiri.com/men-2022-download-hollywood-movie/|2022-06-26T08:42:22|2023-09-02T14:20:38|{'rendered': 'Men (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830747.9057453
+  },
+  "https://thenkiri.com/godspeed-2022-download-thai-movie/": {
+   "status": "pending",
+   "signature": "42868|https://thenkiri.com/godspeed-2022-download-thai-movie/|2022-05-25T14:50:12|2023-09-02T14:02:39|{'rendered': 'Godspeed (2022) | Download THAI Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830811.1106756
+  },
+  "https://thenkiri.com/fabricated-city-2017-download-korean-movie/": {
+   "status": "pending",
+   "signature": "40360|https://thenkiri.com/fabricated-city-2017-download-korean-movie/|2022-04-23T08:51:19|2023-09-02T13:45:22|{'rendered': 'Fabricated City (2017) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830844.9025927
+  },
+  "https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "38938|https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/|2022-04-01T16:36:43|2023-09-02T13:36:33|{'rendered': 'Better Nate Than Ever (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830846.0896
+  },
+  "https://thenkiri.com/against-the-ice-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37350|https://thenkiri.com/against-the-ice-2022-download-hollywood-movie/|2022-03-02T21:31:44|2023-09-02T13:10:45|{'rendered': 'Against the Ice (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788830847.39276
   }
  },
  "series_links": {
