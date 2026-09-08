@@ -214,16 +214,32 @@
    "completed_at": 1788825736
   },
   "https://thenkiri.com/song-of-the-samurai-chapter-youthful-days-in-edo-2026-s01-complete-japanese-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157706|https://thenkiri.com/song-of-the-samurai-chapter-youthful-days-in-edo-2026-s01-complete-japanese-drama/|2026-05-25T13:00:10|2026-06-27T14:43:41|{'rendered': 'Song of the Samurai Chapter S01 (Complete) | Japanese Drama'}",
    "attempts": 3,
-   "last_attempt": 1788834466.977785
+   "last_attempt": 1788834466.977785,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836078
   },
   "https://thenkiri.com/the-terror-s03-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156354|https://thenkiri.com/the-terror-s03-complete-tv-series/|2026-05-07T11:52:46|2026-06-11T10:56:48|{'rendered': 'The Terror S03 (Episode 6 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788834645.665274
+   "last_attempt": 1788834645.665274,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836078
+  },
+  "https://thenkiri.com/stranger-things-tales-from-85-s04-complete-tv-series/": {
+   "status": "pending",
+   "signature": "155177|https://thenkiri.com/stranger-things-tales-from-85-s04-complete-tv-series/|2026-04-23T11:13:44|2026-04-23T11:31:34|{'rendered': 'Stranger Things: Tales from ’85(Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788836370.1738029
+  },
+  "https://thenkiri.com/margos-got-money-troubles-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154392|https://thenkiri.com/margos-got-money-troubles-complete-tv-series/|2026-04-15T10:35:06|2026-05-20T08:23:27|{'rendered': 'Margo’s Got Money Troubles (Episode 9 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788836646.1421812
   }
  },
  "series_links": {

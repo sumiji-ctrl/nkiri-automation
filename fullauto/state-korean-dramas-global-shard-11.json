@@ -189,16 +189,24 @@
    "blocked_at": 1788834242
   },
   "https://thenkiri.com/vigilante-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "102571|https://thenkiri.com/vigilante-s01-complete-korean-drama/|2023-11-08T13:00:12|2024-02-24T10:50:04|{'rendered': 'Vigilante S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788834513.317634
+   "last_attempt": 1788834513.317634,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836093
   },
   "https://thenkiri.com/my-lovely-liar-s01-episode-1-added-korean-drama/": {
    "status": "pending",
    "signature": "96212|https://thenkiri.com/my-lovely-liar-s01-episode-1-added-korean-drama/|2023-07-31T17:39:23|2024-02-25T01:25:42|{'rendered': 'My Lovely Liar S01 (Complete) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788836648.0107226
+  },
+  "https://thenkiri.com/duty-after-school-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "85703|https://thenkiri.com/duty-after-school-s01-complete-korean-drama/|2023-03-31T20:12:10|2023-12-19T09:51:12|{'rendered': 'Duty After School S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788835089.1265755
+   "last_attempt": 1788836964.0930505
   }
  },
  "series_links": {

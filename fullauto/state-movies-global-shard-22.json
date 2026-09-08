@@ -1141,52 +1141,108 @@
    "completed_at": 1788825135
   },
   "https://thenkiri.com/heart-blackened-2017-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64326|https://thenkiri.com/heart-blackened-2017-download-korean-movie/|2022-09-03T09:04:53|2023-09-02T15:27:43|{'rendered': 'Heart Blackened (2017) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834270.2866468
+   "last_attempt": 1788834270.2866468,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/dasvi-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47144|https://thenkiri.com/dasvi-2022-download-indian-movie/|2022-07-27T08:04:06|2023-09-02T14:52:08|{'rendered': 'Dasvi (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834355.27874
+   "last_attempt": 1788834355.27874,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/men-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45085|https://thenkiri.com/men-2022-download-hollywood-movie/|2022-06-26T08:42:22|2023-09-02T14:20:38|{'rendered': 'Men (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834356.2516425
+   "last_attempt": 1788834356.2516425,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/godspeed-2022-download-thai-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42868|https://thenkiri.com/godspeed-2022-download-thai-movie/|2022-05-25T14:50:12|2023-09-02T14:02:39|{'rendered': 'Godspeed (2022) | Download THAI Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834439.7636113
+   "last_attempt": 1788834439.7636113,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/fabricated-city-2017-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "40360|https://thenkiri.com/fabricated-city-2017-download-korean-movie/|2022-04-23T08:51:19|2023-09-02T13:45:22|{'rendered': 'Fabricated City (2017) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834473.0397077
+   "last_attempt": 1788834473.0397077,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38938|https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/|2022-04-01T16:36:43|2023-09-02T13:36:33|{'rendered': 'Better Nate Than Ever (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834474.5797117
+   "last_attempt": 1788834474.5797117,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/against-the-ice-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37350|https://thenkiri.com/against-the-ice-2022-download-hollywood-movie/|2022-03-02T21:31:44|2023-09-02T13:10:45|{'rendered': 'Against the Ice (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834475.9791014
+   "last_attempt": 1788834475.9791014,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836048
   },
   "https://thenkiri.com/immanence-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36150|https://thenkiri.com/immanence-2022-download-hollywood-movie/|2022-02-04T14:02:22|2023-09-02T13:37:49|{'rendered': 'Immanence (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788834477.2983918
+   "attempts": 3,
+   "last_attempt": 1788836049.839352
+  },
+  "https://thenkiri.com/eternals-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34940|https://thenkiri.com/eternals-2021-download-hollywood-movie/|2022-01-11T22:37:45|2023-09-02T13:23:11|{'rendered': 'Eternals (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836050.7557466
+  },
+  "https://thenkiri.com/wolf-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "33970|https://thenkiri.com/wolf-2021-download-hollywood-movie/|2021-12-23T15:47:44|2023-09-02T13:15:41|{'rendered': 'Wolf (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836051.862115
+  },
+  "https://thenkiri.com/fast-furious-presents-hobbs-shaw-2019-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32766|https://thenkiri.com/fast-furious-presents-hobbs-shaw-2019-download-hollywood-movie/|2021-11-28T05:59:45|2023-12-13T07:40:17|{'rendered': 'Fast & Furious Presents: Hobbs & Shaw (2019) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836052.5798755
+  },
+  "https://thenkiri.com/no-time-to-die-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31722|https://thenkiri.com/no-time-to-die-2021-download-hollywood-movie/|2021-11-09T13:05:29|2023-09-02T10:57:57|{'rendered': 'No Time to Die (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836053.391811
+  },
+  "https://thenkiri.com/bright-samurai-soul-download-japanese-animation/": {
+   "status": "pending",
+   "signature": "30477|https://thenkiri.com/bright-samurai-soul-download-japanese-animation/|2021-10-13T11:16:14|2023-09-02T10:13:26|{'rendered': 'Bright: Samurai Soul | Download Japanese Animation'}",
+   "attempts": 1,
+   "last_attempt": 1788836054.3037262
+  },
+  "https://thenkiri.com/jagame-thandhiram-2021-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "17744|https://thenkiri.com/jagame-thandhiram-2021-download-bollywood-movie/|2021-06-19T06:25:00|2024-02-24T18:46:25|{'rendered': 'Jagame Thandhiram (2021) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836086.0150309
+  },
+  "https://thenkiri.com/the-rookies-2021-download-chinese-movie/": {
+   "status": "pending",
+   "signature": "16385|https://thenkiri.com/the-rookies-2021-download-chinese-movie/|2021-05-20T10:50:26|2023-09-02T09:11:52|{'rendered': 'The Rookies (2021) | Download Chinese Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836118.5802274
   }
  },
  "series_links": {
