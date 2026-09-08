@@ -254,14 +254,14 @@
   "https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/": {
    "status": "pending",
    "signature": "152555|https://thenkiri.com/the-hunt-s01-complete-foreign-tv-series/|2026-03-19T08:04:48|2026-04-01T15:09:04|{'rendered': 'The Hunt S01 (Episode 6 Added) | Foreign TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788861565.9859562
+   "attempts": 3,
+   "last_attempt": 1788866959.4391675
   },
   "https://thenkiri.com/under-salt-mash-complete-tv-series/": {
    "status": "pending",
    "signature": "151350|https://thenkiri.com/under-salt-mash-complete-tv-series/|2026-03-03T12:22:39|2026-03-03T12:22:39|{'rendered': 'Under Salt Mash (Episode 1 – 6 Added) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788862853.6825304
+   "attempts": 2,
+   "last_attempt": 1788866990.4511454
   }
  },
  "series_links": {

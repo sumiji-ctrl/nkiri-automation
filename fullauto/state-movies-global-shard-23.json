@@ -1239,22 +1239,28 @@
    "blocked_at": 1788861507
   },
   "https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "31634|https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/|2021-11-07T10:00:49|2023-09-02T10:58:30|{'rendered': 'Inglourious Basterds (2009) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788861508.895913
+   "last_attempt": 1788861508.895913,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788866932
   },
   "https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "30467|https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/|2021-10-13T11:09:14|2023-09-02T10:13:29|{'rendered': 'Pokémon the Movie: Secrets of the Jungle DUBBED | Download Japanese Animation'}",
    "attempts": 3,
-   "last_attempt": 1788861509.8311353
+   "last_attempt": 1788861509.8311353,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788866932
   },
   "https://thenkiri.com/censor-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "17714|https://thenkiri.com/censor-2021-download-hollywood-movie/|2021-06-18T13:52:44|2023-09-02T09:23:15|{'rendered': 'Censor (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788861520.143542
+   "last_attempt": 1788861520.143542,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788866932
   },
   "https://thenkiri.com/radhe-2021-download-bollywood-movie/": {
    "status": "done",
@@ -1263,10 +1269,12 @@
    "completed_at": 1788859318
   },
   "https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "13541|https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/|2021-03-02T12:46:35|2023-09-02T08:41:07|{'rendered': 'Cosmic Sin (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788861532.8703537
+   "last_attempt": 1788861532.8703537,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788866932
   },
   "https://thenkiri.com/the-lord-of-the-rings-2-the-two-towers-2002-download-hollywood-movie/": {
    "status": "done",
@@ -1281,16 +1289,16 @@
    "completed_at": 1788859392
   },
   "https://thenkiri.com/desperados-2-2020-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "6465|https://thenkiri.com/desperados-2-2020-download-hollywood-movie/|2020-07-04T11:54:48|2023-09-02T07:36:51|{'rendered': 'Desperados (2020) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788861575.4155726
+   "modified": "2023-09-02T07:36:51",
+   "completed_at": 1788867331
   },
   "https://thenkiri.com/download-midsommar/": {
    "status": "pending",
    "signature": "1919|https://thenkiri.com/download-midsommar/|2019-09-24T07:32:21|2024-02-26T14:20:38|{'rendered': 'Midsommar (2019) | Download Hollywood Movies'}",
-   "attempts": 1,
-   "last_attempt": 1788861600.724814
+   "attempts": 2,
+   "last_attempt": 1788867339.8253708
   }
  },
  "series_links": {
@@ -1504,6 +1512,7 @@
   "https://downloadwella.com/m9bd65y3oe8m/In.Dream.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/3B7eQuezarfejLRJffBna0NfqSuY4HkV",
   "https://downloadwella.com/3qad6ecup3sm/Radhe.(NKIRI.COM).2021.Hindi.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/v2bYZ0BzDJrGkdMcs7Luyf1hEMUlhPMq",
   "https://downloadwella.com/fzqppy6gdipg/The.Lord.of.the.Rings.The.Two.Towers.(NKIRI.COM).2002.ExD.BrRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/HjwCakVbsnTevngTvUgG_K7O_6UzkVr_",
-  "https://downloadwella.com/juuymrt2u7m0/Cuties.(NKIRI.COM).2020.FRENCH.DUBBED.480p.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/vwRizBZDcAb--wAkp1OyZ1h5ZaM10Oi2"
+  "https://downloadwella.com/juuymrt2u7m0/Cuties.(NKIRI.COM).2020.FRENCH.DUBBED.480p.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/vwRizBZDcAb--wAkp1OyZ1h5ZaM10Oi2",
+  "https://downloadwella.com/0geox1qd9r5y/Desperados.(NKIRI.COM).2020.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/w-VddU6YWdTX1iLF0Ca7O6S7BpwU383e"
  }
 }
