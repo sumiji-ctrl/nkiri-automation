@@ -1141,52 +1141,92 @@
    "completed_at": 1788825720
   },
   "https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69418|https://thenkiri.com/memories-of-the-sword-2015-download-korean-movie/|2022-10-26T13:38:55|2023-09-02T16:24:45|{'rendered': 'Memories of the Sword (2015) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834267.2708368
+   "last_attempt": 1788834267.2708368,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836062
   },
   "https://thenkiri.com/the-anchor-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64460|https://thenkiri.com/the-anchor-2022-download-korean-movie/|2022-09-05T06:44:22|2023-09-02T15:26:53|{'rendered': 'The Anchor (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834300.1199048
+   "last_attempt": 1788834300.1199048,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836062
   },
   "https://thenkiri.com/honor-society-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47304|https://thenkiri.com/honor-society-2022-download-hollywood-movie/|2022-07-29T10:48:51|2023-09-02T15:06:29|{'rendered': 'Honor Society (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834301.5375311
+   "last_attempt": 1788834301.5375311,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836062
   },
   "https://thenkiri.com/beauty-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45352|https://thenkiri.com/beauty-2022-download-hollywood-movie/|2022-06-30T13:03:14|2023-09-02T14:27:54|{'rendered': 'Beauty (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834314.2841644
+   "last_attempt": 1788834314.2841644,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836062
   },
   "https://thenkiri.com/the-call-2020-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43348|https://thenkiri.com/the-call-2020-download-korean-movie/|2022-06-01T19:46:26|2023-09-02T14:01:52|{'rendered': 'The Call (2020) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834315.4629574
+   "last_attempt": 1788834315.4629574,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836062
   },
   "https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41131|https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/|2022-05-01T08:23:49|2023-09-02T13:50:35|{'rendered': 'Fortress Sniper’s Eye (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834316.9321854
+   "attempts": 2,
+   "last_attempt": 1788836063.527846
   },
   "https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39265|https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/|2022-04-08T10:25:46|2023-09-02T13:39:39|{'rendered': 'All the Old Knives (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788834318.270164
+   "attempts": 2,
+   "last_attempt": 1788836064.6244338
   },
   "https://thenkiri.com/fresh-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "37500|https://thenkiri.com/fresh-2022-download-hollywood-movie/|2022-03-04T13:40:10|2023-09-02T13:10:09|{'rendered': 'Fresh (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788836065.8496156
+  },
+  "https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36305|https://thenkiri.com/dallas-buyers-club-2013-download-hollywood-movie/|2022-02-08T18:07:28|2023-09-02T13:40:33|{'rendered': 'Dallas Buyers Club (2013) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788834319.6086602
+   "last_attempt": 1788836066.9469728
+  },
+  "https://thenkiri.com/the-tragedy-of-macbeth-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35058|https://thenkiri.com/the-tragedy-of-macbeth-2021-download-hollywood-movie/|2022-01-14T11:35:52|2023-09-02T13:25:55|{'rendered': 'The Tragedy of Macbeth (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836068.0436075
+  },
+  "https://thenkiri.com/the-kindred-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34123|https://thenkiri.com/the-kindred-2022-download-hollywood-movie/|2021-12-28T08:41:35|2023-09-02T13:15:19|{'rendered': 'The Kindred (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836069.2186909
+  },
+  "https://thenkiri.com/the-last-duel-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32869|https://thenkiri.com/the-last-duel-2021-download-hollywood-movie/|2021-11-29T12:26:15|2023-09-02T13:08:27|{'rendered': 'The Last Duel (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836070.4198036
+  },
+  "https://thenkiri.com/passing-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31801|https://thenkiri.com/passing-2021-download-hollywood-movie/|2021-11-10T16:08:30|2023-09-02T11:01:33|{'rendered': 'Passing (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836071.5016174
   }
  },
  "series_links": {

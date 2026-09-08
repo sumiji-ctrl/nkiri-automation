@@ -1147,52 +1147,108 @@
    "blocked_at": 1788834216
   },
   "https://thenkiri.com/vr-fighter-2022-download-chinese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47377|https://thenkiri.com/vr-fighter-2022-download-chinese-movie/|2022-07-30T11:12:16|2023-09-02T15:06:00|{'rendered': 'VR Fighter (2022) | Download Chinese Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834219.322599
+   "last_attempt": 1788834219.322599,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45420|https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/|2022-07-01T08:18:02|2023-09-02T14:27:35|{'rendered': 'Terror on the Prairie (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834220.732008
+   "last_attempt": 1788834220.732008,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/show-me-the-ghost-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "43361|https://thenkiri.com/show-me-the-ghost-2021-download-korean-movie/|2022-06-01T19:59:48|2023-09-02T14:01:46|{'rendered': 'Show Me the Ghost (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834222.4757555
+   "last_attempt": 1788834222.4757555,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/the-aviary-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41160|https://thenkiri.com/the-aviary-2022-download-hollywood-movie/|2022-05-01T16:14:51|2023-09-02T13:50:27|{'rendered': 'The Aviary (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834224.4177098
+   "last_attempt": 1788834224.4177098,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/umma-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39272|https://thenkiri.com/umma-2022-download-hollywood-movie/|2022-04-08T10:30:36|2023-07-08T11:08:36|{'rendered': 'Umma (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834226.5886528
+   "last_attempt": 1788834226.5886528,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37506|https://thenkiri.com/the-story-of-my-wife-2021-download-hollywood-movie/|2022-03-04T16:00:54|2023-09-02T13:10:06|{'rendered': 'The Story of My Wife (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834228.1922061
+   "last_attempt": 1788834228.1922061,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/red-rocket-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36315|https://thenkiri.com/red-rocket-2021-download-hollywood-movie/|2022-02-08T18:58:42|2023-09-02T13:40:30|{'rendered': 'Red Rocket (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788834230.0839133
+   "last_attempt": 1788834230.0839133,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788836047
   },
   "https://thenkiri.com/sex-appeal-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35065|https://thenkiri.com/sex-appeal-2022-download-hollywood-movie/|2022-01-14T11:45:14|2023-09-02T13:25:52|{'rendered': 'Sex Appeal (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788836049.276884
+  },
+  "https://thenkiri.com/mothering-sunday-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34129|https://thenkiri.com/mothering-sunday-2021-download-hollywood-movie/|2021-12-28T08:46:29|2023-09-02T13:15:14|{'rendered': 'Mothering Sunday (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788834232.1461835
+   "last_attempt": 1788836050.8223045
+  },
+  "https://thenkiri.com/the-incredible-hulk-2008-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "32975|https://thenkiri.com/the-incredible-hulk-2008-download-hollywood-movie/|2021-12-02T08:13:02|2023-09-02T13:08:09|{'rendered': 'The Incredible Hulk (2008) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836052.0650287
+  },
+  "https://thenkiri.com/happiness-ever-after-2021-download-south-african-movie/": {
+   "status": "pending",
+   "signature": "31821|https://thenkiri.com/happiness-ever-after-2021-download-south-african-movie/|2021-11-10T21:06:08|2023-09-02T11:01:28|{'rendered': 'Happiness Ever After (2021) | Download South African Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836053.2005033
+  },
+  "https://thenkiri.com/warning-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30625|https://thenkiri.com/warning-2021-download-hollywood-movie/|2021-10-15T11:22:56|2023-09-02T10:12:42|{'rendered': 'Warning (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836054.2514634
+  },
+  "https://thenkiri.com/demon-slayer-mugen-train-dubbed-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "18050|https://thenkiri.com/demon-slayer-mugen-train-dubbed-2021-download-hollywood-movie/|2021-06-28T18:22:52|2023-09-02T09:28:53|{'rendered': 'Demon Slayer Mugen Train DUBBED (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836086.5325882
+  },
+  "https://thenkiri.com/dirty-sexy-saint-2019-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "16798|https://thenkiri.com/dirty-sexy-saint-2019-download-hollywood-movie/|2021-05-31T07:32:37|2023-09-02T09:13:30|{'rendered': 'Dirty Sexy Saint (2019) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836117.4171
+  },
+  "https://thenkiri.com/coming-2-america-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "13653|https://thenkiri.com/coming-2-america-2021-download-hollywood-movie/|2021-03-05T09:51:24|2023-09-02T08:44:00|{'rendered': 'Coming 2 America (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788836132.091546
   }
  },
  "series_links": {
