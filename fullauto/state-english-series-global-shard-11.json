@@ -202,10 +202,16 @@
    "completed_at": 1788807387
   },
   "https://thenkiri.com/avatar-the-last-airbender-s02-complete-tv-series-2/": {
-   "status": "pending",
+   "status": "done",
    "signature": "160204|https://thenkiri.com/avatar-the-last-airbender-s02-complete-tv-series-2/|2026-06-25T09:49:32|2026-06-25T09:49:32|{'rendered': 'Avatar: The Last Airbender S02 (Complete) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788811699.1617315
+   "modified": "2026-06-25T09:49:32",
+   "completed_at": 1788823888
+  },
+  "https://thenkiri.com/the-vampire-lestat-s01-complete-tv-series/": {
+   "status": "done",
+   "signature": "158839|https://thenkiri.com/the-vampire-lestat-s01-complete-tv-series/|2026-06-07T12:18:36|2026-07-19T08:56:43|{'rendered': 'The Vampire Lestat S01 (Episode 7 Added) | TV Series'}",
+   "modified": "2026-07-19T08:56:43",
+   "completed_at": 1788825736
   }
  },
  "series_links": {
@@ -427,6 +433,14 @@
   "https://downloadwella.com/oeiz43b9ovjp/Avatar.The.Last.Airbender.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q2VwSsEZjiMLbFq7r5GZuuvO2-BBSyv5",
   "https://downloadwella.com/2x6ifsrirctu/Avatar.The.Last.Airbender.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NXMEgVKmUPRcU2UYKVFsfGki4m9UHS5q",
   "https://downloadwella.com/93jkpvdb4oum/Avatar.The.Last.Airbender.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DvhFRf80a7V8mO96_pwWQ2F3ck3izA3p",
-  "https://downloadwella.com/ukt3tqk4bjll/Avatar.The.Last.Airbender.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-EysfgBhvKY-6cA1AhjCvi4q_8Akkh7V"
+  "https://downloadwella.com/ukt3tqk4bjll/Avatar.The.Last.Airbender.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-EysfgBhvKY-6cA1AhjCvi4q_8Akkh7V",
+  "https://downloadwella.com/vy198by780xs/Avatar.The.Last.Airbender.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fpkrc6cuICzoKNGuDpHaM2fkipsMlXN-",
+  "https://downloadwella.com/vxu6wdav5vee/The.Vampire.Lestat.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/afj2kyjkpXo1y6k23pzyzWlZ4W2pROgI",
+  "https://downloadwella.com/k7451vmyfm7x/The.Vampire.Lestat.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Uuf2I_r4arXlVpyZ50hHbQ_XBhbNbVyM",
+  "https://downloadwella.com/gjnq4r2msyh8/The.Vampire.Lestat.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Unr8aUPDaPJCW-jIBNjoIzODhw8K02rN",
+  "https://downloadwella.com/wdit8480ozi1/The.Vampire.Lestat.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RITj6zO7YFREfUKe_Po6O3MRxrJPCB7j",
+  "https://downloadwella.com/v1mrxqlupisf/The.Vampire.Lestat.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7R-4IxKbTpSPyUE-n6EaWHB2CHBvpPnV",
+  "https://downloadwella.com/rkyq0dxkr3b0/The.Vampire.Lestat.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GXqlySTqyiPvUSnc0so3dimxiUMw16Rb",
+  "https://downloadwella.com/c4p3e3aa95mf/The.Vampire.Lestat.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6yiMEecLs0cboVVCPk91IM_nOdbLFAMu"
  }
 }

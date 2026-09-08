@@ -1067,10 +1067,10 @@
    "completed_at": 1788806995
   },
   "https://thenkiri.com/y2k-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "129176|https://thenkiri.com/y2k-2024-download-hollywood-movie/|2024-12-26T06:00:57|2024-12-26T06:00:57|{'rendered': 'Y2K (2024) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788807004.1480522
+   "modified": "2024-12-26T06:00:57",
+   "completed_at": 1788823001
   },
   "https://thenkiri.com/hellboy-the-crooked-man-2024-download-hollywood-movie/": {
    "status": "done",
@@ -1093,14 +1093,50 @@
   "https://thenkiri.com/dangerous-waters-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "106559|https://thenkiri.com/dangerous-waters-2023-download-hollywood-movie/|2024-01-06T11:26:50|2024-01-06T11:26:50|{'rendered': 'Dangerous Waters (2023) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788807308.5092561
+   "attempts": 2,
+   "last_attempt": 1788823002.6575634
   },
   "https://thenkiri.com/night-of-the-huted-2023-download-hollywood-movie/": {
    "status": "done",
    "signature": "101691|https://thenkiri.com/night-of-the-huted-2023-download-hollywood-movie/|2023-10-20T15:16:01|2023-10-20T15:16:01|{'rendered': 'Night of the Huted (2023) | Download Hollywood Movie'}",
    "modified": "2023-10-20T15:16:01",
    "completed_at": 1788807411
+  },
+  "https://thenkiri.com/killing-romance-2023-download-korean-movie/": {
+   "status": "done",
+   "signature": "96555|https://thenkiri.com/killing-romance-2023-download-korean-movie/|2023-08-09T08:26:09|2023-09-02T17:59:38|{'rendered': 'Killing ROmance (2023) | Download Korean Movie'}",
+   "modified": "2023-09-02T17:59:38",
+   "completed_at": 1788823878
+  },
+  "https://thenkiri.com/on-your-wedding-day-2018-download-korean-movie/": {
+   "status": "done",
+   "signature": "90777|https://thenkiri.com/on-your-wedding-day-2018-download-korean-movie/|2023-06-02T15:40:49|2023-09-02T18:02:28|{'rendered': 'On Your Wedding Day (2018) | Download Korean Movie'}",
+   "modified": "2023-09-02T18:02:28",
+   "completed_at": 1788823960
+  },
+  "https://thenkiri.com/who-are-you-people-2023-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "84354|https://thenkiri.com/who-are-you-people-2023-download-hollywood-movie/|2023-03-13T18:58:48|2023-09-02T17:22:40|{'rendered': 'Who Are You People (2023) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T17:22:40",
+   "completed_at": 1788823987
+  },
+  "https://thenkiri.com/devotion-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "79292|https://thenkiri.com/devotion-2022-download-hollywood-movie/|2023-01-08T09:49:41|2023-09-02T16:39:28|{'rendered': 'Devotion (2022) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T16:39:28",
+   "completed_at": 1788824075
+  },
+  "https://thenkiri.com/savage-x-fenty-show-vol-4-2022-download-hollywood-show/": {
+   "status": "done",
+   "signature": "73109|https://thenkiri.com/savage-x-fenty-show-vol-4-2022-download-hollywood-show/|2022-11-17T08:31:23|2023-09-02T16:58:56|{'rendered': 'Savage X Fenty Show Vol. 4 (2022) | Download Hollywood Show'}",
+   "modified": "2023-09-02T16:58:56",
+   "completed_at": 1788824111
+  },
+  "https://thenkiri.com/bajirao-mastani-2015-download-indian-movie/": {
+   "status": "done",
+   "signature": "69117|https://thenkiri.com/bajirao-mastani-2015-download-indian-movie/|2022-10-25T12:22:48|2023-09-02T16:25:29|{'rendered': 'Bajirao Mastani  (2015) | Download Indian Movie'}",
+   "modified": "2023-09-02T16:25:29",
+   "completed_at": 1788825135
   }
  },
  "series_links": {
@@ -1309,6 +1345,13 @@
   "https://downloadwella.com/kc3r1xn2iyk7/Hellboy.The.Crooked.Man.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/B5p3sEqzmUg6hCKsgxE-u_C3GqyuuYwe",
   "https://downloadwella.com/t673t52dgvwf/Horizon.An.American.Saga.Chapter.1.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Wy7oh82p51rExHYlplTgjsnhRyzY5UJY",
   "https://downloadwella.com/xh6m4vekzlpr/Asoka.(NKIRI.COM).2001.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pLZ9oIYE6m_1H0plMhZ2fcx5U-0Mc7P6",
-  "https://downloadwella.com/yxij99lmjgkh/Night.of.the.Hunted.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIR.COM.mkv.html": "https://v1.vidfiles.com/d/j3GEBMwPmwjnQU9Ij8eK_T8El7a4rH9C"
+  "https://downloadwella.com/yxij99lmjgkh/Night.of.the.Hunted.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIR.COM.mkv.html": "https://v1.vidfiles.com/d/j3GEBMwPmwjnQU9Ij8eK_T8El7a4rH9C",
+  "https://downloadwella.com/ec6rqsy2lsbo/Y2K.(NKIRI.COM).2024.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/cdx874QOo9aCqcMUzl4tR2A2qGlmCKhL",
+  "https://downloadwella.com/j40udnd2zjse/Killing.Romance.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/m-zilnHPSfgvNBq2i9W68upCxXZMnfxb",
+  "https://downloadwella.com/qvze0xb48c1z/On.Your.Wedding.Day.(NKIRI.COM).2018.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/pwVOxpCWdCOQHzmtti0UUmE-H5hVIi5U",
+  "https://downloadwella.com/1t5fgv2mvf61/Who.Are.You.People.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/q4eoQBHAqRm9nakeU0Evzu6V-_T60aON",
+  "https://downloadwella.com/u3rumt9izwq2/Devotion.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/V7WcMiJHhELj0LAmg8qPwQZlZcGfK-ss",
+  "https://downloadwella.com/vqmktpvd8997/Savage.X.Fenty.Show.Vol.4.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4XDo5d6_0I3WzNlr-V-lJgK3O9yPJtVw",
+  "https://downloadwella.com/lznj2th1lr7h/Bajirao_Mastani.(NKIRI.COM).2015.Hindi.DVDRip.720p.ESubs.HEVC.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/BNcOAymNPnJ6-SD2fhCkn1znu5CpNwAE"
  }
 }
