@@ -102,27 +102,27 @@
   "https://thenkiri.com/dr-cheon-and-the-lost-talisman-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "106552|https://thenkiri.com/dr-cheon-and-the-lost-talisman-2023-download-korean-movie/|01/06/2024 11:21:54|01/06/2024 11:21:54|{'rendered': 'Dr. Cheon and the Lost Talisman (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874133.3339846
+   "attempts": 3,
+   "last_attempt": 1788875130.3590398
   },
   "https://thenkiri.com/hail-to-hell-2023-download-korean-movie/": {
    "status": "pending",
    "signature": "103714|https://thenkiri.com/hail-to-hell-2023-download-korean-movie/|11/30/2023 15:53:32|11/30/2023 15:53:32|{'rendered': 'Hail to Hell (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874134.6618516
+   "attempts": 3,
+   "last_attempt": 1788875133.4717402
   },
   "https://thenkiri.com/wwe-crown-jewel-2023-download-wresting-special/": "skipped (wwe)",
   "https://thenkiri.com/the-devils-deal-2023-download-korean-movie-2/": {
    "status": "pending",
    "signature": "100907|https://thenkiri.com/the-devils-deal-2023-download-korean-movie-2/|10/07/2023 09:37:31|02/25/2024 02:14:29|{'rendered': 'The Devil’s Deal (2023) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874137.5328193
+   "attempts": 3,
+   "last_attempt": 1788875136.4883604
   },
   "https://thenkiri.com/my-animal-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "99707|https://thenkiri.com/my-animal-2023-download-hollywood-movie/|09/15/2023 13:04:26|09/15/2023 13:04:26|{'rendered': 'My Animal (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788874186.479417
+   "attempts": 3,
+   "last_attempt": 1788875188.097712
   },
   "https://thenkiri.com/transformers-complete-collection-1-5-download-hollywood-movie/": {
    "status": "pending",
@@ -201,6 +201,24 @@
    "signature": "76402|https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/|12/13/2022 18:58:52|09/02/2023 14:02:15|{'rendered': 'The Fabelmans (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788874920.4421768
+  },
+  "https://thenkiri.com/darby-and-the-dead-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "75081|https://thenkiri.com/darby-and-the-dead-2022-download-hollywood-movie/|12/02/2022 10:27:27|09/02/2023 13:49:47|{'rendered': 'Darby and the Dead (2022) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 13:49:47",
+   "completed_at": 1788875445
+  },
+  "https://thenkiri.com/the-battle-roar-to-victory-2019-download-korean-movie/": {
+   "status": "done",
+   "signature": "74770|https://thenkiri.com/the-battle-roar-to-victory-2019-download-korean-movie/|11/30/2022 07:45:39|09/02/2023 13:50:45|{'rendered': 'The Battle: Roar to Victory (2019) | Download Korean Movie'}",
+   "modified": "09/02/2023 13:50:45",
+   "completed_at": 1788875518
+  },
+  "https://thenkiri.com/black-adam-bluray-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "73686|https://thenkiri.com/black-adam-bluray-2022-download-hollywood-movie/|11/23/2022 11:46:24|09/02/2023 13:44:49|{'rendered': 'Black Adam BluRay (2022) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 13:44:49",
+   "completed_at": 1788875596
   }
  },
  "series_links": {
@@ -210,6 +228,9 @@
   "https://downloadwella.com/edwno8mk1ofj/Escape.(NKIRI.COM).2024.WebRip.ESub.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/FuMD5WmMk3FzDjUR0HHA3qQNavTXrLF3",
   "https://downloadwella.com/0wx70fq2jg7s/Any.Body.Can.Dance.2.(NKIRI.COM).2015.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/IBvwqf6Qf1aRzZJAkzdjDnwuvCJd6Ukg",
   "https://downloadwella.com/ysj2qr28pxmu/Borderless.Fog.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/-FvtsAo1hVsedxlKyKyUWf56uNigaDid",
-  "https://downloadwella.com/5oydx4dqinxi/Justice.League.Crisis.on.Infinite.Earths.Part.One.(NKIRI.COM).2024.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/NKvKeOsNg2CNBnsH4vfTpYB8LrIGTinV"
+  "https://downloadwella.com/5oydx4dqinxi/Justice.League.Crisis.on.Infinite.Earths.Part.One.(NKIRI.COM).2024.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/NKvKeOsNg2CNBnsH4vfTpYB8LrIGTinV",
+  "https://downloadwella.com/00pddfmqpmbd/Darby.and.The.Dead.(NKIRI.COM).2022.HULU.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/V4jDEYIFiniIYpwSwjgfkFP7XDAZ9wvX",
+  "https://downloadwella.com/jk4f0ejhq0qd/%7Bnkiri.com%7D_The_Battle_Roar_to_Victory_(2018)_jdfu.mkv.html": "https://v1.vidfiles.com/d/xCk5g4P-t5EmOLmE4FjsiUAACOfplRLr",
+  "https://downloadwella.com/1rcb8kazaeph/Black.Adam.(NKIRI.COM).2022.REPACK.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/7FypOuC8Mnex7F7FUC0P44cTAdxxynIU"
  }
 }
