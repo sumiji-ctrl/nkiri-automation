@@ -705,26 +705,38 @@
   "https://thenkiri.com/marry-me-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36512|https://thenkiri.com/marry-me-2022-download-hollywood-movie/|02/12/2022 05:47:04|09/02/2023 13:39:54|{'rendered': 'Marry Me (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788881886.6607277
+   "attempts": 2,
+   "last_attempt": 1788882857.1541157
   },
   "https://thenkiri.com/miss-willoughby-and-the-haunted-bookshop-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36461|https://thenkiri.com/miss-willoughby-and-the-haunted-bookshop-2022-download-hollywood-movie/|02/11/2022 13:38:22|09/02/2023 13:40:03|{'rendered': 'Miss Willoughby and the Haunted Bookshop (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788881887.4189067
+   "attempts": 2,
+   "last_attempt": 1788882858.467903
   },
   "https://thenkiri.com/the-kings-man-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36322|https://thenkiri.com/the-kings-man-2021-download-hollywood-movie/|02/08/2022 19:54:40|09/02/2023 13:40:28|{'rendered': 'The King’s Man (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788881888.3441534
+   "attempts": 2,
+   "last_attempt": 1788882859.7409894
   },
   "https://thenkiri.com/the-long-night-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36205|https://thenkiri.com/the-long-night-2022-download-hollywood-movie/|02/06/2022 18:06:59|09/02/2023 13:37:37|{'rendered': 'The Long Night (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788881957.9090486
+  },
+  "https://thenkiri.com/american-underdog-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36117|https://thenkiri.com/american-underdog-2021-download-hollywood-movie/|02/04/2022 10:22:55|09/02/2023 13:38:02|{'rendered': 'American Underdog (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788882861.0667734
+  },
+  "https://thenkiri.com/nightmare-alley-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35987|https://thenkiri.com/nightmare-alley-2021-download-hollywood-movie/|02/01/2022 14:07:40|09/02/2023 13:38:38|{'rendered': 'Nightmare Alley (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788882862.356863
   }
  },
  "series_links": {
