@@ -7,22 +7,28 @@
    "completed_at": 1788871983
   },
   "https://thenkiri.com/the-mummy-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157222|https://thenkiri.com/the-mummy-2026-download-hollywood-movie/|05/18/2026 10:20:40|05/18/2026 10:20:40|{'rendered': 'The Mummy (2026) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874293.0033326
+   "last_attempt": 1788874293.0033326,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874368
   },
   "https://thenkiri.com/youre-dating-a-narcissist-2026-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "156051|https://thenkiri.com/youre-dating-a-narcissist-2026-download-hollywood-movie/|05/04/2026 11:08:56|05/04/2026 11:24:33|{'rendered': 'You’re Dating a Narcissist! (2026) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874294.53793
+   "last_attempt": 1788874294.53793,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874368
   },
   "https://thenkiri.com/the-stranger-chapter-2-2025-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "151642|https://thenkiri.com/the-stranger-chapter-2-2025-download-hollywood-movie/|03/07/2026 10:15:59|03/07/2026 10:18:36|{'rendered': 'The Stranger: Chapter 2 (2025) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874295.5002148
+   "last_attempt": 1788874295.5002148,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874368
   },
   "https://thenkiri.com/train-dreams-2025-download-hollywood-movie/": {
    "status": "done",
