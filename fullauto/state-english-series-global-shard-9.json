@@ -196,10 +196,12 @@
    "last_attempt": 1788792075.8923242
   },
   "https://thenkiri.com/ransom-canyon-s02-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "162543|https://thenkiri.com/ransom-canyon-s02-complete-tv-series/|2026-07-23T11:25:45|2026-07-23T11:25:45|{'rendered': 'Ransom Canyon S02 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788830776.8072822
+   "last_attempt": 1788830776.8072822,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832211
   },
   "https://thenkiri.com/adventure-time-side-quests-complete-tv-series/": {
    "status": "done",
@@ -210,8 +212,14 @@
   "https://thenkiri.com/the-fortune-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "159052|https://thenkiri.com/the-fortune-s01-complete-tv-series/|2026-06-10T11:51:13|2026-06-10T12:42:42|{'rendered': 'The Fortune S01 (Episode 1 – 4 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788830949.1387002
+   "attempts": 3,
+   "last_attempt": 1788832392.8200207
+  },
+  "https://thenkiri.com/jae-seoks-bb-rules-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "157796|https://thenkiri.com/jae-seoks-bb-rules-s01-complete-tv-series/|2026-05-26T11:23:54|2026-06-04T12:30:11|{'rendered': 'Jae-seok’s B&B Rules! S01 (Episode 10 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788832549.4962738
   }
  },
  "series_links": {

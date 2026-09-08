@@ -1091,52 +1091,60 @@
    "completed_at": 1788812757
   },
   "https://thenkiri.com/society-of-the-snow-2023-download-spanish-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106628|https://thenkiri.com/society-of-the-snow-2023-download-spanish-movie/|2024-01-07T18:05:28|2024-01-07T18:05:28|{'rendered': 'Society of the Snow (2023) | Download Spanish Movie'}",
    "attempts": 3,
-   "last_attempt": 1788830636.2675362
+   "last_attempt": 1788830636.2675362,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832196
   },
   "https://thenkiri.com/kandasamys-the-baby-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "101920|https://thenkiri.com/kandasamys-the-baby-2023-download-hollywood-movie/|2023-10-27T08:15:01|2023-10-27T08:15:01|{'rendered': 'Kandasamy’s: The Baby (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830733.072932
+   "attempts": 3,
+   "last_attempt": 1788832289.9947827
   },
   "https://thenkiri.com/wonderwell-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "96806|https://thenkiri.com/wonderwell-2023-download-hollywood-movie/|2023-08-13T09:39:35|2023-09-02T18:01:02|{'rendered': 'Wonderwell (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830797.9455197
+   "attempts": 3,
+   "last_attempt": 1788832369.1292791
   },
   "https://thenkiri.com/intimate-strangers-2018-download-korean-movie/": {
    "status": "pending",
    "signature": "90939|https://thenkiri.com/intimate-strangers-2018-download-korean-movie/|2023-06-05T18:31:10|2023-09-02T18:06:12|{'rendered': 'Intimate Strangers (2018) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830830.7299232
+   "attempts": 3,
+   "last_attempt": 1788832400.585879
   },
   "https://thenkiri.com/shoot-me-in-the-heart-2015-download-korean-movie/": {
    "status": "pending",
    "signature": "85187|https://thenkiri.com/shoot-me-in-the-heart-2015-download-korean-movie/|2023-03-25T05:43:23|2023-09-02T17:26:05|{'rendered': 'Shoot Me in the Heart (2015) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830832.2018588
+   "attempts": 3,
+   "last_attempt": 1788832401.8956988
   },
   "https://thenkiri.com/innocence-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "79992|https://thenkiri.com/innocence-2020-download-korean-movie/|2023-01-20T15:53:01|2023-09-02T16:45:50|{'rendered': 'Innocence (2020) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830833.8351657
+   "attempts": 3,
+   "last_attempt": 1788832403.1051733
   },
   "https://thenkiri.com/black-adam-bluray-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "73686|https://thenkiri.com/black-adam-bluray-2022-download-hollywood-movie/|2022-11-23T11:46:24|2023-09-02T13:44:49|{'rendered': 'Black Adam BluRay (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830867.7297928
+   "attempts": 3,
+   "last_attempt": 1788832435.8321664
   },
   "https://thenkiri.com/highway-2014-download-bollywood-movie/": {
    "status": "pending",
    "signature": "69226|https://thenkiri.com/highway-2014-download-bollywood-movie/|2022-10-25T14:37:59|2023-09-02T16:25:14|{'rendered': 'Highway (2014) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788830903.1570578
+   "attempts": 3,
+   "last_attempt": 1788832470.771802
+  },
+  "https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "64436|https://thenkiri.com/khuda-haafiz-chapter-2-2022-download-indian-movie/|2022-09-05T06:27:22|2023-09-02T15:27:14|{'rendered': 'Khuda Haafiz: Chapter 2 (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788832504.9407089
   }
  },
  "series_links": {

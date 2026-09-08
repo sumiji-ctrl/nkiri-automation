@@ -169,10 +169,12 @@
    "completed_at": 1788792618
   },
   "https://thenkiri.com/motel-california-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "129798|https://thenkiri.com/motel-california-s01-complete-korean-drama/|2025-01-10T18:56:53|2025-02-15T20:01:24|{'rendered': 'Motel California S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788830768.752906
+   "last_attempt": 1788830768.752906,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832226
   },
   "https://thenkiri.com/bad-memory-eraser-episode-1-added-korean-drama/": {
    "status": "done",
@@ -183,8 +185,14 @@
   "https://thenkiri.com/a-poem-a-day-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "112192|https://thenkiri.com/a-poem-a-day-s01-complete-korean-drama/|2024-03-12T12:08:43|2024-03-12T12:08:43|{'rendered': 'A Poem A Day S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788831267.3709092
+   "attempts": 3,
+   "last_attempt": 1788832706.6719525
+  },
+  "https://thenkiri.com/persona-sulli-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "103102|https://thenkiri.com/persona-sulli-s01-complete-korean-drama/|2023-11-17T18:22:29|2023-11-17T18:22:29|{'rendered': 'Persona Sulli S01 (Episode 1 & 2 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788832767.597482
   }
  },
  "series_links": {
