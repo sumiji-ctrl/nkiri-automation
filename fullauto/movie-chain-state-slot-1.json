@@ -66,8 +66,8 @@
   "https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/": {
    "status": "pending",
    "signature": "115321|https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/|05/13/2024 06:12:14|05/13/2024 06:12:14|{'rendered': 'The Hunger Games Complete Collection | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788873976.259563
+   "attempts": 3,
+   "last_attempt": 1788874915.3192697
   },
   "https://thenkiri.com/abcd-2-2015-download-indian-movie/": {
    "status": "done",
@@ -78,14 +78,14 @@
   "https://thenkiri.com/stopmotion-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "112376|https://thenkiri.com/stopmotion-2024-download-hollywood-movie/|03/15/2024 09:18:02|03/15/2024 09:22:32|{'rendered': 'Stopmotion (2024) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788873977.03237
+   "attempts": 3,
+   "last_attempt": 1788874916.135492
   },
   "https://thenkiri.com/dogman-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "107367|https://thenkiri.com/dogman-2023-download-hollywood-movie/|01/23/2024 12:48:16|01/23/2024 12:48:16|{'rendered': 'DogMan (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788873978.7690542
+   "attempts": 3,
+   "last_attempt": 1788874917.4534788
   },
   "https://thenkiri.com/justice-league-crisis-on-infinite-earths-part-one-2023-download-hollywood-movie/": {
    "status": "done",
@@ -189,6 +189,12 @@
    "signature": "77346|https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/|12/21/2022 10:05:07|09/02/2023 14:20:10|{'rendered': 'Home Alone 2: Lost in New York (1992) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788874618.2619176
+  },
+  "https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "76402|https://thenkiri.com/the-fabelmans-2022-download-hollywood-movie/|12/13/2022 18:58:52|09/02/2023 14:02:15|{'rendered': 'The Fabelmans (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788874920.4421768
   }
  },
  "series_links": {
