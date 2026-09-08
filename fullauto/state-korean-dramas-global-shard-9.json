@@ -209,14 +209,20 @@
   "https://thenkiri.com/haha-bus-s01-complete-korean-variety-show/": {
    "status": "pending",
    "signature": "86828|https://thenkiri.com/haha-bus-s01-complete-korean-variety-show/|2023-04-12T18:20:44|2024-09-09T07:50:31|{'rendered': 'Haha Bus S01 (Complete) | Korean Variety Show'}",
-   "attempts": 2,
-   "last_attempt": 1788841860.1350567
+   "attempts": 3,
+   "last_attempt": 1788846180.358928
   },
   "https://thenkiri.com/trolley-complete-korean-drama/": {
    "status": "pending",
    "signature": "77284|https://thenkiri.com/trolley-complete-korean-drama/|2022-12-19T18:20:06|2023-12-15T06:58:19|{'rendered': 'Trolley S01 (Complete) | Korean Drama'}",
    "attempts": 1,
    "last_attempt": 1788842361.479224
+  },
+  "https://thenkiri.com/she-makes-my-heart-flutter-episodes-1-2-added-korean-drama/": {
+   "status": "pending",
+   "signature": "68872|https://thenkiri.com/she-makes-my-heart-flutter-episodes-1-2-added-korean-drama/|2022-10-24T15:11:19|2024-02-27T20:21:47|{'rendered': 'She Makes My Heart Flutter (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788846867.815102
   }
  },
  "series_links": {
@@ -522,6 +528,20 @@
   "https://downloadwella.com/mv6gi5vzzuvz/Bad.Memory.Eraser.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PWLM92Z7B3t7_6rpzGJF6UHgHfFWlX_C",
   "https://downloadwella.com/d85kih61sxcm/Bad.Memory.Eraser.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7FzMg1mm2LaTtS7t0pnqCt9kLQHWUPMy",
   "https://downloadwella.com/2i7zf95f5ggt/Bad.Memory.Eraser.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0cjuZXm-O--6nhoooDlJnO1Ojf3bcxWw",
-  "https://downloadwella.com/nvxtw930bgdz/Bad.Memory.Eraser.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBSGnq9-dfzrwFnBiVhIx8Myn-FuVk23"
+  "https://downloadwella.com/nvxtw930bgdz/Bad.Memory.Eraser.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBSGnq9-dfzrwFnBiVhIx8Myn-FuVk23",
+  "https://downloadwella.com/pffvp1pdhbvq/HaHa.Bus.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ZZc2YS2Y26HwvZjdGWR7NcONrV4-etY",
+  "https://downloadwella.com/nmbwxexrue08/HaHa.Bus.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rqODwfErwOngJwGLGBquQiDoZkV6XueV",
+  "https://downloadwella.com/yx83aedikxfh/HaHa.Bus.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Gzf-GG_CWUCyM_kYgWivirrfioN67Psw",
+  "https://downloadwella.com/aozjtvoyhbiy/HaHa.Bus.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kM9fJCfGOtz9w1g9IonGp4CgKaU3W9Qy",
+  "https://downloadwella.com/hfwmb8lnyzr1/HaHa.Bus.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j9_OvUZDU-E3aUsxLsM9jMJf-G00m4zo",
+  "https://downloadwella.com/dny2kg7jy4bq/HaHa.Bus.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Uyn4aNBpo7SaraNjfVSfqyohTVKuOGs",
+  "https://downloadwella.com/8sdp85ccna0i/HaHa.Bus.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2yBcLX6Vzx13fgnMkMVPizV_RvYp2aFn",
+  "https://downloadwella.com/g18oefs0cvep/HaHa.Bus.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uE6USdHjYc42PHh46fHS7IiBe64XOU3o",
+  "https://downloadwella.com/rwly21b04o0x/HaHa.Bus.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I1IbYInXlD9d0gbg4nEDAOyU4O0YzPpr",
+  "https://downloadwella.com/ukq60etoiq4i/HaHa.Bus.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/71tAOyx4dUUmE6y83GgcqEPgV0z3zu3j",
+  "https://downloadwella.com/jrk00ukldryh/She.Makes.My.Heart.Flutter.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SO3Y-Sk698EwnD3ygYKPBFYikDlxwVsN",
+  "https://downloadwella.com/vwaczs3cp26e/She.Makes.My.Heart.Flutter.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N30r2T1zpkfhFGIVX_YsgiiveLAlYYRS",
+  "https://downloadwella.com/3r4p93k9cpfa/she-makes-my-heart-flutter-E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0143RBktVzOV5TpoC2U8bKnapF13OdWT",
+  "https://downloadwella.com/l6p8eaq5m9wm/She.Makes.My.Heart.Flutter.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sptEvwqHsCChc6hS9wL_eM5Xi-IcSDbo"
  }
 }

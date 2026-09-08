@@ -1187,52 +1187,100 @@
    "blocked_at": 1788838026
   },
   "https://thenkiri.com/gehraiyaan-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41125|https://thenkiri.com/gehraiyaan-2022-download-indian-movie/|2022-05-01T08:16:48|2023-09-02T13:50:39|{'rendered': 'Gehraiyaan (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841455.2538962
+   "last_attempt": 1788841455.2538962,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842975
   },
   "https://thenkiri.com/city-of-lies-2018-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39242|https://thenkiri.com/city-of-lies-2018-download-hollywood-movie/|2022-04-07T10:07:29|2023-09-02T13:39:42|{'rendered': 'City of Lies (2018) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841456.704209
+   "last_attempt": 1788841456.704209,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842975
   },
   "https://thenkiri.com/drive-my-car-2021-download-japanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37475|https://thenkiri.com/drive-my-car-2021-download-japanese-movie/|2022-03-04T06:15:28|2023-09-02T13:10:17|{'rendered': 'Drive My Car (2021) | Download JAPANESE Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841457.8846924
+   "last_attempt": 1788841457.8846924,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842975
   },
   "https://thenkiri.com/the-other-me-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36247|https://thenkiri.com/the-other-me-2022-download-hollywood-movie/|2022-02-07T14:02:00|2023-09-02T13:40:41|{'rendered': 'The Other Me (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841459.194422
+   "last_attempt": 1788841459.194422,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842975
   },
   "https://thenkiri.com/italian-studies-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "35052|https://thenkiri.com/italian-studies-2022-download-hollywood-movie/|2022-01-14T11:28:31|2023-09-02T13:25:59|{'rendered': 'Italian Studies (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841460.6699882
+   "last_attempt": 1788841460.6699882,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842975
   },
   "https://thenkiri.com/last-looks-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34092|https://thenkiri.com/last-looks-2021-download-hollywood-movie/|2021-12-27T18:27:13|2023-09-02T13:15:24|{'rendered': 'Last Looks (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841462.1636965
+   "last_attempt": 1788841462.1636965,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788842975
   },
   "https://thenkiri.com/avengers-age-of-ultron-2015-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32860|https://thenkiri.com/avengers-age-of-ultron-2015-download-hollywood-movie/|2021-11-29T11:47:48|2023-09-02T13:08:29|{'rendered': 'Avengers Age of Ultron (2015) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841463.3805754
+   "attempts": 3,
+   "last_attempt": 1788842976.4837291
   },
   "https://thenkiri.com/the-miseducation-of-bindu-2019-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31795|https://thenkiri.com/the-miseducation-of-bindu-2019-download-hollywood-movie/|2021-11-10T16:00:46|2023-09-02T11:01:36|{'rendered': 'The Miseducation of Bindu (2019) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841464.8853512
+   "attempts": 3,
+   "last_attempt": 1788842977.8654728
+  },
+  "https://thenkiri.com/fever-dream-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "30613|https://thenkiri.com/fever-dream-2021-download-hollywood-movie/|2021-10-15T09:48:46|2023-09-02T10:12:49|{'rendered': 'Fever Dream (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788842979.2742796
+  },
+  "https://thenkiri.com/black-light-2020-download-korean-movie/": {
+   "status": "pending",
+   "signature": "17920|https://thenkiri.com/black-light-2020-download-korean-movie/|2021-06-22T07:43:05|2023-09-02T09:26:04|{'rendered': 'Black Light (2020) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788842980.8866453
+  },
+  "https://thenkiri.com/the-chronicles-of-evil-2015-download-korean-movie/": {
+   "status": "done",
+   "signature": "16644|https://thenkiri.com/the-chronicles-of-evil-2015-download-korean-movie/|2021-05-27T08:52:51|2023-09-02T09:13:53|{'rendered': 'The Chronicles of Evil (2015) | Download Korean Movie'}",
+   "modified": "2023-09-02T09:13:53",
+   "completed_at": 1788843132
+  },
+  "https://thenkiri.com/minari-2020-download-hollywood-korean-movie/": {
+   "status": "done",
+   "signature": "13626|https://thenkiri.com/minari-2020-download-hollywood-korean-movie/|2021-03-04T12:23:56|2024-02-25T07:46:26|{'rendered': 'Minari (2020) | Download Hollywood & Korean Movie'}",
+   "modified": "2024-02-25T07:46:26",
+   "completed_at": 1788843496
+  },
+  "https://thenkiri.com/fallo-private-2003-download-italian-movie/": {
+   "status": "done",
+   "signature": "10379|https://thenkiri.com/fallo-private-2003-download-italian-movie/|2021-01-21T14:47:59|2023-09-02T08:32:39|{'rendered': 'Fallo! / Private (2003) | Download Italian Movie'}",
+   "modified": "2023-09-02T08:32:39",
+   "completed_at": 1788843882
+  },
+  "https://thenkiri.com/scooby-doo-happy-halloween-2020-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "8847|https://thenkiri.com/scooby-doo-happy-halloween-2020-download-hollywood-movie/|2020-10-02T12:14:43|2023-09-02T08:10:59|{'rendered': 'Scooby Doo Happy Halloween (2020) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788843885.0439975
   }
  },
  "series_links": {
@@ -1441,6 +1489,9 @@
   "https://downloadwella.com/jfjre29btj6i/The.Boys.(NKIRI.COM).2023.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/yCBJGFtumYE8JWmA9uxhaL-wsK_Pk4iS",
   "https://downloadwella.com/a5qkreb9fw31/Maharaja.(NKIRI.COM).2024.NF.WEBRip.ESub.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/VAgRboihaB4v0JIDUmpIvqOae2Wej7gK",
   "https://downloadwella.com/9sd1mq7gmqpv/ABCD.(NKIRI.COM).2013.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/Vtl-U8jmmT2YBxx6xVoXH87hTB9vGj32",
-  "https://downloadwella.com/y4nci0qtcymd/Tiger.3.(NKIRI.COM).2023.WEB-HD.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/EoFNHkg4YJTwIw8aZ-mcLa34QnwUVCjy"
+  "https://downloadwella.com/y4nci0qtcymd/Tiger.3.(NKIRI.COM).2023.WEB-HD.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/EoFNHkg4YJTwIw8aZ-mcLa34QnwUVCjy",
+  "https://downloadwella.com/47yb3fpblaqu/The.Chronicles.of.Evil.(NKIRI.COM).2015.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/aRkUkI3J5heKK82StbzpRvAJgcr_Ljrh",
+  "https://downloadwella.com/hi7289l7a9co/Minari.(NKIRI.COM).2020.KOREAN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/8FgZYiub0mxdvTu0fnG6LWl8k1rpn9Pe",
+  "https://downloadwella.com/7ohpq6azzs8d/Fallo!.(NKIRI.COM).2003.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/lzvXfD9t5jCN6ggyAcdl6olD7kikr6qn"
  }
 }

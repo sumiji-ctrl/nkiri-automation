@@ -236,14 +236,14 @@
   "https://thenkiri.com/running-point-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "155356|https://thenkiri.com/running-point-s01-complete-tv-series/|2026-04-24T19:12:54|2026-04-24T19:12:54|{'rendered': 'Running Point S01 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788841792.6483958
+   "attempts": 3,
+   "last_attempt": 1788845986.62634
   },
   "https://thenkiri.com/ronaldinho-the-one-and-only-complete-documentary-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "154485|https://thenkiri.com/ronaldinho-the-one-and-only-complete-documentary-series/|2026-04-16T12:14:51|2026-04-16T13:13:30|{'rendered': 'Ronaldinho: The One and Only (Complete) | Documentary Series'}",
-   "attempts": 1,
-   "last_attempt": 1788842002.911347
+   "modified": "2026-04-16T13:13:30",
+   "completed_at": 1788846582
   }
  },
  "series_links": {
@@ -477,6 +477,17 @@
   "https://downloadwella.com/anjuwfu50epo/Adventure.Time.Side.Quests.S01E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CMw7l16Dr-06ipXaVz--Wd0kfU_F3Vh-",
   "https://downloadwella.com/wuncads9p545/Adventure.Time.Side.Quests.S01E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XAlL_Ycg95X9thz97zMcOoywltDuLWb0",
   "https://downloadwella.com/ps6xauuceeyf/Adventure.Time.Side.Quests.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TG_c4edLhHRDm-xicrPox82ecGaF4e5F",
-  "https://downloadwella.com/xiuwkqf08pgh/Adventure.Time.Side.Quests.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nwkj5_jUWMHC152zcH4dAS7AE4NdmV8d"
+  "https://downloadwella.com/xiuwkqf08pgh/Adventure.Time.Side.Quests.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nwkj5_jUWMHC152zcH4dAS7AE4NdmV8d",
+  "https://downloadwella.com/f3obisp3637o/Running.Point.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pNVyY0q2t0Ow2SerpRC1FZuDWKWx1uKk",
+  "https://downloadwella.com/y1ey2abfteba/Running.Point.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LgZGS_JEQkhUYfB1Ym3vGq_btR8NJtuJ",
+  "https://downloadwella.com/bwpzhx1h5exd/Running.Point.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1semK4u8vkAuVzYA26eac0vQDSS3HDQL",
+  "https://downloadwella.com/cc0pbbo3irpq/Running.Point.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/72h8oiD1WSfmYPbz5AxHw3HNSS37TGAV",
+  "https://downloadwella.com/e440cxfpdasd/Running.Point.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MumA_rTCms7gYTon-QNcTJQssmUo_JHe",
+  "https://downloadwella.com/sz6mtbjiq49h/Running.Point.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CpS18HbYyUMb806eY_WewbK6xnsA_CfO",
+  "https://downloadwella.com/bz071bu7n4si/Running.Point.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KiIMgPqfq00KUSjs1Ec57MkTyQsKGhnZ",
+  "https://downloadwella.com/jkityuxqgfvq/Running.Point.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SU_IvwKb9nW2RuUKbHHa8yBX0CUIJyRP",
+  "https://downloadwella.com/lhuqq5fuck9m/Ronaldinho.The.One.and.Only.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zYvMpXNWoN37g08Y28f35Poyw12GBTP0",
+  "https://downloadwella.com/dhr0tcul3xdz/Ronaldinho.The.One.and.Only.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xo43SZDu-9HfQAF6WukdelxRMOUqWpRX",
+  "https://downloadwella.com/mzync67o4s9j/Ronaldinho.The.One.and.Only.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gdSSBgC6GA4wCla3N8tv7L6HgqFUB7bV"
  }
 }
