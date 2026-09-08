@@ -197,16 +197,24 @@
    "blocked_at": 1788836093
   },
   "https://thenkiri.com/my-lovely-liar-s01-episode-1-added-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "96212|https://thenkiri.com/my-lovely-liar-s01-episode-1-added-korean-drama/|2023-07-31T17:39:23|2024-02-25T01:25:42|{'rendered': 'My Lovely Liar S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788838677.9919891
+   "last_attempt": 1788838677.9919891,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841432
   },
   "https://thenkiri.com/duty-after-school-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "85703|https://thenkiri.com/duty-after-school-s01-complete-korean-drama/|2023-03-31T20:12:10|2023-12-19T09:51:12|{'rendered': 'Duty After School S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788839016.9567149
+   "attempts": 3,
+   "last_attempt": 1788841765.7329412
+  },
+  "https://thenkiri.com/korean-ghost-stories-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "77210|https://thenkiri.com/korean-ghost-stories-complete-korean-drama/|2022-12-19T12:33:48|2023-09-02T14:21:32|{'rendered': 'Korean Ghost Stories (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788842019.456824
   }
  },
  "series_links": {

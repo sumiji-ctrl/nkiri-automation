@@ -1175,52 +1175,100 @@
    "blocked_at": 1788838040
   },
   "https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42843|https://thenkiri.com/the-girl-on-a-bulldozer-2022-download-korean-movie/|2022-05-25T12:58:56|2023-09-02T14:02:46|{'rendered': 'The Girl on a Bulldozer (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838042.6247268
+   "last_attempt": 1788838042.6247268,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841402
   },
   "https://thenkiri.com/brut-force-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "40299|https://thenkiri.com/brut-force-2022-download-hollywood-movie/|2022-04-22T09:18:18|2023-09-02T13:45:38|{'rendered': 'Brut Force (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838043.7295265
+   "last_attempt": 1788838043.7295265,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841402
   },
   "https://thenkiri.com/the-bubble-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38931|https://thenkiri.com/the-bubble-2022-download-hollywood-movie/|2022-04-01T16:29:55|2023-09-02T13:36:36|{'rendered': 'The Bubble (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838044.9670744
+   "last_attempt": 1788838044.9670744,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841402
   },
   "https://thenkiri.com/the-pirates-2014-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "37332|https://thenkiri.com/the-pirates-2014-download-korean-movie/|2022-03-02T18:03:53|2023-09-02T13:10:49|{'rendered': 'The Pirates (2014) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838046.0702531
+   "last_attempt": 1788838046.0702531,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841402
   },
   "https://thenkiri.com/last-survivors-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36144|https://thenkiri.com/last-survivors-2022-download-hollywood-movie/|2022-02-04T13:57:19|2023-09-02T13:37:51|{'rendered': 'Last Survivors (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838047.2052195
+   "last_attempt": 1788838047.2052195,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841402
   },
   "https://thenkiri.com/pleasure-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34931|https://thenkiri.com/pleasure-2021-download-hollywood-movie/|2022-01-11T00:15:26|2023-09-02T13:23:14|{'rendered': 'Pleasure (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788838048.437124
+   "last_attempt": 1788838048.437124,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841402
   },
   "https://thenkiri.com/the-classic-2003-download-korean-movie/": {
    "status": "pending",
    "signature": "33964|https://thenkiri.com/the-classic-2003-download-korean-movie/|2021-12-23T15:41:45|2023-09-02T13:15:44|{'rendered': 'The Classic (2003) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788838049.7502189
+   "attempts": 3,
+   "last_attempt": 1788841403.8905191
   },
   "https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32666|https://thenkiri.com/jonas-brothers-family-roast-2021-download-hollywood-movie/|2021-11-26T08:12:32|2023-09-02T13:05:32|{'rendered': 'Jonas Brothers Family Roast (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788841405.1929867
+  },
+  "https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31634|https://thenkiri.com/inglourious-basterds-2009-download-hollywood-movie/|2021-11-07T10:00:49|2023-09-02T10:58:30|{'rendered': 'Inglourious Basterds (2009) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788838051.2540762
+   "last_attempt": 1788841406.38385
+  },
+  "https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/": {
+   "status": "pending",
+   "signature": "30467|https://thenkiri.com/pokemon-the-movie-secrets-of-the-jungle-dubbed-download-japanese-animation/|2021-10-13T11:09:14|2023-09-02T10:13:29|{'rendered': 'Pokémon the Movie: Secrets of the Jungle DUBBED | Download Japanese Animation'}",
+   "attempts": 1,
+   "last_attempt": 1788841407.614936
+  },
+  "https://thenkiri.com/censor-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "17714|https://thenkiri.com/censor-2021-download-hollywood-movie/|2021-06-18T13:52:44|2023-09-02T09:23:15|{'rendered': 'Censor (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841418.4844162
+  },
+  "https://thenkiri.com/radhe-2021-download-bollywood-movie/": {
+   "status": "pending",
+   "signature": "16332|https://thenkiri.com/radhe-2021-download-bollywood-movie/|2021-05-18T08:50:03|2024-02-25T08:05:15|{'rendered': 'Radhe (2021) | Download Bollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841453.7534227
+  },
+  "https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "13541|https://thenkiri.com/cosmic-sin-2021-download-hollywood-movie/|2021-03-02T12:46:35|2023-09-02T08:41:07|{'rendered': 'Cosmic Sin (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841469.5359693
+  },
+  "https://thenkiri.com/the-lord-of-the-rings-2-the-two-towers-2002-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "10086|https://thenkiri.com/the-lord-of-the-rings-2-the-two-towers-2002-download-hollywood-movie/|2021-01-09T10:22:12|2023-09-02T08:27:20|{'rendered': 'The Lord of the Rings 2: The Two Towers (2002) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841511.2700732
   }
  },
  "series_links": {
