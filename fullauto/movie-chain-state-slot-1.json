@@ -715,16 +715,20 @@
    "blocked_at": 1788883639
   },
   "https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36926|https://thenkiri.com/tokyo-revenger-2021-download-japanese-movie/|02/21/2022 08:28:25|09/02/2023 13:08:53|{'rendered': 'Tokyo Revenger (2021) | Download JAPANESE Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883640.3951023
+   "last_attempt": 1788883640.3951023,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883747
   },
   "https://thenkiri.com/scream-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36729|https://thenkiri.com/scream-2022-download-hollywood-movie/|02/16/2022 22:24:38|09/02/2023 13:42:16|{'rendered': 'Scream (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883641.2325132
+   "last_attempt": 1788883641.2325132,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883747
   },
   "https://thenkiri.com/marry-me-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -809,6 +813,30 @@
    "signature": "34669|https://thenkiri.com/the-commando-2022-download-hollywood-movie/|01/07/2022 14:35:52|09/02/2023 13:24:00|{'rendered': 'The Commando (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788883645.3331134
+  },
+  "https://thenkiri.com/scream-1996-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34606|https://thenkiri.com/scream-1996-download-hollywood-movie/|01/06/2022 08:23:02|09/02/2023 13:21:14|{'rendered': 'Scream (1996) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883749.3116405
+  },
+  "https://thenkiri.com/ghost-mansion-2021-download-korean-movie/": {
+   "status": "pending",
+   "signature": "34513|https://thenkiri.com/ghost-mansion-2021-download-korean-movie/|01/04/2022 12:32:55|07/02/2026 08:21:00|{'rendered': 'Ghost Mansion (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883750.4705946
+  },
+  "https://thenkiri.com/seal-team-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34308|https://thenkiri.com/seal-team-2021-download-hollywood-movie/|01/01/2022 08:12:53|09/02/2023 13:19:12|{'rendered': 'Seal Team (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883751.7170787
+  },
+  "https://thenkiri.com/john-wick-2014-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34271|https://thenkiri.com/john-wick-2014-download-hollywood-movie/|12/31/2021 17:10:37|09/02/2023 13:19:32|{'rendered': 'John Wick (2014) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883752.9456859
   }
  },
  "series_links": {
