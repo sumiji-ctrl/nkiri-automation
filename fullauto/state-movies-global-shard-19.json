@@ -1227,34 +1227,44 @@
    "blocked_at": 1788859265
   },
   "https://thenkiri.com/cicada-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "34086|https://thenkiri.com/cicada-2021-download-hollywood-movie/|2021-12-27T18:21:12|2023-09-02T13:15:27|{'rendered': 'Cicada (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859266.1559978
+   "last_attempt": 1788859266.1559978,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861520
   },
   "https://thenkiri.com/avengers-infinity-war-2018-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "32854|https://thenkiri.com/avengers-infinity-war-2018-download-hollywood-movie/|2021-11-29T11:38:15|2023-09-02T13:08:33|{'rendered': 'Avengers Infinity War (2018) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859267.0925717
+   "last_attempt": 1788859267.0925717,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861520
   },
   "https://thenkiri.com/rogue-city-2021-download-french-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "31789|https://thenkiri.com/rogue-city-2021-download-french-movie/|2021-11-10T15:52:44|2023-09-02T11:01:43|{'rendered': 'Rogue City (2021) | Download FRENCH Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859267.9836106
+   "last_attempt": 1788859267.9836106,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861520
   },
   "https://thenkiri.com/list-of-a-lifetime-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "30607|https://thenkiri.com/list-of-a-lifetime-2021-download-hollywood-movie/|2021-10-15T09:42:20|2023-09-02T10:12:52|{'rendered': 'List of a Lifetime (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859269.0573077
+   "last_attempt": 1788859269.0573077,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861520
   },
   "https://thenkiri.com/wicked-2021-download-hollywood-movie-2/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "17856|https://thenkiri.com/wicked-2021-download-hollywood-movie-2/|2021-06-20T14:56:19|2026-08-25T08:32:10|{'rendered': 'Batman the Long Halloween Part One (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788859269.6844628
+   "last_attempt": 1788859269.6844628,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788861520
   },
   "https://thenkiri.com/wrath-of-man-2021-download-hollywood-movie/": {
    "status": "done",
@@ -1271,8 +1281,8 @@
   "https://thenkiri.com/a-united-kingdom-2016-download-hollywood-movie/": {
    "status": "pending",
    "signature": "10365|https://thenkiri.com/a-united-kingdom-2016-download-hollywood-movie/|2021-01-21T13:25:22|2023-09-02T08:32:50|{'rendered': 'A United Kingdom (2016) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788859286.1098564
+   "attempts": 2,
+   "last_attempt": 1788861539.6678116
   },
   "https://thenkiri.com/lost-girls-and-love-hotels-2020-download-hollywood-movie/": {
    "status": "done",
@@ -1283,8 +1293,14 @@
   "https://thenkiri.com/the-tuxedo-2002-download-hollywood-movie/": {
    "status": "pending",
    "signature": "6762|https://thenkiri.com/the-tuxedo-2002-download-hollywood-movie/|2020-07-13T09:37:07|2023-09-02T07:39:16|{'rendered': 'The Tuxedo (2002) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788859635.1187124
+   "attempts": 2,
+   "last_attempt": 1788861581.0787044
+  },
+  "https://thenkiri.com/download-once-upon-a-time-in-hollywood-movie/": {
+   "status": "done",
+   "signature": "2901|https://thenkiri.com/download-once-upon-a-time-in-hollywood-movie/|2019-11-22T14:28:12|2023-09-02T07:19:14|{'rendered': 'Once Upon A Time in Hollywood (2019) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:19:14",
+   "completed_at": 1788862190
   }
  },
  "series_links": {
@@ -1497,6 +1513,7 @@
   "https://downloadwella.com/spddk4j50251/Youll.Never.Find.Me.(NKIRI.COM).2023.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/R7367x-D7rZQ72JWr2LRjUt5WbDo5TrF",
   "https://downloadwella.com/k1epb7t1xdxx/Wrath.Of.Man.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/AIqQDu6CbjiMv4no10-jEhnPI_3YGflr",
   "https://downloadwella.com/4do2hi72mnhd/The.Accidental.Detective.2.In.Action.(NKIRI.COM).2018.KOREAN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/TvLG56i1ThFPn9FuRmkfU7n2a2QZX31D",
-  "https://downloadwella.com/9uidli2orkhn/Lost.Girls.And.Love.Hotels.(NKIRI.COM).2020.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/79Zh6kovCMiDGk4oYeOkdFxL225W4Gc0"
+  "https://downloadwella.com/9uidli2orkhn/Lost.Girls.And.Love.Hotels.(NKIRI.COM).2020.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/79Zh6kovCMiDGk4oYeOkdFxL225W4Gc0",
+  "https://downloadwella.com/bpcrqgxyxc8m/Once.Upon.A.Time.In.Hollywood.(NKIRI.COM).2019.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/XYDwOjvymHeoaC3tyxAUQ04uitc4L9op"
  }
 }

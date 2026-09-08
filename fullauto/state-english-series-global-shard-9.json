@@ -248,16 +248,22 @@
    "completed_at": 1788846582
   },
   "https://thenkiri.com/dear-killer-nannies-s01-complete-foreign-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "153495|https://thenkiri.com/dear-killer-nannies-s01-complete-foreign-tv-series/|2026-04-01T18:23:55|2026-04-02T11:02:33|{'rendered': 'Dear Killer Nannies S01 (Complete) | Foreign TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788860158.1194327
+   "modified": "2026-04-02T11:02:33",
+   "completed_at": 1788861893
   },
   "https://thenkiri.com/a-woman-of-substance-s01-complete-tv-series/": {
    "status": "done",
    "signature": "152582|https://thenkiri.com/a-woman-of-substance-s01-complete-tv-series/|2026-03-19T13:05:21|2026-03-19T13:05:21|{'rendered': 'A Woman of Substance S01 (Complete ) | TV Series'}",
    "modified": "2026-03-19T13:05:21",
    "completed_at": 1788860541
+  },
+  "https://thenkiri.com/dtf-st-louis-s01complete-tv-series-drama/": {
+   "status": "pending",
+   "signature": "151387|https://thenkiri.com/dtf-st-louis-s01complete-tv-series-drama/|2026-03-03T16:27:01|2026-04-21T09:21:55|{'rendered': 'DTF St. Louis S01(Complete) | Tv series Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788864682.6078937
   }
  },
  "series_links": {
@@ -512,6 +518,12 @@
   "https://downloadwella.com/ou104nhhhf2e/Dear.Killer.Nannies.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WKUB9V5v14a56_IMEiBL8mefouRhQZrE",
   "https://downloadwella.com/aeof2nahreup/A.woman.of.Substance.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mvZ1H3sJK5Txy764VeurkK9j77r5INg7",
   "https://downloadwella.com/474ezntwqou3/A.woman.of.Substance.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IuvOHqfDBK-s7ysTjDnD71ctEJfc8JdT",
-  "https://downloadwella.com/q5zoglhtygsv/A.woman.of.Substance.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yOFCXQr0amzlaogGWCk1rwt6KH17wSZ0"
+  "https://downloadwella.com/q5zoglhtygsv/A.woman.of.Substance.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yOFCXQr0amzlaogGWCk1rwt6KH17wSZ0",
+  "https://downloadwella.com/zqatdx22cu2d/Dear.Killer.Nannies.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8CSSxRBVzLUK8xvrax9knwpaOIXHDOu-",
+  "https://downloadwella.com/3rtny1t742dw/DTF.St.Louis.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wsmp2gpaZGvOLT3dSYpOeqHOWkKMZBh-",
+  "https://downloadwella.com/lhio9d6q520c/DTF.St.Louis.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T3Qr_TF3nwgL0Ay4SMDJSg7m95eWY8sW",
+  "https://downloadwella.com/u6u2h6moycei/DTF.St.Louis.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l73zSNJMCpxFTzQf2MRVn7mFVWyhS-Ag",
+  "https://downloadwella.com/7ty54uxgubxo/DTF.St.Louis.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/05JjREpYAaNZPjI-gFFHzDYtL7J4JzOG",
+  "https://downloadwella.com/w7kgiw0631q3/DTF.St.Louis.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ML3iSfE3XKo71GAAzh-9TgBKz4aBxDof"
  }
 }
