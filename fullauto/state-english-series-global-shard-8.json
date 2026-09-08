@@ -204,8 +204,14 @@
   "https://thenkiri.com/x-men-97-s02-episode-1-3-added-tv-series/": {
    "status": "pending",
    "signature": "160622|https://thenkiri.com/x-men-97-s02-episode-1-3-added-tv-series/|2026-07-01T09:13:41|2026-08-12T08:59:47|{'rendered': 'X-Men ’97 S02 (Episode 9 Added) | TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788823044.775608
+  },
+  "https://thenkiri.com/every-year-after-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "159062|https://thenkiri.com/every-year-after-s01-complete-tv-series/|2026-06-10T14:14:16|2026-06-10T14:33:08|{'rendered': 'Every Year After S01 (Complete) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788816278.7777386
+   "last_attempt": 1788827009.4621332
   }
  },
  "series_links": {
@@ -434,6 +440,12 @@
   "https://downloadwella.com/02hko3hhe459/X.Men.97.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T15V-f5muCj7mtp-0NruypCq5XcqdzhG",
   "https://downloadwella.com/v2gfc0rkfabj/X.Men.97.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oSfRVfiSm1qsY5nleLgPuhCD56f2vwDQ",
   "https://downloadwella.com/zke39az15br4/X.Men.97.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tmxlZW6JzdLEdCGV-YJDJZy8cA-iL-Yu",
-  "https://downloadwella.com/jw4ay9qqgweb/X.Men.97.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p6wkLVCdTedmr0IPjMGXM3SvSwq-PahV"
+  "https://downloadwella.com/jw4ay9qqgweb/X.Men.97.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p6wkLVCdTedmr0IPjMGXM3SvSwq-PahV",
+  "https://downloadwella.com/ut85d36voyfq/X.Men.97.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oTTmINvhpkce6CmbsWcBuWjc3JuTJ4UV",
+  "https://downloadwella.com/48r5uw7ktjch/Every.Year.After.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HdmtxW1YIvJdHR4glAU_nRFSNxbRv8S4",
+  "https://downloadwella.com/avbe2fv37nno/Every.Year.After.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sf7YxWJF2ksVMCg2UeSD1Z0sE_U7BnAZ",
+  "https://downloadwella.com/esg4ttfnu0yv/Every.Year.After.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WgV87Y8k4Ca4l2YdrMtr3ItIDDB1zoH4",
+  "https://downloadwella.com/p91iod6nnd64/Every.Year.After.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MzlKERnOIbE0X5qomm_s6-u_i7L70QOW",
+  "https://downloadwella.com/lsmwxlu6ud4w/Every.Year.After.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qlCWAMWlUFz-T2fOe_vhiuxogZjw3Wn7"
  }
 }
