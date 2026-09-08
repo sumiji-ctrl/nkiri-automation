@@ -189,16 +189,20 @@
    "blocked_at": 1788876446
   },
   "https://thenkiri.com/batman-the-doom-that-came-to-gotham-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "83966|https://thenkiri.com/batman-the-doom-that-came-to-gotham-2023-download-hollywood-movie/|03/09/2023 09:29:48|09/02/2023 17:19:44|{'rendered': 'Batman: The Doom That Came to Gotham (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788876822.6108332
+   "last_attempt": 1788876822.6108332,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788877137
   },
   "https://thenkiri.com/an-action-hero-2022-download-bollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "81576|https://thenkiri.com/an-action-hero-2022-download-bollywood-movie/|02/07/2023 12:05:19|09/02/2023 17:06:21|{'rendered': 'An Action Hero (2022) | Download Bollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788876824.3186114
+   "last_attempt": 1788876824.3186114,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788877137
   },
   "https://thenkiri.com/black-panther-2-wakanda-forever-2022-download-hollywood-movie/": {
    "status": "done",
@@ -209,8 +213,8 @@
   "https://thenkiri.com/limit-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "79390|https://thenkiri.com/limit-2022-download-korean-movie/|01/11/2023 06:15:10|09/02/2023 16:39:00|{'rendered': 'Limit (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788876175.1515749
+   "attempts": 3,
+   "last_attempt": 1788877138.8655162
   },
   "https://thenkiri.com/home-alone-2-lost-in-new-york-1992-download-hollywood-movie/": {
    "status": "pending",
@@ -349,6 +353,12 @@
    "signature": "47151|https://thenkiri.com/jalsa-2022-download-indian-movie/|07/27/2022 08:08:52|02/24/2024 19:07:20|{'rendered': 'Jalsa (2022) | Download Indian Movie'}",
    "attempts": 1,
    "last_attempt": 1788877093.3440561
+  },
+  "https://thenkiri.com/the-outlaws-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "47023|https://thenkiri.com/the-outlaws-2022-download-korean-movie/|07/25/2022 07:34:28|12/25/2023 06:48:48|{'rendered': 'The Outlaws (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877150.0817146
   }
  },
  "series_links": {
