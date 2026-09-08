@@ -603,16 +603,20 @@
    "blocked_at": 1788881885
   },
   "https://thenkiri.com/american-reject-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39539|https://thenkiri.com/american-reject-2022-download-hollywood-movie/|04/13/2022 11:07:09|09/02/2023 13:41:40|{'rendered': 'American Reject (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882711.624498
+   "last_attempt": 1788882711.624498,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882784
   },
   "https://thenkiri.com/agent-game-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39436|https://thenkiri.com/agent-game-2022-download-hollywood-movie/|04/11/2022 06:50:17|09/02/2023 13:38:56|{'rendered': 'Agent Game (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882712.63686
+   "last_attempt": 1788882712.63686,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882784
   },
   "https://thenkiri.com/the-outfit-2022-download-hollywood-movie/": {
    "status": "pending",
