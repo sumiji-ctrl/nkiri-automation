@@ -171,14 +171,20 @@
   "https://thenkiri.com/namib-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "129077|https://thenkiri.com/namib-s01-complete-korean-drama/|2024-12-23T16:42:19|2025-01-28T17:25:47|{'rendered': 'Namib S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788813145.5762384
+   "attempts": 2,
+   "last_attempt": 1788828519.29649
   },
   "https://thenkiri.com/no-way-out-the-roulette-complete-korean-drama/": {
    "status": "done",
    "signature": "119117|https://thenkiri.com/no-way-out-the-roulette-complete-korean-drama/|2024-07-31T16:11:57|2024-08-21T09:25:08|{'rendered': 'No Way Out: The Roulette (Complete) | Korean Drama'}",
    "modified": "2024-08-21T09:25:08",
    "completed_at": 1788815955
+  },
+  "https://thenkiri.com/my-fair-lady-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "112022|https://thenkiri.com/my-fair-lady-s01-complete-korean-drama/|2024-03-09T08:27:16|2024-03-09T08:27:16|{'rendered': 'My Fair Lady S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788830466.7390807
   }
  },
  "series_links": {

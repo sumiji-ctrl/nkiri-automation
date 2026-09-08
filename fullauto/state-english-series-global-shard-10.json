@@ -206,6 +206,18 @@
    "signature": "160321|https://thenkiri.com/the-bear-s05-complete-tv-series/|2026-06-26T15:04:03|2026-06-26T15:04:03|{'rendered': 'The Bear S05 (Complete) | TV Series'}",
    "modified": "2026-06-26T15:04:03",
    "completed_at": 1788814220
+  },
+  "https://thenkiri.com/alice-and-steve-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "158898|https://thenkiri.com/alice-and-steve-s01-complete-tv-series/|2026-06-08T12:57:20|2026-06-08T12:57:20|{'rendered': 'Alice and Steve S01 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828637.820592
+  },
+  "https://thenkiri.com/bad-thoughts-s02-complete-tv-series/": {
+   "status": "pending",
+   "signature": "157696|https://thenkiri.com/bad-thoughts-s02-complete-tv-series/|2026-05-25T13:17:52|2026-05-25T13:17:52|{'rendered': 'Bad Thoughts S02 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828816.5605316
   }
  },
  "series_links": {
