@@ -413,20 +413,20 @@
   "https://thenkiri.com/vikram-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "46153|https://thenkiri.com/vikram-2022-download-indian-movie/|07/11/2022 11:42:48|09/02/2023 14:41:52|{'rendered': 'Vikram (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878617.1399481
+   "attempts": 3,
+   "last_attempt": 1788879598.6180625
   },
   "https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45849|https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/|07/08/2022 12:43:13|09/02/2023 14:36:11|{'rendered': 'The Sea Beauty (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878618.400959
+   "attempts": 3,
+   "last_attempt": 1788879599.4003127
   },
   "https://thenkiri.com/dhaakad-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "45595|https://thenkiri.com/dhaakad-2022-download-indian-movie/|07/05/2022 11:51:53|09/02/2023 14:37:25|{'rendered': 'Dhaakad (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788878619.3948505
+   "attempts": 3,
+   "last_attempt": 1788879600.353502
   },
   "https://thenkiri.com/terror-on-the-prairie-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -517,6 +517,18 @@
    "signature": "41517|https://thenkiri.com/the-takedown-2022-download-french-movie/|05/06/2022 19:51:38|09/02/2023 13:52:45|{'rendered': 'The Takedown (2022) | Download FRENCH Movie'}",
    "attempts": 1,
    "last_attempt": 1788879494.1015775
+  },
+  "https://thenkiri.com/love-sling-2018-download-korean-movie/": {
+   "status": "pending",
+   "signature": "41284|https://thenkiri.com/love-sling-2018-download-korean-movie/|05/04/2022 09:22:23|09/02/2023 13:53:25|{'rendered': 'Love + Sling (2018) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879601.1819742
+  },
+  "https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "41131|https://thenkiri.com/fortress-snipers-eye-2022-download-hollywood-movie/|05/01/2022 08:23:49|09/02/2023 13:50:35|{'rendered': 'Fortress Sniper’s Eye (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788879602.0301473
   }
  },
  "series_links": {
