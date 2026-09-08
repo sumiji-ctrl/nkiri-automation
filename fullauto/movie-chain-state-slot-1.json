@@ -731,28 +731,36 @@
    "blocked_at": 1788883747
   },
   "https://thenkiri.com/marry-me-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36512|https://thenkiri.com/marry-me-2022-download-hollywood-movie/|02/12/2022 05:47:04|09/02/2023 13:39:54|{'rendered': 'Marry Me (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883876.1149838
+   "last_attempt": 1788883876.1149838,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883965
   },
   "https://thenkiri.com/miss-willoughby-and-the-haunted-bookshop-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36461|https://thenkiri.com/miss-willoughby-and-the-haunted-bookshop-2022-download-hollywood-movie/|02/11/2022 13:38:22|09/02/2023 13:40:03|{'rendered': 'Miss Willoughby and the Haunted Bookshop (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883877.5275514
+   "last_attempt": 1788883877.5275514,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883965
   },
   "https://thenkiri.com/the-kings-man-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36322|https://thenkiri.com/the-kings-man-2021-download-hollywood-movie/|02/08/2022 19:54:40|09/02/2023 13:40:28|{'rendered': 'The King’s Man (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883878.6582317
+   "last_attempt": 1788883878.6582317,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883965
   },
   "https://thenkiri.com/the-long-night-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "36205|https://thenkiri.com/the-long-night-2022-download-hollywood-movie/|02/06/2022 18:06:59|09/02/2023 13:37:37|{'rendered': 'The Long Night (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883879.7150862
+   "last_attempt": 1788883879.7150862,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883965
   },
   "https://thenkiri.com/american-underdog-2021-download-hollywood-movie/": {
    "status": "pending",
