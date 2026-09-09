@@ -480,6 +480,12 @@
       "modified": "2026-07-15T15:32:14",
       "completed_at": 1788974189,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/ms-x-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "161395|https://thenkiri.com/ms-x-s01-complete-tv-series/|2026-07-09T12:01:36|2026-07-09T16:33:45|{'rendered': 'Ms. X S01 (Complete) | TV Series'}",
+      "modified": "2026-07-09T16:33:45",
+      "completed_at": 1788974648
     }
   },
   "series_links": {
@@ -899,6 +905,12 @@
     "https://downloadwella.com/48hoeqdimk02/The.Crow.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wHZaQI8Qo5pWGroBPz8gVBrt7iZGPjTU",
     "https://downloadwella.com/v50aac7dmgju/Ride.or.Die.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7iJiJxqOt3b5NsG_YikMwdjImJI18Llb",
     "https://downloadwella.com/lv77e80s7h9j/Ride.or.Die.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pJPVNeHgxX8hOnP7SEB_Bra2VMA8_HxE",
-    "https://downloadwella.com/cki44wy4td09/Ride.or.Die.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBSyGG4EkEdf52nVVyCq36iFRwH2iYfA"
+    "https://downloadwella.com/cki44wy4td09/Ride.or.Die.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBSyGG4EkEdf52nVVyCq36iFRwH2iYfA",
+    "https://downloadwella.com/2buu2rc67s13/Ms.X.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ABsoT_V2V8O8Ptn1pfhkUUZHJFAMjop",
+    "https://downloadwella.com/983uyssdwbtw/Ms.X.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G0qi5DNJkki2znoqrUruKZo4pApmxiEa",
+    "https://downloadwella.com/atq07gpowds1/Ms.X.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oepnWu0SIbMa3J1SXrwBuziBSPgXDQYi",
+    "https://downloadwella.com/rlca34otr24u/Ms.X.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iqbJsr0KOwb306qsjC0EljCPKAPU7SSk",
+    "https://downloadwella.com/9m2un58kcmqc/Ms.X.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b6M6shdkkuGqLV9fvbGHWGsbT0P69rox",
+    "https://downloadwella.com/xmppfs0ichp1/Ms.X.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z__kG_WlRc-lnCrmp0eOcRidD1Sk2V4H"
   }
 }
