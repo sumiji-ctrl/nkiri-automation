@@ -779,124 +779,147 @@
    "blocked_at": 1788884948
   },
   "https://thenkiri.com/the-ledge-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35723|https://thenkiri.com/the-ledge-2022-download-hollywood-movie/|01/28/2022 07:32:01|09/02/2023 13:30:14|{'rendered': 'The Ledge (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788885042.3861244
+   "last_attempt": 1788885042.3861244,
+   "reason": "source failed historical retries",
+   "skipped_at": 1788921475
   },
   "https://thenkiri.com/death-of-a-telemarketer-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35604|https://thenkiri.com/death-of-a-telemarketer-2021-download-hollywood-movie/|01/25/2022 17:59:57|09/02/2023 13:30:44|{'rendered': 'Death of a Telemarketer (2021) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788885043.8873985
+   "last_attempt": 1788885043.8873985,
+   "reason": "source failed historical retries",
+   "skipped_at": 1788921475
   },
   "https://thenkiri.com/the-last-thing-mary-saw-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35385|https://thenkiri.com/the-last-thing-mary-saw-2022-download-hollywood-movie/|01/21/2022 13:49:34|09/02/2023 13:28:04|{'rendered': 'The Last Thing Mary Saw (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788885045.301595
+   "last_attempt": 1788885045.301595,
+   "reason": "source failed historical retries",
+   "skipped_at": 1788921475
   },
   "https://thenkiri.com/shattered-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35225|https://thenkiri.com/shattered-2022-download-hollywood-movie/|01/17/2022 12:47:15|09/02/2023 13:25:13|{'rendered': 'Shattered (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884579.5813432
+   "modified": "09/02/2023 13:25:13",
+   "skipped_at": 1788921477,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/hotel-transylvania-4-transformania-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "35071|https://thenkiri.com/hotel-transylvania-4-transformania-2022-download-hollywood-movie/|01/14/2022 12:35:47|09/02/2023 13:25:48|{'rendered': 'Hotel Transylvania 4 Transformania (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884580.8132045
+   "modified": "09/02/2023 13:25:48",
+   "skipped_at": 1788921477,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34968|https://thenkiri.com/a-journal-for-jordan-2021-download-hollywood-movie/|01/12/2022 08:07:30|09/02/2023 13:26:21|{'rendered': 'A Journal for Jordan (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884582.2529807
+   "modified": "09/02/2023 13:26:21",
+   "skipped_at": 1788921478,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/pushpa-the-rise-2021-download-indian-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34757|https://thenkiri.com/pushpa-the-rise-2021-download-indian-movie/|01/08/2022 13:10:02|09/02/2023 13:23:35|{'rendered': 'Pushpa: The Rise (2021) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884583.3351777
+   "modified": "09/02/2023 13:23:35",
+   "skipped_at": 1788921479,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-commando-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34669|https://thenkiri.com/the-commando-2022-download-hollywood-movie/|01/07/2022 14:35:52|09/02/2023 13:24:00|{'rendered': 'The Commando (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884584.4173152
+   "modified": "09/02/2023 13:24:00",
+   "skipped_at": 1788921480,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/scream-1996-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34606|https://thenkiri.com/scream-1996-download-hollywood-movie/|01/06/2022 08:23:02|09/02/2023 13:21:14|{'rendered': 'Scream (1996) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884739.3057036
+   "modified": "09/02/2023 13:21:14",
+   "skipped_at": 1788921481,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/ghost-mansion-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34513|https://thenkiri.com/ghost-mansion-2021-download-korean-movie/|01/04/2022 12:32:55|07/02/2026 08:21:00|{'rendered': 'Ghost Mansion (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884740.4171376
+   "modified": "07/02/2026 08:21:00",
+   "skipped_at": 1788921482,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/seal-team-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34308|https://thenkiri.com/seal-team-2021-download-hollywood-movie/|01/01/2022 08:12:53|09/02/2023 13:19:12|{'rendered': 'Seal Team (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884741.4401793
+   "modified": "09/02/2023 13:19:12",
+   "skipped_at": 1788921483,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/john-wick-2014-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34271|https://thenkiri.com/john-wick-2014-download-hollywood-movie/|12/31/2021 17:10:37|09/02/2023 13:19:32|{'rendered': 'John Wick (2014) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884742.4928715
+   "modified": "09/02/2023 13:19:32",
+   "skipped_at": 1788921484,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/mass-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34152|https://thenkiri.com/mass-2021-download-hollywood-movie/|12/28/2021 18:07:43|09/02/2023 13:15:05|{'rendered': 'Mass (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884848.9315236
+   "modified": "09/02/2023 13:15:05",
+   "skipped_at": 1788921484,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/dont-look-up-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "34002|https://thenkiri.com/dont-look-up-2021-download-hollywood-movie/|12/24/2021 11:11:29|09/02/2023 13:15:34|{'rendered': 'Don’t Look Up (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788884849.7510505
+   "modified": "09/02/2023 13:15:34",
+   "skipped_at": 1788921485,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/the-matrix-resurrections-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "33934|https://thenkiri.com/the-matrix-resurrections-2021-download-hollywood-movie/|12/22/2021 11:59:21|09/02/2023 13:15:56|{'rendered': 'The Matrix Resurrections (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788885046.8372843
+   "modified": "09/02/2023 13:15:56",
+   "skipped_at": 1788921486,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/last-train-to-christmas-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "33892|https://thenkiri.com/last-train-to-christmas-2021-download-hollywood-movie/|12/22/2021 08:02:26|09/02/2023 13:12:29|{'rendered': 'Last Train to Christmas (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788885048.0134594
+   "modified": "09/02/2023 13:12:29",
+   "skipped_at": 1788921487,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/swan-song-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "33735|https://thenkiri.com/swan-song-2021-download-hollywood-movie/|12/18/2021 10:23:17|09/02/2023 13:13:12|{'rendered': 'Swan Song (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788885049.4774313
+   "modified": "09/02/2023 13:13:12",
+   "skipped_at": 1788921488,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/rumble-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "33648|https://thenkiri.com/rumble-2021-download-hollywood-movie/|12/15/2021 17:31:43|09/02/2023 13:13:39|{'rendered': 'Rumble (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788885050.5208645
+   "modified": "09/02/2023 13:13:39",
+   "skipped_at": 1788921488,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/100-wolf-2020-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "33312|https://thenkiri.com/100-wolf-2020-download-hollywood-movie/|12/08/2021 09:44:53|09/02/2023 13:10:16|{'rendered': '100% Wolf (2020) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788885051.727804
+   "modified": "09/02/2023 13:10:16",
+   "skipped_at": 1788921489,
+   "reason": "no usable downloadable source link"
   },
   "https://thenkiri.com/single-all-the-way-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "skipped_unavailable",
    "signature": "33115|https://thenkiri.com/single-all-the-way-2021-download-hollywood-movie/|12/04/2021 14:17:37|09/02/2023 13:11:03|{'rendered': 'Single All the Way (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788885053.4146917
+   "modified": "09/02/2023 13:11:03",
+   "skipped_at": 1788921490,
+   "reason": "no usable downloadable source link"
   }
  },
  "series_links": {
