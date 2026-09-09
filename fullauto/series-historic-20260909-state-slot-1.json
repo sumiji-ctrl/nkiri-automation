@@ -473,6 +473,13 @@
       "signature": "162344|https://thenkiri.com/the-crow-girl-s02-complete-tv-series/|2026-07-21T10:11:09|2026-07-21T10:11:09|{'rendered': 'The Crow Girl S02 (Complete) | TV Series'}",
       "modified": "2026-07-21T10:11:09",
       "completed_at": 1788973825
+    },
+    "https://thenkiri.com/ride-or-die-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "161879|https://thenkiri.com/ride-or-die-s01-complete-tv-series/|2026-07-15T15:32:14|2026-07-15T15:32:14|{'rendered': 'Ride or Die S01 (Complete) | TV Series'}",
+      "modified": "2026-07-15T15:32:14",
+      "completed_at": 1788974189,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -889,6 +896,9 @@
     "https://downloadwella.com/2kc8nmy3fyhq/The.Crow.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7pJ7jyTwGBY74V7qcJbOxuJ2ldOsU5uM",
     "https://downloadwella.com/athzjhu3oxvu/The.Crow.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ScZnyS2JHTNjfLw8vLL7xseA037ymFHI",
     "https://downloadwella.com/v2548wsqfe6c/The.Crow.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JulEW4rtljqaOBjaInlEDogudTpUDT9T",
-    "https://downloadwella.com/48hoeqdimk02/The.Crow.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wHZaQI8Qo5pWGroBPz8gVBrt7iZGPjTU"
+    "https://downloadwella.com/48hoeqdimk02/The.Crow.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wHZaQI8Qo5pWGroBPz8gVBrt7iZGPjTU",
+    "https://downloadwella.com/v50aac7dmgju/Ride.or.Die.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7iJiJxqOt3b5NsG_YikMwdjImJI18Llb",
+    "https://downloadwella.com/lv77e80s7h9j/Ride.or.Die.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pJPVNeHgxX8hOnP7SEB_Bra2VMA8_HxE",
+    "https://downloadwella.com/cki44wy4td09/Ride.or.Die.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBSyGG4EkEdf52nVVyCq36iFRwH2iYfA"
   }
 }
