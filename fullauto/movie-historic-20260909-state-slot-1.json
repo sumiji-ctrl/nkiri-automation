@@ -1208,6 +1208,83 @@
    "signature": "6605|https://thenkiri.com/warm-bodies-2013-download-hollywood-movie/|2020-07-08T09:16:25|2023-09-02T07:40:05|{'rendered': 'Warm Bodies (2013) | Download Hollywood Movie'}",
    "modified": "2023-09-02T07:40:05",
    "completed_at": 1788961712
+  },
+  "https://thenkiri.com/mowgli-2020-download-hollywood/": {
+   "status": "skipped_unavailable",
+   "signature": "5970|https://thenkiri.com/mowgli-2020-download-hollywood/|2020-06-14T10:13:00|2023-09-02T07:35:15|{'rendered': 'Mowgli (2018) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:35:15",
+   "skipped_at": 1788961935,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/el-camino-a-breaking-bad-movie-2019-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "5882|https://thenkiri.com/el-camino-a-breaking-bad-movie-2019-download-hollywood-movie/|2020-06-12T08:40:00|2024-02-26T13:36:50|{'rendered': 'El Camino A Breaking Bad Movie (2019) | Download Hollywood Movie'}",
+   "modified": "2024-02-26T13:36:50",
+   "completed_at": 1788962008
+  },
+  "https://thenkiri.com/creed-ii-2-2018-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "5563|https://thenkiri.com/creed-ii-2-2018-download-hollywood-movie/|2020-06-05T06:44:32|2023-09-02T07:29:53|{'rendered': 'Creed II 2 (2018) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:29:53",
+   "skipped_at": 1788962018,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/long-shot-2019-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "5139|https://thenkiri.com/long-shot-2019-download-hollywood-movie/|2020-05-24T09:08:24|2023-09-02T07:28:24|{'rendered': 'Long Shot (2019) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:28:24",
+   "skipped_at": 1788962019,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/z-2019-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "4360|https://thenkiri.com/z-2019-download-hollywood-movie/|2020-05-05T13:20:48|2023-09-02T07:23:17|{'rendered': 'Z (2019) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:23:17",
+   "completed_at": 1788962054
+  },
+  "https://thenkiri.com/miracle-in-cell-no-7-2019-download-filipino-movie/": {
+   "status": "done",
+   "signature": "3977|https://thenkiri.com/miracle-in-cell-no-7-2019-download-filipino-movie/|2020-04-21T09:42:03|2023-09-02T07:24:19|{'rendered': 'Miracle in Cell no 7 (2019) | Download Filipino Movie'}",
+   "modified": "2023-09-02T07:24:19",
+   "completed_at": 1788962097
+  },
+  "https://thenkiri.com/8-a-south-african-horror-story-2019-download-african-movie/": {
+   "status": "done",
+   "signature": "3546|https://thenkiri.com/8-a-south-african-horror-story-2019-download-african-movie/|2020-02-23T13:50:59|2023-09-02T07:21:23|{'rendered': '8 : A South African Horror Story (2019) | Download African Movie'}",
+   "modified": "2023-09-02T07:21:23",
+   "completed_at": 1788962146
+  },
+  "https://thenkiri.com/download-farming-movie/": {
+   "status": "done",
+   "signature": "2887|https://thenkiri.com/download-farming-movie/|2019-11-20T08:17:21|2023-09-02T07:19:18|{'rendered': 'Farming (2018) | Download International Movie'}",
+   "modified": "2023-09-02T07:19:18",
+   "completed_at": 1788962211
+  },
+  "https://thenkiri.com/download-peppermint-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "1906|https://thenkiri.com/download-peppermint-movie/|2019-09-24T05:24:45|2024-02-26T14:20:30|{'rendered': 'Peppermint 2018 | Download Hollywood Movies'}",
+   "modified": "2024-02-26T14:20:30",
+   "skipped_at": 1788962221,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/download-witneesses/": {
+   "status": "done",
+   "signature": "1523|https://thenkiri.com/download-witneesses/|2019-09-15T08:37:22|2024-02-26T13:45:25|{'rendered': 'Witnesses (2019) | Download Hollywood Movie'}",
+   "modified": "2024-02-26T13:45:25",
+   "completed_at": 1788962260
+  },
+  "https://thenkiri.com/download-lizzie-mcguire-hollywood/": {
+   "status": "done",
+   "signature": "1044|https://thenkiri.com/download-lizzie-mcguire-hollywood/|2019-09-01T08:07:15|2023-09-02T07:06:05|{'rendered': 'Lizzie McGuire (2003)| Download Hollywood Movies'}",
+   "modified": "2023-09-02T07:06:05",
+   "completed_at": 1788962301
+  },
+  "https://thenkiri.com/ma-2019/": {
+   "status": "skipped_unavailable",
+   "signature": "447|https://thenkiri.com/ma-2019/|2019-08-20T07:14:09|2023-09-02T07:03:20|{'rendered': 'MA (2019) |Download Hollywood Movie'}",
+   "modified": "2023-09-02T07:03:20",
+   "skipped_at": 1788962302,
+   "reason": "no usable downloadable source link"
   }
  },
  "series_links": {
@@ -1261,6 +1338,13 @@
   "https://downloadwella.com/m7bpkvaulcw1/The.Hitmans.BodyGuard.(NKIRI.COM).2017.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/fRSQOWA-0VsiKkxY9k_fGuXwPC_FWJOf",
   "https://downloadwella.com/pvhvfppcfp88/Wonder.Woman.(NKIRI.COM).2017.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zjMXB_V5C6SyYndH623kKw4XZECdGInX",
   "https://downloadwella.com/47rl470nu2lz/Kingsman.The.Secret.Service.Uncensored.(NKIRI.COM).2015.480p.BluRay.x264.mkv.html": "https://v1.vidfiles.com/d/VFSs8_2ICX6s8eOrmRQUYQA4mUclaSVr",
-  "https://downloadwella.com/coen20xg6r8e/Warm.Bodies.(NKIRI.COM).2013.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ityjVNGx6cME59QrhVefvUxSSBxj4423"
+  "https://downloadwella.com/coen20xg6r8e/Warm.Bodies.(NKIRI.COM).2013.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ityjVNGx6cME59QrhVefvUxSSBxj4423",
+  "https://downloadwella.com/zfcfpotbl8ed/El.Camino.A.Breaking.Bad.Movie.(NKIRI.COM).2019.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K6OwsL4ypRXrx5fdgfYQgRlCiwgY9X8-",
+  "https://downloadwella.com/bz5bgobwmtbj/%7Bnkiri.com%7D_Z_(2020)_gddh.mkv.html": "https://v1.vidfiles.com/d/Sz-ZwYRI3l5-AChqc4q5qSaXS2b6tW_j",
+  "https://downloadwella.com/amhlmhmla8k2/Miracle.in.Cell.No.7.(NKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/MZ4sg5esc9cZEM_1cjpD-uQ-hjixtmF_",
+  "https://downloadwella.com/7wmbmgdumysb/8.A.South.African.Horror.Story.(NKIRI.COM).2019.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/J601f3BPmI8gVw6Ot-pXGorS14p8Aqo3",
+  "https://downloadwella.com/9xvbtwd8t2f5/Farming_%7Bwww.nkiri.com%7D.mkv.html": "https://v1.vidfiles.com/d/Af2jTziOulGOCdPa3dIMOs8fQFmY-klr",
+  "https://downloadwella.com/9fgypuramsko/Witnesses.(NKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/5M7QFXIEbnCBCKnwMhlWtrv2smKJPuQ6",
+  "https://downloadwella.com/15rblz2phsi9/Lizzie_McGuire(2003)_%7Bwww.nkiri.com%7D.mkv.html": "https://v1.vidfiles.com/d/7KJ1EZP4-8i325YaGHlLqRS1H6vKvp6T"
  }
 }
