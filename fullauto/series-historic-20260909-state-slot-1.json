@@ -384,10 +384,11 @@
       "completed_at": 1788860541
     },
     "https://thenkiri.com/dtf-st-louis-s01complete-tv-series-drama/": {
-      "status": "pending",
+      "status": "partial",
       "signature": "151387|https://thenkiri.com/dtf-st-louis-s01complete-tv-series-drama/|2026-03-03T16:27:01|2026-04-21T09:21:55|{'rendered': 'DTF St. Louis S01(Complete) | Tv series Drama'}",
-      "attempts": 1,
-      "last_attempt": 1788864682.6078937
+      "modified": "2026-04-21T09:21:55",
+      "completed_at": 1789039857,
+      "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/clevatess-s01-complete-anime-series/": {
       "status": "done",
@@ -1382,6 +1383,7 @@
     "https://downloadwella.com/387cbl3klh1d/Rooster.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NQEY2zSNfrX7DOxYXYxqDqImkp2i1qCu",
     "https://downloadwella.com/l73qzzvx0fy6/Rooster.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HA2KrYs3Meq9wuGBNirZevs8XooMXa_W",
     "https://downloadwella.com/nwppegoe5w4b/Rooster.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PIv4SeSusAO4LgFM8IR-t_etOGOrKG6b",
-    "https://downloadwella.com/4jy2dmik3ves/Rooster.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JtVq44ZtKwHfyB0ifhz307TVve1wBPkK"
+    "https://downloadwella.com/4jy2dmik3ves/Rooster.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JtVq44ZtKwHfyB0ifhz307TVve1wBPkK",
+    "https://downloadwella.com/jujwl9530kpr/DTF.St.Louis.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JGA3ZfFJ4uMUn-lSm0UMl0oToZ1E7uHd"
   }
 }
