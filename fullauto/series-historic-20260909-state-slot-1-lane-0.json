@@ -850,6 +850,13 @@
       "signature": "145393|https://thenkiri.com/st-denis-medical-s02-complete-tv-series/|2025-11-04T13:50:10|2026-04-07T15:13:48|{'rendered': 'St. Denis Medical S02 (Episode 18 Added) | TV Series'}",
       "modified": "2026-04-07T15:13:48",
       "completed_at": 1789068924
+    },
+    "https://thenkiri.com/bad-influencer-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145161|https://thenkiri.com/bad-influencer-s01-complete-tv-series/|2025-10-31T10:01:03|2025-10-31T10:01:03|{'rendered': 'Bad Influencer S01 (Episode 1 – 3 Added) | TV Series'}",
+      "modified": "2025-10-31T10:01:03",
+      "completed_at": 1789069287,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1684,6 +1691,7 @@
     "https://downloadwella.com/o30w10hiqpbb/St.Denis.Medical.S02E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Un9hdsP914WMFVB2Mg8pvcizzRNfS3Su",
     "https://downloadwella.com/vq6zzmufwdug/St.Denis.Medical.S02E016.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sweIYRj1iUUY93_roFWO_lmGM03qL7MW",
     "https://downloadwella.com/zer1osx6q4oq/St.Denis.Medical.S02E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yqQ95bg88lQd4EpQ7IBl3XMP_omSXhsT",
-    "https://downloadwella.com/zbhocyvxw8xs/St.Denis.Medical.S02E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yw0ZZ_eYyfUSvhxEelqyHS-uQGCvV8uF"
+    "https://downloadwella.com/zbhocyvxw8xs/St.Denis.Medical.S02E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yw0ZZ_eYyfUSvhxEelqyHS-uQGCvV8uF",
+    "https://downloadwella.com/li3yllt1gm01/Bad.Influencer.2025.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q7adEeuj1Pz-pdlM43QE-s89vUof1FUv"
   }
 }
