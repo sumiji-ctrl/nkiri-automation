@@ -864,6 +864,13 @@
       "modified": "2025-10-28T12:45:29",
       "completed_at": 1789069557,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/nobody-wants-this-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "144812|https://thenkiri.com/nobody-wants-this-s02-complete-tv-series/|2025-10-26T19:49:13|2025-10-26T19:53:06|{'rendered': 'Nobody Wants This S02 (Complete) | TV Series'}",
+      "modified": "2025-10-26T19:53:06",
+      "skipped_at": 1789069854,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
