@@ -618,6 +618,13 @@
       "modified": "2026-04-18T16:43:39",
       "completed_at": 1789026822,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/gotham-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "154580|https://thenkiri.com/gotham-s05-complete-tv-series/|2026-04-18T09:50:11|2026-04-18T15:34:36|{'rendered': 'Gotham S05 (Complete) | TV Series'}",
+      "modified": "2026-04-18T15:34:36",
+      "completed_at": 1789027995,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1196,6 +1203,7 @@
     "https://downloadwella.com/0czpx50i9atb/Gotham.S01E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p1xUZJBFsVbPEBfNGMTcX8iWvDQ1r5Fv",
     "https://downloadwella.com/z1ujtzxf4on5/Gotham.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ApKB3vL7H81ngh3dP8VHIGsXey5pEyiI",
     "https://downloadwella.com/foghhzmxawmc/Gotham.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GpV5xEJcXHF083HC3ByseKKIUAZ6hB7A",
-    "https://downloadwella.com/t0q325jae4b1/Gotham.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/469XewUPlr9WCkESsjM6rbtdBUIGjBvL"
+    "https://downloadwella.com/t0q325jae4b1/Gotham.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/469XewUPlr9WCkESsjM6rbtdBUIGjBvL",
+    "https://downloadwella.com/waludq9dyf2h/Gotham.S05E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h0iZz_pwG2da7AMKJ6fZgGjVr_S_NN7W"
   }
 }
