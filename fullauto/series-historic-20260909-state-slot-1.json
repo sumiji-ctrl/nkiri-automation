@@ -762,6 +762,13 @@
       "modified": "2026-03-27T06:48:43",
       "completed_at": 1789048407,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-burbs-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149977|https://thenkiri.com/the-burbs-s01-complete-tv-series/|2026-02-10T12:56:12|2026-02-10T12:56:12|{'rendered': 'The Burbs S01 (Complete) | TV Series'}",
+      "modified": "2026-02-10T12:56:12",
+      "skipped_at": 1789048902,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
