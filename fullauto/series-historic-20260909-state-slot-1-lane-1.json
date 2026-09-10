@@ -817,6 +817,13 @@
       "modified": "2026-01-02T08:31:55",
       "completed_at": 1789058978,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/fallout-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "147666|https://thenkiri.com/fallout-s02-complete-tv-series/|2025-12-17T15:43:53|2026-02-04T07:21:31|{'rendered': 'Fallout S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-02-04T07:21:31",
+      "completed_at": 1789060353,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1623,6 +1630,12 @@
     "https://downloadwella.com/i35nnzovkw9e/Dear.Life.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gwNoZsyB8a86a22-SSXhj7NqmkK9XZai",
     "https://downloadwella.com/ylk3tz6o7snd/Dear.Life.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ixyn1h8JrNlldYYF23s3Pxm6hmzHBZOL",
     "https://downloadwella.com/n4ttrmxjquk9/Dear.Life.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_62PL3f1Vw-n1TzHGWc8VmmEzQaMSJrY",
-    "https://downloadwella.com/cgc3bdtytfop/Dear.Life.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9TR8t0YVQ08iSIxwXMhdPTTAUDbhv2kv"
+    "https://downloadwella.com/cgc3bdtytfop/Dear.Life.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9TR8t0YVQ08iSIxwXMhdPTTAUDbhv2kv",
+    "https://downloadwella.com/ry21f03gdofx/Fallout.2024.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/biAPVGdTt36lq59Zi1mhFlPaQfoURoFs",
+    "https://downloadwella.com/h21pxwkwzkky/Fallout.2024.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TGYnYTalYy1G_FFeH-K-_E9aL8mGjLYq",
+    "https://downloadwella.com/abbremf7nmw7/fallout.2024.s02e04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v18XefAt5s9PJXTIaJ4lVeUP9Bm0O4qF",
+    "https://downloadwella.com/ihn2836xbzgy/Fallout.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hx2FsdWUGo4GZprl1bo9jsl8XpEnrFJ3",
+    "https://downloadwella.com/f7zoo6fdmopz/Fallout.2024.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jtgilXFK7boK5yOOZpO6U8_OPkRFhA5C",
+    "https://downloadwella.com/la08wg5xf6w1/Fallout.2024.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X2ICSnxlJix-lo8WuOVIJjdcgJoby-oJ"
   }
 }
