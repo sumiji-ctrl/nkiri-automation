@@ -880,6 +880,13 @@
       "modified": "2025-10-23T10:56:18",
       "skipped_at": 1789068951,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/gachiakuta-s01-complete-anime-tv-series/": {
+      "status": "partial",
+      "signature": "144313|https://thenkiri.com/gachiakuta-s01-complete-anime-tv-series/|2025-10-21T11:27:50|2025-11-24T06:52:03|{'rendered': 'Gachiakuta S01 (Episode 17 – 20 Added) | Anime TV Series'}",
+      "modified": "2025-11-24T06:52:03",
+      "completed_at": 1789071973,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1720,6 +1727,15 @@
     "https://downloadwella.com/py1vfz07spao/Loot.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AaZCq0o-o21AFVeWugp6mgvsuiAonbTg",
     "https://downloadwella.com/0ejl7x804oxf/Loot.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TukT4osZYCr1QJIOwyjot5H9bR7qfdqr",
     "https://downloadwella.com/qalwuwt05x61/The.Chosen.S05E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Imb_HorGGt-z7_8OFQ3VeG4APeSKyPGH",
-    "https://downloadwella.com/ihe0iy0jowrh/The.Chosen.S05E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pxsqlKXggSI0iiBS7RFsMdczvteGp0zz"
+    "https://downloadwella.com/ihe0iy0jowrh/The.Chosen.S05E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pxsqlKXggSI0iiBS7RFsMdczvteGp0zz",
+    "https://downloadwella.com/z65i1mw2mfc6/Gachiakuta.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lOcwdnejlhg_ojm22lqut-4HcGrxtIab",
+    "https://downloadwella.com/7drs3sausq12/Gachiakuta.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k8KvJ1G6Y0NSnDESYthfWtr-K3cMs72w",
+    "https://downloadwella.com/4rn5myma4f2z/Gachiakuta.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QBYFCEtqg0EctR3iPVRpJin2b_cZAzDJ",
+    "https://downloadwella.com/8p2ty2oyf4f9/Gachiakuta.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V7qJFeiVtA6ufvmoQ2Tw-5yDq-YDSKOx",
+    "https://downloadwella.com/2i9y7jk3j08k/Gachiakuta.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7watrXKzKHaICqvLfpXKpBtBkj3epKDr",
+    "https://downloadwella.com/vcr67ej6hyw6/Gachiakuta.S01E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5H51heUmePT0T0Us5QBYCC5OCzh--pEs",
+    "https://downloadwella.com/7w1daohm896b/Gachiakuta.S01E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W-TiG_uA0s6MLfGJHeZAZiIhhL0KkMqu",
+    "https://downloadwella.com/rchu1z7u4fa6/Gachiakuta.S01E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t1MaTj2xyATyR0edRxuzvMwVSszjCOBp",
+    "https://downloadwella.com/k6qgdballrdm/Gachiakuta.S01E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yhVCZt-kY4VszaA785IEYZzqhrFECRry"
   }
 }
