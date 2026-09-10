@@ -824,6 +824,13 @@
       "modified": "2025-12-15T08:14:42",
       "skipped_at": 1789061732,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-beast-in-me-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "146762|https://thenkiri.com/the-beast-in-me-s01-complete-tv-series/|2025-11-29T09:22:52|2025-11-29T09:22:52|{'rendered': 'The Beast in Me S01 (Complete) | TV Series'}",
+      "modified": "2025-11-29T09:22:52",
+      "completed_at": 1789063231,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1633,6 +1640,11 @@
     "https://downloadwella.com/dv7vqoe2pkk5/Will.Trent.S04E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k6Ya0hLcNyw3f3l6xu9YyoKA5U7Zs_kH",
     "https://downloadwella.com/wofgwsecekdn/Sanctuary.A.Witchs.Tale.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TsaggiFVzeMLihtf6wCh9nlY8hQ6Y9dC",
     "https://downloadwella.com/10s6du68nwve/Sanctuary.A.Witchs.Tale.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QI0SwKm1ohDLhWYMkXqGjv0RFZw5Guhr",
-    "https://downloadwella.com/ckbg9kv0w1kf/Sanctuary.A.Witchs.Tale.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9SY0KX9dFkbqY3ydmpTWwWU11ab9i-rP"
+    "https://downloadwella.com/ckbg9kv0w1kf/Sanctuary.A.Witchs.Tale.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9SY0KX9dFkbqY3ydmpTWwWU11ab9i-rP",
+    "https://downloadwella.com/rzz8asq6hb2m/The.Beast.in.Me.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1vh0iDkFWQ5i2NX56wAdYKGLEgYXd6K4",
+    "https://downloadwella.com/9jcnwdzslvj0/The.Beast.in.Me.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ORmzr2ddd-OZinxXkNU8-jDM_-BU-Gwo",
+    "https://downloadwella.com/opfm0c803p52/The.Beast.in.Me.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x5-Co_HiLP0fKp6FOryeMLLf9b3_5qDA",
+    "https://downloadwella.com/cwleqvjajt7t/The.Beast.in.Me.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ymTQBqRaxA6Bh1MHolZCXLFTFKjwCMvM",
+    "https://downloadwella.com/wou2zbbegpmp/The.Beast.in.Me.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C5JZbpdMB93XeQYdmb48Y6Q5lGlGxz7t"
   }
 }
