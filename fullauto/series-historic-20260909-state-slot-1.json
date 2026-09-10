@@ -776,6 +776,13 @@
       "modified": "2026-02-05T18:24:16",
       "skipped_at": 1789049091,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/industry-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "149560|https://thenkiri.com/industry-s04-complete-tv-series/|2026-02-03T06:15:08|2026-03-02T09:56:57|{'rendered': 'Industry S04 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-03-02T09:56:57",
+      "completed_at": 1789049584,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1548,6 +1555,13 @@
     "https://downloadwella.com/b28fqejcdvyh/Love.Story.2026.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AVh7f7HDDiA6IUse3mMUb3jwZSM3uciR",
     "https://downloadwella.com/oh56oa5xfxw7/Love.Story.2026.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S6uwpvGL627niPNJclXThc5Okwsrp6b2",
     "https://downloadwella.com/tklype7zkn16/Love.Story.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/meUXjwAjzdGcCotnSX-Ui8DBoLUzp-X9",
-    "https://downloadwella.com/3rosv4qew834/Love.Story.2026.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IW5QmQ9h6WjHciwXzgRzjjQV_qu7Fd6i"
+    "https://downloadwella.com/3rosv4qew834/Love.Story.2026.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IW5QmQ9h6WjHciwXzgRzjjQV_qu7Fd6i",
+    "https://downloadwella.com/lte24eqdleby/Industry.S04E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z9miHg6kBCPvi1hQuwwnBvG_fu4ECK-R",
+    "https://downloadwella.com/w520qk03z1w9/Industry.S04E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NKih4tqWuoC-fziwp3II58aqGVZFGxZT",
+    "https://downloadwella.com/y25t05jik07h/Industry.S04E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2-KcNJnfzY_I52tGNCOzC5rZ77g08u3A",
+    "https://downloadwella.com/9xaci6cq9lh5/Industry.S04E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3o1J_fdIe7MhAP8bzZGUEcitS9cHhdJJ",
+    "https://downloadwella.com/c3yp318d8kbc/Industry.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9j9EdtHSIV0TM6AfM1-kwMgvi4wB1Kio",
+    "https://downloadwella.com/pm06uxd0vj8e/Industry.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m1q7Lz5pr6QfQ3KneSxvBOIg3CBottvw",
+    "https://downloadwella.com/nqhftb2gc2h4/Industry.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pbxVz23S6tXHSAl7P1oB4Bh-7ppl8YaJ"
   }
 }
