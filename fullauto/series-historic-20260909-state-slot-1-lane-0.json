@@ -899,6 +899,13 @@
       "modified": "2026-05-22T08:59:49",
       "completed_at": 1789078855,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/boots-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143422|https://thenkiri.com/boots-s01-complete-tv-series/|2025-10-09T14:36:32|2025-10-10T19:11:11|{'rendered': 'Boots S01 (Complete) | TV Series'}",
+      "modified": "2025-10-10T19:11:11",
+      "completed_at": 1789081948,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1766,6 +1773,11 @@
     "https://downloadwella.com/kuiibpu9e3bw/Elsbeth.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fy5a8l9gLQR_muW610pr5hoeKvMjszwa",
     "https://downloadwella.com/fm7d2caoumpc/Elsbeth.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ie8BtG2bF3G-vmU4EwP-wPW8Ebgn_BQ",
     "https://downloadwella.com/y8qcu7k3szoj/Elsbeth.S03E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rUnIEQ1rKeolUwNrcP9vWxkziepSSbN_",
-    "https://downloadwella.com/b1pa5nnm5us1/Elsbeth.S03E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z4Lw2qcW6PJ447yKNbbXMkCMQq4fC3dP"
+    "https://downloadwella.com/b1pa5nnm5us1/Elsbeth.S03E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z4Lw2qcW6PJ447yKNbbXMkCMQq4fC3dP",
+    "https://downloadwella.com/c3u060j1skeh/Boots.S01E01.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/s_55bgm3I29ynrGz-RmsHSEWwWRrEg_I",
+    "https://downloadwella.com/7ckno5wheq5n/Boots.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/xeEDl8-sYL8pmkEvMJWmNGeHEYevuNIO",
+    "https://downloadwella.com/oe90m198k7f6/Boots.S01E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/ASOVDEtKgCUiYksoHqMPjyFvBjcMS0_a",
+    "https://downloadwella.com/xw37xtn7cqrs/Boots.S01E05.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/Lcabmy5pbjdfleaQRmAZQXRJSABJJvr2",
+    "https://downloadwella.com/ocvd4w0icc4q/Boots.S01E07.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/Y2qhQ_7T_er_O3CHxOg_DeA8qnKKrTyT"
   }
 }
