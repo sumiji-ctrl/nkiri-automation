@@ -564,6 +564,12 @@
       "signature": "157078|https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/|2026-05-15T16:39:00|2026-05-15T16:39:00|{'rendered': 'Berlin and the Lady with an Ermine S01 (Complete) | Foreign TV Series'}",
       "modified": "2026-05-15T16:39:00",
       "completed_at": 1789019679
+    },
+    "https://thenkiri.com/good-omens-s03-complete-tv-series/": {
+      "status": "done",
+      "signature": "156914|https://thenkiri.com/good-omens-s03-complete-tv-series/|2026-05-14T09:35:52|2026-05-14T09:35:52|{'rendered': 'Good Omens S03 (Episode 1 Added) | TV Series'}",
+      "modified": "2026-05-14T09:35:52",
+      "completed_at": 1789019832
     }
   },
   "series_links": {
@@ -1085,6 +1091,7 @@
     "https://downloadwella.com/uh52e55tluu8/Berlin.and.the.Lady.with.an.Ermine.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0a1LvY_ThoE3qYd_ltwmSxnDD4ayJGEC",
     "https://downloadwella.com/ldfz4ypbbxif/Berlin.and.the.Lady.with.an.Ermine.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LWogC3FTsSgySG9TSIrV3SJfQcBg5IHt",
     "https://downloadwella.com/cu1k7d52ps6c/Berlin.and.the.Lady.with.an.Ermine.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UTJqMrlXxGF362F-CPnWG-XCbwlgPAbJ",
-    "https://downloadwella.com/dysgw2jbjhe5/Berlin.and.the.Lady.with.an.Ermine.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L0dar-ibTF-bLWyL1JEGSMKiidb6Uo2G"
+    "https://downloadwella.com/dysgw2jbjhe5/Berlin.and.the.Lady.with.an.Ermine.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L0dar-ibTF-bLWyL1JEGSMKiidb6Uo2G",
+    "https://downloadwella.com/sydoezyqqxh7/Good.Omens.S03E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-DoRBsEF2WrKy3ARp3VpaUQe73jDD8a1"
   }
 }
