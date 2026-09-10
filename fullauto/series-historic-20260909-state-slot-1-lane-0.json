@@ -796,6 +796,13 @@
       "modified": "2026-03-09T10:15:13",
       "completed_at": 1789052524,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/primal-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "148750|https://thenkiri.com/primal-s03-complete-tv-series/|2026-01-15T12:57:41|2026-03-16T15:03:18|{'rendered': 'Primal S03 (Episode 10 Added) | TV Series'}",
+      "modified": "2026-03-16T15:03:18",
+      "completed_at": 1789054086,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1588,6 +1595,12 @@
     "https://downloadwella.com/d9089544ko16/The.Beauty.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_n-BGfUftyaaAb5BZZxxqYFNSEJqoxFE",
     "https://downloadwella.com/2yu1h6tbx9bi/The.Beauty.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ktUOiLtUg5lWN2yQpDC-XFMz3-Achq0r",
     "https://downloadwella.com/o92tyijafgn3/The.Beauty.S01E09.(THNKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NsBZR1VwVBHkXQSk_lWFXb-OagerfCgI",
-    "https://downloadwella.com/581f9ie7gn5f/The.Beauty.S01E10.(THNKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A8yWTMuFVZv6nARgJyhbXZG4fWBR_iBI"
+    "https://downloadwella.com/581f9ie7gn5f/The.Beauty.S01E10.(THNKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A8yWTMuFVZv6nARgJyhbXZG4fWBR_iBI",
+    "https://downloadwella.com/knbinjl01aer/Primal.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hphllA4yTRMZ-wKwXUrsPNIltwEyJ0aZ",
+    "https://downloadwella.com/q0acqfyzsjko/Primal.S0305.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7OadOv4wrKVkWDOt6Tz_WDEwSIPjetzC",
+    "https://downloadwella.com/otto9btinoow/Primal.S0306.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HJDaPyZ7FyqyHRtNQF_kY4M4KUkH-Heh",
+    "https://downloadwella.com/j5pyv1q2t4ne/Primal.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mYU6Z9BDqnoxGMrYRpmgPxhlMeVugz9U",
+    "https://downloadwella.com/hnzngma9c7uk/Primal.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jOSbXVjqrE_aWzPQrGRA_VTrBE64HGlp",
+    "https://downloadwella.com/ti4d4z09nqse/Primal.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Akc4c8kZKNAfMh_HV5-nFVqRjGCOpx_v"
   }
 }
