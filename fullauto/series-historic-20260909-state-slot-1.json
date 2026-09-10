@@ -715,6 +715,13 @@
       "modified": "2026-05-01T08:49:10",
       "completed_at": 1789040549,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/paradise-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "150874|https://thenkiri.com/paradise-s02-complete-tv-series/|2026-02-23T16:33:24|2026-04-07T08:44:35|{'rendered': 'Paradise S02 (Complete) | TV Series'}",
+      "modified": "2026-04-07T08:44:35",
+      "completed_at": 1789041022,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1399,6 +1406,11 @@
     "https://downloadwella.com/vncbgq2b23uj/Monarch.Legacy.of.Monsters.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4AgDFw1xv_vKFcIFNhyuSsYFlfShbuTk",
     "https://downloadwella.com/aisknogfnlsn/Monarch.Legacy.of.Monsters.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s5DRxsvii6Wb1XL2C-TjHSU-6hmgQuQn",
     "https://downloadwella.com/7d6agvmm1vog/Monarch.Legacy.of.Monsters.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vjvtUGKx4VEfBRVX9BmLIRF7ncFR2RrI",
-    "https://downloadwella.com/5lcg65j5olrm/Monarch.Legacy.of.Monsters.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4x-J0MrDmDesIeTnGrwJLIn_UEPwjHhf"
+    "https://downloadwella.com/5lcg65j5olrm/Monarch.Legacy.of.Monsters.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4x-J0MrDmDesIeTnGrwJLIn_UEPwjHhf",
+    "https://downloadwella.com/8de2cr1yjb96/Paradise.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VkvM2rfX_SGA1tCPZhzdFObJc65vUXKk",
+    "https://downloadwella.com/wn8w1hso5om2/Paradise.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H4unFEVX-mfG31hwLgg_3z4pZfOj0N8c",
+    "https://downloadwella.com/3a9il31a91q2/Paradise.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iqHBprzHCeO5K_KLRWpljTr7aztuEeGj",
+    "https://downloadwella.com/fcqkm7udz5vn/Paradise.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3i1E3JsqnJ4Q4oGpVb4esyEqbdl8RLnx",
+    "https://downloadwella.com/7weq45ah01m6/Paradise.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/20UrD8Lm7VhzqfJJxy2VySBWLgoZKr-U"
   }
 }
