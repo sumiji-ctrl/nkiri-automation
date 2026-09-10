@@ -789,6 +789,13 @@
       "signature": "149355|https://thenkiri.com/school-spirits-s03-complete-tv-series/|2026-01-29T08:17:24|2026-03-04T11:05:45|{'rendered': 'School Spirits S03 (Episode 8 Added) | TV Series'}",
       "modified": "2026-03-04T11:05:45",
       "completed_at": 1789050424
+    },
+    "https://thenkiri.com/the-pendragon-cycle-rise-of-the-merlin-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "149182|https://thenkiri.com/the-pendragon-cycle-rise-of-the-merlin-s01-complete-tv-series/|2026-01-26T08:57:05|2026-03-10T10:57:27|{'rendered': 'The Pendragon Cycle: Rise of the Merlin S01 (Episode 6 & 7 Added) | TV Series'}",
+      "modified": "2026-03-10T10:57:27",
+      "completed_at": 1789051832,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1576,6 +1583,10 @@
     "https://downloadwella.com/zb9zr5uo7kzf/School.Spirits.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A-swEXG5ZBoSSmleYWvjpYcT1erdiNfz",
     "https://downloadwella.com/0c98hud2js87/School.Spirits.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2zjY02GoAieP5gxj5erFkXeKj0U8SOhx",
     "https://downloadwella.com/951xgx3pccaq/School.Spirits.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XzeSa-Q4qq1pQNIVZvFmMTSP9oSTLSQa",
-    "https://downloadwella.com/7mp03gh5y5ge/School.Spirit.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SfESMJy4QFMKz_mnT058OIO-vgdUlzum"
+    "https://downloadwella.com/7mp03gh5y5ge/School.Spirit.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SfESMJy4QFMKz_mnT058OIO-vgdUlzum",
+    "https://downloadwella.com/dh6rygtwrsoo/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pGpu1eHIjwYAT7B-Kdtq500h_a9CgMFL",
+    "https://downloadwella.com/jkfvmniunvvo/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nsk-q0FkeORi_t4zJ9fE7FyUj4hCKvOL",
+    "https://downloadwella.com/lumoj9rxwv6t/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6D0lvKIKdxi71qhONTecYXiWWhui2g_4",
+    "https://downloadwella.com/ylsa2k6efrav/The.Pendragon.Cycle.Rise.Of.The.Merline.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WCLHWCyb17FcMJpFhNJt1cnHAJ_0ETDN"
   }
 }
