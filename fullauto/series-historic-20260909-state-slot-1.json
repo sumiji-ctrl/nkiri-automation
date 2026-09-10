@@ -734,6 +734,13 @@
       "signature": "150430|https://thenkiri.com/the-blacklist-s01-complete-tv-series/|2026-02-19T09:01:08|2026-02-19T09:01:08|{'rendered': 'The Blacklist S01 (Complete) | TV Series'}",
       "modified": "2026-02-19T09:01:08",
       "completed_at": 1789043342
+    },
+    "https://thenkiri.com/the-blacklist-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "150511|https://thenkiri.com/the-blacklist-s05-complete-tv-series/|2026-02-19T08:54:24|2026-02-19T08:54:24|{'rendered': 'The Blacklist S05 (Complete) | TV Series'}",
+      "modified": "2026-02-19T08:54:24",
+      "completed_at": 1789045131,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1455,6 +1462,16 @@
     "https://downloadwella.com/tdzybgpfh13n/The.Blacklist.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sbrt_l-4HpOr-Ln594sE3tPTYr6Jj-vz",
     "https://downloadwella.com/zge6jt16q7dy/The.Blacklist.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wu_-yuwJk7Yvi72kAyKNWHFlwbJgn4Un",
     "https://downloadwella.com/seuc5ht82gg7/The.Blacklist.S01E21.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IhKeOBwRJFrvpQdleoRa7ypS7CPjjIYQ",
-    "https://downloadwella.com/vtykdd6zov7w/The.Blacklist.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62hjpsAyHxK3zrb0AjkqaDkzGwGPZWSC"
+    "https://downloadwella.com/vtykdd6zov7w/The.Blacklist.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62hjpsAyHxK3zrb0AjkqaDkzGwGPZWSC",
+    "https://downloadwella.com/zn80uiu3w00r/The.Blacklist.S05E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5EJQcHEAGuOxfZMLGiCgA00kjqBhG6P1",
+    "https://downloadwella.com/hc67naxp9wod/The.Blacklist.S05E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DOH5OMfD-Is2ekVMBQSg8rVlJVQBidSG",
+    "https://downloadwella.com/w841pnrsqogi/The.Blacklist.S05E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tOmhT43ke_WS7Yv0PiGISbZmaIaYCAlp",
+    "https://downloadwella.com/zt9j9g0sndts/The.Blacklist.S05E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qu80Olf9voy4epPMN2BnOBY6rNRl6w7U",
+    "https://downloadwella.com/bv4xzzv5z02q/The.Blacklist.S05E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D8A2jV_bS0VoHLO_HtZFiebqWbGznfOg",
+    "https://downloadwella.com/mmlnfmfnj8ey/The.Blacklist.S05E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aA5OHN9g2oJYfXB8e02ciRVQ7WPJlNHA",
+    "https://downloadwella.com/alwpt2qb8yyk/The.Blacklist.S05E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MGydT6rsU24msN7ZajA7yVGsNQeBEt_n",
+    "https://downloadwella.com/oojreepshbkx/The.Blacklist.S05E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_mV2fBIUeYAuUfX6FqmHmoSx4Z0azHZJ",
+    "https://downloadwella.com/lnf6ecdqlowf/The.Blacklist.S05E21.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lsyo0KWZWw1emdwUsTjZvz1F_O0JxrBM",
+    "https://downloadwella.com/8q6yz86jklzr/The.Blacklist.S05E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-QiquXep1KDTLKV91lMtDZrx5H-nlqHr"
   }
 }
