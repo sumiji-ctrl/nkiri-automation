@@ -838,6 +838,13 @@
       "modified": "2025-11-25T11:35:31",
       "completed_at": 1789063899,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-seduction-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145950|https://thenkiri.com/the-seduction-s01-complete-tv-series/|2025-11-15T20:48:00|2025-12-19T13:11:42|{'rendered': 'The Seduction S01 (Episode 2 – 6 Added) | TV Series'}",
+      "modified": "2025-12-19T13:11:42",
+      "completed_at": 1789065972,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1663,6 +1670,9 @@
     "https://downloadwella.com/va574rl1mc5h/A.Man.on.the.Inside.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L2zKS8xHv8f0dfOA1fJWUCwD7oHuzdpm",
     "https://downloadwella.com/hogxq92pnuj3/A.Man.on.the.Inside.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HerB49l7FmMcl9UyowNQd8Bg2U9koshB",
     "https://downloadwella.com/xllugb6e94ar/A.Man.on.the.Inside.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DGlyFgZpsvDNJB5l7XP2R_M8olEspVZy",
-    "https://downloadwella.com/f2p4czxzbwli/A.Man.on.the.Inside.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_CCnLVEBgL864XnO6kAhGJq3Z6LHJB6t"
+    "https://downloadwella.com/f2p4czxzbwli/A.Man.on.the.Inside.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_CCnLVEBgL864XnO6kAhGJq3Z6LHJB6t",
+    "https://downloadwella.com/c2voqdsfj513/The.Seduction.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7zrJ0avcK8Qx-vurNPowVjfUMpSEbOjk",
+    "https://downloadwella.com/k4u0jmeez1v9/the.seduction.s01e02.(THENKIRI.COM).SS.mkv.html": "https://v1.vidfiles.com/d/euIj7o_2g7Sw6Z9uPLzfhugIIk11GBv4",
+    "https://downloadwella.com/6rm48dq1htaq/the.seduction.s01e03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xklqtkecO7ez1knIFRfoeD3E3LmMOstt"
   }
 }
