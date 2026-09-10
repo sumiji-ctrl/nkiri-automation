@@ -625,6 +625,13 @@
       "modified": "2026-04-18T15:34:36",
       "completed_at": 1789027995,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-audacity-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "154241|https://thenkiri.com/the-audacity-s01-complete-tv-series/|2026-04-13T09:40:11|2026-06-01T08:26:03|{'rendered': 'The Audacity S01 (Complete) | TV Series'}",
+      "modified": "2026-06-01T08:26:03",
+      "completed_at": 1789030152,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1204,6 +1211,10 @@
     "https://downloadwella.com/z1ujtzxf4on5/Gotham.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ApKB3vL7H81ngh3dP8VHIGsXey5pEyiI",
     "https://downloadwella.com/foghhzmxawmc/Gotham.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GpV5xEJcXHF083HC3ByseKKIUAZ6hB7A",
     "https://downloadwella.com/t0q325jae4b1/Gotham.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/469XewUPlr9WCkESsjM6rbtdBUIGjBvL",
-    "https://downloadwella.com/waludq9dyf2h/Gotham.S05E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h0iZz_pwG2da7AMKJ6fZgGjVr_S_NN7W"
+    "https://downloadwella.com/waludq9dyf2h/Gotham.S05E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h0iZz_pwG2da7AMKJ6fZgGjVr_S_NN7W",
+    "https://downloadwella.com/3dpecmojbhhr/The.Audacity.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_pbUsoFxqgpMNTbv42UeBOQuX_kavTln",
+    "https://downloadwella.com/6u0o0wsofkie/The.Audacity.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bxd7jsCp1mq4HTkv_ySfU_DH5fZBd4YX",
+    "https://downloadwella.com/1xdxbehjddsf/The.Audacity.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mLTs7_d_41DN6Fe3v-heT_lU30lzCYHB",
+    "https://downloadwella.com/4o7j98rdkurm/The.Audacity.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t5ibCv0uJoRfmbp7FHzYkXSyQc_zCkjJ"
   }
 }
