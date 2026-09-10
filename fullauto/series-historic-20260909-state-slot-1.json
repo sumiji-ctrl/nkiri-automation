@@ -530,6 +530,13 @@
       "signature": "158563|https://thenkiri.com/the-witness-s08-complete-tv-series/|2026-06-04T11:17:42|2026-06-04T14:58:07|{'rendered': 'The Witness (Complete ) | TV Series'}",
       "modified": "2026-06-04T14:58:07",
       "completed_at": 1789015342
+    },
+    "https://thenkiri.com/not-suitable-for-work-complete-tv-series/": {
+      "status": "partial",
+      "signature": "158312|https://thenkiri.com/not-suitable-for-work-complete-tv-series/|2026-06-02T08:50:25|2026-06-23T08:50:27|{'rendered': 'Not Suitable for Work (Episode 8 & 9 Added) | TV Series'}",
+      "modified": "2026-06-23T08:50:27",
+      "completed_at": 1789016304,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1014,6 +1021,12 @@
     "https://downloadwella.com/i8mhumeuh2gv/Brazil.70.The.Third.Star.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c2UNxySwy9hePdGQqO1VvAUfKTxjociA",
     "https://downloadwella.com/40jg9ggr2yvk/The.Witness.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_udKjMFaWVs0msrjl5wsa8vNY1nCBhAQ",
     "https://downloadwella.com/l5wjc7829xm1/The.Witness.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JaQPLMv01j5XKg1TqPGmmvDRCJmi4Jwy",
-    "https://downloadwella.com/df7tbaiuyyg0/The.Witness.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ySsnPHS_i4LqGw3j4ORld3zN1hbX6N2C"
+    "https://downloadwella.com/df7tbaiuyyg0/The.Witness.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ySsnPHS_i4LqGw3j4ORld3zN1hbX6N2C",
+    "https://downloadwella.com/3oxls8w514h6/Not.Suitable.for.Work.2026.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_BQGp7yAY7voG8N96mjWgDo3pf4INGXe",
+    "https://downloadwella.com/38o2tduu1dfy/Not.Suitable.for.Work.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yJZuroEKG0C0-R8aDZYV1F4v-46q_9VA",
+    "https://downloadwella.com/f2a4lpb6xshc/Not.Suitable.for.Work.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jEEs4eSCHZ1rcRQBUwXWwda6cOJnYi7o",
+    "https://downloadwella.com/tsgvoee2yixa/Not.Suitable.for.Work.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l5F4NnYrPchUB3tLVuL4aE_6gnRayW2j",
+    "https://downloadwella.com/0ny9pcjah4kd/Not.Suitable.for.Work.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aWlXsTSQ0EWLtYi9UX_xSWOE_H7WM01k",
+    "https://downloadwella.com/oo9h2hv5u3tl/Not.Suitable.for.Work.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7_EKWC_1RicuuVsPm3esdVBCVMDR2xrY"
   }
 }
