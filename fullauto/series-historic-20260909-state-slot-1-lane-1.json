@@ -894,6 +894,13 @@
       "modified": "2026-05-23T08:39:46",
       "completed_at": 1789074675,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/splinter-cell-deathwatch-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143755|https://thenkiri.com/splinter-cell-deathwatch-s01-complete-tv-series/|2025-10-14T20:17:35|2025-10-14T20:17:35|{'rendered': 'Splinter Cell: Deathwatch S01 (Complete) | TV Series'}",
+      "modified": "2025-10-14T20:17:35",
+      "completed_at": 1789076367,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1759,6 +1766,9 @@
     "https://downloadwella.com/4msia22vn74k/Sheriff.Country.S01E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wkI9BofRI6-DyfGXohddKCOqNCNYC8cM",
     "https://downloadwella.com/5wy1chiu6xpa/Sherif.Country.S01E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g_HDVrQpAhvWtiFlutp5IriBMEfxKQe1",
     "https://downloadwella.com/jn4n1jxzj3an/Sheriff.Country.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HpAnWGL2APvJDDH31o4RUUcgTGtAcrma",
-    "https://downloadwella.com/vnl8zbx8m3m9/Sheriff.Country.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BgYd0yW7DYtAJuy11X5qoFvxqZNCEIbK"
+    "https://downloadwella.com/vnl8zbx8m3m9/Sheriff.Country.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BgYd0yW7DYtAJuy11X5qoFvxqZNCEIbK",
+    "https://downloadwella.com/lpz6fm2wwsun/Splinter.Cell.Deathwatch.S01E01.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/HFdLhC-RtFXk1K9XRM9PtFt_SmnNpdLQ",
+    "https://downloadwella.com/ygav3g48b2xw/Splinter.Cell.Deathwatch.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/S7e0JLvjDYCOWFsJv15PKAgIXyyybQs9",
+    "https://downloadwella.com/2nfqqblyrlry/Splinter.Cell.Deathwatch.S01E06.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/zMu-9HvD5RxJXYt-gmGfuVwrSNCajuKd"
   }
 }
