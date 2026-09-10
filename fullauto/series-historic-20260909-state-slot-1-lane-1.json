@@ -873,6 +873,13 @@
       "modified": "2025-10-27T10:38:09",
       "completed_at": 1789068863,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/harlan-cobens-lazarus-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "144504|https://thenkiri.com/harlan-cobens-lazarus-s01-complete-tv-series/|2025-10-23T10:56:18|2025-10-23T10:56:18|{'rendered': 'Harlan Coben’s Lazarus S01 (Complete) | TV Series'}",
+      "modified": "2025-10-23T10:56:18",
+      "skipped_at": 1789068951,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
