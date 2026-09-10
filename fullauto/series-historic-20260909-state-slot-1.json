@@ -769,6 +769,13 @@
       "modified": "2026-02-10T12:56:12",
       "skipped_at": 1789048902,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/black-mirror-s04-s05-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149786|https://thenkiri.com/black-mirror-s04-s05-complete-tv-series/|2026-02-05T18:24:16|2026-02-05T18:24:16|{'rendered': 'Black Mirror S04 & S05 (Complete) | TV Series'}",
+      "modified": "2026-02-05T18:24:16",
+      "skipped_at": 1789049091,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
