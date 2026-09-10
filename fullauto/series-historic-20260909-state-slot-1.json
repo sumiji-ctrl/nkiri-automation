@@ -665,6 +665,13 @@
       "signature": "153117|https://thenkiri.com/the-rookie-s01-complete-tv-series/|2026-03-28T11:59:08|2026-03-31T13:36:47|{'rendered': 'The Rookie S01 (Complete) | TV Series'}",
       "modified": "2026-03-31T13:36:47",
       "completed_at": 1789036266
+    },
+    "https://thenkiri.com/detective-holes-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "152972|https://thenkiri.com/detective-holes-s01-complete-tv-series/|2026-03-26T13:40:28|2026-03-26T13:40:28|{'rendered': 'Detective Holes S01 (Complete) | TV Series'}",
+      "modified": "2026-03-26T13:40:28",
+      "completed_at": 1789036880,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1310,6 +1317,7 @@
     "https://downloadwella.com/awutwugsxqep/The.Rookie.S01E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F5Ee9F-rgBwp3QIqbRCXwU0x_ieO04Ri",
     "https://downloadwella.com/7i7khvl7yxw4/The.Rookie.S01E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BiYbyXplwe0rmnmggHUy_GOU-zy8ruKK",
     "https://downloadwella.com/gf7czo2bizw1/The.Rookie.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9GCk2qJpys6zUzdIloSlKHp65O-ud75D",
-    "https://downloadwella.com/36gj0eljxb1m/The.Rookie.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lss2iarmDTNVqNPfFy00NfKbjcC2Ncu4"
+    "https://downloadwella.com/36gj0eljxb1m/The.Rookie.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lss2iarmDTNVqNPfFy00NfKbjcC2Ncu4",
+    "https://downloadwella.com/tz9kbdfx8vzw/Detective.Hole.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-AbuwJfmmwkMJW3hFXHurGxGty78LtEJ"
   }
 }
