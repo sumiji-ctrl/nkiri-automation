@@ -810,6 +810,13 @@
       "modified": "2026-04-17T09:03:40",
       "completed_at": 1789057971,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dear-life-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "148251|https://thenkiri.com/dear-life-s01-complete-tv-series/|2026-01-02T08:31:55|2026-01-02T08:31:55|{'rendered': 'Dear Life S01 (Complete) | TV Series'}",
+      "modified": "2026-01-02T08:31:55",
+      "completed_at": 1789058978,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1611,6 +1618,11 @@
     "https://downloadwella.com/o9p4pio1gc33/The.Pitt.S02E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XX0qILKTmfWqqL53arkkz_PmNLGOQeAz",
     "https://downloadwella.com/jojlyrdc2obp/The.Pitt.S02E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5oAAHLhZu4LYvsmd9g99OOd3gGBvYGEu",
     "https://downloadwella.com/qw2abk6srxcz/The.Pitt.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kp5Z9SoH3ptMcT0owxcNLnZPuAp6-O6u",
-    "https://downloadwella.com/f9uq566m2tq2/The.Pitt.S02E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e3-oTfJOi6wAdDqhUfl94Tg5NZi6IRCV"
+    "https://downloadwella.com/f9uq566m2tq2/The.Pitt.S02E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e3-oTfJOi6wAdDqhUfl94Tg5NZi6IRCV",
+    "https://downloadwella.com/n7f0gbi6jspl/Dear.Life.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q983F3Nr-qCR63Fg--62n07fV_r9t8GW",
+    "https://downloadwella.com/i35nnzovkw9e/Dear.Life.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gwNoZsyB8a86a22-SSXhj7NqmkK9XZai",
+    "https://downloadwella.com/ylk3tz6o7snd/Dear.Life.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ixyn1h8JrNlldYYF23s3Pxm6hmzHBZOL",
+    "https://downloadwella.com/n4ttrmxjquk9/Dear.Life.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_62PL3f1Vw-n1TzHGWc8VmmEzQaMSJrY",
+    "https://downloadwella.com/cgc3bdtytfop/Dear.Life.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9TR8t0YVQ08iSIxwXMhdPTTAUDbhv2kv"
   }
 }
