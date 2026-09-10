@@ -632,6 +632,13 @@
       "modified": "2026-06-01T08:26:03",
       "completed_at": 1789030152,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/your-friends-neighbors-s02-episode-2-added-tv-series/": {
+      "status": "partial",
+      "signature": "154050|https://thenkiri.com/your-friends-neighbors-s02-episode-2-added-tv-series/|2026-04-10T10:15:41|2026-06-13T07:51:06|{'rendered': 'Your Friends & Neighbors S02 (Complete) | TV Series'}",
+      "modified": "2026-06-13T07:51:06",
+      "completed_at": 1789030995,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1215,6 +1222,11 @@
     "https://downloadwella.com/3dpecmojbhhr/The.Audacity.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_pbUsoFxqgpMNTbv42UeBOQuX_kavTln",
     "https://downloadwella.com/6u0o0wsofkie/The.Audacity.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bxd7jsCp1mq4HTkv_ySfU_DH5fZBd4YX",
     "https://downloadwella.com/1xdxbehjddsf/The.Audacity.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mLTs7_d_41DN6Fe3v-heT_lU30lzCYHB",
-    "https://downloadwella.com/4o7j98rdkurm/The.Audacity.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t5ibCv0uJoRfmbp7FHzYkXSyQc_zCkjJ"
+    "https://downloadwella.com/4o7j98rdkurm/The.Audacity.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t5ibCv0uJoRfmbp7FHzYkXSyQc_zCkjJ",
+    "https://downloadwella.com/k8u64zqel6qd/Your.Friends.and.Neighbors.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3TjINKuMP3snk6zqzPt6NHjnQPX_5o-l",
+    "https://downloadwella.com/85kd49ky68oy/Your.Friends.and.Neighbors.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JUMSRtGCZrIDCiI7xywG9Xxh3B7a5iLP",
+    "https://downloadwella.com/5pzj86i7xqb9/Your.Friends.and.Neighbors.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kJgQ5qOSBdLTFgIKyCVRtg-NVEA5yv8V",
+    "https://downloadwella.com/vube7mb8exad/Your.Friends.and.Neighbors.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W0sDmxpQjnjWotUGJ5vPqgRrtaWvO0_D",
+    "https://downloadwella.com/px0595og207l/Your.Friends.%2526.Neighbors.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G0ocuLmLoHFxtay9JvoOtaI5p8305foD"
   }
 }
