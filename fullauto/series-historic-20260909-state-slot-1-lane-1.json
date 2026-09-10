@@ -852,6 +852,13 @@
       "modified": "2026-01-16T07:07:03",
       "completed_at": 1789067067,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/crutch-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "145318|https://thenkiri.com/crutch-s01-complete-tv-series/|2025-11-03T09:24:11|2025-11-03T09:24:11|{'rendered': 'Crutch S01 (Complete) | TV Series'}",
+      "modified": "2025-11-03T09:24:11",
+      "skipped_at": 1789067253,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
