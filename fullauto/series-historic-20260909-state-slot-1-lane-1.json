@@ -901,6 +901,13 @@
       "modified": "2025-10-14T20:17:35",
       "completed_at": 1789076367,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/9-1-1-nashville-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "143497|https://thenkiri.com/9-1-1-nashville-s01-complete-tv-series/|2025-10-10T15:22:55|2026-05-08T11:15:55|{'rendered': '9-1-1 Nashville S01 (Episode 18 Added) | TV Series'}",
+      "modified": "2026-05-08T11:15:55",
+      "skipped_at": 1789077295,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
