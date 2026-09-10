@@ -866,6 +866,13 @@
       "modified": "2025-12-10T07:50:49",
       "completed_at": 1789068550,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-chosen-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "144885|https://thenkiri.com/the-chosen-s05-complete-tv-series/|2025-10-27T10:33:37|2025-10-27T10:38:09|{'rendered': 'The Chosen S05 (Complete) | TV Series'}",
+      "modified": "2025-10-27T10:38:09",
+      "completed_at": 1789068863,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1704,6 +1711,8 @@
     "https://downloadwella.com/xy8hx1zh89fl/Loot.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/druTeFBac2PDf1IwZFJ1PmMJ8-UJW-xj",
     "https://downloadwella.com/sxpdjl4x94a4/Loot.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VMtXrlMV9dHmWb7QC-BEOaDoMyYgAVcM",
     "https://downloadwella.com/py1vfz07spao/Loot.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AaZCq0o-o21AFVeWugp6mgvsuiAonbTg",
-    "https://downloadwella.com/0ejl7x804oxf/Loot.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TukT4osZYCr1QJIOwyjot5H9bR7qfdqr"
+    "https://downloadwella.com/0ejl7x804oxf/Loot.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TukT4osZYCr1QJIOwyjot5H9bR7qfdqr",
+    "https://downloadwella.com/qalwuwt05x61/The.Chosen.S05E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Imb_HorGGt-z7_8OFQ3VeG4APeSKyPGH",
+    "https://downloadwella.com/ihe0iy0jowrh/The.Chosen.S05E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pxsqlKXggSI0iiBS7RFsMdczvteGp0zz"
   }
 }
