@@ -597,6 +597,13 @@
       "signature": "155539|https://thenkiri.com/a-taste-for-murder-complete-tv-series/|2026-04-27T17:30:31|2026-04-27T17:30:31|{'rendered': 'A Taste for Murder (Complete)  | TV Series'}",
       "modified": "2026-04-27T17:30:31",
       "completed_at": 1789023233
+    },
+    "https://thenkiri.com/criminal-record-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "155137|https://thenkiri.com/criminal-record-s02-complete-tv-series/|2026-04-22T16:46:53|2026-06-10T09:16:20|{'rendered': 'Criminal Record S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-06-10T09:16:20",
+      "completed_at": 1789024875,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1144,6 +1151,13 @@
     "https://downloadwella.com/4tw88wci4xzu/A.Taste.for.Murder.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gLte1i7OhajiWojbLwdX_QAw7ZLdCnV1",
     "https://downloadwella.com/jihw5vh89n97/A.Taste.for.Murder.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/09-ou0Ws4OCr9XP6MUJWqMpiTizldXFm",
     "https://downloadwella.com/8pet4v15cz3u/A.Taste.for.Murder.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tXG4LmhCuYPBDz7DnJtd3tSo8tePSJNe",
-    "https://downloadwella.com/fxvz816rjcpx/A.Taste.for.Murder.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CjL7-xt_YBwz9xmRPX_llhoTHwmDCuur"
+    "https://downloadwella.com/fxvz816rjcpx/A.Taste.for.Murder.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CjL7-xt_YBwz9xmRPX_llhoTHwmDCuur",
+    "https://downloadwella.com/f1b6pgobyttw/Criminal.Record.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TMX1ciVqJ7x29-zXKreMp98hCBKogHQD",
+    "https://downloadwella.com/5wl02if6jjoz/Criminal.Record.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tvqq1vM2t85M32kAj2_pI2ZrLyzxc9OT",
+    "https://downloadwella.com/h9v78wh83fs5/Criminal.Record.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9QFnmGh3lwH9yY4IfaYpW4nc6AWxRSH0",
+    "https://downloadwella.com/opgmwmgi65a0/Criminal.Record.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JMZR67QMoDY7sH2VloLYPKM-AN6aYQI6",
+    "https://downloadwella.com/0lc55tcx0fk2/Criminal.Record.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cLZuS6QMeN_nLJziPZvUbxSmnZGETAL5",
+    "https://downloadwella.com/vbt290reg7cz/Criminal.Record.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Be1kEmkJwkr-Gy_lLwkvjNP_1ovsTUBR",
+    "https://downloadwella.com/wrtqs6755w74/Criminal.Record.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VrIGsQgmjqX2BK4gX_6xxRf45RVS3B2z"
   }
 }
