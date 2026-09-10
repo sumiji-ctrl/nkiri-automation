@@ -492,6 +492,13 @@
       "signature": "160767|https://thenkiri.com/super-subbu-complete-foreign-tv-series/|2026-07-03T09:16:24|2026-07-03T09:16:24|{'rendered': 'Super Subbu (Complete) | Foreign TV Series'}",
       "modified": "2026-07-03T09:16:24",
       "completed_at": 1788975192
+    },
+    "https://thenkiri.com/house-of-the-dragon-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "159926|https://thenkiri.com/house-of-the-dragon-s03-complete-tv-series/|2026-06-22T10:25:17|2026-08-10T08:34:08|{'rendered': 'House of the Dragon S03 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-08-10T08:34:08",
+      "completed_at": 1789010901,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -924,6 +931,12 @@
     "https://downloadwella.com/vn9w97td5who/Super.Subbu.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X5baqZEK_XAIfHqRdo6wlE8R7ZYVnDDL",
     "https://downloadwella.com/sdury3qisrjm/Super.Subbu.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kppIGsTW5SsFK8PNDHr9bHOCt9BAjWWL",
     "https://downloadwella.com/eewmcky2lgab/Super.Subbu.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IrlEx4XMBT21SYOUeqrauY7803A9Q4uF",
-    "https://downloadwella.com/dcw15w4gy2uk/Super.Subbu.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yc42Lkz5_pKvSduD3hfTmqicbiFsVVEb"
+    "https://downloadwella.com/dcw15w4gy2uk/Super.Subbu.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yc42Lkz5_pKvSduD3hfTmqicbiFsVVEb",
+    "https://downloadwella.com/xtprwe7899cs/House.of.the.Dragon.S03E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AYj-Ra5e_H0iZWYF2faCPUJJ9vy7pnE-",
+    "https://downloadwella.com/81fp4rvo7v73/House.of.Dragon.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C73NeN5n1RXth72lkbtR-4mFInVnF-x8",
+    "https://downloadwella.com/5u4czhkkgkzd/House.Of.The.Dragon.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sl6P6SaxLwkB8-lnRXjERd19MWQCTluR",
+    "https://downloadwella.com/9p6rwyelxjyp/House.of.Dragon.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sVylQwv41resKfxinsNy-dNSMcpkUNiW",
+    "https://downloadwella.com/1fiutu99g1w9/House.of.the.Dragon.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c0fIjHNpqzne0Q5lt10gg3VwOta9nuw7",
+    "https://downloadwella.com/6uz5pcirzkci/House.of.The.Dragon.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jWOFl966i7NxOsDi1MHnKalc3aXSt46x"
   }
 }
