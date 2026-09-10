@@ -584,6 +584,13 @@
       "modified": "2026-05-29T08:44:36",
       "completed_at": 1789021809,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/hacks-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "155651|https://thenkiri.com/hacks-s05-complete-tv-series/|2026-04-29T11:31:01|2026-05-29T08:21:40|{'rendered': 'Hacks S05 (Episode 10 Added)  | TV Series'}",
+      "modified": "2026-05-29T08:21:40",
+      "completed_at": 1789022774,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1119,6 +1126,12 @@
     "https://downloadwella.com/3q0fcd2u6k09/Half.Man.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/auy20sUPRdER0KBshaaMYW_dpZ_Sje5y",
     "https://downloadwella.com/eeeaj20xz9xp/Half.Man.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zxkXBo1KirK-rZIx2sG6kuN4LNiNayu-",
     "https://downloadwella.com/ualof6szsrci/Half.Man.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m1oy63NxABFopU6_0jIyrnqLPYhuYsG6",
-    "https://downloadwella.com/sg7s1zdlnd50/Half.Man.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ClRgVKGsICVbIYoTvI9z_8sqdpT3NINc"
+    "https://downloadwella.com/sg7s1zdlnd50/Half.Man.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ClRgVKGsICVbIYoTvI9z_8sqdpT3NINc",
+    "https://downloadwella.com/qzl6edg8fb6t/Hacks.S05E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EAykVMaB4WtKUFuvH5Y9gu-nfA02Qih6",
+    "https://downloadwella.com/jyyr1ots9xrr/Hacks.S05E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CbdgleGGWhc82zuns3fQhT9lKEB6xrSO",
+    "https://downloadwella.com/4w5x2zx3efto/Hacks.S05E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b2_TUYMVIhYh5UJoVCeo_1R8mxWww9V8",
+    "https://downloadwella.com/6u6olk7uncks/Hacks.S05E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6KaPwSyFJE2bQ-UwVDydZeFlKUmPZzAS",
+    "https://downloadwella.com/pfhserla4wt0/Hacks.S05E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6NqPmO63yfwc7jZC6m1Gvdoav0l8dNFG",
+    "https://downloadwella.com/np20zak2kval/Hacks.S05E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pdRdLmQoWDyH3Cgwdeo3UIdmHlUkoosr"
   }
 }
