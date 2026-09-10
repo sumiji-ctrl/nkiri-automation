@@ -871,6 +871,13 @@
       "modified": "2025-10-26T19:53:06",
       "skipped_at": 1789069854,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/dark-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "144400|https://thenkiri.com/dark-s03-complete-tv-series/|2025-10-22T13:15:16|2025-10-22T13:15:16|{'rendered': 'Dark S03 (Complete) | TV Series'}",
+      "modified": "2025-10-22T13:15:16",
+      "skipped_at": 1789070035,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
