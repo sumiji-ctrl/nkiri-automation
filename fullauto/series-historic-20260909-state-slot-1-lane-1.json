@@ -859,6 +859,13 @@
       "modified": "2025-11-03T09:24:11",
       "skipped_at": 1789067253,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/loot-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145039|https://thenkiri.com/loot-s03-complete-tv-series/|2025-10-29T09:27:03|2025-12-10T07:50:49|{'rendered': 'Loot S03 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-12-10T07:50:49",
+      "completed_at": 1789068550,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1692,6 +1699,11 @@
     "https://downloadwella.com/zsmztd3tjg4p/Power.Book.IV.Force.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gk5tJedo-eTQE0CU3h-G0VGHfwGDfRek",
     "https://downloadwella.com/r7if4kl6gp26/Power.Book.IV.Force.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UfvPZctGwBA8jWHUPikgXtHbS62Pw0hf",
     "https://downloadwella.com/m3dkyw6pgxi6/Power.Book.IV.Force.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lOW_E9gMH3S6W2dKEei5Tuh7PUBfyNQr",
-    "https://downloadwella.com/v82ag1arrwxf/Power.Book.IV.Force.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oogj6Iekxjf-cSdZKGGKhRjIqcn8e2by"
+    "https://downloadwella.com/v82ag1arrwxf/Power.Book.IV.Force.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oogj6Iekxjf-cSdZKGGKhRjIqcn8e2by",
+    "https://downloadwella.com/ja4e40w75hk3/Loot.S03E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2B2jwOZNLXNpPKYqUltOopKiDHzkXbRU",
+    "https://downloadwella.com/xy8hx1zh89fl/Loot.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/druTeFBac2PDf1IwZFJ1PmMJ8-UJW-xj",
+    "https://downloadwella.com/sxpdjl4x94a4/Loot.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VMtXrlMV9dHmWb7QC-BEOaDoMyYgAVcM",
+    "https://downloadwella.com/py1vfz07spao/Loot.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AaZCq0o-o21AFVeWugp6mgvsuiAonbTg",
+    "https://downloadwella.com/0ejl7x804oxf/Loot.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TukT4osZYCr1QJIOwyjot5H9bR7qfdqr"
   }
 }
