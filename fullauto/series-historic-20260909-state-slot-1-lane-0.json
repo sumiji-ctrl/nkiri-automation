@@ -831,6 +831,12 @@
       "modified": "2025-11-29T09:22:52",
       "completed_at": 1789063231,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/martin-scorsese-presents-the-saints-s02-complete-tv-series/": {
+      "status": "done",
+      "signature": "146119|https://thenkiri.com/martin-scorsese-presents-the-saints-s02-complete-tv-series/|2025-11-18T09:34:30|2025-11-18T09:34:30|{'rendered': 'Martin Scorsese Presents: The Saints S02 (Episode 1 Added) | TV Series'}",
+      "modified": "2025-11-18T09:34:30",
+      "completed_at": 1789063490
     }
   },
   "series_links": {
@@ -1645,6 +1651,7 @@
     "https://downloadwella.com/9jcnwdzslvj0/The.Beast.in.Me.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ORmzr2ddd-OZinxXkNU8-jDM_-BU-Gwo",
     "https://downloadwella.com/opfm0c803p52/The.Beast.in.Me.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x5-Co_HiLP0fKp6FOryeMLLf9b3_5qDA",
     "https://downloadwella.com/cwleqvjajt7t/The.Beast.in.Me.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ymTQBqRaxA6Bh1MHolZCXLFTFKjwCMvM",
-    "https://downloadwella.com/wou2zbbegpmp/The.Beast.in.Me.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C5JZbpdMB93XeQYdmb48Y6Q5lGlGxz7t"
+    "https://downloadwella.com/wou2zbbegpmp/The.Beast.in.Me.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C5JZbpdMB93XeQYdmb48Y6Q5lGlGxz7t",
+    "https://downloadwella.com/3wmuu9jo8pkm/Martin.Scorsese.Presents.The.Saints.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lg1I5tEt3-OuuWxGKEe5dITLxKmj8mz0"
   }
 }
