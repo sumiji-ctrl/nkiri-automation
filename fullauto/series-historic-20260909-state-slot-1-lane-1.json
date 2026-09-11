@@ -1030,6 +1030,13 @@
       "modified": "2025-04-30T10:22:14",
       "completed_at": 1789120575,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/andor-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134836|https://thenkiri.com/andor-s02-complete-tv-series/|2025-04-23T07:36:49|2025-05-14T05:59:25|{'rendered': 'Andor S02 (Complete) | TV Series'}",
+      "modified": "2025-05-14T05:59:25",
+      "completed_at": 1789122841,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2018,6 +2025,15 @@
     "https://downloadwella.com/r7iqwwpo8qot/Dept.Q.S01E09(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q07TLz-7Sl9KV1n3mIGjID6t3M_NdfEf",
     "https://downloadwella.com/o6s8pffd0b6u/The.Bombing.of.Pan.Am.103.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pCnT6lPkgnO-yYtBJ3gR4YuT0CoiY4QG",
     "https://downloadwella.com/fys4p22o8ws6/suspect.the.shooting.of.jean.charles.de.menezes.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SikDnyXSflbsyP6PeYYRahxZwYunaUVs",
-    "https://downloadwella.com/ddvbgchkivhk/suspect.the.shooting.of.jean.charles.de.menezes.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MEaoQh2gOw0c3dEwXwrOZouQKLLy8KeD"
+    "https://downloadwella.com/ddvbgchkivhk/suspect.the.shooting.of.jean.charles.de.menezes.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MEaoQh2gOw0c3dEwXwrOZouQKLLy8KeD",
+    "https://downloadwella.com/yjd9zxb54mau/Andor.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7flOOMohdCXnT8QuDnk1FhWlmzCIy2G_",
+    "https://downloadwella.com/pun2dadeiwn3/andor.s02e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CgYv3HXQU8jPFx5ClhmYj_ekyv4IzGtr",
+    "https://downloadwella.com/q7lf8ib4zlwv/Star.Wars.Andor.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vACA7SgEtUE2lLWBOKjUo7dnxBc7YNc5",
+    "https://downloadwella.com/b3tjpf2sljru/Star.Wars.Andor.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rqnhw_o3t-wzEtvV96tvp1wneys5JD0C",
+    "https://downloadwella.com/m8u4q06l0uyr/Andor.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SLsKQqnjwHJMnDF9rkI8wAUo-zvIPOs2",
+    "https://downloadwella.com/dc29gkl8eh3q/Andor.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wPEeQAxYRMp1qNUTI_Z7QM6RDBe1bE1v",
+    "https://downloadwella.com/ti9c5wczr4yu/Andor.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wIBBzuVKcwauyIghkwEVray85Fi08UaY",
+    "https://downloadwella.com/643hwlgi6mhp/Andor.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wNBoNelHHgmDmd7RlrqxeUjLvXoWwLT-",
+    "https://downloadwella.com/r945xa2jcbp3/andor.s02e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JQZLK47mI0TPUss512rqUuVG7JAJNa1W"
   }
 }
