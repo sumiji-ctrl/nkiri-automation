@@ -959,6 +959,13 @@
       "modified": "2025-09-24T07:33:27",
       "completed_at": 1789100016,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/twisted-metal-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "140219|https://thenkiri.com/twisted-metal-s02-complete-tv-series/|2025-07-31T12:41:19|2025-08-28T06:54:47|{'rendered': 'Twisted Metal S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-08-28T06:54:47",
+      "completed_at": 1789102862,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1887,6 +1894,10 @@
     "https://downloadwella.com/jzzngi5fntdg/alien.earth.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1RsH2rsAG8JYc47xvzqb_bQ9NSi_zgT0",
     "https://downloadwella.com/u25yf87tazja/alien.earth.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yb2GVIWcqibZOPLyDjvcOtpFon3p535A",
     "https://downloadwella.com/2omqnf41r647/Alien.Earth.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rT88AjBPVR-Ih9zpy5qISs1Jw0wU0Vbp",
-    "https://downloadwella.com/qp4vp6s046sx/Alien.Earth.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iGcm7dkuKKwdnGyESqbrSLN0YBwH1RCC"
+    "https://downloadwella.com/qp4vp6s046sx/Alien.Earth.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iGcm7dkuKKwdnGyESqbrSLN0YBwH1RCC",
+    "https://downloadwella.com/d14ui9hg92yz/Twisted.Metal.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U-qDGJuaxFaIT1gnXMnbN9qAik63w5lB",
+    "https://downloadwella.com/t5rgv19iwhcq/Twisted.Metal.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XNcQ5CWIfStq1QCFx9yWOZMcg6JI68mM",
+    "https://downloadwella.com/b1pvg8y7u5ua/Twisted.Metal.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EIr_iAZ2oI7XXFs4HrYeWLylAMvH6R4v",
+    "https://downloadwella.com/4xv9ju9cfj33/Twisted.Metal.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AkW7hKmN96aqUtL7JAYRoLIrqDSUSlTp"
   }
 }
