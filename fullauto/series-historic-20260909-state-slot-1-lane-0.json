@@ -1111,6 +1111,13 @@
       "modified": "2025-01-17T09:12:16",
       "completed_at": 1789158181,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/american-primeval-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129862|https://thenkiri.com/american-primeval-s01-complete-tv-series/|2025-01-12T07:03:59|2025-01-12T07:03:59|{'rendered': 'American Primeval S01 (Complete) | TV Series'}",
+      "modified": "2025-01-12T07:03:59",
+      "completed_at": 1789158932,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2204,6 +2211,8 @@
     "https://downloadwella.com/nr2d4zi6il8b/Castlevania.Nocturne.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QO5pIxKSKmzeaeDoOyXoYTeo-dxledZA",
     "https://downloadwella.com/ik62k3jn72gk/Castlevania.Nocturne.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fBMlsiDd-0QXZRXFjx0fNnxlErlyrXHm",
     "https://downloadwella.com/dx1xv38bikk2/Castlevania.Nocturne.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ug0BaLy1NcNuVpo9wSiFw3ZIXiVx-wFI",
-    "https://downloadwella.com/sgcr73cl1y06/Castlevania.Nocturne.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/60XBxXV64nM2pFHTLy7RIoLjIH6-Tf09"
+    "https://downloadwella.com/sgcr73cl1y06/Castlevania.Nocturne.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/60XBxXV64nM2pFHTLy7RIoLjIH6-Tf09",
+    "https://downloadwella.com/p243kvc8n6ax/American.primeval.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CadBG9B3epRgDZ5ckr1Y8YoToGAvZm04",
+    "https://downloadwella.com/oija2xcu8sqv/American.primeval.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KvLI_ChooCoWZ5GDjqOuHS5mVU0Gutur"
   }
 }
