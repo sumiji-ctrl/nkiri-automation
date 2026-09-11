@@ -1023,6 +1023,13 @@
       "modified": "2025-05-13T11:32:28",
       "skipped_at": 1789119802,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/suspect-the-shooting-of-jean-charles-de-menezes-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135248|https://thenkiri.com/suspect-the-shooting-of-jean-charles-de-menezes-s01-complete-tv-series/|2025-04-30T10:22:14|2025-04-30T10:22:14|{'rendered': 'Suspect: The Shooting of Jean Charles de Menezes S01 (Episode 1 – 4 Added) | TV Series'}",
+      "modified": "2025-04-30T10:22:14",
+      "completed_at": 1789120575,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2009,6 +2016,8 @@
     "https://downloadwella.com/6lnh7eejyqt1/Dept.Q.S01E07(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E6w4Ook-q_Lia67-XCA42BfTP_CPEZdZ",
     "https://downloadwella.com/hot04napzsfu/Dept.Q.S01E08(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t10RIslyyHNBkECE5TvlIT21qT9lx7T4",
     "https://downloadwella.com/r7iqwwpo8qot/Dept.Q.S01E09(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q07TLz-7Sl9KV1n3mIGjID6t3M_NdfEf",
-    "https://downloadwella.com/o6s8pffd0b6u/The.Bombing.of.Pan.Am.103.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pCnT6lPkgnO-yYtBJ3gR4YuT0CoiY4QG"
+    "https://downloadwella.com/o6s8pffd0b6u/The.Bombing.of.Pan.Am.103.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pCnT6lPkgnO-yYtBJ3gR4YuT0CoiY4QG",
+    "https://downloadwella.com/fys4p22o8ws6/suspect.the.shooting.of.jean.charles.de.menezes.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SikDnyXSflbsyP6PeYYRahxZwYunaUVs",
+    "https://downloadwella.com/ddvbgchkivhk/suspect.the.shooting.of.jean.charles.de.menezes.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MEaoQh2gOw0c3dEwXwrOZouQKLLy8KeD"
   }
 }
