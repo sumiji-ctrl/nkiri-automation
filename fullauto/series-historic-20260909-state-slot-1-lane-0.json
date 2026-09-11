@@ -1104,6 +1104,13 @@
       "modified": "2025-03-05T09:36:52",
       "completed_at": 1789157091,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/castlevania-nocturne-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130065|https://thenkiri.com/castlevania-nocturne-s02-complete-tv-series/|2025-01-17T09:12:16|2025-01-17T09:12:16|{'rendered': 'Castlevania: Nocturne S02 (Complete) | TV Series'}",
+      "modified": "2025-01-17T09:12:16",
+      "completed_at": 1789158181,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2193,6 +2200,10 @@
     "https://downloadwella.com/ofw6w6tlg8q7/Prime.Target.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UdFJKiaOiQNyVDEMBmTRIaPXlSX_S2qP",
     "https://downloadwella.com/00ujhthimhcs/Prime.Target.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ztG-S9aTkcodFFgtGRFfzz88BaCkOlNK",
     "https://downloadwella.com/194ixgpolfq3/Prime.Target.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hqqhNORp1xxFvaOa0NSlvblZIEkY7M-s",
-    "https://downloadwella.com/y04hdgrn1z1w/Prime.Target.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KkL-5eapLzKILHisMLPR5Q5x2sv8m7wz"
+    "https://downloadwella.com/y04hdgrn1z1w/Prime.Target.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KkL-5eapLzKILHisMLPR5Q5x2sv8m7wz",
+    "https://downloadwella.com/nr2d4zi6il8b/Castlevania.Nocturne.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QO5pIxKSKmzeaeDoOyXoYTeo-dxledZA",
+    "https://downloadwella.com/ik62k3jn72gk/Castlevania.Nocturne.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fBMlsiDd-0QXZRXFjx0fNnxlErlyrXHm",
+    "https://downloadwella.com/dx1xv38bikk2/Castlevania.Nocturne.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ug0BaLy1NcNuVpo9wSiFw3ZIXiVx-wFI",
+    "https://downloadwella.com/sgcr73cl1y06/Castlevania.Nocturne.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/60XBxXV64nM2pFHTLy7RIoLjIH6-Tf09"
   }
 }
