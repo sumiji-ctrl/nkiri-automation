@@ -1214,6 +1214,13 @@
       "modified": "2024-09-06T16:13:16",
       "completed_at": 1789168776,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/kaos-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "120459|https://thenkiri.com/kaos-s01-complete-tv-series/|2024-08-29T12:49:21|2024-08-29T12:49:21|{'rendered': 'KAOS S01 (Complete) | TV Series'}",
+      "modified": "2024-08-29T12:49:21",
+      "completed_at": 1789169989,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2340,6 +2347,8 @@
     "https://downloadwella.com/rpezm1w8d4ps/Last.King.of.the.Cross.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x1DB8_Vdrbd9pQIbaX6Xtc-gMp9G5Bc9",
     "https://downloadwella.com/y588fboh8gvc/Last.King.of.the.Cross.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kB1KiudrMynlkfiY-othn0xLlIfCck-L",
     "https://downloadwella.com/jdugkcfsrnls/Last.King.of.the.Cross.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DHIh31iZHUwOsY_WY3yaG642zVVU963e",
-    "https://downloadwella.com/46g2nw58ft90/Last.King.of.the.Cross.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mIEjt7xNwakUCI9IgXhRwFaB3j5E7KBh"
+    "https://downloadwella.com/46g2nw58ft90/Last.King.of.the.Cross.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mIEjt7xNwakUCI9IgXhRwFaB3j5E7KBh",
+    "https://downloadwella.com/20qx8xwooo08/Kaos.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/atfaVqu5n0K-PJfR_sJUtWBSjO9p5w61",
+    "https://downloadwella.com/4itjc2ihlf4u/Kaos.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZsvuKhCpqwvWoGOBaOTNW0OMQ4T1iSJG"
   }
 }
