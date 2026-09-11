@@ -1051,6 +1051,13 @@
       "modified": "2025-05-30T07:46:46",
       "completed_at": 1789126416,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/mobland-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133725|https://thenkiri.com/mobland-s01-complete-tv-series/|2025-03-30T17:57:30|2025-06-01T09:56:11|{'rendered': 'MobLand S01 (Complete) | TV Series'}",
+      "modified": "2025-06-01T09:56:11",
+      "completed_at": 1789128044,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2056,6 +2063,13 @@
     "https://downloadwella.com/9kugyt7a2734/Your.Friends.and.Neighbors.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x05C4rsdKOk4SqEX3eWrllQxsHikoNJx",
     "https://downloadwella.com/ubu2m7tlq9wf/Your.Friends.and.Neighbors.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OMen8b9tvlwDWXmmjlAjLXmf9sP1-0XU",
     "https://downloadwella.com/xosoi8xctvx0/Your.Friends.and.Neighbours.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZXG9IhWOfK2mGUo9j96DHInsEemm0sG5",
-    "https://downloadwella.com/xxbd03cnf6pm/your.friends.and.neighbors.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ry4muG4-uyI1uL5bq4C7RDLGUxp29B2M"
+    "https://downloadwella.com/xxbd03cnf6pm/your.friends.and.neighbors.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ry4muG4-uyI1uL5bq4C7RDLGUxp29B2M",
+    "https://downloadwella.com/r2esrn6ezxug/MobLand.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CVfmk6cxPcNGBE26d2cw7wMgUUlp7yJl",
+    "https://downloadwella.com/jz3enqaqlg79/MobLand.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PoWttfZyVL-n5rfvzV202379ymvK3q9x",
+    "https://downloadwella.com/js4v0h07g4mm/mobland.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BrSeLgEu62aYXB0-t1t2nW-9O-mAg_UN",
+    "https://downloadwella.com/5cwxmnnvfl74/mobland.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BLOJ2DeS73ofjGRY3yPsju8TUdM_M70M",
+    "https://downloadwella.com/827sc803rmzo/MobLand.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aSTOZezRzBhofw0BfCSKsVoYH_gXrbh-",
+    "https://downloadwella.com/o333ixd9it3h/MobLand.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sDpYgQJ3XyrMd9QAndhwyPlDgcmghtnd",
+    "https://downloadwella.com/gf90599yjnwn/MobLand.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JzpTzbXzsF4YcAaduPcpCq0l1pNUDjtj"
   }
 }
