@@ -941,6 +941,13 @@
       "signature": "141885|https://thenkiri.com/the-walking-dead-daryl-dixon-s03-complete-tv-series/|2025-09-08T13:41:27|2025-10-27T10:42:25|{'rendered': 'The Walking Dead: Daryl Dixon S03 (Complete) | TV Series'}",
       "modified": "2025-10-27T10:42:25",
       "completed_at": 1789095846
+    },
+    "https://thenkiri.com/kpopped-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141527|https://thenkiri.com/kpopped-s01-complete-tv-series/|2025-08-29T15:46:52|2025-08-29T15:46:52|{'rendered': 'KPOPPED S01 (Complete) | TV Series'}",
+      "modified": "2025-08-29T15:46:52",
+      "completed_at": 1789097342,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1850,6 +1857,12 @@
     "https://downloadwella.com/3c2b9stupxxa/The.Walking.Dead.Daryl.Dixon.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0et_kWO961j3JWy-6fAn7LuI5csy67TI",
     "https://downloadwella.com/2il2dhoazgsk/The.Walking.Dead.Daryl.Dixon.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8oCBelA8VZ_ndHqfpKqLeHmSz35nK1Tk",
     "https://downloadwella.com/xz7ydrvh0ye5/The.Walking.Dead.Daryl.Dixon.S03E06.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/e00oEDBZn3p6n9eDjVdKyPxVNY9VHgTl",
-    "https://downloadwella.com/lions3b24gbj/The.Walking.Dead.Daryl.Dixon.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bBJF1cYrUzdoIE74Y5gm7JakQqBgi7qV"
+    "https://downloadwella.com/lions3b24gbj/The.Walking.Dead.Daryl.Dixon.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bBJF1cYrUzdoIE74Y5gm7JakQqBgi7qV",
+    "https://downloadwella.com/woo5btq0fpki/kpopped.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WH9tkYHbsMLnIfg1eSEDxRcF_pu4pzEJ",
+    "https://downloadwella.com/grvkjmjog66p/kpopped.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HnKD3REXyS_jBWF2G3Ky4o503gP0k1ds",
+    "https://downloadwella.com/qsrxxfy7t0tf/kpopped.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DGZTUGUENVneDnOYW8kqye7AjylvWc6q",
+    "https://downloadwella.com/4q30lrxqjrwp/kpopped.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-y4GOnlYbN8jKdjrgTRCML8cATCSe2ry",
+    "https://downloadwella.com/t1f5voalbnak/kpopped.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/11_vVvPz2QJ69N-BRE3dNs3sNqFx00sW",
+    "https://downloadwella.com/ks69046c135z/kpopped.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_sor7KzE7zSgynHHu7BoUx9raJui0BS3"
   }
 }
