@@ -1063,6 +1063,13 @@
       "modified": "2025-03-15T19:23:10",
       "completed_at": 1789146989,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-leopard-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "132394|https://thenkiri.com/the-leopard-s01-complete-tv-series/|2025-03-05T17:00:02|2025-03-10T08:15:04|{'rendered': 'The Leopard S01 (Episodes 6 Added) | TV Series'}",
+      "modified": "2025-03-10T08:15:04",
+      "completed_at": 1789148379,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2122,6 +2129,11 @@
     "https://downloadwella.com/8wq7d107bkg2/Long.Bright.River.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j_ePYoH8y_3TLPQn1DbumpI9W-6yJ-I3",
     "https://downloadwella.com/zwc8j31ydhyn/Long.Bright.River.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xqZWoG14eOcnrx49jwxMrSGfBNRV2HCo",
     "https://downloadwella.com/him9l8zbvu5d/Long.Bright.River.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nv9aW6pxz8wbwBdaKA8v6_t2eMI1q9n0",
-    "https://downloadwella.com/93b51gvx8ukn/Long.Bright.River.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2Az4Eaze_YSN7HWqg8pkjI6RAJNk3DNX"
+    "https://downloadwella.com/93b51gvx8ukn/Long.Bright.River.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2Az4Eaze_YSN7HWqg8pkjI6RAJNk3DNX",
+    "https://downloadwella.com/hiqyjfn0y4ea/The.Leopard.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yHbc2-6P_Xal9zQmN7SLAxIgmnfvzI7h",
+    "https://downloadwella.com/9wd24xxicnnm/The.Leopard.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R7jM_KVbi2SQp9Dw51OlX-u__G2IS3_p",
+    "https://downloadwella.com/mtzooz6okcr4/The.Leopard.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3QV5FTpavelDPzsNN8IJHogUy3My14_O",
+    "https://downloadwella.com/49rumbe17smg/The.Leopard.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5weGi7VyOdtIEnR7SkJB8b40qjgoDC2J",
+    "https://downloadwella.com/9imu0mhcpn55/The.Leopard.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4XsvKS_Jh8AHglE7xB13LDDMpU35N2Tj"
   }
 }
