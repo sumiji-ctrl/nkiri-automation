@@ -1200,6 +1200,13 @@
       "modified": "2025-01-07T18:38:51",
       "skipped_at": 1789164961,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/high-potential-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "121541|https://thenkiri.com/high-potential-s01-complete-tv-series/|2024-09-18T08:15:46|2025-02-12T14:14:55|{'rendered': 'High Potential S01 (Complete) | TV Series'}",
+      "modified": "2025-02-12T14:14:55",
+      "skipped_at": 1789165654,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
