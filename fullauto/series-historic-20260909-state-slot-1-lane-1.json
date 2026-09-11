@@ -1186,6 +1186,13 @@
       "modified": "2025-05-16T12:24:45",
       "completed_at": 1789164259,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/joan-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "122210|https://thenkiri.com/joan-s01-complete-tv-series/|2024-09-29T12:44:28|2024-10-01T06:52:57|{'rendered': 'Joan S01 (Complete) | TV Series'}",
+      "modified": "2024-10-01T06:52:57",
+      "skipped_at": 1789164505,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
