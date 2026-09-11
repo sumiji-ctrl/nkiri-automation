@@ -1000,6 +1000,13 @@
       "signature": "137795|https://thenkiri.com/the-royals-s01-complete-tv-series/|2025-06-08T17:03:22|2025-07-10T14:37:18|{'rendered': 'The Royals S01 (Complete) | TV Series'}",
       "modified": "2025-07-10T14:37:18",
       "completed_at": 1789122695
+    },
+    "https://thenkiri.com/love-death-and-robots-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "136276|https://thenkiri.com/love-death-and-robots-s04-complete-tv-series/|2025-05-24T10:19:30|2025-05-24T10:19:34|{'rendered': 'Love Death and Robots S04 (Complete) | TV Series'}",
+      "modified": "2025-05-24T10:19:34",
+      "completed_at": 1789129740,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1996,6 +2003,15 @@
     "https://downloadwella.com/e9z63fs4wep9/The.Royals.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R98dXO5ieZrkvVmlgQUONARUC2VcSwCS",
     "https://downloadwella.com/d4c1ygfzyl22/The.Royals.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AtklafMP0NavmvjVbH5GIs-8P2Hlid2d",
     "https://downloadwella.com/qekdeyq7xgi0/The.Royals.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2FEa6PZPYMSnOKUqcn_5rYwr-Hdg8RNH",
-    "https://downloadwella.com/4bcjbugzzycp/The.Royals.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6viwAk-QXF5caSKGQvc_wlv5mvQ_Yz1N"
+    "https://downloadwella.com/4bcjbugzzycp/The.Royals.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6viwAk-QXF5caSKGQvc_wlv5mvQ_Yz1N",
+    "https://downloadwella.com/1dmfeshr7otu/Love.Death.and.Robots.S04E01.mkv.html": "https://v1.vidfiles.com/d/9ZE5NwdvjMwbbJtzRtkytH3KSi3-kzs9",
+    "https://downloadwella.com/tzvwqp43d2uj/Love.Death.and.Robots.S04E02.mkv.html": "https://v1.vidfiles.com/d/Iox_wcELr4aL0i4ZbfkPdGUCw8xR6aVd",
+    "https://downloadwella.com/otfggkrnh8rj/Love.Death.and.Robots.S04E03.mkv.html": "https://v1.vidfiles.com/d/JYtMxQaUwLxaiikE7tSHAnGKRkEhG5qQ",
+    "https://downloadwella.com/lvwnbzpfx75m/Love.Death.and.Robots.S04E04.mkv.html": "https://v1.vidfiles.com/d/nJm1AjC2V1F5lnInAfoG08aZNEtHSSSA",
+    "https://downloadwella.com/56lpfgjcu9cj/Love.Death.and.Robots.S04E05.mkv.html": "https://v1.vidfiles.com/d/hxpAQbc8qGk_mSrq4NvHqi1_Rwko-ZMq",
+    "https://downloadwella.com/pyjmpxv7mpve/Love.Death.and.Robots.S04E06.mkv.html": "https://v1.vidfiles.com/d/mX36lX4fC4-KKIckNGxA_IuBJPooZ8TY",
+    "https://downloadwella.com/qcfa6340b95p/Love.Death.and.Robots.S04E07.mkv.html": "https://v1.vidfiles.com/d/U-DanFABChHEvokx5gX2UyVitJQrmZGA",
+    "https://downloadwella.com/128lq4xhoci1/Love.Death.and.Robots.S04E08.mkv.html": "https://v1.vidfiles.com/d/KDOd56WQbC-nJn3nv2tQO-az8dDY8TvI",
+    "https://downloadwella.com/xlm9bbsb9f4h/Love.Death.and.Robots.S04E09.mkv.html": "https://v1.vidfiles.com/d/Xv8rL16ACpCr9VumAUiO03tE8jE4wm4_"
   }
 }
