@@ -928,6 +928,13 @@
       "signature": "142461|https://thenkiri.com/haunted-hotel-s01-complete-tv-series/|2025-09-21T10:36:06|2025-09-21T10:36:06|{'rendered': 'Haunted Hotel S01 (Complete) | TV Series'}",
       "modified": "2025-09-21T10:36:06",
       "completed_at": 1789092590
+    },
+    "https://thenkiri.com/gen-v-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142276|https://thenkiri.com/gen-v-s02-complete-tv-series/|2025-09-17T10:45:10|2025-10-22T09:12:53|{'rendered': 'Gen V S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2025-10-22T09:12:53",
+      "completed_at": 1789094395,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1823,6 +1830,13 @@
     "https://downloadwella.com/eaqtm9sx7e41/Haunted.Hotel.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/02SN0G9sarGdLDr2pmjO7QI3Vi5NxSUt",
     "https://downloadwella.com/w43bw28hsj2p/Haunted.Hotel.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rVCoirmyStNwY5eAsp17n2KWSPOy8gGa",
     "https://downloadwella.com/s54wzs8glslz/Haunted.Hotel.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JtES4llfiWwgi9UT_67fxsLLdMyPYUq1",
-    "https://downloadwella.com/gmjjaa2ic8l7/Haunted.Hotel.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dF1SphJ8bIahzD1YbVAlYJ7inAPJNtXY"
+    "https://downloadwella.com/gmjjaa2ic8l7/Haunted.Hotel.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dF1SphJ8bIahzD1YbVAlYJ7inAPJNtXY",
+    "https://downloadwella.com/mrhb06p5ux5e/Gen.V.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z2WGnl5tZcHo53xGqsqHFRBROm14IzE5",
+    "https://downloadwella.com/0clq8uwkg2cv/Gen.V.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TxXv1nd8Ij_WkChIwsUv4zhjxkhom--s",
+    "https://downloadwella.com/tmrx9ixhqd4h/Gen.V.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2n_FNSU94cpD_XGXBHUJjWMuNtdUF-XG",
+    "https://downloadwella.com/si5w63yscoga/Gen.V.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nKHbIDsOpoqLT2CtMulZgrdcsRLWkJJF",
+    "https://downloadwella.com/njt2waoh51rg/Gen.V.s02e06.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/7zhHlD2Pt6048nLZx0xVxXu1Kztwe22j",
+    "https://downloadwella.com/nckhj01azupz/gen.v.s02e07.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/t4fWeIikqpnGReoAmcNqfBnM1-1SrSKp",
+    "https://downloadwella.com/kunl3ocirq3m/Gen.V.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Llzo2Rimb4-WH0EipMDGcK9SZv_S1Tap"
   }
 }
