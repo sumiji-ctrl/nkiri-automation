@@ -908,6 +908,13 @@
       "modified": "2026-05-08T11:15:55",
       "skipped_at": 1789077295,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/krapopolis-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143179|https://thenkiri.com/krapopolis-s03-complete-tv-series/|2025-10-06T08:40:20|2026-04-20T11:07:07|{'rendered': 'Krapopolis S03 (Episode 13 Added) | TV Series'}",
+      "modified": "2026-04-20T11:07:07",
+      "completed_at": 1789088568,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1784,6 +1791,10 @@
     "https://downloadwella.com/4jaaoyiwrizf/Krapopolis.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lHVJfUA0fH5X6Ehur5fm11NhtiK1ZMZs",
     "https://downloadwella.com/dfba8ao5lvzn/Krapopolis.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2ZpBwFG-182PJJX_ijYYhtXgEEzkJoEX",
     "https://downloadwella.com/jfhrjrwmy0h1/Krapopolis.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q1dtqlXc1ST9RMLqHuMxaUgx8q4MUkUk",
-    "https://downloadwella.com/ryl33iuolh7b/Krapopolis.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wIFgd5VSbS3wVv7Jt8qkawx4eM5S6w-l"
+    "https://downloadwella.com/ryl33iuolh7b/Krapopolis.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wIFgd5VSbS3wVv7Jt8qkawx4eM5S6w-l",
+    "https://downloadwella.com/sp9ei0vyr7ye/Krapopolis.S03E09.(THENKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/U9p3aFuPxIBy4hPV9xujwLNqJn-yJ4ns",
+    "https://downloadwella.com/4lahq52tn5dl/Krapopolis.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rr8G0Z470YJY8yZUIT2ikiOCSXYE2tGF",
+    "https://downloadwella.com/268bi046td8c/Krapopolis.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sBwruvLCZwTkoNT8BBO8aAxzjmDg_SyQ",
+    "https://downloadwella.com/x7bitba6jl3w/Krapopolis.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZfzpmShYt-eUIxqNbQUD3TRuwYt039eH"
   }
 }
