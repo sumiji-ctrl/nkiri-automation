@@ -938,6 +938,13 @@
       "signature": "141666|https://thenkiri.com/the-guest-s01-complete-tv-series/|2025-09-02T14:48:37|2025-09-02T14:48:37|{'rendered': 'The Guest S01 (Complete) | TV Series'}",
       "modified": "2025-09-02T14:48:37",
       "completed_at": 1789095782
+    },
+    "https://thenkiri.com/the-terminal-list-dark-wolf-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141414|https://thenkiri.com/the-terminal-list-dark-wolf-s01-complete-tv-series/|2025-08-28T07:30:43|2025-09-24T12:47:59|{'rendered': 'The Terminal List: Dark Wolf S01 (Episode 7 Added) | TV Series'}",
+      "modified": "2025-09-24T12:47:59",
+      "completed_at": 1789096997,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1850,6 +1857,11 @@
     "https://downloadwella.com/gce9p0jabq7v/The.Guest.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hKfqIA_cl6oApahSQcapipYa6GqctzdB",
     "https://downloadwella.com/xx3n4lzl02pk/The.Guest.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AEoo-TW9TJx8JlLMqULYeLYTBLk8VeQT",
     "https://downloadwella.com/ghk9llrggesg/The.Guest.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GAoc7aRY_ZvN0b8IaR4f46OqrYGCHj4l",
-    "https://downloadwella.com/d1xmxvtid6pd/The.Guest.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/spoXhMVLHlCHOunsV3jof4N7FLKl31m4"
+    "https://downloadwella.com/d1xmxvtid6pd/The.Guest.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/spoXhMVLHlCHOunsV3jof4N7FLKl31m4",
+    "https://downloadwella.com/fjvg0719cmz0/The.Terminal.List.Dark.Wolf.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mqBNemFAtAd2e37UWXgPT1TYMXgIVvH9",
+    "https://downloadwella.com/6ja2uq79if6f/the.terminal.list.dark.wolf.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qn_HhLN_gtSVuWPiDB2k8JEUmSU8Ommc",
+    "https://downloadwella.com/dot65hi9dflw/the.terminal.list.dark.wolf.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V0YSzu4R1usNw5_3hrcwa3yhbFul_4_6",
+    "https://downloadwella.com/8in4564c31mw/The.Terminal.List.Dark.Wolf.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yOnjNpcT_btkBoYWe-voFr-ivQR-E2vG",
+    "https://downloadwella.com/adxxq7l6j0br/The.Terminal.List.Dark.Wolf.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5Eegr8s24i1pZqJvK6DM2QCo4xBScejJ"
   }
 }
