@@ -975,6 +975,13 @@
       "signature": "139949|https://thenkiri.com/acapulco-s04-complete-tv-series/|2025-07-23T09:51:35|2025-09-17T07:22:37|{'rendered': 'Acapulco S04 (Complete) | TV Series'}",
       "modified": "2025-09-17T07:22:37",
       "completed_at": 1789106761
+    },
+    "https://thenkiri.com/dexter-resurrection-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "139410|https://thenkiri.com/dexter-resurrection-s01-complete-tv-series/|2025-07-11T08:48:53|2025-09-05T06:07:22|{'rendered': 'Dexter: Resurrection S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-09-05T06:07:22",
+      "completed_at": 1789108979,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1919,6 +1926,14 @@
     "https://downloadwella.com/503b751i7tf8/acapulco.2021.s04e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QwxAO2xZVzG9IGTG2ErTnHg2aZjbIKY3",
     "https://downloadwella.com/3eqqtdt3ddkn/Acapulco.2021.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Un0GG6OnIYub3ie1Qe_UsMkK_2I94Ivh",
     "https://downloadwella.com/q3krfixflm0x/Acapulco.2021.S04E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Hp0NXo_VJY4Qnhlz8WER5X7HiCuIYiC",
-    "https://downloadwella.com/gix7rwi5z65h/Acapulco.2021.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bgS0UA7409-UJUZpmYN_gVjO2cvg0brK"
+    "https://downloadwella.com/gix7rwi5z65h/Acapulco.2021.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bgS0UA7409-UJUZpmYN_gVjO2cvg0brK",
+    "https://downloadwella.com/oqy7tp3720sg/Dexter.Resurrection.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/psLQU4Jn6ixt2rW524boGkOOC9QVctUo",
+    "https://downloadwella.com/akexsv83nxhs/Dexter.Resurrection.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jM5F5ez9DKs9_5M1-Dzv8W7EKpl2PfiO",
+    "https://downloadwella.com/ulr78nj2q7cs/dexter.resurrection.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9-Ds7WnDQ8s1Q4jn_Y19OhwHdiua_Y8i",
+    "https://downloadwella.com/n2761sx4x5n1/dexter.resurrection.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x1d9g6ipj_rA8_2Axr_EUrmIeSyioPd0",
+    "https://downloadwella.com/dtjbux3kmocl/Dexter.Resurrection.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nRKOe1ijf3zG5jvYwvRMgO7R6V2jJx6t",
+    "https://downloadwella.com/kztclj1eqxip/dexter.resurrection.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SRdbtplm3-xSJCbithsNqnaD3ZJZbpxg",
+    "https://downloadwella.com/q708tm0q6m4u/dexter.resurrection.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-GltXGNlMFm-_G4GCUp-tKDiaA5l07j6",
+    "https://downloadwella.com/odb88iyqm5kb/dexter.resurrection.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xzu9yLawgNdA0-YbN0xfEDDDhXWrjKlB"
   }
 }
