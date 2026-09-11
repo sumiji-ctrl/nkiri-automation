@@ -1126,7 +1126,14 @@
       "completed_at": 1789164239,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-saturday-nights-main-event-xxxvii-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-saturday-nights-main-event-xxxvii-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/creature-commandos-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "126758|https://thenkiri.com/creature-commandos-s01-complete-tv-series/|2024-12-05T09:55:33|2025-01-10T07:21:12|{'rendered': 'Creature Commandos S01 (Episode 7 Added) | TV Series'}",
+      "modified": "2025-01-10T07:21:12",
+      "skipped_at": 1789164628,
+      "reason": "no usable downloadable source link"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
