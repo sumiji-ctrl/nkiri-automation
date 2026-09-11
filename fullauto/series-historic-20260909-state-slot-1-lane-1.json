@@ -1003,6 +1003,12 @@
       "modified": "2025-06-10T17:00:20",
       "completed_at": 1789116039,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dept-q-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "136515|https://thenkiri.com/dept-q-s01-complete-tv-series/|2025-05-30T11:52:08|2025-05-30T14:38:21|{'rendered': 'Dept. Q S01 (Complete) | TV Series'}",
+      "modified": "2025-05-30T14:38:21",
+      "completed_at": 1789118912
     }
   },
   "series_links": {
@@ -1979,6 +1985,15 @@
     "https://downloadwella.com/rsa5vquspz9r/The.Kollective.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KTQIZMHi5xu96_Stz9YYqyp1FIoD30Y7",
     "https://downloadwella.com/levae39qodhl/The.Kollective.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TnQ_KqaG67s7Hs85TRwa-ICsc4cp8Qm0",
     "https://downloadwella.com/wybgml9e4smw/The.Kollective.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ieI3xocuKvWbMqVy5hw58aRZ2LLPplFU",
-    "https://downloadwella.com/thrc56fs0i0v/The.Kollective.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sFReSo2zVJ6glpFqujI65Za0iFaSbjx3"
+    "https://downloadwella.com/thrc56fs0i0v/The.Kollective.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sFReSo2zVJ6glpFqujI65Za0iFaSbjx3",
+    "https://downloadwella.com/912e6eiytzj3/Dept.Q.S01E01(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ooy-t--auSR3ETgnQ2G5DbZFJgzn4Suu",
+    "https://downloadwella.com/0wt4kwp9tmsz/Dept.Q.S01E02(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vy4-xKo_3X6i8f_yuokUZ2j17uOKsEzj",
+    "https://downloadwella.com/hf4g871h9xpp/Dept.Q.S01E03(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s7ssnaPSoqPtnsdxmRPDKI4nyovm1Itw",
+    "https://downloadwella.com/sk4pvcshdr99/Dept.Q.S01E04(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VIxK-hRD1PEty8PBy-8dmvMWu0UgFV__",
+    "https://downloadwella.com/4j5dzctjatkr/Dept.Q.S01E05(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7dYjPS54DEM_2Q995e8p0FrFYENcb1fD",
+    "https://downloadwella.com/fhmockxf1nsh/Dept.Q.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oCDSghDCjObtiCE5oqbAgOghA5BKDOGn",
+    "https://downloadwella.com/6lnh7eejyqt1/Dept.Q.S01E07(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E6w4Ook-q_Lia67-XCA42BfTP_CPEZdZ",
+    "https://downloadwella.com/hot04napzsfu/Dept.Q.S01E08(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t10RIslyyHNBkECE5TvlIT21qT9lx7T4",
+    "https://downloadwella.com/r7iqwwpo8qot/Dept.Q.S01E09(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q07TLz-7Sl9KV1n3mIGjID6t3M_NdfEf"
   }
 }
