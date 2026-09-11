@@ -1090,6 +1090,13 @@
       "signature": "131076|https://thenkiri.com/clean-slate-s01-complete-tv-series/|2025-02-06T16:40:19|2025-02-06T16:40:58|{'rendered': 'Clean Slate S01 (Episode 1 – 3 Added) | TV Series'}",
       "modified": "2025-02-06T16:40:58",
       "completed_at": 1789153229
+    },
+    "https://thenkiri.com/mythic-quest-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130663|https://thenkiri.com/mythic-quest-s04-complete-tv-series/|2025-01-29T09:02:31|2025-03-26T08:12:35|{'rendered': 'Mythic Quest S04 (Complete) | TV Series'}",
+      "modified": "2025-03-26T08:12:35",
+      "completed_at": 1789154610,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2166,6 +2173,13 @@
     "https://downloadwella.com/1pjll5rfrfxx/The.White.Lotus.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mx-eQ3HAzts25baA1UttzLQ3KQ_9VavA",
     "https://downloadwella.com/tad4090lmx5c/Clean.Slate.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0aDEm-6ypdW4WysTkSjK0y4cXsAaXN4e",
     "https://downloadwella.com/o992pmkwwz3m/clean.slate.2025.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m3zhyKqMjyVhB3RcsgYCxyQUZyfQP-eK",
-    "https://downloadwella.com/1dxd5p90eu69/clean.slate.2025.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8JEuuueSZSC9D4WFyh8mMwKnaL0Fw71M"
+    "https://downloadwella.com/1dxd5p90eu69/clean.slate.2025.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8JEuuueSZSC9D4WFyh8mMwKnaL0Fw71M",
+    "https://downloadwella.com/u07lr92btkhf/mythic.quest.s04e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4RLrFc8rRIGcnpLDuU29xNBHnBB2c8xE",
+    "https://downloadwella.com/art0e74wa90t/mythic.quest.s04e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RYGsI3n_xMcCauHBkqLUmudJXNwtyVh4",
+    "https://downloadwella.com/q2wa7f3qwdf4/mythic.quest.s04e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZyV_bniVKQn8D6307YOBbu3VfexDTZtq",
+    "https://downloadwella.com/rb4t0qgecro0/Mythic.Quest.S04E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ni5Q99X8FZBeIY4s8EwwNbXuWMsVUZTh",
+    "https://downloadwella.com/pubynj4d88mq/Mythic.Quest.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yb3987zHcX7nykjSfotvD8HVeP0_h8q_",
+    "https://downloadwella.com/sgg4blwtq428/mythic.quest.s04e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gJD0lInv0V_5mHtS4OWqz3T_TQ51jdjO",
+    "https://downloadwella.com/w02mhapprtby/Mythic.Quest.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B0e4u3QvvOwBToRX-tezNbr8FqBo3Gxt"
   }
 }
