@@ -1172,6 +1172,13 @@
       "modified": "2025-05-09T07:54:26",
       "completed_at": 1789159057,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/tomb-raider-the-legend-of-lara-croft-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "122970|https://thenkiri.com/tomb-raider-the-legend-of-lara-croft-s01-complete-tv-series/|2024-10-10T10:33:20|2024-10-10T10:33:20|{'rendered': 'Tomb Raider: The Legend of Lara Croft S01 (Complete) | TV Series'}",
+      "modified": "2024-10-10T10:33:20",
+      "completed_at": 1789160118,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2282,6 +2289,8 @@
     "https://downloadwella.com/makp27e7jjvb/Elsbeth.s02e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DvzCVnDKG01Dsn_ka5hTdF8z-ez39RmD",
     "https://downloadwella.com/l7k8zcovh6w0/Elsbeth.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JBG4c_LFH6nvH9Ujo7S4-7L_qYVFNGs_",
     "https://downloadwella.com/lv97gmpmlvng/Elsbeth.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qWNGWWyzk_0o81Gw-2kuGHb7evMyDTgF",
-    "https://downloadwella.com/az2ggrtz13ye/Elsbeth.S02E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bDiMBbbF2B60-fYHw98jjTewmt0Ra23k"
+    "https://downloadwella.com/az2ggrtz13ye/Elsbeth.S02E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bDiMBbbF2B60-fYHw98jjTewmt0Ra23k",
+    "https://downloadwella.com/huwvl5r0k814/Tomb.Raider.The.Legend.of.Lara.Croft.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4dHnP3IoGG2L6jDfliQH8ddrMnSc4xkb",
+    "https://downloadwella.com/l9tn4p1i8cs6/Tomb.Raider.The.Legend.of.Lara.Croft.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gZbHFZi_6SRl41visBQx-u8A0U8FvhF6"
   }
 }
