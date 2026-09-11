@@ -1035,6 +1035,13 @@
       "modified": "2025-04-19T18:06:32",
       "completed_at": 1789137647,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-last-of-us-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134395|https://thenkiri.com/the-last-of-us-s02-complete-tv-series/|2025-04-14T08:18:30|2025-05-26T07:43:23|{'rendered': 'The Last of Us S02 (Complete) | TV Series'}",
+      "modified": "2025-05-26T07:43:23",
+      "completed_at": 1789141081,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2068,6 +2075,11 @@
     "https://downloadwella.com/df1647ay7wxd/SurrealEstate.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sxtfWgvoHXcPD2a1vyXqd_NrLdSAVKo8",
     "https://downloadwella.com/8kjw29ao1c35/SurrealEstate.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u4K5iAwl7ZGof4-qfHhctRc7SXmSCkIO",
     "https://downloadwella.com/iugekm2c63a2/SurrealEstate.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M2JqvUwsnEPHx8Z9RZ5qTdJkn8tyFEyC",
-    "https://downloadwella.com/zzfzyrmr46ni/The.Narrow.Road.to.the.Deep.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ko6LcYWecc6-USNTbZnFKe5J2ymQ7zAR"
+    "https://downloadwella.com/zzfzyrmr46ni/The.Narrow.Road.to.the.Deep.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ko6LcYWecc6-USNTbZnFKe5J2ymQ7zAR",
+    "https://downloadwella.com/b7almymfwiiv/The.Last.of.Us.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LhPTk02WRgoKM3Ra8vYsKA1QvAD-IZnO",
+    "https://downloadwella.com/3tse5rw85ec3/the.last.of.us.s02e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZIxDKa_76Vgqbt9jaYb0q5VmRrjUd-XC",
+    "https://downloadwella.com/35beeklmh7nb/the.last.of.us.s02e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eFHpiDhd8QWsiga5l7NUEQBdw546ZxYn",
+    "https://downloadwella.com/3v2x8jfdhzey/the.last.of.us.s02e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sN50nhWYCgOQqDPUiJ2kz0Yf_z90jNDh",
+    "https://downloadwella.com/6f78jaf64ii5/The.Last.of.Us.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9zaLIavyHKpuzZ__4P3bb2WAj2QK9BLu"
   }
 }
