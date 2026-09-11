@@ -1158,6 +1158,13 @@
       "signature": "124990|https://thenkiri.com/harley-quinn-s03-complete-tv-series/|2024-11-13T08:02:03|2024-11-13T08:05:51|{'rendered': 'Harley Quinn S03 (Complete) | TV Series'}",
       "modified": "2024-11-13T08:05:51",
       "completed_at": 1789153789
+    },
+    "https://thenkiri.com/special-ops-lioness-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "123967|https://thenkiri.com/special-ops-lioness-s02-complete-tv-series/|2024-10-27T07:49:33|2024-12-08T16:20:25|{'rendered': 'Special Ops: Lioness S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-12-08T16:20:25",
+      "completed_at": 1789154667,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2254,6 +2261,10 @@
     "https://downloadwella.com/cydak0bos1lw/Harley.Quinn.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wMTL9TUcKPh_noauL5kbotQLXo9_vrJX",
     "https://downloadwella.com/exqwfjjmvvxr/Harley.Quinn.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KNj6_kMAzmJhJmuoxY_fD3xtYKPRs0vp",
     "https://downloadwella.com/1rz56qvimlw0/Harley.Quinn.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d0rxezoH5B3JwYUtrQb0xK5BOMDiIk4_",
-    "https://downloadwella.com/c9xhwkg0uzdj/Harley.Quinn.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JncnsQUeG09ogKXuuUCs_MMcBND8BOWx"
+    "https://downloadwella.com/c9xhwkg0uzdj/Harley.Quinn.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JncnsQUeG09ogKXuuUCs_MMcBND8BOWx",
+    "https://downloadwella.com/eb8jsmoacdze/Lioness.2023.s02e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y0dDR-v18wE3eIjNkvnypwHXuP9erq9c",
+    "https://downloadwella.com/80oflp2qwznm/Lioness.2023.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BGVBxK45ipBZxtfvGW11rg3BJui2yFAR",
+    "https://downloadwella.com/jtjtlh99476w/Lioness.2023.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/curV6hkZ_4nolhBdslqq31jey71b88nO",
+    "https://downloadwella.com/bg8kfoyw48kk/Special.Ops.Lioness.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XoiaiHBXJRSmPtLxSq-R3LjAo4KZpAmE"
   }
 }
