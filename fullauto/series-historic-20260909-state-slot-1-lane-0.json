@@ -913,6 +913,13 @@
       "modified": "2026-07-02T11:42:00",
       "completed_at": 1789089814,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/marvel-zombies-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142615|https://thenkiri.com/marvel-zombies-s01-complete-tv-series/|2025-09-24T11:21:47|2025-09-24T11:21:47|{'rendered': 'Marvel Zombies S01 (Complete) | TV Series'}",
+      "modified": "2025-09-24T11:21:47",
+      "completed_at": 1789090270,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1801,6 +1808,8 @@
     "https://downloadwella.com/m2swwjklb5wg/Brilliant.Minds.S02E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ds6PsmVFtGfSg2BMeMwE63Wb6QwBslKv",
     "https://downloadwella.com/i0toiwyx373p/Brilliant.Minds.S02E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IojwbZbLVp_ztUNmu6yUeXlSPiSR_Bmw",
     "https://downloadwella.com/b6oguqko3x0r/Brilliant.Minds.S02E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yzjfB57Llpq7ZY-il4w1INpdKqaIil_B",
-    "https://downloadwella.com/5pp46znkl0xx/Briliant.Minds.S02E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/790EZbaS-WUK-nXXxItiEbI6bvqJUKLG"
+    "https://downloadwella.com/5pp46znkl0xx/Briliant.Minds.S02E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/790EZbaS-WUK-nXXxItiEbI6bvqJUKLG",
+    "https://downloadwella.com/dmowavetcrhh/Marvel.Zombies.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IiR8rnSK3lnqaVnWMpSY-QZsTEGDH2FB",
+    "https://downloadwella.com/i9renwc5iwuv/Marvel.Zombies.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3QzGMGwdSQ0slNIRnIB_A04iL2FXsLBN"
   }
 }
