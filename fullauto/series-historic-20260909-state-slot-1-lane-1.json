@@ -955,6 +955,13 @@
       "modified": "2025-08-23T07:13:11",
       "completed_at": 1789100642,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-rainmaker-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "140955|https://thenkiri.com/the-rainmaker-s01-complete-tv-series/|2025-08-18T10:15:05|2025-10-19T15:25:57|{'rendered': 'The Rainmaker S01 (Complete)  | TV Series'}",
+      "modified": "2025-10-19T15:25:57",
+      "completed_at": 1789104388,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1877,6 +1884,13 @@
     "https://downloadwella.com/zwo5zm12o1r9/Long.Short.Story.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XcxnbkAgAk-ZJ-1SQ0zxVjJHDgk91ZBa",
     "https://downloadwella.com/6hqbogkaik72/Long.Short.Story.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/teJ1GwnmDn8rxsLnVHRZx44kTSvJ6XvH",
     "https://downloadwella.com/bewi0er8exe2/Long.Short.Story.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/32lUzYyxI2iVGpwFJju38emS1dsDxjJB",
-    "https://downloadwella.com/u1rum5go852o/Long.Short.Story.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KDjXxdsxx6az2PrcRFlanKwbSnjuSlAD"
+    "https://downloadwella.com/u1rum5go852o/Long.Short.Story.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KDjXxdsxx6az2PrcRFlanKwbSnjuSlAD",
+    "https://downloadwella.com/e5kwgpgd9olj/The.Rainmaker.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TZQ0tytscM1v_Ra-bSQ6B5xgsZcR_4bO",
+    "https://downloadwella.com/qszcccc09t2v/The.Rainmaker.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6GTfTkrLeD0xi_Jm_E71TLieU9lAGjlG",
+    "https://downloadwella.com/a8k2809xk2p1/The.Rainmaker.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IiQTi4OekB9sS6yk443i5YL6CJOqwhxc",
+    "https://downloadwella.com/uspwnog48v1d/The.Rainmaker.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tqJUDDL7Kl3w6MLvMZJyIeq60yMU0x6i",
+    "https://downloadwella.com/z1utmulfx8q2/The.Rainmaker.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ujOPBavTW3oyJZwJjbJuz5BWWs4InIj",
+    "https://downloadwella.com/rvqvamxwpork/The.Rainmaker.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GBJxhjd2f6QhfQiKBqBmkE7vTokUdvfh",
+    "https://downloadwella.com/ai9kmuc3btqh/The.Rainmaker.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uRYJNHVSu79LNOKNGF_nWVqGqSZobVdq"
   }
 }
