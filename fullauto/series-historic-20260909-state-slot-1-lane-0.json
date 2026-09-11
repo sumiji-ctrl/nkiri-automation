@@ -1133,6 +1133,13 @@
       "modified": "2025-01-10T07:21:12",
       "skipped_at": 1789164628,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/based-on-a-true-story-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "125584|https://thenkiri.com/based-on-a-true-story-s02-complete-tv-series/|2024-11-22T08:39:34|2024-11-22T08:39:34|{'rendered': 'Based on a True Story S02 (Complete) | TV Series'}",
+      "modified": "2024-11-22T08:39:34",
+      "skipped_at": 1789164909,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
