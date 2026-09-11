@@ -1110,6 +1110,13 @@
       "modified": "2025-02-05T08:24:56",
       "completed_at": 1789142094,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/allegiance-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130023|https://thenkiri.com/allegiance-s02-complete-tv-series/|2025-01-16T08:30:50|2025-03-13T09:11:53|{'rendered': 'Allegiance S02 (Episode 9 Added) | TV Series'}",
+      "modified": "2025-03-13T09:11:53",
+      "completed_at": 1789143476,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2165,6 +2172,10 @@
     "https://downloadwella.com/7h2v8iiyi848/SAS.Rogue.Heroes.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7tmldrusXNFZ8O_xzkPg5oU38RZkzHNC",
     "https://downloadwella.com/qn0cb4rzujew/SAS.Rogue.Heroes.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XPOhvvRHrTjGqT1HTiMWHR9LFeqp00xY",
     "https://downloadwella.com/pdtynlt0lc5h/The.Thundermans.Undercover.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4IFo6ShEd-UGA7Pvq6MJdXrJgHdKUQ-Z",
-    "https://downloadwella.com/5wbteju9v2xn/The.Thundermans.Undercover.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ysJzjhnRfxs0IV-SeaprakbzwiDhZS3R"
+    "https://downloadwella.com/5wbteju9v2xn/The.Thundermans.Undercover.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ysJzjhnRfxs0IV-SeaprakbzwiDhZS3R",
+    "https://downloadwella.com/hfoya5hvptqx/Allegiance.2024.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0OsSOW0vux4fFihNWzixOy1FUwwKmO3z",
+    "https://downloadwella.com/4aapbh4ksqmd/Allegiance.2024.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vpt8sHMMpL0izQpB_51F34XQFBSvIsBc",
+    "https://downloadwella.com/hfarydx6hxqt/Allegiance.2024.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AIY8aQ024hNlc54sB9UKcRjcfKtyr_KZ",
+    "https://downloadwella.com/nac9izu1gpde/Allegiance.2024.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S6Pccle-v-CD4VKQmOBNvE_LkuEWdWLo"
   }
 }
