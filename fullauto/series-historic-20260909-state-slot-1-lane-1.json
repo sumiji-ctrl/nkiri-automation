@@ -1096,6 +1096,13 @@
       "signature": "130761|https://thenkiri.com/the-recruit-s02-complete-tv-series/|2025-01-30T11:29:46|2025-01-31T10:07:37|{'rendered': 'The Recruit S02 (Complete) | TV Series'}",
       "modified": "2025-01-31T10:07:37",
       "completed_at": 1789140187
+    },
+    "https://thenkiri.com/sas-rogue-heroes-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130536|https://thenkiri.com/sas-rogue-heroes-s02-complete-tv-series/|2025-01-27T09:12:43|2025-01-27T09:12:43|{'rendered': 'SAS: Rogue Heroes S02 (Complete) | TV Series'}",
+      "modified": "2025-01-27T09:12:43",
+      "completed_at": 1789141531,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2144,6 +2151,11 @@
     "https://downloadwella.com/sodeffcv7dnz/The.Recruit.2022.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L3b7e14SzTplLLWJ4DEqnyVfgIxfEb2g",
     "https://downloadwella.com/4oyppyuolvk8/The.Recruit.2022.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-hZTSeXe-GIveQcbg9uCf53dmZmBhxOM",
     "https://downloadwella.com/6a1qgawry50l/The.Recruit.2022.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zl2ybRcqU8Uuds0f_7fUys-2zDh0Aqm8",
-    "https://downloadwella.com/jyqvuemug0k5/The.Recruit.2022.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fz-avFEeU1bGDrENGZQAs7lVjGEBRg2w"
+    "https://downloadwella.com/jyqvuemug0k5/The.Recruit.2022.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fz-avFEeU1bGDrENGZQAs7lVjGEBRg2w",
+    "https://downloadwella.com/hwwq53z3yfyh/SAS.Rogue.Heroes.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wXMN5JS2WSzo13epE86QaDNX2iDDvoT1",
+    "https://downloadwella.com/54c9063rcmr7/SAS.Rogue.Heroes.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8I2lYFJ8CGhT9mxe7ykRQZOhRB48TJYi",
+    "https://downloadwella.com/bbygxbtyqs98/SAS.Rogue.Heroes.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s4cLAKSCL448W4YyfRUuKBAUdDqtqF25",
+    "https://downloadwella.com/7h2v8iiyi848/SAS.Rogue.Heroes.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7tmldrusXNFZ8O_xzkPg5oU38RZkzHNC",
+    "https://downloadwella.com/qn0cb4rzujew/SAS.Rogue.Heroes.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XPOhvvRHrTjGqT1HTiMWHR9LFeqp00xY"
   }
 }
