@@ -1179,6 +1179,13 @@
       "modified": "2024-10-10T10:33:20",
       "completed_at": 1789160118,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/found-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "122653|https://thenkiri.com/found-s02-complete-tv-series/|2024-10-05T08:13:23|2025-05-16T12:24:45|{'rendered': 'Found S02 (Episode 22 Added) | TV Series'}",
+      "modified": "2025-05-16T12:24:45",
+      "completed_at": 1789164259,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2291,6 +2298,15 @@
     "https://downloadwella.com/lv97gmpmlvng/Elsbeth.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qWNGWWyzk_0o81Gw-2kuGHb7evMyDTgF",
     "https://downloadwella.com/az2ggrtz13ye/Elsbeth.S02E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bDiMBbbF2B60-fYHw98jjTewmt0Ra23k",
     "https://downloadwella.com/huwvl5r0k814/Tomb.Raider.The.Legend.of.Lara.Croft.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4dHnP3IoGG2L6jDfliQH8ddrMnSc4xkb",
-    "https://downloadwella.com/l9tn4p1i8cs6/Tomb.Raider.The.Legend.of.Lara.Croft.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gZbHFZi_6SRl41visBQx-u8A0U8FvhF6"
+    "https://downloadwella.com/l9tn4p1i8cs6/Tomb.Raider.The.Legend.of.Lara.Croft.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gZbHFZi_6SRl41visBQx-u8A0U8FvhF6",
+    "https://downloadwella.com/nz0yhr304sn4/Found.2023.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/orQzhourYYHMjnKSYOOM719e-d-ZYR91",
+    "https://downloadwella.com/qynku11epig2/Found.2023.s02e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fwzPUiGHC_fQd6y_JjkuqxtsExWAAcE8",
+    "https://downloadwella.com/585y6fal2n4g/Found.2023.s02e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QosHLTdel0I_gZsGWhpUBkBnm2F_QECj",
+    "https://downloadwella.com/ywu0wyiw898h/Found.2023.s02e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8it1KRTYqVMyoxnS6tCRQOHD6yWud04D",
+    "https://downloadwella.com/xo9fqb1c8bsa/Found.2023.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EJf7KnExAtujHuCi_5mGtY8gUu0BV-Mp",
+    "https://downloadwella.com/qv41ltfcd9c9/Found.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oejhhi7sCq7prBl9OW9VMnxzc8uHBUTB",
+    "https://downloadwella.com/9bchx6fapanp/Found.2023.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KAz08lwgYEiO69v36MNJa4Fp0_EFKyVl",
+    "https://downloadwella.com/z2k2zb2xph08/Found.2023.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K__N7vXxW3Z3P34dJwnfdhbP_r8XpKJJ",
+    "https://downloadwella.com/4thcund7v3au/Found.2023.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JZmpyVz3S80U8d9NoVOTmn1MfmQP4Zn2"
   }
 }
