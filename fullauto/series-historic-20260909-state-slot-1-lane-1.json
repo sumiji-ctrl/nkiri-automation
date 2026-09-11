@@ -1037,6 +1037,13 @@
       "modified": "2025-05-14T05:59:25",
       "completed_at": 1789122841,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/1-happy-family-usa-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134541|https://thenkiri.com/1-happy-family-usa-s01-complete-tv-series/|2025-04-17T12:09:13|2025-05-01T06:44:50|{'rendered': '#1 Happy Family USA S01 (Complete) | TV Series'}",
+      "modified": "2025-05-01T06:44:50",
+      "completed_at": 1789123962,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2034,6 +2041,10 @@
     "https://downloadwella.com/dc29gkl8eh3q/Andor.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wPEeQAxYRMp1qNUTI_Z7QM6RDBe1bE1v",
     "https://downloadwella.com/ti9c5wczr4yu/Andor.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wIBBzuVKcwauyIghkwEVray85Fi08UaY",
     "https://downloadwella.com/643hwlgi6mhp/Andor.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wNBoNelHHgmDmd7RlrqxeUjLvXoWwLT-",
-    "https://downloadwella.com/r945xa2jcbp3/andor.s02e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JQZLK47mI0TPUss512rqUuVG7JAJNa1W"
+    "https://downloadwella.com/r945xa2jcbp3/andor.s02e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JQZLK47mI0TPUss512rqUuVG7JAJNa1W",
+    "https://downloadwella.com/8w9ebodvwkm6/1.Happy.Family.USA.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Nna3VFG-M196GDkIGRplfuacon5nSyr",
+    "https://downloadwella.com/xrxbupspz34e/1.happy.family.usa.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zgmWsL6Sx_MAQnCEEijclmfSZgQRNpuW",
+    "https://downloadwella.com/sz62244mk5n8/1.happy.family.usa.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xSt2RR5pL-5y-unjqFbuBhr150bOiLyt",
+    "https://downloadwella.com/oxvdj4474f5n/1.happy.family.usa.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6NB_YP0spMieWZHRYgTja6LlNO-APFLX"
   }
 }
