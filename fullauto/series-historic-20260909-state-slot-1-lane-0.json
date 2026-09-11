@@ -1070,6 +1070,13 @@
       "modified": "2025-03-10T08:15:04",
       "completed_at": 1789148379,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/grimsburg-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "131964|https://thenkiri.com/grimsburg-s02-complete-tv-series/|2025-02-25T07:20:23|2025-07-18T10:37:34|{'rendered': 'Grimsburg S02 (Episode 13 Added) | TV Series'}",
+      "modified": "2025-07-18T10:37:34",
+      "completed_at": 1789151096,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2134,6 +2141,10 @@
     "https://downloadwella.com/9wd24xxicnnm/The.Leopard.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R7jM_KVbi2SQp9Dw51OlX-u__G2IS3_p",
     "https://downloadwella.com/mtzooz6okcr4/The.Leopard.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3QV5FTpavelDPzsNN8IJHogUy3My14_O",
     "https://downloadwella.com/49rumbe17smg/The.Leopard.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5weGi7VyOdtIEnR7SkJB8b40qjgoDC2J",
-    "https://downloadwella.com/9imu0mhcpn55/The.Leopard.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4XsvKS_Jh8AHglE7xB13LDDMpU35N2Tj"
+    "https://downloadwella.com/9imu0mhcpn55/The.Leopard.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4XsvKS_Jh8AHglE7xB13LDDMpU35N2Tj",
+    "https://downloadwella.com/qdahpu2rrdeg/Grimsburg.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pyrSccZDjUUcCB2v_c-65ySh7PkAkDPV",
+    "https://downloadwella.com/owr1vyyzgew5/Grimsburg.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tGRhjMa0BHeJx5KYvN1aMWpU-5VFp6kp",
+    "https://downloadwella.com/r4k110su4946/Grimsburg.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uoJC1mWUukIc9XzqBOFPosFqwF51FmD5",
+    "https://downloadwella.com/10gkygau97ik/Grimsburg.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EU-Epc8QqaBryyFHyQm3RM5ytI8kl1V3"
   }
 }
