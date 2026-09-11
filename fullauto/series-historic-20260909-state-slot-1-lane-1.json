@@ -1009,6 +1009,13 @@
       "signature": "136515|https://thenkiri.com/dept-q-s01-complete-tv-series/|2025-05-30T11:52:08|2025-05-30T14:38:21|{'rendered': 'Dept. Q S01 (Complete) | TV Series'}",
       "modified": "2025-05-30T14:38:21",
       "completed_at": 1789118912
+    },
+    "https://thenkiri.com/the-bombing-of-pan-am-s01-completes/": {
+      "status": "partial",
+      "signature": "136194|https://thenkiri.com/the-bombing-of-pan-am-s01-completes/|2025-05-22T09:45:18|2025-06-02T17:03:54|{'rendered': 'The Bombing of Pan Am S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2025-06-02T17:03:54",
+      "completed_at": 1789119431,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1994,6 +2001,7 @@
     "https://downloadwella.com/fhmockxf1nsh/Dept.Q.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oCDSghDCjObtiCE5oqbAgOghA5BKDOGn",
     "https://downloadwella.com/6lnh7eejyqt1/Dept.Q.S01E07(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E6w4Ook-q_Lia67-XCA42BfTP_CPEZdZ",
     "https://downloadwella.com/hot04napzsfu/Dept.Q.S01E08(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t10RIslyyHNBkECE5TvlIT21qT9lx7T4",
-    "https://downloadwella.com/r7iqwwpo8qot/Dept.Q.S01E09(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q07TLz-7Sl9KV1n3mIGjID6t3M_NdfEf"
+    "https://downloadwella.com/r7iqwwpo8qot/Dept.Q.S01E09(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q07TLz-7Sl9KV1n3mIGjID6t3M_NdfEf",
+    "https://downloadwella.com/o6s8pffd0b6u/The.Bombing.of.Pan.Am.103.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pCnT6lPkgnO-yYtBJ3gR4YuT0CoiY4QG"
   }
 }
