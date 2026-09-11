@@ -1021,6 +1021,13 @@
       "modified": "2025-08-26T10:53:44",
       "completed_at": 1789134400,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/surrealestate-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135023|https://thenkiri.com/surrealestate-s03-complete-tv-series/|2025-04-25T15:13:01|2025-06-06T06:38:29|{'rendered': 'SurrealEstate S03 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-06-06T06:38:29",
+      "completed_at": 1789137138,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2049,6 +2056,10 @@
     "https://downloadwella.com/b6h132batbqf/Dandadan.E16.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/0ZheYqjPQ36eONG3kHn6A3TX-ZsA6wfO",
     "https://downloadwella.com/8agpdznv1z1f/Dandadan.E17.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/jy9ytT2b5gEoE1Fg-IpPLTcbcmSvqYlY",
     "https://downloadwella.com/w0gatfel9iso/Dandadan.E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FoSZYbPiJAxBpM7geBqD6APhESzWCY2T",
-    "https://downloadwella.com/p5o7vjacj49z/Dandadan.E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HHHNrLU99iG11tm4POO6_qNuIYiR6s5j"
+    "https://downloadwella.com/p5o7vjacj49z/Dandadan.E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HHHNrLU99iG11tm4POO6_qNuIYiR6s5j",
+    "https://downloadwella.com/dbt34ijmd711/SurrealEstate.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3WgW3hCFFjRxAis-pbriDCUa0RLmANdD",
+    "https://downloadwella.com/df1647ay7wxd/SurrealEstate.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sxtfWgvoHXcPD2a1vyXqd_NrLdSAVKo8",
+    "https://downloadwella.com/8kjw29ao1c35/SurrealEstate.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u4K5iAwl7ZGof4-qfHhctRc7SXmSCkIO",
+    "https://downloadwella.com/iugekm2c63a2/SurrealEstate.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M2JqvUwsnEPHx8Z9RZ5qTdJkn8tyFEyC"
   }
 }
