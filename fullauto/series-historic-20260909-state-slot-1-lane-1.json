@@ -948,6 +948,13 @@
       "modified": "2025-08-29T15:46:52",
       "completed_at": 1789098698,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/long-story-short-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141217|https://thenkiri.com/long-story-short-s01-complete-tv-series/|2025-08-23T07:13:11|2025-08-23T07:13:11|{'rendered': 'Long Story Short S01 (Complete) | TV Series'}",
+      "modified": "2025-08-23T07:13:11",
+      "completed_at": 1789100642,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1865,6 +1872,11 @@
     "https://downloadwella.com/t1f5voalbnak/kpopped.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZKiHsDAd4cntUkunIvGp8ZvdwwCCBclM",
     "https://downloadwella.com/ks69046c135z/kpopped.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M2dRshzVvILbgYEBzvmY55SvtwmvyiWw",
     "https://downloadwella.com/r0wabxkgs7eh/kpopped.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FDshev2JiPvk9ZT8H4fTCxlaz5b8YHuc",
-    "https://downloadwella.com/9bvgfgt4s8kl/kpopped.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kGjhEmf2cxWclP4Cyocto5ECaCJFOSxL"
+    "https://downloadwella.com/9bvgfgt4s8kl/kpopped.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kGjhEmf2cxWclP4Cyocto5ECaCJFOSxL",
+    "https://downloadwella.com/j5hmuxos6b58/Long.Short.Story.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hAnfloyC9Lxff0WjkVjJXanomYjV2BW0",
+    "https://downloadwella.com/zwo5zm12o1r9/Long.Short.Story.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XcxnbkAgAk-ZJ-1SQ0zxVjJHDgk91ZBa",
+    "https://downloadwella.com/6hqbogkaik72/Long.Short.Story.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/teJ1GwnmDn8rxsLnVHRZx44kTSvJ6XvH",
+    "https://downloadwella.com/bewi0er8exe2/Long.Short.Story.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/32lUzYyxI2iVGpwFJju38emS1dsDxjJB",
+    "https://downloadwella.com/u1rum5go852o/Long.Short.Story.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KDjXxdsxx6az2PrcRFlanKwbSnjuSlAD"
   }
 }
