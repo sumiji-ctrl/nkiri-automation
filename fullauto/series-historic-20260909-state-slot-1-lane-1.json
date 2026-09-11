@@ -982,6 +982,13 @@
       "modified": "2025-09-05T06:07:22",
       "completed_at": 1789108979,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/smoke-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "138744|https://thenkiri.com/smoke-s01-complete-tv-series/|2025-06-27T10:24:33|2025-08-15T07:43:57|{'rendered': 'Smoke S01 (Episode 9 Added)  | TV Series'}",
+      "modified": "2025-08-15T07:43:57",
+      "completed_at": 1789111417,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1934,6 +1941,11 @@
     "https://downloadwella.com/dtjbux3kmocl/Dexter.Resurrection.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nRKOe1ijf3zG5jvYwvRMgO7R6V2jJx6t",
     "https://downloadwella.com/kztclj1eqxip/dexter.resurrection.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SRdbtplm3-xSJCbithsNqnaD3ZJZbpxg",
     "https://downloadwella.com/q708tm0q6m4u/dexter.resurrection.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-GltXGNlMFm-_G4GCUp-tKDiaA5l07j6",
-    "https://downloadwella.com/odb88iyqm5kb/dexter.resurrection.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xzu9yLawgNdA0-YbN0xfEDDDhXWrjKlB"
+    "https://downloadwella.com/odb88iyqm5kb/dexter.resurrection.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xzu9yLawgNdA0-YbN0xfEDDDhXWrjKlB",
+    "https://downloadwella.com/vijdrerca82o/Smoke.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PJiBCoeq1iUrv2VCZ13IB7sY2Zc0pV0W",
+    "https://downloadwella.com/svm7je04tchf/Smoke.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MBZ-zvW58I3k5BwO9uPQzP-h_1DHD0W8",
+    "https://downloadwella.com/gw71wd22uvh0/smoke.2025.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VY3QoTmwdnPvekfpNriI-0d7vqAxhDb9",
+    "https://downloadwella.com/7v47b1dy03so/Smoke.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/edoRArSexhoMSR1Tdu8y1VgsCdrg6ORG",
+    "https://downloadwella.com/pse1awwrf7gy/smoke.2025.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GN31vsB5l-gKJ2jVdknTZE8TAO9Vsld4"
   }
 }
