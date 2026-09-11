@@ -915,6 +915,13 @@
       "modified": "2026-04-20T11:07:07",
       "completed_at": 1789088568,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/house-of-guinness-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142692|https://thenkiri.com/house-of-guinness-s01-complete-tv-series/|2025-09-25T18:36:42|2025-09-26T06:20:09|{'rendered': 'House of Guinness S01 (Complete) | TV Series'}",
+      "modified": "2025-09-26T06:20:09",
+      "completed_at": 1789090034,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1795,6 +1802,11 @@
     "https://downloadwella.com/sp9ei0vyr7ye/Krapopolis.S03E09.(THENKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/U9p3aFuPxIBy4hPV9xujwLNqJn-yJ4ns",
     "https://downloadwella.com/4lahq52tn5dl/Krapopolis.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rr8G0Z470YJY8yZUIT2ikiOCSXYE2tGF",
     "https://downloadwella.com/268bi046td8c/Krapopolis.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sBwruvLCZwTkoNT8BBO8aAxzjmDg_SyQ",
-    "https://downloadwella.com/x7bitba6jl3w/Krapopolis.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZfzpmShYt-eUIxqNbQUD3TRuwYt039eH"
+    "https://downloadwella.com/x7bitba6jl3w/Krapopolis.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZfzpmShYt-eUIxqNbQUD3TRuwYt039eH",
+    "https://downloadwella.com/h2mr55rrcpcs/House.of.Guinness.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zYF-qiOnT2Q2uQz8pbNXc00fB5J5zJwQ",
+    "https://downloadwella.com/1pz0emansgwh/House.of.Guinness.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QklP--SgEhneCXgX3AAN4ec8ieJAOoaw",
+    "https://downloadwella.com/1osomj21c6iz/House.of.Guinness.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rDwNINVBzQ17SEe7C1V3q7sMuzslq6a4",
+    "https://downloadwella.com/p4h220t40c59/House.of.Guinness.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eoDPt7f0OJul5JpPn5kSigcAuOmXyCZ7",
+    "https://downloadwella.com/y2ur7826msz3/House.of.Guinness.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XnHSL2TA0EEjtXdTUOYqChA7FIxMVda0"
   }
 }
