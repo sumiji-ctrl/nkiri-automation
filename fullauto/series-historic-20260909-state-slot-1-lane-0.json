@@ -1140,6 +1140,13 @@
       "modified": "2024-11-22T08:39:34",
       "skipped_at": 1789164909,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/bad-sisters-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "125098|https://thenkiri.com/bad-sisters-s01-complete-tv-series/|2024-11-14T13:09:05|2024-11-14T13:09:05|{'rendered': 'Bad Sisters S01 (Complete) | TV Series'}",
+      "modified": "2024-11-14T13:09:05",
+      "completed_at": 1789167223,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2238,6 +2245,9 @@
     "https://downloadwella.com/oija2xcu8sqv/American.primeval.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KvLI_ChooCoWZ5GDjqOuHS5mVU0Gutur",
     "https://downloadwella.com/t2f8jqtblvja/Going.Dutch.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-hdn2kQYOStHn2nBTctC59rhNhJHrxh6",
     "https://downloadwella.com/0igocwosshg2/Going.Dutch.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/841ZdxcOcHNVBiR7rSYYmXOWzfHSNg5g",
-    "https://downloadwella.com/oa8y9ck5mjbz/Going.Dutch.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Em-3jLJljFJhqqxBDo86_rmJOnbg4Q4Q"
+    "https://downloadwella.com/oa8y9ck5mjbz/Going.Dutch.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Em-3jLJljFJhqqxBDo86_rmJOnbg4Q4Q",
+    "https://downloadwella.com/2f4p0x1g28jn/Bad.Sisters.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fXGALzRQxKYSxozFDy3KdwcGuviEnHDv",
+    "https://downloadwella.com/hn9ewuzse7nh/Bad.Sisters.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2-xw39WBGE1UWduTK_VCHui1WekytqtI",
+    "https://downloadwella.com/4absy5md7c83/Bad.Sisters.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ohu_pCRxjE7hjCzJLL0nP0notH_TdgeA"
   }
 }
