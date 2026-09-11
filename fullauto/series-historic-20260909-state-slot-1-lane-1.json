@@ -1044,6 +1044,13 @@
       "modified": "2025-05-01T06:44:50",
       "completed_at": 1789123962,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/your-friends-neighbors-s01complete-tv-series/": {
+      "status": "partial",
+      "signature": "134275|https://thenkiri.com/your-friends-neighbors-s01complete-tv-series/|2025-04-11T12:40:57|2025-05-30T07:46:46|{'rendered': 'Your Friends & Neighbors S01 (Episode 9 Added) | TV Series'}",
+      "modified": "2025-05-30T07:46:46",
+      "completed_at": 1789126416,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2045,6 +2052,10 @@
     "https://downloadwella.com/8w9ebodvwkm6/1.Happy.Family.USA.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Nna3VFG-M196GDkIGRplfuacon5nSyr",
     "https://downloadwella.com/xrxbupspz34e/1.happy.family.usa.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zgmWsL6Sx_MAQnCEEijclmfSZgQRNpuW",
     "https://downloadwella.com/sz62244mk5n8/1.happy.family.usa.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xSt2RR5pL-5y-unjqFbuBhr150bOiLyt",
-    "https://downloadwella.com/oxvdj4474f5n/1.happy.family.usa.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6NB_YP0spMieWZHRYgTja6LlNO-APFLX"
+    "https://downloadwella.com/oxvdj4474f5n/1.happy.family.usa.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6NB_YP0spMieWZHRYgTja6LlNO-APFLX",
+    "https://downloadwella.com/9kugyt7a2734/Your.Friends.and.Neighbors.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x05C4rsdKOk4SqEX3eWrllQxsHikoNJx",
+    "https://downloadwella.com/ubu2m7tlq9wf/Your.Friends.and.Neighbors.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OMen8b9tvlwDWXmmjlAjLXmf9sP1-0XU",
+    "https://downloadwella.com/xosoi8xctvx0/Your.Friends.and.Neighbours.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZXG9IhWOfK2mGUo9j96DHInsEemm0sG5",
+    "https://downloadwella.com/xxbd03cnf6pm/your.friends.and.neighbors.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ry4muG4-uyI1uL5bq4C7RDLGUxp29B2M"
   }
 }
