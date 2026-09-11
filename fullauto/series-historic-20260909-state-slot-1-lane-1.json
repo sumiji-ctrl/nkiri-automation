@@ -962,6 +962,13 @@
       "modified": "2025-10-19T15:25:57",
       "completed_at": 1789104388,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/wednesday-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "140529|https://thenkiri.com/wednesday-s02-complete-tv-series/|2025-08-06T11:06:12|2025-09-03T10:46:33|{'rendered': 'Wednesday S02 (Complete)  | TV Series'}",
+      "modified": "2025-09-03T10:46:33",
+      "completed_at": 1789105415,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1891,6 +1898,11 @@
     "https://downloadwella.com/uspwnog48v1d/The.Rainmaker.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tqJUDDL7Kl3w6MLvMZJyIeq60yMU0x6i",
     "https://downloadwella.com/z1utmulfx8q2/The.Rainmaker.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ujOPBavTW3oyJZwJjbJuz5BWWs4InIj",
     "https://downloadwella.com/rvqvamxwpork/The.Rainmaker.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GBJxhjd2f6QhfQiKBqBmkE7vTokUdvfh",
-    "https://downloadwella.com/ai9kmuc3btqh/The.Rainmaker.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uRYJNHVSu79LNOKNGF_nWVqGqSZobVdq"
+    "https://downloadwella.com/ai9kmuc3btqh/The.Rainmaker.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uRYJNHVSu79LNOKNGF_nWVqGqSZobVdq",
+    "https://downloadwella.com/ecfrxciwqjat/Wednesday.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mJx8xSy-trFjESyEKOJYC7jCfY1CsLrB",
+    "https://downloadwella.com/n9yadstms7g7/wednesday.s02e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M04vMFXGEWsy9Pj4u32ealJWH_mwmLVb",
+    "https://downloadwella.com/tekvb7e46frr/wednesday.s02e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E9afHqXICYQOcccuG-8wwVrbsb5Y3e4N",
+    "https://downloadwella.com/ymrflkv9bz5q/wednesday.s02e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7XAu-xwj6sJP4t7gk_g9Pic8GMG7MnmQ",
+    "https://downloadwella.com/7tfngpjhp6sc/wednesday.s02e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FJfP0EZ0XR6wcV-kvsWoXq3RRuecsjNJ"
   }
 }
