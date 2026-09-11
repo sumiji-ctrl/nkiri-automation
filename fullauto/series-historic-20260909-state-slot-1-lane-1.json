@@ -1064,6 +1064,13 @@
       "signature": "133247|https://thenkiri.com/wolf-king-s01-complete-tv-series/|2025-03-21T14:42:29|2025-03-21T14:42:29|{'rendered': 'Wolf King S01 (Complete) | TV Series'}",
       "modified": "2025-03-21T14:42:29",
       "completed_at": 1789130510
+    },
+    "https://thenkiri.com/nine-bodies-in-a-mexican-morgue-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "132607|https://thenkiri.com/nine-bodies-in-a-mexican-morgue-s01-complete-tv-series/|2025-03-09T09:04:20|2025-04-07T08:52:41|{'rendered': 'Nine Bodies in a Mexican Morgue S01 (Episodes 6 Added) | TV Series'}",
+      "modified": "2025-04-07T08:52:41",
+      "completed_at": 1789132301,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2084,6 +2091,11 @@
     "https://downloadwella.com/3axz9kds5rr7/Wolf.King.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z-iX7ZI8dOmk3A9dkWH3duZl0bjwbokU",
     "https://downloadwella.com/x82yc9nqytkc/Wolf.King.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZmdGVmfsz1ETRQ3AwW1UTapO0-55lPjW",
     "https://downloadwella.com/aioa5p0yda4v/Wolf.King.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qWsm5-LUTN8mJ_gEbYTG8Aau7AeXuhmR",
-    "https://downloadwella.com/aerw3nd6xeuj/Wolf.King.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8i-PFf0tf7U0oUZjVqivQS4t8xGzKcs-"
+    "https://downloadwella.com/aerw3nd6xeuj/Wolf.King.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8i-PFf0tf7U0oUZjVqivQS4t8xGzKcs-",
+    "https://downloadwella.com/4qctun00uj2t/Nine.Bodies.in.A.Mexican.Morgue.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EmCWC5nemBVXk4w1TbHfBPpN-yAiOR9s",
+    "https://downloadwella.com/arncjdqf5xef/nine.bodies.in.a.mexican.morgue.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wEP7lnrckFKbFVTHWTaTrV-DB6kMJpjq",
+    "https://downloadwella.com/qanzu1q14erg/Nine.Bodies.in.a.Mexican.Morgue.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xRUSaPm3ID9k3Y6J8xcj-SjzPt8ybJya",
+    "https://downloadwella.com/o522c49pr7t3/Nine.Bodies.in.a.Mexican.Morgue.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zDGqQoXAk5wePBhHo2cKjDKTqGrOEk0i",
+    "https://downloadwella.com/vmw2fn5om2dh/nine.bodies.in.a.mexican.morgue.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fKnLXQe_K3QigDwDa-9LLK09kxJ8qjgD"
   }
 }
