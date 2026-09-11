@@ -1193,6 +1193,13 @@
       "modified": "2024-10-01T06:52:57",
       "skipped_at": 1789164505,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/brilliant-minds-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "121893|https://thenkiri.com/brilliant-minds-s01-complete-tv-series/|2024-09-24T09:27:16|2025-01-07T18:38:51|{'rendered': 'Brilliant Minds S01 (Episode 12 & 13 Added) | TV Series'}",
+      "modified": "2025-01-07T18:38:51",
+      "skipped_at": 1789164961,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
