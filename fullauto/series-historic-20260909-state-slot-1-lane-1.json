@@ -1083,6 +1083,13 @@
       "signature": "131839|https://thenkiri.com/zero-day-s01-complete-tv-series/|2025-02-22T09:19:40|2025-02-22T09:19:40|{'rendered': 'Zero Day S01 (Complete) | TV Series'}",
       "modified": "2025-02-22T09:19:40",
       "completed_at": 1789134614
+    },
+    "https://thenkiri.com/sweet-magnolias-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "131213|https://thenkiri.com/sweet-magnolias-s04-complete-tv-series/|2025-02-10T05:28:21|2025-02-10T05:28:21|{'rendered': 'Sweet Magnolias S04 (Complete) | TV Series'}",
+      "modified": "2025-02-10T05:28:21",
+      "completed_at": 1789136168,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2122,6 +2129,9 @@
     "https://downloadwella.com/x9codj3jljmk/Zero.Day.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9VhEEL32sAF_dkO3YQTkMDSX2_fE9sIg",
     "https://downloadwella.com/4dy1wxz7ys8y/Zero.Day.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I9JwXTwGu6YVCbxKvV91KHooZ0iSodBX",
     "https://downloadwella.com/mtagfcwec8yd/Zero.Day.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RcgjXhhC2RhZjh78JXVWOsTu2g-ADXb-",
-    "https://downloadwella.com/1a54n032cydw/Zero.Day.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cxRaOM2Xq4FNIJP3hBcHZMbmOBJr_qh3"
+    "https://downloadwella.com/1a54n032cydw/Zero.Day.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cxRaOM2Xq4FNIJP3hBcHZMbmOBJr_qh3",
+    "https://downloadwella.com/thqt88lk8bku/Sweet.Magnolias.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7cayDH9NyDrGwqcJcnq8lh_0CDMVte-w",
+    "https://downloadwella.com/4ytqyak1rpxh/Sweet.Magnolias.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PGqB6gNcMkMoqilGVc3iLaaV2zgkSOoN",
+    "https://downloadwella.com/viwrqo6ytttw/Sweet.Magnolias.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8NlWvgXBPAABgMjvbHKUQ6cnoRrCB0xs"
   }
 }
