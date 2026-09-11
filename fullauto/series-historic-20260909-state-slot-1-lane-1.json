@@ -1117,6 +1117,13 @@
       "modified": "2025-03-13T09:11:53",
       "completed_at": 1789143476,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/black-snow-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129692|https://thenkiri.com/black-snow-s02-complete-tv-series/|2025-01-08T09:16:28|2025-01-30T07:02:43|{'rendered': 'Black Snow S02 (Complete) | TV Series'}",
+      "modified": "2025-01-30T07:02:43",
+      "completed_at": 1789144225,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2176,6 +2183,9 @@
     "https://downloadwella.com/hfoya5hvptqx/Allegiance.2024.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0OsSOW0vux4fFihNWzixOy1FUwwKmO3z",
     "https://downloadwella.com/4aapbh4ksqmd/Allegiance.2024.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vpt8sHMMpL0izQpB_51F34XQFBSvIsBc",
     "https://downloadwella.com/hfarydx6hxqt/Allegiance.2024.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AIY8aQ024hNlc54sB9UKcRjcfKtyr_KZ",
-    "https://downloadwella.com/nac9izu1gpde/Allegiance.2024.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S6Pccle-v-CD4VKQmOBNvE_LkuEWdWLo"
+    "https://downloadwella.com/nac9izu1gpde/Allegiance.2024.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S6Pccle-v-CD4VKQmOBNvE_LkuEWdWLo",
+    "https://downloadwella.com/4hrwwx5rpyft/Black.Snow.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FCNdPuBlnqMRgYcFeDCFMmpdI3ABIlMU",
+    "https://downloadwella.com/af0qmoe6aoy1/Black.Snow.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xzgBMHgaGpzefe_UKXz6SCSyg9lyIvpY",
+    "https://downloadwella.com/2piqu1eckjx3/Black.Snow.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KinDjVV7v-ZECGgBDF8sYti5np6pGncd"
   }
 }
