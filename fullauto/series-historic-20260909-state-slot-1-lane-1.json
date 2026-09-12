@@ -1292,6 +1292,13 @@
       "modified": "2024-06-26T09:06:39",
       "completed_at": 1789204264,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-spiderwick-chronicles-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114156|https://thenkiri.com/the-spiderwick-chronicles-s01-complete-tv-series/|2024-04-21T09:49:24|2024-04-21T09:49:24|{'rendered': 'The Spiderwick Chronicles S01 (Complete) | TV Series'}",
+      "modified": "2024-04-21T09:49:24",
+      "completed_at": 1789205967,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2496,6 +2503,10 @@
     "https://downloadwella.com/hs59uvcxxd0v/Acapulco.2021.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yRu30BLtuZBbQ8SNesAzulXeA4TT1wDu",
     "https://downloadwella.com/n0kcucz7pgjp/Acapulco.2021.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mjLxXQxOlNJuz-KWaLjx0LSHY7TrQ4by",
     "https://downloadwella.com/800c62esvc9z/Acapulco.2021.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/81LFnOkujhfzZGytWHuxOP9T1CDuM1mc",
-    "https://downloadwella.com/4skdqmri5or9/Acapulco.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9LMx9vq7AWVxLGRjKJCo8U6O1OFWokli"
+    "https://downloadwella.com/4skdqmri5or9/Acapulco.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9LMx9vq7AWVxLGRjKJCo8U6O1OFWokli",
+    "https://downloadwella.com/0c0edjua24nr/The.Spiderwick.Chronicles.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yOIUAJ38BF_Y_tbq9E_8w1CMj6a8rXSU",
+    "https://downloadwella.com/nkgyf4p8i6l0/The.Spiderwick.Chronicles.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UqPYtWHzYPVF3qkJcaC2ph9XJmny_uoX",
+    "https://downloadwella.com/n3l2ejic9ion/The.Spiderwick.Chronicles.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6oWmOelqC5jWEAXwUzR9Q9CfaHZKKEnf",
+    "https://downloadwella.com/mhmb8n53kc4w/The.Spiderwick.Chronicles.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AIY4Lu_ymD5GWfeuEKV4y3FgD4fGrwwH"
   }
 }
