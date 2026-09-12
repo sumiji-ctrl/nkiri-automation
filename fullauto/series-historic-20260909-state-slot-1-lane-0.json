@@ -1316,6 +1316,13 @@
       "signature": "112146|https://thenkiri.com/young-royals-s03-complete-tv-series/|2024-03-11T21:12:13|2024-11-01T09:10:51|{'rendered': 'Young Royals S03 (Complete)  | TV Series'}",
       "modified": "2024-11-01T09:10:51",
       "completed_at": 1789217224
+    },
+    "https://thenkiri.com/the-regime-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111745|https://thenkiri.com/the-regime-s01-complete-tv-series/|2024-03-04T07:48:17|2024-04-08T07:40:31|{'rendered': 'The Regime S01 (Episodes 6 Added) | TV Series'}",
+      "modified": "2024-04-08T07:40:31",
+      "completed_at": 1789218264,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2562,6 +2569,11 @@
     "https://downloadwella.com/lyn91h7g2a5b/Young.Royals.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8kpXwUVaMO423ExDGlSwvPu50X0eDuCS",
     "https://downloadwella.com/js9bxoptgi4o/Young.Royals.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-EZOMZ6dfSlN3jU0c-JZTAUq4DMRAlSs",
     "https://downloadwella.com/vb6ireyzidy6/Young.Royals.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C-OZWRVUm45MI5YLZaB6Vi7ejj6nRNQ2",
-    "https://downloadwella.com/gqf6s6v1uh7p/Young.Royals.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_PLeBvmRgokvtkHOLjft_Z_H9JipL353"
+    "https://downloadwella.com/gqf6s6v1uh7p/Young.Royals.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_PLeBvmRgokvtkHOLjft_Z_H9JipL353",
+    "https://downloadwella.com/l6tr00i4bmpk/The.Regime.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P7a03kdSDyXQGCa5H9V2Bg1wXEHG6rBD",
+    "https://downloadwella.com/d96g97mudo9n/The.Regime.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fqNv-hAb0uUVP8UWVYOWexbqQEkH6EGT",
+    "https://downloadwella.com/zj9t4eiyqqi5/The.Regime.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BHx7E8cc9VgjsTJPSvqHdnRl9n72svzU",
+    "https://downloadwella.com/cs134e6hl258/The.Regime.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R2LfF1H5H2t0vXOQtCNkcWby_D-GuE6K",
+    "https://downloadwella.com/kj90k7xjz2o1/The.Regime.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SQJ6eZqk7qwDCSHV4ndoapPwJSMegGFE"
   }
 }
