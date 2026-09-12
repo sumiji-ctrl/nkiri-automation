@@ -1161,6 +1161,13 @@
       "modified": "2025-07-10T11:05:23",
       "completed_at": 1789170668,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/disclaimer-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "123086|https://thenkiri.com/disclaimer-s01-complete-tv-series/|2024-10-11T11:35:59|2024-11-08T07:31:37|{'rendered': 'Disclaimer S01 (Episode 7 Added) | TV Series'}",
+      "modified": "2024-11-08T07:31:37",
+      "completed_at": 1789171470,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2270,6 +2277,10 @@
     "https://downloadwella.com/ktth7nnpzk4o/The.Day.of.Jackal.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t27ePqvq70zeCd-Qc4pIphwlp6KzDceL",
     "https://downloadwella.com/yig2cg78ikd1/The.Equalizer.2021.S05E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_jjV1rd44_KUWPXLgbjpQn2YoSUl7VLR",
     "https://downloadwella.com/o52uq3frhtl4/The.equalizer.2021.s05e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zOgG09UPajyS2HqaYI3NyqR-pUVah3G8",
-    "https://downloadwella.com/egnhgrgjgfz9/The.Equalizer.2021.S05E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oM7uYReIIPxRsNmlVUIh6VbOaz1AAMjG"
+    "https://downloadwella.com/egnhgrgjgfz9/The.Equalizer.2021.S05E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oM7uYReIIPxRsNmlVUIh6VbOaz1AAMjG",
+    "https://downloadwella.com/bmsob6c5n65t/Disclaimer.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZR08yngkBxGdxc80rNtibtG7OrJcifOY",
+    "https://downloadwella.com/15sc3wt65ay4/Disclaimer.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jVrCWaBLJB7Mja9mSSXxIn9pEtFRTdUg",
+    "https://downloadwella.com/z4h9l97ypky9/Disclaimer.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ejMsHokb06BsGj7G7J4rM8DXm2C6UXD4",
+    "https://downloadwella.com/jn5q0efw4in4/Disclaimer.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oD0pi0ETFJ5gT5DuE0C2dHM8xM4cxIeD"
   }
 }
