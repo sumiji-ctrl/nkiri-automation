@@ -1275,6 +1275,13 @@
       "signature": "115358|https://thenkiri.com/doctor-who-2024-s01-complete-tv-series/|2024-05-13T08:36:40|2024-12-26T10:51:59|{'rendered': 'Doctor Who (2024) S01 (New Episode Added) | TV Series'}",
       "modified": "2024-12-26T10:51:59",
       "completed_at": 1789207471
+    },
+    "https://thenkiri.com/star-wars-tales-of-the-empire-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114880|https://thenkiri.com/star-wars-tales-of-the-empire-s01-complete-tv-series/|2024-05-04T10:21:05|2024-05-04T10:21:05|{'rendered': 'Star Wars: Tales of the Empire S01 (Complete) | TV Series'}",
+      "modified": "2024-05-04T10:21:05",
+      "completed_at": 1789207841,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2488,6 +2495,7 @@
     "https://downloadwella.com/wdiz7ufgzfe3/Doctor.Who.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/daUeEI6ltEXoPZdb7BhvJhmM2Y5kzmmw",
     "https://downloadwella.com/qfq0o7z5t6ak/Doctor.Who.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SO_zgolIMm6jcP-Zkq6MgsfRDEqI_tYJ",
     "https://downloadwella.com/mgmckll0v9g8/Doctor.Who.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4PCVeZ85I3epaIQedCLn5f3zLV4jHUrW",
-    "https://downloadwella.com/q9qo1kw5avrs/Doctor.Who.Christmas.Special.2024.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4PCVeZ85I3epaIQedCLn5f3zLV4jHUrW"
+    "https://downloadwella.com/q9qo1kw5avrs/Doctor.Who.Christmas.Special.2024.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4PCVeZ85I3epaIQedCLn5f3zLV4jHUrW",
+    "https://downloadwella.com/n2dhenypbh6q/Star.Wars.Tales.of.the.Empire.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BLHrdtUKYlsuHTjvZMj29bBcGT7_0EJD"
   }
 }
