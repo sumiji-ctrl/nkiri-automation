@@ -1221,6 +1221,13 @@
       "modified": "2024-08-29T12:49:21",
       "completed_at": 1789169989,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bad-monkey-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "119682|https://thenkiri.com/bad-monkey-s01-complete-tv-series/|2024-08-15T06:19:36|2024-10-09T09:18:31|{'rendered': 'Bad Monkey S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-10-09T09:18:31",
+      "completed_at": 1789172263,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2349,6 +2356,12 @@
     "https://downloadwella.com/jdugkcfsrnls/Last.King.of.the.Cross.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DHIh31iZHUwOsY_WY3yaG642zVVU963e",
     "https://downloadwella.com/46g2nw58ft90/Last.King.of.the.Cross.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mIEjt7xNwakUCI9IgXhRwFaB3j5E7KBh",
     "https://downloadwella.com/20qx8xwooo08/Kaos.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/atfaVqu5n0K-PJfR_sJUtWBSjO9p5w61",
-    "https://downloadwella.com/4itjc2ihlf4u/Kaos.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZsvuKhCpqwvWoGOBaOTNW0OMQ4T1iSJG"
+    "https://downloadwella.com/4itjc2ihlf4u/Kaos.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZsvuKhCpqwvWoGOBaOTNW0OMQ4T1iSJG",
+    "https://downloadwella.com/fwvaeh55cwnf/Bad.Monkey.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HzwJcEgmf3WYWzq_olVcoQHwPsKhmzh8",
+    "https://downloadwella.com/dmifddccqg6e/Bad.Monkey.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fFOqxJJwgCDnk2vnmRBJ01bi8Ad8-DmW",
+    "https://downloadwella.com/4d5bxhjgtluf/Bad.Monkey.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FElv3p80Cp_eGAWBOYbL29bDVnRlcss0",
+    "https://downloadwella.com/yopjkpes1c4a/Bad.Monkey.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NLPkVn1WDx0-jtgxnq8c3HGLQkphSJHm",
+    "https://downloadwella.com/pf0yq8tygnkv/Bad.Monkey.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n4jENTnQXVDqEnruzdRJ8511xz62SjKf",
+    "https://downloadwella.com/w1s13tqrnvaz/Bad.Monkey.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WPq_u-oXqelGc7RLSDEUogfF94QBmviR"
   }
 }
