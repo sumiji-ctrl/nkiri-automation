@@ -1344,6 +1344,13 @@
       "modified": "2024-05-07T06:40:49",
       "completed_at": 1789226705,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/champion-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "107805|https://thenkiri.com/champion-s01-complete-tv-series/|2024-02-04T06:34:05|2024-02-22T20:24:17|{'rendered': 'Champion S01 (Complete) | TV Series'}",
+      "modified": "2024-02-22T20:24:17",
+      "completed_at": 1789227723,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2627,6 +2634,11 @@
     "https://downloadwella.com/031cojmk2zii/Bob.Hearts.Abishola.S05E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bx9mBF7H38V0-S--d8zU9B0KdicZavTZ",
     "https://downloadwella.com/zvmsae3dpxew/Bob.Hearts.Abishola.S05E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CNdP8VO1AUhVOMy1Tkjd56C3Zprep47q",
     "https://downloadwella.com/nhcin7txclf2/Bob.Hearts.Abishola.S05E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qiG1U5S8Q2azk1muUYm2MJx42FirHvE5",
-    "https://downloadwella.com/ye83gstnbag1/Bob.Hearts.Abishola.S05E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9x3en61OxScPRY2eGJTGbI2BjWRYo8PW"
+    "https://downloadwella.com/ye83gstnbag1/Bob.Hearts.Abishola.S05E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9x3en61OxScPRY2eGJTGbI2BjWRYo8PW",
+    "https://downloadwella.com/t19ymssahkwz/Champion.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5z7n0-mLHuA5tZC3Xao4B27PPKL1w7xF",
+    "https://downloadwella.com/xv7h5g3z0izm/Champion.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_WtwQXQUXTeczyOfjC_SoDB_QOR3Llkl",
+    "https://downloadwella.com/02jfsw6i8aov/Champion.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/906iu71INhhC_el92HWSChFHDRck2ICg",
+    "https://downloadwella.com/3v7v8384efw1/Champion.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LsS_83saSGbZ52u3my3XH1d3dqkf4c5Y",
+    "https://downloadwella.com/lal8z145uctt/Champion.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oP4fHaWISNSRmXDQSBy06gBDigQlefCE"
   }
 }
