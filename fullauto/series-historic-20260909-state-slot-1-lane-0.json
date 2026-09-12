@@ -1282,6 +1282,13 @@
       "modified": "2024-05-04T10:21:05",
       "completed_at": 1789207841,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/velma-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114434|https://thenkiri.com/velma-s02-complete-tv-series/|2024-04-26T12:44:15|2024-04-26T12:44:15|{'rendered': 'Velma S02 (Complete) | TV Series'}",
+      "modified": "2024-04-26T12:44:15",
+      "completed_at": 1789209596,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2496,6 +2503,9 @@
     "https://downloadwella.com/qfq0o7z5t6ak/Doctor.Who.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SO_zgolIMm6jcP-Zkq6MgsfRDEqI_tYJ",
     "https://downloadwella.com/mgmckll0v9g8/Doctor.Who.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4PCVeZ85I3epaIQedCLn5f3zLV4jHUrW",
     "https://downloadwella.com/q9qo1kw5avrs/Doctor.Who.Christmas.Special.2024.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4PCVeZ85I3epaIQedCLn5f3zLV4jHUrW",
-    "https://downloadwella.com/n2dhenypbh6q/Star.Wars.Tales.of.the.Empire.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BLHrdtUKYlsuHTjvZMj29bBcGT7_0EJD"
+    "https://downloadwella.com/n2dhenypbh6q/Star.Wars.Tales.of.the.Empire.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BLHrdtUKYlsuHTjvZMj29bBcGT7_0EJD",
+    "https://downloadwella.com/pd7j1s0r0of1/Velma.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XQfjh5JDtgSfVpRj12OVAEzeWjJDzo7b",
+    "https://downloadwella.com/d85xjexowxda/Velma.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yWx_3JlP6KQYWAj15jNUHik1EGxoWCPM",
+    "https://downloadwella.com/582gue2mpd02/Velma.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X8hwOOhvdECd7HT3MLPkpClj8EQtYa5e"
   }
 }
