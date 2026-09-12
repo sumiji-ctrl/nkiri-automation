@@ -1194,6 +1194,13 @@
       "signature": "121637|https://thenkiri.com/monsters-s02-complete-tv-series/|2024-09-20T06:59:23|2024-09-20T06:59:23|{'rendered': 'Monsters S02 (Complete) | TV Series'}",
       "modified": "2024-09-20T06:59:23",
       "completed_at": 1789183071
+    },
+    "https://thenkiri.com/stags-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121240|https://thenkiri.com/stags-s01-complete-tv-series/|2024-09-12T11:48:49|2024-09-12T11:48:49|{'rendered': 'Stags S01 (Complete) | TV Series'}",
+      "modified": "2024-09-12T11:48:49",
+      "completed_at": 1789184066,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2337,6 +2344,10 @@
     "https://downloadwella.com/6xxdo7ftiufe/Monster.2022.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wfZ-w3EZRRRXcXhPlDbGSQuXI9jq3Y2i",
     "https://downloadwella.com/oc32mtexe1w6/Monster.2022.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NoDoU-ALGVAgLRrjVyT4PitGPyDqQ0A2",
     "https://downloadwella.com/0kxg73i0r2ki/Monster.2022.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/enqkX_U5-WfB16pQveOahRIzeaWVLTDI",
-    "https://downloadwella.com/98xepb74zoxc/Monster.2022.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QYK-GsPLsdq80Fh5rE3DXzqZMRw2gwJJ"
+    "https://downloadwella.com/98xepb74zoxc/Monster.2022.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QYK-GsPLsdq80Fh5rE3DXzqZMRw2gwJJ",
+    "https://downloadwella.com/p3m5blngkw2z/Stags.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/giHsPlPY1OeVrMc8VF1yyT95ht1m8MGO",
+    "https://downloadwella.com/4i0n1lm2cv5e/Stags.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/86f2defjk9-45R0ve0g170YrVuX72HBX",
+    "https://downloadwella.com/ljs0q97h6v8l/Stags.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oxkrqTj_F1BDad6gzb58xJsR0U7-Izj8",
+    "https://downloadwella.com/d2ci6xxybwoy/Stags.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4Uch-AQ0ivUTjyxKXtbjVzCpDbFistaZ"
   }
 }
