@@ -1236,6 +1236,13 @@
       "modified": "2024-07-16T10:00:44",
       "skipped_at": 1789194105,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sunny-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "118103|https://thenkiri.com/sunny-s01-complete-tv-series/|2024-07-10T08:47:52|2024-09-04T06:17:34|{'rendered': 'Sunny S01 (Complete) | TV Series'}",
+      "modified": "2024-09-04T06:17:34",
+      "completed_at": 1789197506,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2411,6 +2418,14 @@
     "https://downloadwella.com/b5t67ektd96f/Too.Hot.To.Handle.S05E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e9yYOjVV5wZjjGvWpNlyl9kiZfALxpYf",
     "https://downloadwella.com/d35cv55zw53r/Too.Hot.To.Handle.S05E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ykaipmw6pwr-8k7aWVfiGK-_4DgCTQjS",
     "https://downloadwella.com/axyysjc0t98t/Too.Hot.To.Handle.S05E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i9ATaFHVGuAto3Qokrv9HvhIKAuisHqO",
-    "https://downloadwella.com/2ulywwqf62lo/Too.Hot.To.Handle.S05E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I3SstJPC-UIFUaGiXDj8aKUzEYYgv3Ty"
+    "https://downloadwella.com/2ulywwqf62lo/Too.Hot.To.Handle.S05E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I3SstJPC-UIFUaGiXDj8aKUzEYYgv3Ty",
+    "https://downloadwella.com/9ry4oglorz8t/Sunny.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ujIAYFwSVdWixtvj2xP6V3IEqIOBDdkx",
+    "https://downloadwella.com/fcxrc6sg1z5e/Sunny.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S4pOy3KdVZVBJd3PMmzKu8LLBvp1nHBj",
+    "https://downloadwella.com/o32j2s1fs44d/Sunny.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HYm2RG9in7Iwxrviu1KNTQZp5QRXRMfU",
+    "https://downloadwella.com/xvb4znlf62ii/Sunny.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Ug0ZBZ0O5HjjhNN7a7MU-6LY4zXl_6H",
+    "https://downloadwella.com/ewfpbp0uf8pb/Sunny.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b0zA3rKYOfNXBxTpZn0uJ63KVQ0fPUeK",
+    "https://downloadwella.com/rzkwr3pj5zd8/Sunny.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9e0gDUYVFQTGZlgQk_9mZFNf2fYxSvWH",
+    "https://downloadwella.com/n4pf30mrgxpl/Sunny.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ubgVD31SzOMvl-HNfDMfXKx0XAhgqAp1",
+    "https://downloadwella.com/ma7u1r9lfqn8/Sunny.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62zKB_Srs1a_EvjShjP_N5PQzYx2oXvd"
   }
 }
