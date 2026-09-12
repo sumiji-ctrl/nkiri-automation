@@ -1457,6 +1457,13 @@
       "modified": "2024-02-24T11:05:40",
       "completed_at": 1789241765,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/painkiller-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "96675|https://thenkiri.com/painkiller-s01-complete-tv-series/|2023-08-10T17:21:32|2023-09-02T18:01:32|{'rendered': 'Painkiller S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:01:32",
+      "completed_at": 1789242815,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2788,6 +2795,7 @@
     "https://downloadwella.com/106z5lkw6vxm/The.Killing.Kind.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nKWzk5Kxj74B-_K5WsH9Ff-T-sk6-Svt",
     "https://downloadwella.com/r0hzooba77u3/The.Killing.Kind.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DeKiUeAG2_kK1UEAqSPGhHxev9tlYAHp",
     "https://downloadwella.com/4tv3r588mzz4/The.Killing.Kind.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rtm8Ea4ta19iCcLzkB3rF2e_Uidtfjng",
-    "https://downloadwella.com/p5ljeszkgyne/The.Woman.In.The.Wall.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KoDd4ufI5-3_hq1Z_AQucd2pgqZghrR"
+    "https://downloadwella.com/p5ljeszkgyne/The.Woman.In.The.Wall.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KoDd4ufI5-3_hq1Z_AQucd2pgqZghrR",
+    "https://downloadwella.com/qmd4wgh4zq6l/Painkiller.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rEnEdSWjPbdokp2zpFQJcji6ScIfzhmK"
   }
 }
