@@ -1401,6 +1401,13 @@
       "modified": "2023-11-04T03:32:40",
       "completed_at": 1789227985,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bosch-legacy-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101671|https://thenkiri.com/bosch-legacy-s02-complete-tv-series/|2023-10-20T13:06:39|2023-12-21T18:11:14|{'rendered': 'Bosch Legacy S02 (Episode 9 & 10 Added) | TV Series'}",
+      "modified": "2023-12-21T18:11:14",
+      "completed_at": 1789228623,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2691,6 +2698,8 @@
     "https://downloadwella.com/dkj6pywsw3nq/Orphan.Black.Echoes.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gakrGlAO4RrJBlg3qe-zzUgDBz9I19bx",
     "https://downloadwella.com/vy5kz2zf0j6c/Orphan.Black.Echoes.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cXWbucwiiRW3uIBYLh2TuI4EoRfKE50E",
     "https://downloadwella.com/mrpg3rb6bl8q/Orphan.Black.Echoes.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5TGb1jKucAvPgNQSLcnsG-Gu0TdW794A",
-    "https://downloadwella.com/fbhtkukic0v4/Orphan.Black.Echoes.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zNfrqG5MJtKCp3awuI65LefYI3uSs9EB"
+    "https://downloadwella.com/fbhtkukic0v4/Orphan.Black.Echoes.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zNfrqG5MJtKCp3awuI65LefYI3uSs9EB",
+    "https://downloadwella.com/87crlewuz9hg/Bosch.Legacy.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zI77LY4dCzUXpY2JQtLvkjCd4F1bUpVp",
+    "https://downloadwella.com/abh668gxagpa/Bosch.Legacy.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ykrAH3SbzNmhYw4u2mtg2a85AO5KtXt9"
   }
 }
