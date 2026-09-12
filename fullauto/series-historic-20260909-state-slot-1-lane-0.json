@@ -1420,6 +1420,13 @@
       "modified": "2023-10-12T14:43:57",
       "skipped_at": 1789246462,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/surrealestate-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100756|https://thenkiri.com/surrealestate-s01-complete-tv-series/|2023-10-05T10:55:29|2024-02-24T08:18:36|{'rendered': 'SurrealEstate S01 (Complete) | TV Series'}",
+      "modified": "2024-02-24T08:18:36",
+      "completed_at": 1789246739,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2755,6 +2762,8 @@
     "https://downloadwella.com/u9cl6y5z88a3/Elite.S07E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LX4PipZTVUhl1mMm0V-mUpFS5g0w_OWv",
     "https://downloadwella.com/1pljho7bj6qg/Bodies.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sbcdPzkaIPrWknMVGlN0jaYURQ8rOsb6",
     "https://downloadwella.com/1pmspdvaj8c9/Bodies.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RftGXE7ce58Mq71GngspLnalC4yKiQkd",
-    "https://downloadwella.com/4z43sqivipas/Bodies.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6QXauzW4DlNWFl9soJmf7SnN10ljo8yi"
+    "https://downloadwella.com/4z43sqivipas/Bodies.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6QXauzW4DlNWFl9soJmf7SnN10ljo8yi",
+    "https://downloadwella.com/lc5v8d48km2h/SurrealEstate.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rmT288BXaFnmCfMJ5iOSO79GCosYJZIV",
+    "https://downloadwella.com/rhzmrr205c39/SurrealEstate.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oDOcPPMGZhfOx0ekvGVCw5A79xaab-KX"
   }
 }
