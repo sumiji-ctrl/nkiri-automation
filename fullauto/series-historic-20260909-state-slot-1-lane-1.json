@@ -1534,6 +1534,13 @@
       "modified": "2023-09-02T17:43:31",
       "completed_at": 1789251908,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-diplomat-complete-tv-series/": {
+      "status": "partial",
+      "signature": "87615|https://thenkiri.com/the-diplomat-complete-tv-series/|2023-04-20T14:18:13|2023-09-02T17:40:50|{'rendered': 'The Diplomat (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:40:50",
+      "completed_at": 1789253247,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2894,6 +2901,8 @@
     "https://downloadwella.com/biswq1eb7n3p/Love.and.Death.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tLv2HWMVFVLE4fGrfVepUgd5kRMJrCps",
     "https://downloadwella.com/7otq0phzls8g/Love.and.Death.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SaiTZGCQEtslxsRO3ir5KvlhoRgFeS5L",
     "https://downloadwella.com/sxp75yk0hag7/Love.and.Death.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8-1F4kzNP3xu-4S9cK0FM0g2yI6k_poz",
-    "https://downloadwella.com/881m8n10rmtw/Love.and.death.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-0OOA_vj2TVTc1xH0VrYUrNNHIfUoeYw"
+    "https://downloadwella.com/881m8n10rmtw/Love.and.death.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-0OOA_vj2TVTc1xH0VrYUrNNHIfUoeYw",
+    "https://downloadwella.com/lygb11bahuzx/The.Diplomat.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9wY8S3sHMVLxAShPyI26VysYyB1kCdbX",
+    "https://downloadwella.com/jgcb4bgpjaaq/The.Diplomat.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I8fSmsNGxRygh8MHzayHNKH0W2hILt2V"
   }
 }
