@@ -1307,6 +1307,13 @@
       "modified": "2024-05-17T12:08:54",
       "completed_at": 1789207202,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/quiet-on-set-the-dark-side-of-kids-tv-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "112539|https://thenkiri.com/quiet-on-set-the-dark-side-of-kids-tv-s01-complete-tv-series/|2024-03-19T09:20:12|2024-03-19T09:20:12|{'rendered': 'Quiet on Set: The Dark Side of Kids TV S01 (Complete) | TV Series'}",
+      "modified": "2024-03-19T09:20:12",
+      "skipped_at": 1789207245,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
