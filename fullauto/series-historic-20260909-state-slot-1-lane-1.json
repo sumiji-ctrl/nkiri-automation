@@ -1513,6 +1513,13 @@
       "modified": "2023-09-02T17:59:50",
       "completed_at": 1789247982,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/abraham-lincoln-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "89476|https://thenkiri.com/abraham-lincoln-s01-complete-tv-series/|2023-05-14T10:16:48|2023-09-02T17:57:02|{'rendered': 'Abraham Lincoln S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:57:02",
+      "completed_at": 1789248606,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2861,6 +2868,8 @@
     "https://downloadwella.com/buajdhbw8aak/American.Born.Chinese.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5jVPf_Mfy2WMvmEmj6NaTTWiBxaCXsJn",
     "https://downloadwella.com/zdies781bkrz/American.Born.Chinese.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oTdnzo-qDgPsB5KSFyIEN17fKTgjwJyv",
     "https://downloadwella.com/mjxrpx0oel3h/American.Born.Chinese.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B-8Su9tR-CxesNLnQTbwqro_yJx_H0-D",
-    "https://downloadwella.com/e8wlyciyhnfo/American.Born.Chinese.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S2yiPHZDLIT133rOuLgOIUbmdpU7H1Js"
+    "https://downloadwella.com/e8wlyciyhnfo/American.Born.Chinese.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S2yiPHZDLIT133rOuLgOIUbmdpU7H1Js",
+    "https://downloadwella.com/fekg9y2pl7ub/Abraham.Lincoln.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0Cnm7MZY5NpvGZttCj1-GnmvvFvMzCI6",
+    "https://downloadwella.com/6bllsldz9nry/Abraham.Lincoln.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vMLpKfXjCJkGewp41Bx5BZRkXzcZvg9C"
   }
 }
