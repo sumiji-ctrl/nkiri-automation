@@ -1283,7 +1283,14 @@
       "status": "partial",
       "signature": "115127|https://thenkiri.com/dispatches-from-elsewhere-s01-complete-tv-series/|2024-05-09T11:05:04|2024-05-09T11:05:04|{'rendered': 'Dispatches From Elsewhere S01 (Complete) | TV Series'}",
       "modified": "2024-05-09T11:05:04",
-      "completed_at": 1789201361,
+      "completed_at": 1789198593,
+      "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/acapulco-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114677|https://thenkiri.com/acapulco-s03-complete-tv-series/|2024-05-01T06:56:35|2024-06-26T09:06:39|{'rendered': 'Acapulco S03 (Complete) | TV Series'}",
+      "modified": "2024-06-26T09:06:39",
+      "completed_at": 1789204264,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2472,15 +2479,23 @@
     "https://downloadwella.com/x8l98us9vjm1/Kimetsu.no.Yaiba.Hashira.Geiko-hen.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w9YmCnQc7oZ3B0laI0Py5I2QRhPXuteZ",
     "https://downloadwella.com/n8ntgpv9gw7o/Demon.Slayer.Hashira.Training.Arc.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JcIlmKVuZ7LAsUt0X9xa_rfugX4qfyYm",
     "https://downloadwella.com/h8w2x3ag7t3a/Demon.Slayer.Hashira.Training.Arc.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3yfhOUjzPoJHkUBfHLnqpUMLaT5HPpz9",
-    "https://downloadwella.com/eebuj658cm2u/Dispatches.From.Elsewhere.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fIXcGCXjQh1w0wSvMln0SauCWQUEHqk-",
+    "https://downloadwella.com/eebuj658cm2u/Dispatches.From.Elsewhere.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_I06wDjqhNDtTLX0o-hH7Bx87Azb8nVz",
     "https://downloadwella.com/1xnvhkfnolut/Dispatches.From.Elsewhere.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m0VWXBCLYbPK1MUfNF3Htf2sBApWRiZP",
     "https://downloadwella.com/75phji218ohz/Dispatches.From.Elsewhere.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wwiDKWy0mUz8pedRxUNEWZDE_347gdwF",
-    "https://downloadwella.com/3vtmczl5wtz3/Dispatches.From.Elsewhere.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cmAzftV31WGupom2bThMxoT9xeA5hscv",
-    "https://downloadwella.com/cognbf0uibcc/Dispatches.From.Elsewhere.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GxOIdEtBMQ2dDtVP1ma8VkGpQ84BDkUA",
-    "https://downloadwella.com/1wubv9yqpgn7/Dispatches.From.Elsewhere.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n-LmS9fGXEmIKO5Yx_j1IyGj_jM6aZzz",
+    "https://downloadwella.com/3vtmczl5wtz3/Dispatches.From.Elsewhere.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YSel-Z6m1d5Ro2ZXqBpRXmXOcLD-CzQA",
+    "https://downloadwella.com/cognbf0uibcc/Dispatches.From.Elsewhere.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BSncUIhf_Gbu9q6IQums_teweToyWgaB",
+    "https://downloadwella.com/1wubv9yqpgn7/Dispatches.From.Elsewhere.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lxtTglzF-nhaOWN_3jXHYWOROjRJkcXF",
     "https://downloadwella.com/ahbu9rjbd89i/Dispatches.From.Elsewhere.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m2Pn89o6sQNGy-BLC7e4yiz1YN4BUvGt",
     "https://downloadwella.com/u61ubau3pb3e/Dispatches.From.Elsewhere.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KwhLmNX1SmR6JxQJQQOtUGCutO6Dbcw5",
     "https://downloadwella.com/067cnmunk535/Dispatches.From.Elsewhere.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1iMmValNF3iwxT9-Xizm7oMFizAbdtmV",
-    "https://downloadwella.com/ck1iuvm6r4ek/Dispatches.From.Elsewhere.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kw4z3lO4CiJ35-YVybL7TQMdAg2VN3X8"
+    "https://downloadwella.com/ck1iuvm6r4ek/Dispatches.From.Elsewhere.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kw4z3lO4CiJ35-YVybL7TQMdAg2VN3X8",
+    "https://downloadwella.com/4nvnfaqcm7mr/Acapulco.2021.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s7lk7oGkyGBmpag1TMoO-0K43nalmxh4",
+    "https://downloadwella.com/g69oyvxco864/Acapulco.2021.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XOLiPWwKS4dlnvcKb4rQb6S3la2T-ojC",
+    "https://downloadwella.com/h7vb28em01b9/Acapulco.2021.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vlpDs5r9_bs4Ugp_Vff9rk61cKTFECuY",
+    "https://downloadwella.com/s6x3duu3bt44/Acapulco.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KjmXU-0avKglE517uN1XtvdNLOAYl6PI",
+    "https://downloadwella.com/hs59uvcxxd0v/Acapulco.2021.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yRu30BLtuZBbQ8SNesAzulXeA4TT1wDu",
+    "https://downloadwella.com/n0kcucz7pgjp/Acapulco.2021.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mjLxXQxOlNJuz-KWaLjx0LSHY7TrQ4by",
+    "https://downloadwella.com/800c62esvc9z/Acapulco.2021.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/81LFnOkujhfzZGytWHuxOP9T1CDuM1mc",
+    "https://downloadwella.com/4skdqmri5or9/Acapulco.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9LMx9vq7AWVxLGRjKJCo8U6O1OFWokli"
   }
 }
