@@ -1229,7 +1229,14 @@
       "completed_at": 1789174452,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-summerslam-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-summerslam-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/those-about-to-die-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "118563|https://thenkiri.com/those-about-to-die-s01-complete-tv-series/|2024-07-18T20:00:13|2024-07-18T20:00:13|{'rendered': 'Those About to Die S01 (Complete) | TV Series'}",
+      "modified": "2024-07-18T20:00:13",
+      "completed_at": 1789176839,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2366,6 +2373,13 @@
     "https://downloadwella.com/w1s13tqrnvaz/Bad.Monkey.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/URbHG-s9qywqFJLSkhvq8sjUVEyUiazK",
     "https://downloadwella.com/72eljqdqked2/Bad.Monkey.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CX_o0cNWi4OSuAS8J9hl2-e0Sffig749",
     "https://downloadwella.com/tuafw7y4gfdc/Bad.Monkey.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/86K36WRXJ9ZAv-PzhU8pUDm51kqn6P1F",
-    "https://downloadwella.com/ok6a4h8m5llh/Bad.Monkey.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HQq6qy5axuxKHg3NCMQnJN921wk3FFOX"
+    "https://downloadwella.com/ok6a4h8m5llh/Bad.Monkey.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HQq6qy5axuxKHg3NCMQnJN921wk3FFOX",
+    "https://downloadwella.com/755gwj8h5uv2/Those.About.to.Die.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kKP8O0JjRWIrbJVWotb53LrlukiKLY08",
+    "https://downloadwella.com/wf6490416m0y/Those.About.to.Die.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v1P4PVe3hSA5siSzf-9XX1CYff_xhOKY",
+    "https://downloadwella.com/67hqli4mdqtv/Those.About.to.Die.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-iMuRnWl8zQauSbvOtpNfsBl44YT6qnn",
+    "https://downloadwella.com/j2cexkml17pp/Those.About.to.Die.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BaUa151LYkGryzf8P0ramihtopLx2An7",
+    "https://downloadwella.com/xbsybd4inrze/Those.About.to.Die.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XT6muybkcquKF4Cot8VtcCIDoLBLZYn9",
+    "https://downloadwella.com/oc4jy5717otl/Those.About.to.Die.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YFaA3AeFFBfxneVHDognueGUCOquvdgo",
+    "https://downloadwella.com/fsq943st8cp9/Those.About.to.Die.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2GwmTOSa7yFVpCgXIgGF6edfJyHJo-zq"
   }
 }
