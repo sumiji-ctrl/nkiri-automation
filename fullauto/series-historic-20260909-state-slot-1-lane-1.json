@@ -1321,6 +1321,13 @@
       "modified": "2024-03-07T07:09:57",
       "completed_at": 1789209276,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-completely-made-up-adventures-of-dick-turpin-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111551|https://thenkiri.com/the-completely-made-up-adventures-of-dick-turpin-s01-complete-tv-series/|2024-03-01T08:01:40|2024-03-29T06:50:50|{'rendered': 'The Completely Made-Up Adventures of Dick Turpin S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2024-03-29T06:50:50",
+      "completed_at": 1789210329,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2538,6 +2545,10 @@
     "https://downloadwella.com/b64k9ljxsniy/Supersex.S01SE03.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bNoSa1Ynfb9aWVBzHbSbJVLpc8x4ez2c",
     "https://downloadwella.com/j6dv7blbg7y4/Supersex.S01SE04.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GWjQNO5JSCuQ76nrwXmFwl5VxUhZvK7Q",
     "https://downloadwella.com/39f5e3wv8syx/Supersex.S01SE06.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9hRs1h7MSyBmS81QilBri7D53bc_jtGR",
-    "https://downloadwella.com/455w459u1dyq/Supersex.S01SE07.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DRRCC_zyVDjZeogrFRNp5UuyxA5lUpJk"
+    "https://downloadwella.com/455w459u1dyq/Supersex.S01SE07.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DRRCC_zyVDjZeogrFRNp5UuyxA5lUpJk",
+    "https://downloadwella.com/y15imk6by4gr/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7f3tPRlfg2RDY64DnKU7e9O7s4r3rwjs",
+    "https://downloadwella.com/7e4q2mig7tgd/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zIJGsoRQsaXLX-kCStUh0USGadgaztZR",
+    "https://downloadwella.com/jhgu8fw4tt95/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KB40n1GC0wr_cMIokQQb6T5_Obhma2im",
+    "https://downloadwella.com/zwb7ig9r45r2/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62lIPZCKH1ziSF61eu4TM6IPiKu9sdAu"
   }
 }
