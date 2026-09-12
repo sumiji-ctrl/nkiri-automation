@@ -1208,6 +1208,13 @@
       "modified": "2024-10-15T15:42:25",
       "completed_at": 1789186876,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/reasonable-doubt-s02-episode-1-added-tv-series/": {
+      "status": "partial",
+      "signature": "120046|https://thenkiri.com/reasonable-doubt-s02-episode-1-added-tv-series/|2024-08-22T09:13:17|2024-10-17T10:14:02|{'rendered': 'Reasonable Doubt S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-10-17T10:14:02",
+      "completed_at": 1789188828,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2362,6 +2369,8 @@
     "https://downloadwella.com/s99p6u00negb/English.Teacher.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JEktVdPsfJBuiuLZ6-gD0RWdLCrS-QyE",
     "https://downloadwella.com/3n9jv6nyxbrf/English.Teacher.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/af5NStDjERsKAASx_VqTWVWouL5B7zMC",
     "https://downloadwella.com/gb2rrji60rxy/English.Teacher.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yJNE3wgPqEIuEckAMWJL46DX9FODmiPq",
-    "https://downloadwella.com/2gcn6axpqvc8/English.Teacher.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JlnbTSIpvB5NyoMqoQi2woZYdK6X6Gj0"
+    "https://downloadwella.com/2gcn6axpqvc8/English.Teacher.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JlnbTSIpvB5NyoMqoQi2woZYdK6X6Gj0",
+    "https://downloadwella.com/afzjexhvy2l2/Reasonable.Doubt.2022.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_7AEhhLk_uQ3z30ZPCDQS3OP3w0HoXQW",
+    "https://downloadwella.com/90y3kf97xghr/Reasonable.Doubt.2022.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p_A6NkNmxwbrLPiQop8jI_s5KKz_Tl1h"
   }
 }
