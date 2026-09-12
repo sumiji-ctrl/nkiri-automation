@@ -1485,6 +1485,13 @@
       "modified": "2023-12-22T07:25:30",
       "completed_at": 1789244536,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/im-a-virgo-complete-tv-series/": {
+      "status": "partial",
+      "signature": "92111|https://thenkiri.com/im-a-virgo-complete-tv-series/|2023-06-23T08:26:01|2023-09-02T17:07:43|{'rendered': 'I’m a Virgo (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:07:43",
+      "completed_at": 1789245638,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2819,6 +2826,9 @@
     "https://downloadwella.com/p5ljeszkgyne/The.Woman.In.The.Wall.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KoDd4ufI5-3_hq1Z_AQucd2pgqZghrR",
     "https://downloadwella.com/qmd4wgh4zq6l/Painkiller.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rEnEdSWjPbdokp2zpFQJcji6ScIfzhmK",
     "https://downloadwella.com/uq5jtogh3cqy/Special.Ops.Lioness.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yUgOdo2gnpjbhbrhMDk5ZBCVrgxCyd6C",
-    "https://downloadwella.com/2yvbl3bs3nkd/61st.Street.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W2D5rX5nNoT3ZOGDUi8LboAuMT0Vf-wD"
+    "https://downloadwella.com/2yvbl3bs3nkd/61st.Street.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W2D5rX5nNoT3ZOGDUi8LboAuMT0Vf-wD",
+    "https://downloadwella.com/5tx6wfn6tjxu/Im.a.Virgo.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uI092L_mX5MmEiI8KmL6KCMFQslfX23U",
+    "https://downloadwella.com/cvfp4zk8yftx/Im.a.Virgo.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r8_CFLDd4mixZKZ_2a2jRamundxlhzvK",
+    "https://downloadwella.com/ec9kn153vgnd/Im.a.Virgo.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i9XXiWUz4j_2nE59DCXsMQxCUiL8tUvY"
   }
 }
