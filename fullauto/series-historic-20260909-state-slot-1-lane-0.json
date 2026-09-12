@@ -1385,6 +1385,13 @@
       "modified": "2023-12-10T19:17:12",
       "completed_at": 1789239309,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/a-murder-at-the-end-of-the-world-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "102913|https://thenkiri.com/a-murder-at-the-end-of-the-world-s01-complete-tv-series/|2023-11-15T06:49:40|2023-12-19T09:35:01|{'rendered': 'A Murder at the End of the World S01 (Episode 7 Added) | TV Series'}",
+      "modified": "2023-12-19T09:35:01",
+      "completed_at": 1789241486,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2707,6 +2714,9 @@
     "https://downloadwella.com/tbp6d8ut54kx/Reacher.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AjfFfuNoLLG2-u3Pht9lu03T1k0mUQOu",
     "https://downloadwella.com/lji7sc67ynv8/Squid.Game.The.Challenge.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1xGBq-lsIPoInQjkUr3gLK3FL9ZhUcD6",
     "https://downloadwella.com/b4nj0s07thad/Squid.Game.The.Challenge.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3a48lUhGt2LmIgFPfobFUSYIO0-CuL9b",
-    "https://downloadwella.com/gpt2mm5ftzm0/Squid.Game.The.Challenge.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LDaCNQLtA8PBlqRdyZFZHBnvadJfXdAe"
+    "https://downloadwella.com/gpt2mm5ftzm0/Squid.Game.The.Challenge.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LDaCNQLtA8PBlqRdyZFZHBnvadJfXdAe",
+    "https://downloadwella.com/5qxsoular5m1/A.Murder.at.the.End.of.the.World.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fySllpMBcKuXhXdba3TdyHHyV_5DWtiK",
+    "https://downloadwella.com/b5rbiaptstqz/A.Murder.at.the.End.of.the.World.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5niYQLEWf8Aw65IjMy1sB4C2aVwl20hS",
+    "https://downloadwella.com/nr4ytku8dwmn/A.Murder.at.the.End.of.the.World.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fwma9LlayTnYfV471lAbtjq7mKjox9ZR"
   }
 }
