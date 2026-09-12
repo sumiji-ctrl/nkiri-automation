@@ -1364,6 +1364,13 @@
       "signature": "106963|https://thenkiri.com/monsieur-spade-s01-complete-tv-series/|2024-01-14T12:30:02|2024-02-20T07:30:44|{'rendered': 'Monsieur Spade S01 (Episode 6 Added) | TV Series'}",
       "modified": "2024-02-20T07:30:44",
       "completed_at": 1789232104
+    },
+    "https://thenkiri.com/fool-me-once-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "106399|https://thenkiri.com/fool-me-once-s01-complete-tv-series/|2024-01-02T10:34:15|2024-02-22T19:48:38|{'rendered': 'Fool Me Once S01 (Complete)  | TV Series'}",
+      "modified": "2024-02-22T19:48:38",
+      "completed_at": 1789233917,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2669,6 +2676,13 @@
     "https://downloadwella.com/5lbfokkaj37l/Monsieur.Spade.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XB9pLQYO8cQB73WN0EvAUs7mGyWrhaHD",
     "https://downloadwella.com/c5toxd9560x3/Monsieur.Spade.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7rtBqmrx3xDVoYTpklKNN0uDVTqL9R3B",
     "https://downloadwella.com/pcx8ghmeafy2/Monsieur.Spade.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1E-TkfyfLgZL6vceKoQQUfj0b0FqE9f4",
-    "https://downloadwella.com/rtwmof0le831/Monsieur.Spade.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BIj3lzUdJrv-QDo3iIkCoIKQ7sIgi-ZS"
+    "https://downloadwella.com/rtwmof0le831/Monsieur.Spade.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BIj3lzUdJrv-QDo3iIkCoIKQ7sIgi-ZS",
+    "https://downloadwella.com/v156u90qisbf/Fool.Me.Once.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LPkUL53qmQFRlsHAXYhkuyKhkFcXzSCa",
+    "https://downloadwella.com/6knpi5d3mf4r/Fool.Me.Once.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WuhGvJbgKqcTxbQ6eU1z0GnerhXXjakS",
+    "https://downloadwella.com/hcf9k3lf1njq/Fool.Me.Once.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HkjhfQ9Si4owAOhSt-q497S0YYX5lVgl",
+    "https://downloadwella.com/uaixsguqb826/Fool.Me.Once.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UfY1yjdgGXs672pS01EtPMdMNVFXEg3l",
+    "https://downloadwella.com/puow5hrhtws5/Fool.Me.Once.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y2QdkmA9YC75LoVcZnlwOsHWzncqc42_",
+    "https://downloadwella.com/kdu71pf5kuct/Fool.Me.Once.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MFPF8rCsRX2_Dgq13NVmq1LdFnUcVBpq",
+    "https://downloadwella.com/m88rvfh6a3h8/Fool.Me.Once.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SeUDYvmrQFJ7x7eevS4zubFvTr3wWGFm"
   }
 }
