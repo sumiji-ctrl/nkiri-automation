@@ -1256,6 +1256,13 @@
       "signature": "116892|https://thenkiri.com/the-boys-s04-complete-tv-series/|2024-06-13T11:01:40|2024-07-18T08:29:55|{'rendered': 'The Boys S04 (Complete) | TV Series'}",
       "modified": "2024-07-18T08:29:55",
       "completed_at": 1789201379
+    },
+    "https://thenkiri.com/clipped-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "116455|https://thenkiri.com/clipped-s01-complete-tv-series/|2024-06-04T06:16:54|2024-07-02T08:02:02|{'rendered': 'Clipped S01 (Episodes 6 Added) | TV Series'}",
+      "modified": "2024-07-02T08:02:02",
+      "completed_at": 1789202912,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2452,6 +2459,10 @@
     "https://downloadwella.com/gkg8efew4aok/The.Boys.S04E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lqQdc3PYFe1CMvkhU6-D4XAf8luMI1GK",
     "https://downloadwella.com/pouktyigeacg/The.Boys.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t4BuKUj1zPk5U3GUGWKwgd7R8LeKWj1v",
     "https://downloadwella.com/6zfue0ayzi54/The.Boys.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wSrIudolroSdyHVr4Lta6lTrJr9MXYBz",
-    "https://downloadwella.com/05iwxr8i3ztv/The.Boys.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AKL3Ek_PPTDteFjLwlo1UcJGh__m1HJE"
+    "https://downloadwella.com/05iwxr8i3ztv/The.Boys.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AKL3Ek_PPTDteFjLwlo1UcJGh__m1HJE",
+    "https://downloadwella.com/jy7a5ujhrhz9/Clipped.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wniFA2KAnjr1hwHfqeLLBLYsJmgQytVx",
+    "https://downloadwella.com/k2k6eibc9izb/Clipped.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e76PQvaoBE-jB7qn2TSa1nH9A10OqocU",
+    "https://downloadwella.com/8lt705ycbug4/Clipped.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IUwmdPbFY-VHMJHJU0zexzDvCKnvIIBP",
+    "https://downloadwella.com/uvbrmdmn9svu/Clipped.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E2eWqxiu6kU8LLvGK-L4KB_A8EpLa3RC"
   }
 }
