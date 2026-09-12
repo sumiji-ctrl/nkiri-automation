@@ -1415,6 +1415,13 @@
       "modified": "2023-10-15T08:32:34",
       "completed_at": 1789229404,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/beckham-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100844|https://thenkiri.com/beckham-s01-complete-tv-series/|2023-10-06T09:38:49|2023-10-06T09:38:49|{'rendered': 'Beckham S01 (Complete) | Documentary Series'}",
+      "modified": "2023-10-06T09:38:49",
+      "completed_at": 1789229695,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2711,6 +2718,8 @@
     "https://downloadwella.com/12izqypi31ny/Pantheon.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gVK_RsorF53XhLRcytxfLhCYW3PMHfJI",
     "https://downloadwella.com/hhxsg9it223q/Pantheon.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WWOEp2eD9MUo0vsPbxH-M6tlyq6Ed9VG",
     "https://downloadwella.com/q0oec5vvc0xx/Pantheon.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1S6iHxPGcSueBUJH5irWdaoM5hoOEUdY",
-    "https://downloadwella.com/pxxg6uxgze3y/Pantheon.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ui_UxZnKRdBIgQpsF-m-a3zIJvSdXfIP"
+    "https://downloadwella.com/pxxg6uxgze3y/Pantheon.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ui_UxZnKRdBIgQpsF-m-a3zIJvSdXfIP",
+    "https://downloadwella.com/569bwa0omwn2/Beckham.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-R6nAei7ZdN20nbx1VtZbKexvhJrE_IY",
+    "https://downloadwella.com/wl8lkbmspttg/Beckham.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/teHtyYLIexRS7AssQU_MEEoyXpwDQBMB"
   }
 }
