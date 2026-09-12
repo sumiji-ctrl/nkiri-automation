@@ -1243,6 +1243,13 @@
       "modified": "2024-09-04T06:17:34",
       "completed_at": 1789197506,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/my-lady-jane-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "117571|https://thenkiri.com/my-lady-jane-s01-complete-tv-series/|2024-06-28T08:39:24|2024-06-28T08:40:13|{'rendered': 'My Lady Jane S01 (Complete) | TV Series'}",
+      "modified": "2024-06-28T08:40:13",
+      "completed_at": 1789199123,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2426,6 +2433,11 @@
     "https://downloadwella.com/ewfpbp0uf8pb/Sunny.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b0zA3rKYOfNXBxTpZn0uJ63KVQ0fPUeK",
     "https://downloadwella.com/rzkwr3pj5zd8/Sunny.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9e0gDUYVFQTGZlgQk_9mZFNf2fYxSvWH",
     "https://downloadwella.com/n4pf30mrgxpl/Sunny.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ubgVD31SzOMvl-HNfDMfXKx0XAhgqAp1",
-    "https://downloadwella.com/ma7u1r9lfqn8/Sunny.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62zKB_Srs1a_EvjShjP_N5PQzYx2oXvd"
+    "https://downloadwella.com/ma7u1r9lfqn8/Sunny.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62zKB_Srs1a_EvjShjP_N5PQzYx2oXvd",
+    "https://downloadwella.com/cbr6754vlu0q/My.Lady.Jane.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M-13coEOG4J5z_HdUNvqh9Q9_RMEeMzh",
+    "https://downloadwella.com/ra32ovdhf26z/My.Lady.Jane.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KL721mS52NdRqgfqmwKg0-K9x_KukRKR",
+    "https://downloadwella.com/at2t3mchu7s7/My.Lady.Jane.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eSWWD3V2jzJ_l7DIpjTs2zd31pwpC9ct",
+    "https://downloadwella.com/ypd5dkw3m274/My.Lady.Jane.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BXlbwb3gymXaM_Eqt87USU5Dincw5xRI",
+    "https://downloadwella.com/zr7uxbykkwi4/My.Lady.Jane.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tmBu6K3sLj7d70PD-U_vZuxfoXVaHutH"
   }
 }
