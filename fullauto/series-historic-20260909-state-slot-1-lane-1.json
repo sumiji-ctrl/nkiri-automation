@@ -1300,7 +1300,14 @@
       "completed_at": 1789205967,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-wrestlemania-xl-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-wrestlemania-xl-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/a-gentleman-in-moscow-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "113014|https://thenkiri.com/a-gentleman-in-moscow-s01-complete-tv-series/|2024-03-29T08:11:41|2024-05-17T12:08:54|{'rendered': 'A Gentleman in Moscow S01 (Episodes 8 Added) | TV Series'}",
+      "modified": "2024-05-17T12:08:54",
+      "completed_at": 1789207202,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2508,6 +2515,11 @@
     "https://downloadwella.com/0c0edjua24nr/The.Spiderwick.Chronicles.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yOIUAJ38BF_Y_tbq9E_8w1CMj6a8rXSU",
     "https://downloadwella.com/nkgyf4p8i6l0/The.Spiderwick.Chronicles.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UqPYtWHzYPVF3qkJcaC2ph9XJmny_uoX",
     "https://downloadwella.com/n3l2ejic9ion/The.Spiderwick.Chronicles.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6oWmOelqC5jWEAXwUzR9Q9CfaHZKKEnf",
-    "https://downloadwella.com/mhmb8n53kc4w/The.Spiderwick.Chronicles.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AIY4Lu_ymD5GWfeuEKV4y3FgD4fGrwwH"
+    "https://downloadwella.com/mhmb8n53kc4w/The.Spiderwick.Chronicles.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AIY4Lu_ymD5GWfeuEKV4y3FgD4fGrwwH",
+    "https://downloadwella.com/ch6djsfdz6i2/A.Gentleman.in.Moscow.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q4mCdObJmCkD1vna1DVbcuWGdzdhKd4i",
+    "https://downloadwella.com/0bhku46o2hnl/A.Gentleman.in.Moscow.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Zohr78XMhS9t0eGy2CGMS25iyOt6wsu6",
+    "https://downloadwella.com/7wwgqc85f42y/A.Gentleman.in.Moscow.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3L6kJfoFjC2RUc6hhy4dTOTW_Ht84OWd",
+    "https://downloadwella.com/012wz08o89j9/A.Gentleman.in.Moscow.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V_E9LmXmjvkVRrnpTQnWELhnEQt-xLfs",
+    "https://downloadwella.com/0ney6r8m1tnk/A.Gentleman.in.Moscow.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KcGyd-U60EnPstHKMN1B0u5apVJBlJe"
   }
 }
