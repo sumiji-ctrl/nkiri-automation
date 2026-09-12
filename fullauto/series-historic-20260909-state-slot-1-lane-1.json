@@ -1520,6 +1520,13 @@
       "modified": "2023-09-02T17:57:02",
       "completed_at": 1789248606,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/white-house-plumbers-completetv-series/": {
+      "status": "partial",
+      "signature": "88451|https://thenkiri.com/white-house-plumbers-completetv-series/|2023-05-02T07:27:21|2023-09-02T17:50:43|{'rendered': 'White House Plumbers S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:50:43",
+      "completed_at": 1789249247,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2870,6 +2877,9 @@
     "https://downloadwella.com/mjxrpx0oel3h/American.Born.Chinese.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B-8Su9tR-CxesNLnQTbwqro_yJx_H0-D",
     "https://downloadwella.com/e8wlyciyhnfo/American.Born.Chinese.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S2yiPHZDLIT133rOuLgOIUbmdpU7H1Js",
     "https://downloadwella.com/fekg9y2pl7ub/Abraham.Lincoln.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0Cnm7MZY5NpvGZttCj1-GnmvvFvMzCI6",
-    "https://downloadwella.com/6bllsldz9nry/Abraham.Lincoln.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vMLpKfXjCJkGewp41Bx5BZRkXzcZvg9C"
+    "https://downloadwella.com/6bllsldz9nry/Abraham.Lincoln.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vMLpKfXjCJkGewp41Bx5BZRkXzcZvg9C",
+    "https://downloadwella.com/lyqwmjgmxwae/White.House.Plumbers.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VZTR-QiNFfLNoaSPjNjJjnNYWucTN3pu",
+    "https://downloadwella.com/sqxls0rijh2k/White.House.Plumbers.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FJU80zKRA0Bslp26s57_kxaWvRtqfLNM",
+    "https://downloadwella.com/1m9ibt52tl07/White.House.Plumbers.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d5_2ynwRgsZyAiFlVsNp_BqRFAElW0KG"
   }
 }
