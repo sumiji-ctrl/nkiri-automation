@@ -1236,6 +1236,13 @@
       "modified": "2024-07-18T20:00:13",
       "completed_at": 1789180323,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/me-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "118252|https://thenkiri.com/me-s01-complete-tv-series/|2024-07-12T11:55:28|2024-07-12T11:55:28|{'rendered': 'Me S01 (Complete) | TV Series'}",
+      "modified": "2024-07-12T11:55:28",
+      "completed_at": 1789182471,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2382,6 +2389,12 @@
     "https://downloadwella.com/oc4jy5717otl/Those.About.to.Die.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tNpFO2ZQxxJIVG6pZJxnxPuax8TxfqiD",
     "https://downloadwella.com/fsq943st8cp9/Those.About.to.Die.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aGFFiKaO-xBYv9MGgRM1oDtGlmZ19Kgj",
     "https://downloadwella.com/neckeqhkcygq/Those.About.to.Die.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ni5wOJoqa4i9cTQmfT1Un1EixGP6Ukq9",
-    "https://downloadwella.com/zrk09emd7wle/Those.About.to.Die.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bOyzRykyJsgmGApdRL1GOu0bKiVSSLHM"
+    "https://downloadwella.com/zrk09emd7wle/Those.About.to.Die.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bOyzRykyJsgmGApdRL1GOu0bKiVSSLHM",
+    "https://downloadwella.com/xmxao4a9afxe/Me.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CkNyJxcPS1M1JI8bLe_gWr3jP5ljEwxV",
+    "https://downloadwella.com/g4xtgqs2758b/Me.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cnzc45ihZ6DzdbeRv0mvZ5SzkJHslZu0",
+    "https://downloadwella.com/zvzk11hl1jfg/Me.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iQifg0klfo712KRO8SWId12vlreS1z5k",
+    "https://downloadwella.com/hebxnv972jvm/Me.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fmrFss3Q0i3mEnoiu-zbqThN1Zl_BYk6",
+    "https://downloadwella.com/7teh9w5qeb0b/Me.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/a6CBaQ7r1HCea7fue27RF5RnCHcNUlSl",
+    "https://downloadwella.com/wz82o62ot85r/Me.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zJhGD3CQ0wIFvS1jx9MNfhgtWG5idZ_r"
   }
 }
