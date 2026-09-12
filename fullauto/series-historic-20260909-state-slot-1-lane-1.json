@@ -1376,10 +1376,11 @@
       "completed_at": 1789221654
     },
     "https://thenkiri.com/bookie-s01-complete-tv-series/": {
-      "status": "done",
+      "status": "partial",
       "signature": "103703|https://thenkiri.com/bookie-s01-complete-tv-series/|2023-11-30T12:06:27|2023-12-21T11:48:33|{'rendered': 'Bookie S01 (Episode 4 – 8 Added) | TV Series'}",
       "modified": "2023-12-21T11:48:33",
-      "completed_at": 1789223559
+      "completed_at": 1789225093,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2648,13 +2649,13 @@
     "https://downloadwella.com/v8jp8zm1ug2p/Dr.Death.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6xDWC83-J6JfhC9uRhgx9I_ufqw44e34",
     "https://downloadwella.com/28yn540m2fr9/Dr.Death.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BYxa0xPKL3urC69VrAz4eL7ijxqFVjY_",
     "https://downloadwella.com/ar8p9o8wfx4m/Dr.Death.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eRYp-q-enVWP_Qky8ekftd5FuohL3faY",
-    "https://downloadwella.com/m1bhj3i3qr54/Bookie.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M8NAbe_0vy5AlC4Tk3ZYca1HrwVuCUuV",
-    "https://downloadwella.com/gffmapyqbcjm/Bookie.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aK_GfGINjI1M_6XvjZNilKrzg6Hk4cNs",
-    "https://downloadwella.com/mqmt3d6xjrjm/Bookie.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LYFsyDlMxBowVEZvWYV4Szb8kizTIB88",
-    "https://downloadwella.com/04aelhdefawv/Bookie.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dBjxtpyM3L2B0lcOQMH5h_L4l32ecpv-",
-    "https://downloadwella.com/7dzj49ns35k2/Bookie.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3X2vPQtIG-Y4eXmAgZ6vlnTSKSyN8bbr",
-    "https://downloadwella.com/efof4h531zp8/Bookie.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ogaAxnUwPpXloWsT0SYxYUEKrND-Q6oe",
-    "https://downloadwella.com/w3pypj6v8aj9/Bookie.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DsVb2ArKH76feklOTr9k8Wp2alSCyU8c",
+    "https://downloadwella.com/m1bhj3i3qr54/Bookie.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4sIFDgp5KUmsC_MKIqK6kk3y8VJbXsI9",
+    "https://downloadwella.com/gffmapyqbcjm/Bookie.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nGkuOqEvnF26y8NtVKRS5Ebys704TXVT",
+    "https://downloadwella.com/mqmt3d6xjrjm/Bookie.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hLLsM9qZmxqT5miV9ijQMjMAvab83tgu",
+    "https://downloadwella.com/04aelhdefawv/Bookie.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C9EwBiwnM_Iuz1jzIsKXoTOdziqDsBUR",
+    "https://downloadwella.com/7dzj49ns35k2/Bookie.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q4Q8yJe1va-PnXPPKKX0hyeV99IN5sB6",
+    "https://downloadwella.com/efof4h531zp8/Bookie.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DPZ53X7Uxe6GBM6lSuEfzKC2UxNuRkhc",
+    "https://downloadwella.com/w3pypj6v8aj9/Bookie.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/suetUbo7wmgLAE0WsABzBJGRHwzjmckQ",
     "https://downloadwella.com/mntrvp6clqbl/Bookie.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3U8Ee61u13zEt2MExQ8pq39ygycREfZl"
   }
 }
