@@ -1478,6 +1478,13 @@
       "modified": "2024-02-26T19:32:16",
       "skipped_at": 1789243676,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/61st-street-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "92793|https://thenkiri.com/61st-street-s02-complete-tv-series/|2023-07-05T07:57:54|2023-12-22T07:25:30|{'rendered': '61st Street S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-12-22T07:25:30",
+      "completed_at": 1789244536,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2811,6 +2818,7 @@
     "https://downloadwella.com/4tv3r588mzz4/The.Killing.Kind.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rtm8Ea4ta19iCcLzkB3rF2e_Uidtfjng",
     "https://downloadwella.com/p5ljeszkgyne/The.Woman.In.The.Wall.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KoDd4ufI5-3_hq1Z_AQucd2pgqZghrR",
     "https://downloadwella.com/qmd4wgh4zq6l/Painkiller.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rEnEdSWjPbdokp2zpFQJcji6ScIfzhmK",
-    "https://downloadwella.com/uq5jtogh3cqy/Special.Ops.Lioness.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yUgOdo2gnpjbhbrhMDk5ZBCVrgxCyd6C"
+    "https://downloadwella.com/uq5jtogh3cqy/Special.Ops.Lioness.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yUgOdo2gnpjbhbrhMDk5ZBCVrgxCyd6C",
+    "https://downloadwella.com/2yvbl3bs3nkd/61st.Street.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W2D5rX5nNoT3ZOGDUi8LboAuMT0Vf-wD"
   }
 }
