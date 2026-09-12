@@ -1464,6 +1464,13 @@
       "modified": "2023-09-02T18:01:32",
       "completed_at": 1789242815,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/special-ops-lioness-complete-tv-series/": {
+      "status": "partial",
+      "signature": "95813|https://thenkiri.com/special-ops-lioness-complete-tv-series/|2023-07-23T12:41:06|2023-12-17T11:47:25|{'rendered': 'Special Ops: Lioness (Episode 8 Added) | TV Series'}",
+      "modified": "2023-12-17T11:47:25",
+      "completed_at": 1789243368,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2796,6 +2803,7 @@
     "https://downloadwella.com/r0hzooba77u3/The.Killing.Kind.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DeKiUeAG2_kK1UEAqSPGhHxev9tlYAHp",
     "https://downloadwella.com/4tv3r588mzz4/The.Killing.Kind.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rtm8Ea4ta19iCcLzkB3rF2e_Uidtfjng",
     "https://downloadwella.com/p5ljeszkgyne/The.Woman.In.The.Wall.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KoDd4ufI5-3_hq1Z_AQucd2pgqZghrR",
-    "https://downloadwella.com/qmd4wgh4zq6l/Painkiller.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rEnEdSWjPbdokp2zpFQJcji6ScIfzhmK"
+    "https://downloadwella.com/qmd4wgh4zq6l/Painkiller.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rEnEdSWjPbdokp2zpFQJcji6ScIfzhmK",
+    "https://downloadwella.com/uq5jtogh3cqy/Special.Ops.Lioness.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yUgOdo2gnpjbhbrhMDk5ZBCVrgxCyd6C"
   }
 }
