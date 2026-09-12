@@ -1229,6 +1229,13 @@
       "modified": "2024-07-27T11:42:15",
       "completed_at": 1789193808,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-jetty-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "118401|https://thenkiri.com/the-jetty-s01-complete-tv-series/|2024-07-16T10:00:44|2024-07-16T10:00:44|{'rendered': 'The Jetty S01 (Complete) | TV Series'}",
+      "modified": "2024-07-16T10:00:44",
+      "skipped_at": 1789194105,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
