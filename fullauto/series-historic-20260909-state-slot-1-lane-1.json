@@ -1328,6 +1328,12 @@
       "modified": "2024-03-29T06:50:50",
       "completed_at": 1789210329,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/constellation-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "108734|https://thenkiri.com/constellation-s01-complete-tv-series/|2024-02-22T15:27:05|2024-03-27T09:03:53|{'rendered': 'Constellation S01 (Episodes 8 Added) | TV Series'}",
+      "modified": "2024-03-27T09:03:53",
+      "completed_at": 1789211699
     }
   },
   "series_links": {
@@ -2549,6 +2555,14 @@
     "https://downloadwella.com/y15imk6by4gr/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7f3tPRlfg2RDY64DnKU7e9O7s4r3rwjs",
     "https://downloadwella.com/7e4q2mig7tgd/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zIJGsoRQsaXLX-kCStUh0USGadgaztZR",
     "https://downloadwella.com/jhgu8fw4tt95/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KB40n1GC0wr_cMIokQQb6T5_Obhma2im",
-    "https://downloadwella.com/zwb7ig9r45r2/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62lIPZCKH1ziSF61eu4TM6IPiKu9sdAu"
+    "https://downloadwella.com/zwb7ig9r45r2/The.Completely.Made-Up.Adventures.of.Dick.Turpin.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/62lIPZCKH1ziSF61eu4TM6IPiKu9sdAu",
+    "https://downloadwella.com/jjj6gydbqx2f/Constellation.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o0pCOb-o_sEoxarMkGj2OsntiSV7Th5X",
+    "https://downloadwella.com/tl0a1jxp7f0m/Constellation.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W5CfvC-G3HOe3uXgWtetK3lV6M27Osbx",
+    "https://downloadwella.com/d7pghx6d8d54/Constellation.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kzhpph5sYaNBKhzXokLEwPTr7VJ5dmdf",
+    "https://downloadwella.com/9k8pvb862g15/Constellation.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nGoYPOa7fA8P1Cd43rfx73dcAl1iKwtm",
+    "https://downloadwella.com/1ywxg3z8ofex/Constellation.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ISIocgmvrLBE3DmOIHSTphDpbQz-6ras",
+    "https://downloadwella.com/w5d9q1cm0kco/Constellation.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ijDd4SCwQdk6IPhRSrnBYIOn0-Fnn_wB",
+    "https://downloadwella.com/m8cxdbki8n5c/Constellation.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jOisB2s471IpaFL_LJwtidyAKKxifuoU",
+    "https://downloadwella.com/j81yxpd7gdhy/Constellation.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o44eQO_PIpzsjPAjXF9c7nWa9MlUh3qy"
   }
 }
