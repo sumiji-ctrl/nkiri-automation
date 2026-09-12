@@ -1435,7 +1435,14 @@
       "completed_at": 1789248598,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-friday-night-smackdown-tv-series/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-friday-night-smackdown-tv-series/": "skipped (wwe)",
+    "https://thenkiri.com/american-horror-story-delicate-complete-tv-series/": {
+      "status": "partial",
+      "signature": "99935|https://thenkiri.com/american-horror-story-delicate-complete-tv-series/|2023-09-21T09:17:03|2024-04-25T08:37:08|{'rendered': 'American Horror Story Delicate (Episode 9 Added) | TV Series'}",
+      "modified": "2024-04-25T08:37:08",
+      "completed_at": 1789251174,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2778,6 +2785,14 @@
     "https://downloadwella.com/llmxgqap6u7i/Castlevania.Nocturne.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GFFYvWWUXerppgt42e2dUVmflgeUF2P1",
     "https://downloadwella.com/bvwwxaxne8d3/Castlevania.Nocturne.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cVWDX1q71udigzD7qWai0TGBmGAOtTYW",
     "https://downloadwella.com/ebfx8balxeaz/Castlevania.Nocturne.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jQm-Z8igYwXCNvBRrtMDyHCTpKNH3eti",
-    "https://downloadwella.com/e36m4u9afif6/Castlevania.Nocturne.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k8evs03QEOb7bH4hWqORQSbKb4qNKLel"
+    "https://downloadwella.com/e36m4u9afif6/Castlevania.Nocturne.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/k8evs03QEOb7bH4hWqORQSbKb4qNKLel",
+    "https://downloadwella.com/y44r4i8zae53/American.Horror.Story.S12E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RpiVXZMHlIpUy4BzVCRZ9wQEkrZSNOYu",
+    "https://downloadwella.com/ym42uw5qdtci/American.Horror.Story.S12E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZXZTlR4OFnP6Ut9AYMzDA92Pk3sewnnh",
+    "https://downloadwella.com/6bwagfprzetb/American.Horror.Story.S12E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U2SlEZgAY1mx58UEx3KmXqmrRPuu4KHv",
+    "https://downloadwella.com/ecwel79e7zvz/American.Horror.Story.S12E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CKpOji_Hzv6J377wP7sR8Tgt_n_eomrH",
+    "https://downloadwella.com/p8lrp96jvr9z/American.Horror.Story.S12E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/htYUGRNBiirq5nMKLyQAccHUI3ZTNQ39",
+    "https://downloadwella.com/ue9cm077s9a5/American.Horror.Story.S12E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uLIoMgSV-oOg_UzjljBWP-lJg1q3EpsA",
+    "https://downloadwella.com/qnesa23zi2iw/American.Horror.Story.S12E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X-oekxokte2RtRmrNY39nB5cb4s0iQ8n",
+    "https://downloadwella.com/sa4052z8eo49/American.Horror.Story.E12E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4XJYPc7bUfnsHTTE1Wgw05lk_fpaV1Lz"
   }
 }
