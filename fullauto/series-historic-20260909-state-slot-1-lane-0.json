@@ -1263,6 +1263,12 @@
       "modified": "2024-07-02T08:02:02",
       "completed_at": 1789202912,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/shoresy-s03-complete-tv-series/": {
+      "status": "done",
+      "signature": "115959|https://thenkiri.com/shoresy-s03-complete-tv-series/|2024-05-24T08:54:02|2024-06-07T06:18:22|{'rendered': 'Shoresy S03 (Episode 4 Added) | TV Series'}",
+      "modified": "2024-06-07T06:18:22",
+      "completed_at": 1789204277
     }
   },
   "series_links": {
@@ -2463,6 +2469,10 @@
     "https://downloadwella.com/jy7a5ujhrhz9/Clipped.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wniFA2KAnjr1hwHfqeLLBLYsJmgQytVx",
     "https://downloadwella.com/k2k6eibc9izb/Clipped.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/e76PQvaoBE-jB7qn2TSa1nH9A10OqocU",
     "https://downloadwella.com/8lt705ycbug4/Clipped.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IUwmdPbFY-VHMJHJU0zexzDvCKnvIIBP",
-    "https://downloadwella.com/uvbrmdmn9svu/Clipped.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E2eWqxiu6kU8LLvGK-L4KB_A8EpLa3RC"
+    "https://downloadwella.com/uvbrmdmn9svu/Clipped.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E2eWqxiu6kU8LLvGK-L4KB_A8EpLa3RC",
+    "https://downloadwella.com/08q6c0s501bz/Shoresy.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1ADjsySQN6NquS3ofctRHYVJ-ed1qH1N",
+    "https://downloadwella.com/pxevap5t0ges/Shoresy.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PjHF6oUjwYDyKfMMuWe0bRX-FT1qpTIA",
+    "https://downloadwella.com/ax5275tjeoag/Shoresy.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C305HCmxM8acdc9YURLQd2Wo9g29AY8S",
+    "https://downloadwella.com/80yevrvxfnke/Shoresy.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KZ-r9p8xe6X--kcVRAy3DpFGgiXEJ3id"
   }
 }
