@@ -1449,6 +1449,13 @@
       "modified": "2024-02-24T12:16:33",
       "completed_at": 1789255760,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/harlan-cobens-shelter-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "97047|https://thenkiri.com/harlan-cobens-shelter-s01-complete-tv-series/|2023-08-18T16:59:31|2024-02-23T15:08:07|{'rendered': 'Harlan Coben’s Shelter S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-02-23T15:08:07",
+      "completed_at": 1789256675,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2806,6 +2813,10 @@
     "https://downloadwella.com/qbi6qqjlgv3q/The.Wheel.of.Time.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6SZIZWWeW9yx2-oYPCmmEbM2khSK-14_",
     "https://downloadwella.com/9cbveqpgrhnb/The.Wheel.of.Time.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UntbhJrhZ3Xvrib5nrZYDdtbfkNHpBA9",
     "https://downloadwella.com/olv4lhziv8ud/The.Wheel.of.Time.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YgcSqw6GggDLAQ6LAfW_FweBG7r7XE0D",
-    "https://downloadwella.com/k9p29lqcqj4f/The.Wheel.of.Time.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7wppXCnkdiLHGtm6P6gdcoL5Z_meZ2qP"
+    "https://downloadwella.com/k9p29lqcqj4f/The.Wheel.of.Time.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7wppXCnkdiLHGtm6P6gdcoL5Z_meZ2qP",
+    "https://downloadwella.com/4zaa1dhbamyp/Harlan.Cobens.Shelter.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7reBdZ_boe48ThEN_fqwmfLXIlJYi8MU",
+    "https://downloadwella.com/s9uqlz9imt92/Harlan.Cobens.Shelter.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WMQz_i4aWHkxD05PU3t-zJ4iRyncxr5I",
+    "https://downloadwella.com/dabo08gt3qk4/Harlan.Cobens.Shelter.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ujuDrzUlEb4RhJJKl5r21X2BbL5901cZ",
+    "https://downloadwella.com/2tqwzjf83l3t/Harlan.Cobens.Shelter.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nkcAUUczvYy5mykmnLyQ1E0r_koSPFXx"
   }
 }
