@@ -1362,6 +1362,12 @@
       "modified": "2024-01-19T11:45:43",
       "skipped_at": 1789218697,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/echo-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "106801|https://thenkiri.com/echo-s01-complete-tv-series/|2024-01-10T09:57:31|2024-01-10T09:57:31|{'rendered': 'Echo S01 (Complete) | TV Series'}",
+      "modified": "2024-01-10T09:57:31",
+      "completed_at": 1789219721
     }
   },
   "series_links": {
@@ -2616,6 +2622,11 @@
     "https://downloadwella.com/ird1cl8jshxr/Masters.of.the.Air.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-A3Z1UOZPkxnJVxE1kQxdx-HHuGKAXMk",
     "https://downloadwella.com/exflbn6iazhr/Masters.of.the.Air.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yop2M2lu8SIHzdIy8BH-uRUZWqhyDwfW",
     "https://downloadwella.com/xk758a3wim4p/Masters.of.the.Air.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Hux9rXMueZJ5V7OuJfB1w2QgCiGzYMya",
-    "https://downloadwella.com/kj1lrg7ul2g4/Masters.of.the.Air.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n5droginwgmSzfHF0VjzZ5UzZsfO3e9G"
+    "https://downloadwella.com/kj1lrg7ul2g4/Masters.of.the.Air.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n5droginwgmSzfHF0VjzZ5UzZsfO3e9G",
+    "https://downloadwella.com/0fmdilarhf8g/Echo.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Hd7hcFyXAQJv7wr-NkqaxVczYEgFeO98",
+    "https://downloadwella.com/9f573sepycvs/Echo.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5np6ymBcFUluDFUiLw7J-xa07pitebVj",
+    "https://downloadwella.com/f0opdm4cn2tr/Echo.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T9oNZpLsYqPWrSVQDwTMwDyklf9_jpNq",
+    "https://downloadwella.com/gmv6df7evnha/Echo.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4BbXqRJQVK8YkySECRff39jCsBjkl7Vq",
+    "https://downloadwella.com/87vih5kwtihw/Echo.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uVrr8ZLquYR4lqmRdtmC6Wj8LqJ9YFcR"
   }
 }
