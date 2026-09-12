@@ -1422,6 +1422,13 @@
       "modified": "2023-10-06T09:38:49",
       "completed_at": 1789229695,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/found-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100701|https://thenkiri.com/found-s01-complete-tv-series/|2023-10-04T08:20:27|2024-01-17T07:51:05|{'rendered': 'Found S01 (Episode 13 Added) | TV Series'}",
+      "modified": "2024-01-17T07:51:05",
+      "completed_at": 1789233305,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2720,6 +2727,17 @@
     "https://downloadwella.com/q0oec5vvc0xx/Pantheon.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1S6iHxPGcSueBUJH5irWdaoM5hoOEUdY",
     "https://downloadwella.com/pxxg6uxgze3y/Pantheon.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ui_UxZnKRdBIgQpsF-m-a3zIJvSdXfIP",
     "https://downloadwella.com/569bwa0omwn2/Beckham.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-R6nAei7ZdN20nbx1VtZbKexvhJrE_IY",
-    "https://downloadwella.com/wl8lkbmspttg/Beckham.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/teHtyYLIexRS7AssQU_MEEoyXpwDQBMB"
+    "https://downloadwella.com/wl8lkbmspttg/Beckham.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/teHtyYLIexRS7AssQU_MEEoyXpwDQBMB",
+    "https://downloadwella.com/r1ec6jzn8hmh/Found.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VLwe6yKQL3SSX4bxzissieXWwNezgu7Y",
+    "https://downloadwella.com/eho8vhrdp71k/Found.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0R90_XuJBZcyI2-cMY9y70cBkmWzAJuQ",
+    "https://downloadwella.com/hep2hrj8xc3k/Found.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IW5LTqeqVG1WTPQnovlDfGNmb6b7wj0a",
+    "https://downloadwella.com/84651y2nke8z/Found.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DmE6FuWaN5EZWKV3fAWdqyXZf16bUtWz",
+    "https://downloadwella.com/ccx9e7qxnb0f/Found.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MNd6txXeWylQJBMJDp8911EcfBIMNvCi",
+    "https://downloadwella.com/7v0powpw2dx5/Found.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ynbb5R_UDeNCQt-fxXoZWjNYSQPCzy_b",
+    "https://downloadwella.com/3sab2rj0s0hr/Found.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/02jRxfGzxBD_Oh5SNmiSMpjxxdrS0it4",
+    "https://downloadwella.com/k07goofnchrl/Found.2023.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vU43HbWVrjoPDa8wGjfQGQKQ0EvC7pvB",
+    "https://downloadwella.com/1fwv0veuidvi/Found.2023.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y6_qVpA9WiWzISRayUzd2e8xtWcmR0Vl",
+    "https://downloadwella.com/4iqc39if84fl/Found.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/044w7GUsFPjy09CU06slWqBTxmo1jk8d",
+    "https://downloadwella.com/cw7k65agh75d/Found.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lqCwG6DmaNGQSMyieOTCiUZmDDYAZ4hj"
   }
 }
