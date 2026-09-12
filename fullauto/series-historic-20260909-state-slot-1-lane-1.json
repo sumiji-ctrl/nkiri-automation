@@ -1314,6 +1314,13 @@
       "modified": "2024-03-19T09:20:12",
       "skipped_at": 1789207245,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/supersex-s01-eng-audio-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111887|https://thenkiri.com/supersex-s01-eng-audio-complete-tv-series/|2024-03-07T07:09:57|2024-03-07T07:09:57|{'rendered': 'Supersex S01 ENG Audio (Complete) | TV Series'}",
+      "modified": "2024-03-07T07:09:57",
+      "completed_at": 1789209276,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2527,6 +2534,10 @@
     "https://downloadwella.com/0bhku46o2hnl/A.Gentleman.in.Moscow.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Zohr78XMhS9t0eGy2CGMS25iyOt6wsu6",
     "https://downloadwella.com/7wwgqc85f42y/A.Gentleman.in.Moscow.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3L6kJfoFjC2RUc6hhy4dTOTW_Ht84OWd",
     "https://downloadwella.com/012wz08o89j9/A.Gentleman.in.Moscow.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V_E9LmXmjvkVRrnpTQnWELhnEQt-xLfs",
-    "https://downloadwella.com/0ney6r8m1tnk/A.Gentleman.in.Moscow.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KcGyd-U60EnPstHKMN1B0u5apVJBlJe"
+    "https://downloadwella.com/0ney6r8m1tnk/A.Gentleman.in.Moscow.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2KcGyd-U60EnPstHKMN1B0u5apVJBlJe",
+    "https://downloadwella.com/b64k9ljxsniy/Supersex.S01SE03.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bNoSa1Ynfb9aWVBzHbSbJVLpc8x4ez2c",
+    "https://downloadwella.com/j6dv7blbg7y4/Supersex.S01SE04.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GWjQNO5JSCuQ76nrwXmFwl5VxUhZvK7Q",
+    "https://downloadwella.com/39f5e3wv8syx/Supersex.S01SE06.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9hRs1h7MSyBmS81QilBri7D53bc_jtGR",
+    "https://downloadwella.com/455w459u1dyq/Supersex.S01SE07.ENG.DUB.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DRRCC_zyVDjZeogrFRNp5UuyxA5lUpJk"
   }
 }
