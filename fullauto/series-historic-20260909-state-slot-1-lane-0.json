@@ -1392,6 +1392,13 @@
       "modified": "2023-12-19T09:35:01",
       "completed_at": 1789241486,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/blue-eye-samurai-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "102444|https://thenkiri.com/blue-eye-samurai-s01-complete-tv-series/|2023-11-06T09:06:15|2024-02-23T10:12:06|{'rendered': 'BLUE EYE SAMURAI S01 (Complete) | TV Series'}",
+      "modified": "2024-02-23T10:12:06",
+      "completed_at": 1789242753,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2717,6 +2724,8 @@
     "https://downloadwella.com/gpt2mm5ftzm0/Squid.Game.The.Challenge.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LDaCNQLtA8PBlqRdyZFZHBnvadJfXdAe",
     "https://downloadwella.com/5qxsoular5m1/A.Murder.at.the.End.of.the.World.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fySllpMBcKuXhXdba3TdyHHyV_5DWtiK",
     "https://downloadwella.com/b5rbiaptstqz/A.Murder.at.the.End.of.the.World.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5niYQLEWf8Aw65IjMy1sB4C2aVwl20hS",
-    "https://downloadwella.com/nr4ytku8dwmn/A.Murder.at.the.End.of.the.World.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fwma9LlayTnYfV471lAbtjq7mKjox9ZR"
+    "https://downloadwella.com/nr4ytku8dwmn/A.Murder.at.the.End.of.the.World.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fwma9LlayTnYfV471lAbtjq7mKjox9ZR",
+    "https://downloadwella.com/olrc9cm0svvn/Blue.Eye.Samurai.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/suJDsEEQj2HljTGfDsXCr5OzsSA3v0Nz",
+    "https://downloadwella.com/5hi078s7hwsc/Blue.Eye.Samurai.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zKHrXC2zjTlbOa7Yf-Zu8FxgQ4nrv01h"
   }
 }
