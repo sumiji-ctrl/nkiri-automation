@@ -1408,6 +1408,13 @@
       "modified": "2023-12-21T18:11:14",
       "completed_at": 1789228623,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/pantheon-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101395|https://thenkiri.com/pantheon-s02-complete-tv-series/|2023-10-15T08:32:34|2023-10-15T08:32:34|{'rendered': 'Pantheon S02 (Complete) | TV Series'}",
+      "modified": "2023-10-15T08:32:34",
+      "completed_at": 1789229404,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2700,6 +2707,10 @@
     "https://downloadwella.com/mrpg3rb6bl8q/Orphan.Black.Echoes.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5TGb1jKucAvPgNQSLcnsG-Gu0TdW794A",
     "https://downloadwella.com/fbhtkukic0v4/Orphan.Black.Echoes.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zNfrqG5MJtKCp3awuI65LefYI3uSs9EB",
     "https://downloadwella.com/87crlewuz9hg/Bosch.Legacy.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zI77LY4dCzUXpY2JQtLvkjCd4F1bUpVp",
-    "https://downloadwella.com/abh668gxagpa/Bosch.Legacy.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ykrAH3SbzNmhYw4u2mtg2a85AO5KtXt9"
+    "https://downloadwella.com/abh668gxagpa/Bosch.Legacy.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ykrAH3SbzNmhYw4u2mtg2a85AO5KtXt9",
+    "https://downloadwella.com/12izqypi31ny/Pantheon.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gVK_RsorF53XhLRcytxfLhCYW3PMHfJI",
+    "https://downloadwella.com/hhxsg9it223q/Pantheon.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WWOEp2eD9MUo0vsPbxH-M6tlyq6Ed9VG",
+    "https://downloadwella.com/q0oec5vvc0xx/Pantheon.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1S6iHxPGcSueBUJH5irWdaoM5hoOEUdY",
+    "https://downloadwella.com/pxxg6uxgze3y/Pantheon.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ui_UxZnKRdBIgQpsF-m-a3zIJvSdXfIP"
   }
 }
