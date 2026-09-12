@@ -1181,6 +1181,13 @@
       "signature": "122310|https://thenkiri.com/midnight-family-s01-complete-spanish-tv-series/|2024-10-01T07:17:46|2024-10-30T13:34:52|{'rendered': 'Midnight Family S01 (Episode 3-7 Added) | Spanish TV Series'}",
       "modified": "2024-10-30T13:34:52",
       "completed_at": 1789174676
+    },
+    "https://thenkiri.com/grotesquerie-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121975|https://thenkiri.com/grotesquerie-s01-complete-tv-series/|2024-09-26T09:19:37|2024-10-31T09:14:22|{'rendered': 'Grotesquerie S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-10-31T09:14:22",
+      "completed_at": 1789176065,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2307,6 +2314,10 @@
     "https://downloadwella.com/nj3471v5v0wq/Midnight.Family.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b7pS5wA3z7bTnivL6GGPt1Iv7Cnw0k5o",
     "https://downloadwella.com/ir7mmzms16yj/Midnight.Family.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WjlbzuaY_0HTX0ZIj1eSf3Xo-8yqVdsg",
     "https://downloadwella.com/hdp05yw8cyd5/Midnight.Family.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7NrSinfy9FOG6VoxAkZaiaJ_ZlDd3ILe",
-    "https://downloadwella.com/vdykgjpzd2k7/Midnight.Family.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sXdMzqiD_Fad8N6qna3DgC1mzstpFjKr"
+    "https://downloadwella.com/vdykgjpzd2k7/Midnight.Family.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sXdMzqiD_Fad8N6qna3DgC1mzstpFjKr",
+    "https://downloadwella.com/su51cpxo21qo/Grotesquerie.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IIc4IGzJV4b6as8-DBwlSxb_VMOQm9KF",
+    "https://downloadwella.com/niomrrg2vjwl/Grotesquerie.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G9K8l99gT5vPaJBW1m6Fg0dVh8j4-_qF",
+    "https://downloadwella.com/higecipswe93/Grotesquerie.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5vu0TeBfZAD276KvJoVES4XR-88-QYKv",
+    "https://downloadwella.com/achbpull7rn7/Grotesquerie.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/scMJVmVL5WAhuw2wbczATdZ-ZI3ypmh1"
   }
 }
