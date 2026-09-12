@@ -1471,6 +1471,13 @@
       "modified": "2023-12-17T11:47:25",
       "completed_at": 1789243368,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/sonic-prime-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "95342|https://thenkiri.com/sonic-prime-s02-complete-tv-series/|2023-07-13T16:55:50|2024-02-26T19:32:16|{'rendered': 'Sonic Prime S02 (Complete) | TV Series'}",
+      "modified": "2024-02-26T19:32:16",
+      "skipped_at": 1789243676,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
