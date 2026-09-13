@@ -1583,6 +1583,12 @@
       "modified": "2023-09-02T17:17:49",
       "completed_at": 1789267003,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dam-complete-tv-series/": {
+      "status": "done",
+      "signature": "82402|https://thenkiri.com/dam-complete-tv-series/|2023-02-16T10:13:46|2023-12-17T06:59:56|{'rendered': 'Dam S01 (Complete) | TV Series'}",
+      "modified": "2023-12-17T06:59:56",
+      "completed_at": 1789268966
     }
   },
   "series_links": {
@@ -2985,6 +2991,14 @@
     "https://downloadwella.com/smobza1txqri/Outer_Banks_S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DWM7I9x3WG9gY2AABl6mYRP8eqO3JQgv",
     "https://downloadwella.com/jwz9y3ua52xi/Outer_Banks_S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JL_LzBHJKiHRgH06p4KAJPOi5Gy-ik6v",
     "https://downloadwella.com/k5zp4umngbgk/Outer_Banks_S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fi7Hg3n8px0Ni70m6SF2DcuGF5PGaG7w",
-    "https://downloadwella.com/1yw4plqo2gz2/Outer_Banks_S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DRvxux7dMEqofMZXNbdLyd8Z0xHfyleF"
+    "https://downloadwella.com/1yw4plqo2gz2/Outer_Banks_S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DRvxux7dMEqofMZXNbdLyd8Z0xHfyleF",
+    "https://downloadwella.com/wko0ljop2ui5/DAM.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b0Vh0bOoeWNXoZ2G3KRVFgx1QFVre0Wx",
+    "https://downloadwella.com/i3hs2v5vdv5h/DAM.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vyr8ZYSRwR6oJfgmIPJFT5zajkMAfjVr",
+    "https://downloadwella.com/y139xvptps2u/DAM.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-TfWVkW4X9FUyuDZphAZVb-9ujvFR0ch",
+    "https://downloadwella.com/o27ivdg731zi/DAM.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mHOHMbDXEcCzdJXYxGbZ1WvMrfu7U-ID",
+    "https://downloadwella.com/cct0vvwivdbk/DAM.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Tx4_J_U16a6icbRmCeaRKlD9DXvFZQ42",
+    "https://downloadwella.com/b42bcj8o7vo1/DAM.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GvvyIUk7bf_9PrzldLTMgF3Ol3luSqBk",
+    "https://downloadwella.com/qdti5gwjve2a/DAM.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iA7x1LdjXxJkuO-WqkrkfccT_s4xF907",
+    "https://downloadwella.com/5656y45e9luo/DAM.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YXSqVe2PLhgkllfarjYe9B_6z6ZwGQaJ"
   }
 }
