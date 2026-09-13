@@ -1496,6 +1496,13 @@
       "modified": "2023-09-02T18:09:19",
       "completed_at": 1789276629,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/little-bird-complete-tv-series/": {
+      "status": "partial",
+      "signature": "90309|https://thenkiri.com/little-bird-complete-tv-series/|2023-05-26T09:08:13|2023-09-02T18:03:20|{'rendered': 'Little Bird (Episode 6 Added) | TV Series'}",
+      "modified": "2023-09-02T18:03:20",
+      "completed_at": 1789277940,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2917,6 +2924,11 @@
     "https://downloadwella.com/6rwx6urvax4g/Year.Of.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/88RshjbIL_0U_W3e8x4QhV1BbYQUq-0L",
     "https://downloadwella.com/x5isbicgyz5q/Year.Of.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kRVGY0U6CX4QdRivx7IRgT22weufIViI",
     "https://downloadwella.com/1qinriugcqh5/Year.Of.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QSOC9xZ8Kk08jl7GJHcknHHn48diCMa-",
-    "https://downloadwella.com/j0jf8pq40y0w/Year.Of.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qol7w5ofsvvbvnX2DZlv28Sf40T1UROi"
+    "https://downloadwella.com/j0jf8pq40y0w/Year.Of.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qol7w5ofsvvbvnX2DZlv28Sf40T1UROi",
+    "https://downloadwella.com/2kvm0cccwzdq/Little.Bird.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EKyumjvLFkfsqwJN1oHpO3DlX7O2605B",
+    "https://downloadwella.com/3hgvtk17x13p/Little.Bird.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/02y8uApeiM32cyOpWlwQa2Cnu2YWsHQs",
+    "https://downloadwella.com/9ho119vuccyx/Little.Bird.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6laVj_T_uT-Hj7D1CfPRJ19okW6a_OaJ",
+    "https://downloadwella.com/b3xswt6kinbd/Little.Bird.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/85ozBcCjmU2FZ_axTPFsN92BdsJGyzkC",
+    "https://downloadwella.com/mbhfzi3rjmzz/Little.Bird.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-F2drt-ozJVgU-fwsDZONvKZC5CJ_s-D"
   }
 }
