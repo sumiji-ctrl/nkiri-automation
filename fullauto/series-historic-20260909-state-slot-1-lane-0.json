@@ -1503,6 +1503,13 @@
       "modified": "2023-09-02T18:03:20",
       "completed_at": 1789277940,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/xo-kitty-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "89765|https://thenkiri.com/xo-kitty-s01-complete-tv-series/|2023-05-18T11:00:37|2023-09-02T18:00:53|{'rendered': 'XO, Kitty S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:00:53",
+      "completed_at": 1789279134,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2929,6 +2936,12 @@
     "https://downloadwella.com/3hgvtk17x13p/Little.Bird.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/02y8uApeiM32cyOpWlwQa2Cnu2YWsHQs",
     "https://downloadwella.com/9ho119vuccyx/Little.Bird.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6laVj_T_uT-Hj7D1CfPRJ19okW6a_OaJ",
     "https://downloadwella.com/b3xswt6kinbd/Little.Bird.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/85ozBcCjmU2FZ_axTPFsN92BdsJGyzkC",
-    "https://downloadwella.com/mbhfzi3rjmzz/Little.Bird.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-F2drt-ozJVgU-fwsDZONvKZC5CJ_s-D"
+    "https://downloadwella.com/mbhfzi3rjmzz/Little.Bird.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-F2drt-ozJVgU-fwsDZONvKZC5CJ_s-D",
+    "https://downloadwella.com/s9z0mh4frf2f/XO.Kitty.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NRPPYqkWtM0pfSv4gkdwbZzcPOJjDOEy",
+    "https://downloadwella.com/uxlq0z22f66n/XO.Kitty.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A_hJTQ1eZtQZDcWo1p9rDxy22P_EvdNG",
+    "https://downloadwella.com/idx7ki5t8lld/XO.Kitty.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ylhbUeHu97M3th30R908T3qgF3WVKKOX",
+    "https://downloadwella.com/715a98piden3/XO.Kitty.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TNZ6I7KRIShElCtgIzhg7BspUibqbY0P",
+    "https://downloadwella.com/l86tghqw9tz0/XO.Kitty.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dbNKMkRl6u9BCUaltXU5DRLy7yjSkbJK",
+    "https://downloadwella.com/dzzbkehoch6k/XO.Kitty.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lIHJDmS7Vpc_1fMiOBxoVDYAsXTQWjgB"
   }
 }
