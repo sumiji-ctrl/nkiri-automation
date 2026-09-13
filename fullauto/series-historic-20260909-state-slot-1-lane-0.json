@@ -1533,11 +1533,11 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/waco-the-aftermath-complete-tv-series/": {
-      "status": "skipped_error",
+      "status": "partial",
       "signature": "87006|https://thenkiri.com/waco-the-aftermath-complete-tv-series/|2023-04-14T08:16:27|2023-09-02T17:38:02|{'rendered': 'Waco: The Aftermath (Episode 5 Added) | TV Series'}",
       "modified": "2023-09-02T17:38:02",
-      "skipped_at": 1789288348,
-      "reason": "worker could not process source post"
+      "completed_at": 1789287595,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3001,9 +3001,23 @@
     "https://downloadwella.com/foyrmj3jod8b/Fatal.Attraction.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vUWLIeFnf-NFHaoirrr74gZgVxNEhQk4",
     "https://downloadwella.com/zsiek3vvwrxr": "https://v1.vidfiles.com/d/A6MRgPyTOmVLjYmlMNcJvx_sYV7lcoG8",
     "https://downloadwella.com/ipnl1ey45gj6/Amityville.An.Origin.Story.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rnm64YL-tTMXsWxK-q7bhaRPtaFuydly",
-    "https://downloadwella.com/bzq2e8anr84d/Waco.The.Aftermath.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z7Vr86ra88XlwZujA2bRJlucWr9FxrO3",
-    "https://downloadwella.com/nbjdjzaxd31r/Waco.the.aftermath.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5NHuQ_hGhuSFTV6RchX5xt9XOy46S41m",
+    "https://downloadwella.com/bzq2e8anr84d/Waco.The.Aftermath.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SRv-nSyv8f7R6ZYdAGQ69Wxs1uZ1JO4k",
+    "https://downloadwella.com/nbjdjzaxd31r/Waco.the.aftermath.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/icec-DpKQhBDla6uFWLVamA2RTkzTvwB",
     "https://downloadwella.com/ro0ujaaisim4/Waco.the.Aftermath.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/boIlCY1mLRq3R9NmUXfh3IZefzzZFLgp",
-    "https://downloadwella.com/dz1snlsng1gv/Waco.The.Aftermath.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KWYUDudqjNcbpVngZJCluxUUURqN4LwO"
+    "https://downloadwella.com/dz1snlsng1gv/Waco.The.Aftermath.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KWYUDudqjNcbpVngZJCluxUUURqN4LwO",
+    "https://downloadwella.com/hj1j1621hmou/The.Originals.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HqMpJcGYPV8ceP0dOb8iwLSbNcH3TPVv",
+    "https://downloadwella.com/binge5b4bl3r/The.Originals.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6da2kp6-1zVRTkIMvNeaKcoFhF8Kmfjw",
+    "https://downloadwella.com/bd5v4ydjbb7z/The.Originals.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4yPX-ngoIZd_9QJg0PioIIlrF_AGb3oG",
+    "https://downloadwella.com/0s876qv2o4p5/The.Originals.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Oe5cz0W2vtZVOT4pQEXS4mrE434Htjzy",
+    "https://downloadwella.com/l49lmzwke8a2/The.Originals.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MMYoYwZj1ZrIQV0MVDZxJRXLitpsEadZ",
+    "https://downloadwella.com/ea2isnhyrggv/The.Originals.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZwMHmCljexwoA_tAWVqbVGNSPXVpN3oi",
+    "https://downloadwella.com/zmhei2i99qzx/The.Originals.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sITmfNoFR9goObFr0UQ9aF873M_CS1sz",
+    "https://downloadwella.com/qtzdhqfklph4/The.Originals.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_GD0DtbNsuMOuqvkxwnINjG1snFHrreM",
+    "https://downloadwella.com/pa8zx3fi6cpw/The.Originals.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cklSWMmN5nPpQHgntH-E1xv1nYPBoQwa",
+    "https://downloadwella.com/oja3w94i5r97/The.Originals.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DCLTG32W8rUInHGFhCTYIY4Ojw_9JmkE",
+    "https://downloadwella.com/mhrim211g2kl/The.Originals.S03E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dWvgy3xldvPVEwwUGJlTMPxBpFbDAc2I",
+    "https://downloadwella.com/k5gqg9qna5zs/The.Originals.S03E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O9ICNNqLv1XUY-uZjxcPSRLLCtSobhLR",
+    "https://downloadwella.com/v15bkviikq4f/The.Originals.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DhA5zlAhtLuMRvIXocwdcfnhg_JhjWl6",
+    "https://downloadwella.com/no7rt5356y80/The.Originals.S03E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IjfUOKCdyTYEf4_ZTl_4TS0u-mXXMIk2"
   }
 }
