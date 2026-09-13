@@ -1555,6 +1555,13 @@
       "modified": "2023-12-21T12:03:50",
       "completed_at": 1789262967,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/copycat-killer-s01-complete-chinese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "85790|https://thenkiri.com/copycat-killer-s01-complete-chinese-drama/|2023-04-01T12:24:52|2023-09-02T17:32:37|{'rendered': 'Copycat Killer S01 (Complete) | Chinese Drama'}",
+      "modified": "2023-09-02T17:32:37",
+      "skipped_at": 1789263011,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
