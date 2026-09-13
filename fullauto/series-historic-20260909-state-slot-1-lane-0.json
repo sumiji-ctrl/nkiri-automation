@@ -1524,6 +1524,13 @@
       "modified": "2023-12-21T12:13:44",
       "completed_at": 1789286290,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/amityville-an-origin-story-complete-tv-series/": {
+      "status": "partial",
+      "signature": "87872|https://thenkiri.com/amityville-an-origin-story-complete-tv-series/|2023-04-24T10:56:10|2024-02-23T09:45:42|{'rendered': 'Amityville: An Origin Story (Complete) | TV Series'}",
+      "modified": "2024-02-23T09:45:42",
+      "completed_at": 1789287134,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2984,6 +2991,8 @@
     "https://downloadwella.com/8xa14b5pu5wh/Back.From.the.Brink.E40.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0fgaUiDjLcekXs_kDydcTmuDVf8tYbWj",
     "https://downloadwella.com/q9zlgzraq8qs/Fatal.Attraction.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_6ZK4ZTKOKSLhX92yNsIYuJq2xcdlGNl",
     "https://downloadwella.com/nljvsedfobc8/Fatal.Attraction.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xpcnGuR99CR17X88B52-yZFzdIU9bxN6",
-    "https://downloadwella.com/foyrmj3jod8b/Fatal.Attraction.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vUWLIeFnf-NFHaoirrr74gZgVxNEhQk4"
+    "https://downloadwella.com/foyrmj3jod8b/Fatal.Attraction.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vUWLIeFnf-NFHaoirrr74gZgVxNEhQk4",
+    "https://downloadwella.com/zsiek3vvwrxr": "https://v1.vidfiles.com/d/A6MRgPyTOmVLjYmlMNcJvx_sYV7lcoG8",
+    "https://downloadwella.com/ipnl1ey45gj6/Amityville.An.Origin.Story.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rnm64YL-tTMXsWxK-q7bhaRPtaFuydly"
   }
 }
