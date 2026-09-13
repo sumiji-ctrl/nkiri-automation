@@ -1531,6 +1531,13 @@
       "modified": "2024-02-23T09:45:42",
       "completed_at": 1789287134,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/waco-the-aftermath-complete-tv-series/": {
+      "status": "partial",
+      "signature": "87006|https://thenkiri.com/waco-the-aftermath-complete-tv-series/|2023-04-14T08:16:27|2023-09-02T17:38:02|{'rendered': 'Waco: The Aftermath (Episode 5 Added) | TV Series'}",
+      "modified": "2023-09-02T17:38:02",
+      "completed_at": 1789287595,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2993,6 +3000,8 @@
     "https://downloadwella.com/nljvsedfobc8/Fatal.Attraction.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xpcnGuR99CR17X88B52-yZFzdIU9bxN6",
     "https://downloadwella.com/foyrmj3jod8b/Fatal.Attraction.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vUWLIeFnf-NFHaoirrr74gZgVxNEhQk4",
     "https://downloadwella.com/zsiek3vvwrxr": "https://v1.vidfiles.com/d/A6MRgPyTOmVLjYmlMNcJvx_sYV7lcoG8",
-    "https://downloadwella.com/ipnl1ey45gj6/Amityville.An.Origin.Story.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rnm64YL-tTMXsWxK-q7bhaRPtaFuydly"
+    "https://downloadwella.com/ipnl1ey45gj6/Amityville.An.Origin.Story.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rnm64YL-tTMXsWxK-q7bhaRPtaFuydly",
+    "https://downloadwella.com/bzq2e8anr84d/Waco.The.Aftermath.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SRv-nSyv8f7R6ZYdAGQ69Wxs1uZ1JO4k",
+    "https://downloadwella.com/nbjdjzaxd31r/Waco.the.aftermath.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/icec-DpKQhBDla6uFWLVamA2RTkzTvwB"
   }
 }
