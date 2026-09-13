@@ -1482,6 +1482,13 @@
       "signature": "92519|https://thenkiri.com/tom-clancys-jack-ryan-s04-complete-tv-series/|2023-06-30T08:38:46|2023-09-02T17:11:35|{'rendered': 'Tom Clancy’s Jack Ryan S04 (Complete) | TV Series'}",
       "modified": "2023-09-02T17:11:35",
       "completed_at": 1789271098
+    },
+    "https://thenkiri.com/skull-island-complete-tv-series/": {
+      "status": "partial",
+      "signature": "92056|https://thenkiri.com/skull-island-complete-tv-series/|2023-06-22T12:51:06|2023-09-02T18:11:37|{'rendered': 'Skull Island (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:11:37",
+      "completed_at": 1789273832,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2888,6 +2895,12 @@
     "https://downloadwella.com/fbwiqhgiwzdz/Tom.Clancys.Jack.Ryan.S04E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/11kmBJi86TYwKh54VrcE3f90FVqr6frd",
     "https://downloadwella.com/5g6km8ym5ewq/Tom.Clancys.Jack.Ryan.S04E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jRf-oX337-IKhbgvQgKKbfoxg_UnqJHe",
     "https://downloadwella.com/pdonyk6g9lwr/Tom.Clancys.Jack.Ryan.S04E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qkhDWjQY4_HJDvF2cQLXis5uFdEUg2Js",
-    "https://downloadwella.com/9x505so4vhmd/Tom.Clancys.Jack.Ryan.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CtxFGXOZNJ-uxPKBqM55VGbfT-5pYM1O"
+    "https://downloadwella.com/9x505so4vhmd/Tom.Clancys.Jack.Ryan.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CtxFGXOZNJ-uxPKBqM55VGbfT-5pYM1O",
+    "https://downloadwella.com/02oxxh4lx58f/Skull.Island.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eHMx-0o5EIj6AfXBpx0Bzlpezhea7Pft",
+    "https://downloadwella.com/f48pfzwr2y3s/Skull.Island.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZeEfySGsnvjMFwBus8qtBnJPZEW5cUZG",
+    "https://downloadwella.com/cgm94mnbuwdi/Skull.Island.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-NRpH2Y1BCL5xdl4eyIMPH_o2lVgdh95",
+    "https://downloadwella.com/q0qub1lf8o06/Skull.Island.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bthih3EQtUiGQ8fgtg1EJPtprDUOb-A1",
+    "https://downloadwella.com/ni1cx1ehsq7l/Skull.Island.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W3ykcnT-66Vb0hrAjJJjnEPHUerT_h17",
+    "https://downloadwella.com/k3itv7l9fjat/Skull.Island.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ASdTQiRAOXjilQ7UtHY2e8BWsvksQyvE"
   }
 }
