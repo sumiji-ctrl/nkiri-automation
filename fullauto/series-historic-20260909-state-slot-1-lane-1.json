@@ -1562,6 +1562,13 @@
       "modified": "2023-09-02T17:32:37",
       "skipped_at": 1789263011,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/rabbit-hole-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "85286|https://thenkiri.com/rabbit-hole-s01-complete-tv-series/|2023-03-26T11:58:31|2024-02-25T01:35:00|{'rendered': 'Rabbit Hole S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-02-25T01:35:00",
+      "completed_at": 1789264058,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2949,6 +2956,12 @@
     "https://downloadwella.com/od5pnvb3qpdh/BEEF.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FNiN111slFCpJ_D6m0rTmPBTnyWMOABr",
     "https://downloadwella.com/4wwflb1slmf0/BEEF.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hPL7qdSnjcA38BjcgV-ZvOhlh_2Ujz1L",
     "https://downloadwella.com/bph1gnhlt96d/BEEF.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zwC7PbZoesBpF5kcfMdnp9MzgJ2RNVG-",
-    "https://downloadwella.com/vfakx6k13x2i/BEEF.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Af8welcNFe1MVZjB3uU8Rzaq-A34NNu"
+    "https://downloadwella.com/vfakx6k13x2i/BEEF.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Af8welcNFe1MVZjB3uU8Rzaq-A34NNu",
+    "https://downloadwella.com/gydgf02zwmr5/Rabbit.Hole.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P6vr3eiYPFAjKpjH1nUIA2qK_8-ybw13",
+    "https://downloadwella.com/l0vz3nqghz1f/Rabbit.Hole.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gX4FeWZALD46lS8DxwdAhTAuI5F3wqCz",
+    "https://downloadwella.com/5yvpris44alh/Rabbit.Hole.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OhfLJQnpdWeecncfMp3oe21qdRfsaCok",
+    "https://downloadwella.com/47u9mfwlyqt9/Rabbit.Hole.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5XqZn5ZD5L0ZFmONYhvaCJHJnqN6_Lbj",
+    "https://downloadwella.com/tyyjvy2oolam/Rabbit.Hole.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qYUJQyCJEWAaC1UaeYJ35mEsmCS4xvQP",
+    "https://downloadwella.com/fehggsrtnwpz/Rabbit.Hole.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bSMTm1BXKZYT2CuUz4NqYgob3s4kUVBQ"
   }
 }
