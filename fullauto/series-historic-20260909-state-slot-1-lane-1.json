@@ -1548,6 +1548,13 @@
       "modified": "2023-09-02T17:38:23",
       "completed_at": 1789257107,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/beef-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "86340|https://thenkiri.com/beef-s01-complete-tv-series/|2023-04-06T13:27:52|2023-12-21T12:03:50|{'rendered': 'Beef S01 (Complete) | TV Series'}",
+      "modified": "2023-12-21T12:03:50",
+      "completed_at": 1789260080,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2925,6 +2932,14 @@
     "https://downloadwella.com/58lzhf58vqje/The.Boss.Baby.Back.in.the.Crib.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d1OpqyNhLBBu7cqxFlWCXudQofBGtcQn",
     "https://downloadwella.com/asfvea2islb2/The.Boss.Baby.Back.in.the.Crib.S02E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Pbh2Qt36gEgpu2qN24Y1F9_d56LsuB3q",
     "https://downloadwella.com/tgntskks6d12/The.Boss.Baby.Back.in.the.Crib.S02E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pMtw_94aDlDT2DvG2EqWgwUVTXR-CBDg",
-    "https://downloadwella.com/svj3xj7d5tl4/The.Boss.Baby.Back.in.the.Crib.S02E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kzPJmm60TuVewwmWKzkTMNTkIM2MMvMu"
+    "https://downloadwella.com/svj3xj7d5tl4/The.Boss.Baby.Back.in.the.Crib.S02E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kzPJmm60TuVewwmWKzkTMNTkIM2MMvMu",
+    "https://downloadwella.com/m64ktuccszh2/BEEF.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lja0Y4zUBPhDaTKHuPetZijg2r4yyRkI",
+    "https://downloadwella.com/3hco55zlo850/BEEF.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dGKDwYJbQepftss4knegRRzovlA8BlH1",
+    "https://downloadwella.com/7egj6iw34ud5/BEEF.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/46YcC9l5Oupc4cTwASQ44j2Pa9jEFtRe",
+    "https://downloadwella.com/g871792blaqp/BEEF.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cPVPj9Z5xGzsD0BMEI99PG67yqPt0jyp",
+    "https://downloadwella.com/074hjql2oktg/BEEF.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fzpe701s12kgSNSitplnDYqXCjbrZBc-",
+    "https://downloadwella.com/j3k0nzu4cbuo/BEEF.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fs88GeqXQyIKZP3z8F3IEzsDuhBYz7Ae",
+    "https://downloadwella.com/od5pnvb3qpdh/BEEF.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3jxfvrEbFFJuc7QOyeSRE8vktHmnHtRv",
+    "https://downloadwella.com/4wwflb1slmf0/BEEF.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qjy2Uc_eYEGudo-TDa-aJ9Hv5nSw9LA-"
   }
 }
