@@ -1569,6 +1569,13 @@
       "modified": "2024-02-25T01:35:00",
       "completed_at": 1789264058,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/rain-dogs-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "84436|https://thenkiri.com/rain-dogs-s01-complete-tv-series/|2023-03-14T12:20:25|2023-09-02T17:22:48|{'rendered': 'Rain Dogs S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-09-02T17:22:48",
+      "completed_at": 1789264407,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2962,6 +2969,8 @@
     "https://downloadwella.com/5yvpris44alh/Rabbit.Hole.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OhfLJQnpdWeecncfMp3oe21qdRfsaCok",
     "https://downloadwella.com/47u9mfwlyqt9/Rabbit.Hole.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5XqZn5ZD5L0ZFmONYhvaCJHJnqN6_Lbj",
     "https://downloadwella.com/tyyjvy2oolam/Rabbit.Hole.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qYUJQyCJEWAaC1UaeYJ35mEsmCS4xvQP",
-    "https://downloadwella.com/fehggsrtnwpz/Rabbit.Hole.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bSMTm1BXKZYT2CuUz4NqYgob3s4kUVBQ"
+    "https://downloadwella.com/fehggsrtnwpz/Rabbit.Hole.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bSMTm1BXKZYT2CuUz4NqYgob3s4kUVBQ",
+    "https://downloadwella.com/l34uu70r7m86/Rain.Dogs.(NKIRI.COM).S01E03.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/v9wEzrvhrpp60AlIZJBi5HlEpBlrrjC6",
+    "https://downloadwella.com/aj2mbbvgwktl/Rain.Dogs.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q38phi3qxg6yCDZx9GEvFvqP6iAMr0l9"
   }
 }
