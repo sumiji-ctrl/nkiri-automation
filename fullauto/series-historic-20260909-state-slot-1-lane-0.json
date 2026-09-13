@@ -1489,6 +1489,13 @@
       "modified": "2023-09-02T18:11:37",
       "completed_at": 1789273832,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/year-of-complete-tv-series/": {
+      "status": "partial",
+      "signature": "91277|https://thenkiri.com/year-of-complete-tv-series/|2023-06-10T10:34:26|2023-09-02T18:09:19|{'rendered': 'Year Of (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:09:19",
+      "completed_at": 1789276629,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2901,6 +2908,15 @@
     "https://downloadwella.com/cgm94mnbuwdi/Skull.Island.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-NRpH2Y1BCL5xdl4eyIMPH_o2lVgdh95",
     "https://downloadwella.com/q0qub1lf8o06/Skull.Island.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bthih3EQtUiGQ8fgtg1EJPtprDUOb-A1",
     "https://downloadwella.com/ni1cx1ehsq7l/Skull.Island.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W3ykcnT-66Vb0hrAjJJjnEPHUerT_h17",
-    "https://downloadwella.com/k3itv7l9fjat/Skull.Island.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ASdTQiRAOXjilQ7UtHY2e8BWsvksQyvE"
+    "https://downloadwella.com/k3itv7l9fjat/Skull.Island.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ASdTQiRAOXjilQ7UtHY2e8BWsvksQyvE",
+    "https://downloadwella.com/56ukdwyzkywc/Year.Of.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dg9J7dl6P7FDDHAaycEfY7OdqSHXfIrI",
+    "https://downloadwella.com/i7mwnce22y41/Year.Of.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Xu1kDigW_4HL5a6NafjATN5BQC8_eRN8",
+    "https://downloadwella.com/y1wks2wjdafc/Year.Of.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ryQxCeWKRlMxSjFOCnhzRAIfkEoqJHI1",
+    "https://downloadwella.com/zfaknci8nwq7/Year.Of.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kNuPjvjriJd4FJ5w7oPekezw68RGI6Ks",
+    "https://downloadwella.com/bbp1sxm625fo/Year.Of.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lCNPi7IKj0OuvTnhEIkN2q3RgZZESk9-",
+    "https://downloadwella.com/6rwx6urvax4g/Year.Of.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/88RshjbIL_0U_W3e8x4QhV1BbYQUq-0L",
+    "https://downloadwella.com/x5isbicgyz5q/Year.Of.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kRVGY0U6CX4QdRivx7IRgT22weufIViI",
+    "https://downloadwella.com/1qinriugcqh5/Year.Of.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QSOC9xZ8Kk08jl7GJHcknHHn48diCMa-",
+    "https://downloadwella.com/j0jf8pq40y0w/Year.Of.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Qol7w5ofsvvbvnX2DZlv28Sf40T1UROi"
   }
 }
