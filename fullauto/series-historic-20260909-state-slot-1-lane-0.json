@@ -1905,6 +1905,13 @@
       "modified": "2023-09-02T13:10:50",
       "skipped_at": 1789473422,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-wheel-of-time-s01-episodes-1-2-3-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32286|https://thenkiri.com/the-wheel-of-time-s01-episodes-1-2-3-added-tv-series/|2021-11-20T10:15:17|2023-09-02T11:03:01|{'rendered': 'The Wheel of Time S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-09-02T11:03:01",
+      "skipped_at": 1789473540,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
