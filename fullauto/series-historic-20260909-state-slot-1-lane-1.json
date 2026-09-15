@@ -1912,6 +1912,13 @@
       "signature": "34469|https://thenkiri.com/vikings-s01-and-s02-complete-tv-series/|2022-01-03T13:54:11|2024-02-24T10:33:43|{'rendered': 'Vikings S01 and S02 ( Complete ) | TV Series'}",
       "modified": "2024-02-24T10:33:43",
       "completed_at": 1789459247
+    },
+    "https://thenkiri.com/invasion-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34136|https://thenkiri.com/invasion-s01-complete-tv-series/|2021-12-28T09:08:37|2023-09-02T13:15:08|{'rendered': 'Invasion S01 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T13:15:08",
+      "skipped_at": 1789459368,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
