@@ -1668,6 +1668,13 @@
       "signature": "73725|https://thenkiri.com/wednesday-complete-tv-series/|2022-11-23T19:35:45|2023-09-02T13:44:40|{'rendered': 'Wednesday (Complete)  | TV Series'}",
       "modified": "2023-09-02T13:44:40",
       "completed_at": 1789458976
+    },
+    "https://thenkiri.com/1899-complete-tv-series/": {
+      "status": "partial",
+      "signature": "73173|https://thenkiri.com/1899-complete-tv-series/|2022-11-17T19:06:35|2024-02-23T15:25:18|{'rendered': '1899 (Complete) | TV Series'}",
+      "modified": "2024-02-23T15:25:18",
+      "completed_at": 1789459276,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3386,6 +3393,12 @@
     "https://downloadwella.com/gb455hucn38t/Wednesday.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/baR03BoiLK1ukY5YQrHi6u4mDwQzRZdV",
     "https://downloadwella.com/n7309rdp7bw9/Wednesday.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jTwo5p5ldaCQp5C39vURU5SyLwde24s8",
     "https://downloadwella.com/sljgsksjermg/Wednesday.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CEeeBY14MG-IJ2PbS5tkOKgqVsxRujqP",
-    "https://downloadwella.com/i1nafyab1eji/Wednesday.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pRgjJqH71rN67ELhUpi0AlOhGxM-Tbtv"
+    "https://downloadwella.com/i1nafyab1eji/Wednesday.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pRgjJqH71rN67ELhUpi0AlOhGxM-Tbtv",
+    "https://downloadwella.com/yvgmjosxafre/1899.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/av79nMpuzuNIkQmyj4bA0g9GD8fOyBaB",
+    "https://downloadwella.com/9jcj45navvh7/1899.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gPTjLXlZQerSTzfw53NLiqN1WaDX_AUv",
+    "https://downloadwella.com/b3gqkd8s10v4/1899.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qRr5aglvkX-gJDVLQaN0PSYjFLwuggHw",
+    "https://downloadwella.com/qfpxox194x26/1899.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WAGOMhp3E6BfyaXm-T25IB8f5QRLWNC-",
+    "https://downloadwella.com/0n9nzsn9929p/1899.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RZaJ6-37_Feu5j5vEXyRnrdqZoL7wHPi",
+    "https://downloadwella.com/y5eqdfzd2rbv/1899.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LR03tzu5g2MvQTdoLCYhKv_Cr6rrabPe"
   }
 }
