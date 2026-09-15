@@ -1687,6 +1687,13 @@
       "signature": "70542|https://thenkiri.com/young-rock-s03-complete-tv-series/|2022-11-05T09:17:10|2024-02-24T20:06:33|{'rendered': 'Young Rock S03 (Episode 13 Added) | TV Series'}",
       "modified": "2024-02-24T20:06:33",
       "completed_at": 1789460621
+    },
+    "https://thenkiri.com/guillermo-del-toros-cabinet-of-curiosities-complete-tv-series/": {
+      "status": "partial",
+      "signature": "69289|https://thenkiri.com/guillermo-del-toros-cabinet-of-curiosities-complete-tv-series/|2022-10-26T09:14:21|2023-09-02T16:24:57|{'rendered': 'Guillermo del Toro’s Cabinet of Curiosities (Complete) | TV Series'}",
+      "modified": "2023-09-02T16:24:57",
+      "completed_at": 1789460877,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3434,6 +3441,8 @@
     "https://downloadwella.com/xvyghl66l4qx/Young.Rock.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0Xl1RRLwfPo227AKF1803EsUAUavNhrA",
     "https://downloadwella.com/5jbq7j005b6t/Young.Rock.S03E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lGlVwiSIL6ptp-FoQN94LvP_wEdufFxJ",
     "https://downloadwella.com/baotysu7jqbu/Young.Rock.S03E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7IB3J7J5vLk82eMPl6DSa5_Ca7WtDDJP",
-    "https://downloadwella.com/mscwmv0p8vot/Young.Rock.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6jqa92250H25lJJ41CClDyM3niZFqvP8"
+    "https://downloadwella.com/mscwmv0p8vot/Young.Rock.S03E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6jqa92250H25lJJ41CClDyM3niZFqvP8",
+    "https://downloadwella.com/gsy6ilos5hwf/Guillermo.del.toros.cabinet.of.curiosities.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jrA9oJidSfY86m4xneNYp0ohGbSVT2Fm",
+    "https://downloadwella.com/icesqj9xydbq/Guillermo.del.toros.cabinet.of.curiosities.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LKtwk8UqIY8LsDxp4QfUUstLAIS8Uf_5"
   }
 }
