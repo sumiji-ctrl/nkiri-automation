@@ -1959,6 +1959,13 @@
       "signature": "18869|https://thenkiri.com/bob-hearts-abishola-s02-complete-tv-series/|2021-07-15T10:52:29|2023-09-02T09:33:36|{'rendered': 'Bob Hearts Abishola S02 (Complete) | TV Series'}",
       "modified": "2023-09-02T09:33:36",
       "completed_at": 1789475380
+    },
+    "https://thenkiri.com/elite-s03-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "18006|https://thenkiri.com/elite-s03-s04-complete-tv-series/|2021-06-24T07:45:18|2023-09-02T09:25:51|{'rendered': 'Elite S03 & S04 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:25:51",
+      "skipped_at": 1789475421,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
