@@ -1992,6 +1992,13 @@
       "signature": "15966|https://thenkiri.com/made-for-love-s01-complete-tv-series/|2021-05-08T08:16:04|2023-09-02T09:10:14|{'rendered': 'Made For Love S01 ( Complete )  | TV Series'}",
       "modified": "2023-09-02T09:10:14",
       "completed_at": 1789462857
+    },
+    "https://thenkiri.com/godfather-of-harlem-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "15392|https://thenkiri.com/godfather-of-harlem-s01-complete-tv-series/|2021-04-21T13:04:53|2023-09-02T09:02:29|{'rendered': 'Godfather of Harlem S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T09:02:29",
+      "skipped_at": 1789462914,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
