@@ -1912,6 +1912,13 @@
       "modified": "2023-09-02T11:03:01",
       "skipped_at": 1789473540,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/titans-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "31655|https://thenkiri.com/titans-s03-complete-tv-series/|2021-11-08T11:19:00|2023-09-02T10:58:26|{'rendered': 'Titans S03 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T10:58:26",
+      "skipped_at": 1789473667,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
