@@ -2020,6 +2020,13 @@
       "modified": "2023-09-02T08:50:36",
       "skipped_at": 1789463056,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/betaal-indian-series/": {
+      "status": "skipped_unavailable",
+      "signature": "5418|https://thenkiri.com/betaal-indian-series/|2020-06-03T13:47:59|2023-09-02T07:30:35|{'rendered': 'Betaal (480p Complete) | Indian Series'}",
+      "modified": "2023-09-02T07:30:35",
+      "skipped_at": 1789463099,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
