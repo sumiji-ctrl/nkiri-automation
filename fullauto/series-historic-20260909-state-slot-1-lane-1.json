@@ -1774,6 +1774,13 @@
       "modified": "2023-09-02T14:52:00",
       "completed_at": 1789455583,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/joe-pickett-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46728|https://thenkiri.com/joe-pickett-s01-complete-tv-series/|2022-07-20T10:50:50|2023-09-02T14:46:52|{'rendered': 'Joe Pickett S01 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T14:46:52",
+      "skipped_at": 1789455647,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
