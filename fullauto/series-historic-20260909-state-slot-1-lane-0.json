@@ -1570,6 +1570,13 @@
       "signature": "83496|https://thenkiri.com/the-mandalorian-s03-complete-tv-series/|2023-03-01T14:11:06|2024-02-26T19:33:01|{'rendered': 'The Mandalorian S03 (Episode 8 Added) | TV Series'}",
       "modified": "2024-02-26T19:33:01",
       "completed_at": 1789449590
+    },
+    "https://thenkiri.com/hello-tomorrow-complete-tv-series/": {
+      "status": "partial",
+      "signature": "82592|https://thenkiri.com/hello-tomorrow-complete-tv-series/|2023-02-18T10:15:46|2023-09-02T17:14:34|{'rendered': 'Hello Tomorrow! (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T17:14:34",
+      "completed_at": 1789449744,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3098,6 +3105,9 @@
     "https://downloadwella.com/gu1qenhovkdv/The.Mandalorian.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U9kJwrMj77XqnYvm5qq5rHN6nOViJsjw",
     "https://downloadwella.com/0877hmvz0mp7/The.Mandalorian.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ynp2NHuQfFfzgKY7XxvFevjqf3DvdtKG",
     "https://downloadwella.com/lzqxkkit8wsy/The.Mandalorian.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xHCeh9RO8sqYFL9oE8C6E8UBpvNjE4uN",
-    "https://downloadwella.com/4gtr0c3klbcp/The.Mandalorian.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RwaslM4BDUj-hcTMh0dyp9faiCt4dtmk"
+    "https://downloadwella.com/4gtr0c3klbcp/The.Mandalorian.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RwaslM4BDUj-hcTMh0dyp9faiCt4dtmk",
+    "https://downloadwella.com/yn75op4m3h0a/Hello.Tomorrow.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f-2M9rRoKHV2ZWN-kgYo98CO30CD6kMW",
+    "https://downloadwella.com/6yocniu01kmo/Hello.Tomorrow.(NKIRI.COM).S01E07.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/xOaNz0asdt-aZODAbOhP4Fs1jgZdJ1Gt",
+    "https://downloadwella.com/5u6n30h0197v/Hello.Tomorrow.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QrUF7o05drQMjmf-YdSe02RT4IlXJABg"
   }
 }
