@@ -1851,6 +1851,13 @@
       "modified": "2023-09-02T13:45:55",
       "skipped_at": 1789456188,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/roar-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39741|https://thenkiri.com/roar-s01-complete-tv-series/|2022-04-16T07:40:37|2023-09-02T13:40:55|{'rendered': 'Roar S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:40:55",
+      "skipped_at": 1789456268,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
