@@ -1817,6 +1817,13 @@
       "signature": "42166|https://thenkiri.com/the-last-kingdom-s03-s04-s05-complete-tv-series/|2022-05-16T13:02:24|2023-09-02T13:57:43|{'rendered': 'The Last Kingdom S03 S04 & S05 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:57:43",
       "completed_at": 1789469665
+    },
+    "https://thenkiri.com/the-endgame-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "41366|https://thenkiri.com/the-endgame-s01-complete-tv-series/|2022-05-05T04:16:17|2023-09-02T13:53:17|{'rendered': 'The Endgame S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:53:17",
+      "skipped_at": 1789469722,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
