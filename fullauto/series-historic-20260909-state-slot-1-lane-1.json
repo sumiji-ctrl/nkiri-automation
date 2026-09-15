@@ -1637,6 +1637,13 @@
       "signature": "79121|https://thenkiri.com/bmf-s02-complete-tv-series/|2023-01-06T07:48:42|2023-12-17T06:54:02|{'rendered': 'BMF S02 (Episode 10 Added) | TV Series'}",
       "modified": "2023-12-17T06:54:02",
       "completed_at": 1789291422
+    },
+    "https://thenkiri.com/the-walking-dead-s10-complete-tv-series/": {
+      "status": "partial",
+      "signature": "78665|https://thenkiri.com/the-walking-dead-s10-complete-tv-series/|2023-01-02T11:53:25|2023-09-02T14:28:33|{'rendered': 'The Walking Dead S10 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T14:28:33",
+      "completed_at": 1789448212,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3109,6 +3116,25 @@
     "https://downloadwella.com/fsu4pcqlz4zy/BMF.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iDaetj-xpDjfOnH3ZQdYYio3l9zgzk02",
     "https://downloadwella.com/owp9u9z2r02v/BMF.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pUnote_sxBtqiNYof2JxkndQYXUA4f__",
     "https://downloadwella.com/7qlolwrgzxh4/BMF.(NKIRI.COM).S02E10.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/hJA1m7yEQWVja8gz8DDClBuT1cMUGf80",
-    "https://downloadwella.com/4g68c6vei313/The.Walking.Dead.S10E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8AI3lj0Ay0BA5U7sr3y8A85ILsCqedTE"
+    "https://downloadwella.com/4g68c6vei313/The.Walking.Dead.S10E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8AI3lj0Ay0BA5U7sr3y8A85ILsCqedTE",
+    "https://downloadwella.com/cis0oys09ij2/The.Walking.Dead.S10E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aE0aqQceurxLqdstmQ0MkTfAh76XM-uW",
+    "https://downloadwella.com/7dtv6v55pnax/The.Walking.Dead.S10E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N98BapaKGAEMAkQ7xzDlXfiNBXtgvYr0",
+    "https://downloadwella.com/39ucywde0sjh/The.Walking.Dead.S10E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j8319s4mThwUtjYNsudJHGqQOQFWrQTn",
+    "https://downloadwella.com/dbym563z0lbn/The.Walking.Dead.S10E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b58Ccn4LB94Zhf5skeCTx2rkY1s9cpx3",
+    "https://downloadwella.com/qb8a3kaqk44l/The.Walking.Dead.S10E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ctTrcdthEyznnH84g9wjsL05xQsn9C5z",
+    "https://downloadwella.com/vtfmhgpezh9h/The.Walking.Dead.S10E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B7qUJGkX5V1QcEwgAvWmTIIiSbqwkFDh",
+    "https://downloadwella.com/8j3uxagpf7yn/The.Walking.Dead.S10E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AT8A3BJi9WFlqqKQddjFgQFWhe4-uAGb",
+    "https://downloadwella.com/5wylwxsbngx5/The.Walking.Dead.S10E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rj7gkNe_90DW_RpjuHR_-Bx2zgPa6_QW",
+    "https://downloadwella.com/gmta75hhniwm/The.Walking.Dead.S10E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nBhvmrl5x93-02bq0ein8ibHv38TMvVD",
+    "https://downloadwella.com/t7kqjef6n11c/The.Walking.Dead.S10E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RPzfeCsesR8jrn1bW3y5U7zzhd2aq3UF",
+    "https://downloadwella.com/td26xjcimfcz/The.Walking.Dead.S10E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/scS615lYkIN3xdKz0F-9RtAKhvRoUN8j",
+    "https://downloadwella.com/s4slq4su0b0x/The.Walking.Dead.S10E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oppMAnu5MjuKsOnaVYUpYx77c6DDmAdU",
+    "https://downloadwella.com/j9w1unpqyctj/The.Walking.Dead.S10E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Prl6JY6RO_ntFW15AJNCWeYAi6w58X-g",
+    "https://downloadwella.com/xne24n073j56/The.Walking.Dead.S10E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5nUUkeWzb6PJ5VZ00F9A1g87_AJbYwd7",
+    "https://downloadwella.com/3t5ezwaj96gz/The.Walking.Dead.S10E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/50xIQcn1Ja_8kMCf0JpY9p8nNwe48Ip9",
+    "https://downloadwella.com/4o8luap0nke3/The.Walking.Dead.S10E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ed5FyyvtZx774HpSrTtVM9Em2i4UcEt0",
+    "https://downloadwella.com/t503cdwli2ep/The.Walking.Dead.S10E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CHZMMV8BN2WGq1ONJJ7UVqBMQnhbPyhH",
+    "https://downloadwella.com/qcpzrleyh3et/The.Walking.Dead.S10E21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uZq6hYp_Nisc--Z8KqByhI0dFab1lmiP",
+    "https://downloadwella.com/mfr35wx0flbm/The.Walking.Dead.S10E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v5eGkXf5uX8_gF4_ZHkB3SX0S5VWUDDr"
   }
 }
