@@ -1878,6 +1878,13 @@
       "signature": "37402|https://thenkiri.com/breaking-bad-s03-and-s04-complete-tv-series/|2022-03-03T13:20:38|2023-06-14T11:09:55|{'rendered': 'Breaking Bad S03 and S04 (Complete) | TV Series'}",
       "modified": "2023-06-14T11:09:55",
       "completed_at": 1789458021
+    },
+    "https://thenkiri.com/inventing-anna-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "36514|https://thenkiri.com/inventing-anna-s01-complete-tv-series/|2022-02-12T14:50:30|2023-09-02T13:39:53|{'rendered': 'Inventing Anna S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:39:53",
+      "skipped_at": 1789458113,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
