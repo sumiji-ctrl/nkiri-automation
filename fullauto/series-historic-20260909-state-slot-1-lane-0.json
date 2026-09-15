@@ -1940,6 +1940,13 @@
       "modified": "2023-09-02T10:05:30",
       "skipped_at": 1789473964,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/money-heist-s05-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "28930|https://thenkiri.com/money-heist-s05-complete-tv-series/|2021-09-03T11:42:14|2023-09-02T09:44:09|{'rendered': 'Money Heist S05 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:44:09",
+      "skipped_at": 1789474059,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
