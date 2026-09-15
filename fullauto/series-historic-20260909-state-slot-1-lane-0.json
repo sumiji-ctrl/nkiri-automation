@@ -1993,6 +1993,13 @@
       "signature": "14353|https://thenkiri.com/snowpiercer-s02-complete-tv-series/|2021-03-29T13:26:12|2023-09-02T08:49:58|{'rendered': 'Snowpiercer S02 (Compete) | TV Series'}",
       "modified": "2023-09-02T08:49:58",
       "completed_at": 1789475990
+    },
+    "https://thenkiri.com/warrior-nun-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14303|https://thenkiri.com/warrior-nun-s01-complete-tv-series/|2021-03-29T13:19:35|2023-09-02T08:50:20|{'rendered': 'Warrior Nun S01 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T08:50:20",
+      "skipped_at": 1789476034,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
