@@ -1972,6 +1972,13 @@
       "signature": "19017|https://thenkiri.com/grown-ish-s01-complete-tv-series/|2021-07-19T10:08:13|2024-02-24T16:07:50|{'rendered': 'Grown-ish S01 (Complete) | TV Series'}",
       "modified": "2024-02-24T16:07:50",
       "completed_at": 1789462378
+    },
+    "https://thenkiri.com/chernobyl-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "18472|https://thenkiri.com/chernobyl-s01-complete-tv-series/|2021-07-06T17:03:32|2023-09-02T09:31:17|{'rendered': 'Chernobyl S01 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T09:31:17",
+      "skipped_at": 1789462437,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
