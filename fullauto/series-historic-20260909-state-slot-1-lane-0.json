@@ -1824,6 +1824,13 @@
       "modified": "2023-09-02T13:53:17",
       "skipped_at": 1789469722,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/heartstopper-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "40553|https://thenkiri.com/heartstopper-s01-complete-tv-series/|2022-04-25T07:54:09|2023-09-02T13:48:39|{'rendered': 'Heartstopper S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:48:39",
+      "skipped_at": 1789469903,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
