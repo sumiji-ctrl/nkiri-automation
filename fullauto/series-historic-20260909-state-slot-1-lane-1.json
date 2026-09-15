@@ -1746,6 +1746,13 @@
       "signature": "65114|https://thenkiri.com/the-imperfects-s01-complete-tv-series/|2022-09-12T04:59:14|2023-09-02T15:31:05|{'rendered': 'The Imperfects S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T15:31:05",
       "completed_at": 1789454673
+    },
+    "https://thenkiri.com/the-lord-of-the-rings-the-rings-of-power-s01-tv-series/": {
+      "status": "partial",
+      "signature": "64160|https://thenkiri.com/the-lord-of-the-rings-the-rings-of-power-s01-tv-series/|2022-09-02T08:05:47|2023-09-02T15:20:05|{'rendered': 'The Lord of the Rings: The Rings of Power S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:20:05",
+      "completed_at": 1789455069,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3386,6 +3393,13 @@
     "https://downloadwella.com/ne66tz4p56vz/The.Imperfects.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P7QPSRVxILYvXanjLPJt2JYMotK1h7Hp",
     "https://downloadwella.com/2monpntiy9ij/The.Imperfects.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RkpkkOMUIe6etu4YW6Fd5GBiion0NuaL",
     "https://downloadwella.com/jmtfsx0t6a7l/The.Imperfects.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VaQkDDlriFyVWvL7xx5Uf-9H7ETa0C3C",
-    "https://downloadwella.com/chtepn9e4u03/The.Imperfects.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NnvqbSizP3mTs0kF8fCONVY8SvaOltns"
+    "https://downloadwella.com/chtepn9e4u03/The.Imperfects.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NnvqbSizP3mTs0kF8fCONVY8SvaOltns",
+    "https://downloadwella.com/jcl5oiax109r/The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/Z-4gkSb1YqpgjG1YUSr2wMDWdxxRJjAa",
+    "https://downloadwella.com/crf28dvdpb0i/The.Lord.of.the.Rings.The.Rings.of.Power.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qG4Vaot_6niDOc3SmK6_h9hXhGsjvLgA",
+    "https://downloadwella.com/ul1xkjkkxz38/The.Lord.of.the.Rings.The.Rings.of.Power.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eNDS1iNAsB_In63wIhTewia2V02_gMIW",
+    "https://downloadwella.com/5pt040yul465/The.Lord.of.the.Rings.the.Rings.of.Power.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eIjwEidIvgOOhA0qG_glVHMz81hI7HK8",
+    "https://downloadwella.com/ja44x924ky3z/The.Lord.of.the.Rings.The.Rings.of.Power.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kZvNYcgRW17uq9UpZtqP_bNmRNrCwEK8",
+    "https://downloadwella.com/dpo1nkxe5ke4/The.Lord.of.the.Rings.The.Rings.of.Power.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fiql8x3Dp5f0Weg-i8_noXUAt3aaiZ_5",
+    "https://downloadwella.com/5th17slget06/The.Lord.of.the.Rings.the.Rings.of.Power.S01E08.(NKIRI.COM).D.mkv.html": "https://v1.vidfiles.com/d/kOtE9mhWpYk_Aqtf5mrl26_-RnenQNON"
   }
 }
