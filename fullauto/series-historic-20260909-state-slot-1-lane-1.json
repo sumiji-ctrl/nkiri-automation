@@ -1933,6 +1933,13 @@
       "modified": "2023-09-02T11:01:11",
       "skipped_at": 1789459627,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/inside-job-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30983|https://thenkiri.com/inside-job-s01-complete-tv-series/|2021-10-22T17:12:27|2023-09-02T10:50:37|{'rendered': 'Inside Job S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T10:50:37",
+      "skipped_at": 1789459710,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
