@@ -1947,6 +1947,13 @@
       "modified": "2023-09-02T10:15:46",
       "skipped_at": 1789459914,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-good-doctor-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30505|https://thenkiri.com/the-good-doctor-s04-complete-tv-series/|2021-10-13T12:17:25|2023-09-02T10:13:23|{'rendered': 'The Good Doctor S04 (Complete) | TV Series'}",
+      "modified": "2023-09-02T10:13:23",
+      "skipped_at": 1789460104,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
