@@ -1892,6 +1892,13 @@
       "modified": "2023-09-02T13:38:26",
       "skipped_at": 1789458158,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/supernatural-academy-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "35398|https://thenkiri.com/supernatural-academy-s01-complete-tv-series/|2022-01-21T18:03:33|2023-09-02T13:27:57|{'rendered': 'Single Drunk Female S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T13:27:57",
+      "skipped_at": 1789458240,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
