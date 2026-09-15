@@ -1607,6 +1607,13 @@
       "signature": "80215|https://thenkiri.com/how-i-met-your-father-s02-complete-tv-series/|2023-01-24T09:05:46|2023-12-26T10:17:05|{'rendered': 'How I Met Your Father S02 (Episode 19 Added) | TV Series'}",
       "modified": "2023-12-26T10:17:05",
       "completed_at": 1789453520
+    },
+    "https://thenkiri.com/that-90s-show-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "79810|https://thenkiri.com/that-90s-show-s01-complete-tv-series/|2023-01-20T13:43:23|2023-12-17T12:34:46|{'rendered': 'That 90s Show S01 (Complete) | TV Series'}",
+      "modified": "2023-12-17T12:34:46",
+      "skipped_at": 1789453629,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
