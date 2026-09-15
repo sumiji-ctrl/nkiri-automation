@@ -2000,6 +2000,13 @@
       "modified": "2023-09-02T08:50:20",
       "skipped_at": 1789476034,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-boys-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14229|https://thenkiri.com/the-boys-s01-complete-tv-series/|2021-03-29T13:10:54|2023-09-02T08:50:49|{'rendered': 'The Boys S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:50:49",
+      "skipped_at": 1789476070,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
