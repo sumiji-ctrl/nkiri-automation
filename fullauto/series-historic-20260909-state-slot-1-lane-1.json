@@ -1858,6 +1858,13 @@
       "modified": "2023-09-02T13:40:55",
       "skipped_at": 1789456268,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-croods-family-tree-s01-and-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39169|https://thenkiri.com/the-croods-family-tree-s01-and-s02-complete-tv-series/|2022-04-06T07:33:02|2023-09-02T13:35:57|{'rendered': 'The Croods Family Tree S01 and S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:35:57",
+      "skipped_at": 1789456400,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
