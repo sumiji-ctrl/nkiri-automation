@@ -1844,6 +1844,13 @@
       "modified": "2023-09-02T13:51:08",
       "skipped_at": 1789456115,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/life-after-life-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "40202|https://thenkiri.com/life-after-life-s01-complete-tv-series/|2022-04-22T08:01:56|2023-09-02T13:45:55|{'rendered': 'Life After Life S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:45:55",
+      "skipped_at": 1789456188,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
