@@ -1823,6 +1823,13 @@
       "modified": "2023-09-02T14:05:17",
       "skipped_at": 1789456002,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/night-sky-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "42549|https://thenkiri.com/night-sky-s01-complete-tv-series/|2022-05-20T19:37:09|2023-09-02T13:59:56|{'rendered': 'Night Sky S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:59:56",
+      "skipped_at": 1789456040,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
