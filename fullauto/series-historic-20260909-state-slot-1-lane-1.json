@@ -1926,6 +1926,13 @@
       "modified": "2023-09-02T13:05:36",
       "skipped_at": 1789459555,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-shrink-next-door-episode-1-2-and-3-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "31881|https://thenkiri.com/the-shrink-next-door-episode-1-2-and-3-added-tv-series/|2021-11-12T07:57:58|2023-09-02T11:01:11|{'rendered': 'The Shrink Next Door (Complete) | TV Series'}",
+      "modified": "2023-09-02T11:01:11",
+      "skipped_at": 1789459627,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
