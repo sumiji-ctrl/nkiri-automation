@@ -1781,6 +1781,13 @@
       "modified": "2023-09-02T14:46:52",
       "skipped_at": 1789455647,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/victorious-s03-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46286|https://thenkiri.com/victorious-s03-s04-complete-tv-series/|2022-07-13T16:44:46|2023-09-02T14:40:57|{'rendered': 'Victorious S03 & S04 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:40:57",
+      "skipped_at": 1789455689,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
