@@ -1919,6 +1919,13 @@
       "modified": "2023-09-02T13:15:08",
       "skipped_at": 1789459368,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hanna-s01-and-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32648|https://thenkiri.com/hanna-s01-and-s02-complete-tv-series/|2021-11-26T07:54:00|2023-09-02T13:05:36|{'rendered': 'Hanna S01 and S02 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T13:05:36",
+      "skipped_at": 1789459555,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
