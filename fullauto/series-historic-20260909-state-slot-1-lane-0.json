@@ -1797,6 +1797,13 @@
       "modified": "2023-09-02T14:09:29",
       "skipped_at": 1789468361,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/tom-swift-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43756|https://thenkiri.com/tom-swift-s01-complete-tv-series/|2022-06-09T15:41:55|2023-09-02T14:07:29|{'rendered': 'Tom Swift S01 (Episode 9 Added) | TV Series'}",
+      "modified": "2023-09-02T14:07:29",
+      "skipped_at": 1789468399,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
