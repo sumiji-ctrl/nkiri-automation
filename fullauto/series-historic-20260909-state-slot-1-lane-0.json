@@ -1804,6 +1804,13 @@
       "modified": "2023-09-02T14:07:29",
       "skipped_at": 1789468399,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/jujutsu-kaisen-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43077|https://thenkiri.com/jujutsu-kaisen-s01-complete-tv-series/|2022-05-27T10:05:42|2026-01-23T09:12:31|{'rendered': 'Jujutsu Kaisen S01 (Episodes 1 – 24 Complete) | TV Series'}",
+      "modified": "2026-01-23T09:12:31",
+      "skipped_at": 1789468614,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
