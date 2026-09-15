@@ -1809,6 +1809,13 @@
       "modified": "2023-09-02T14:11:47",
       "skipped_at": 1789455848,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/first-kill-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43878|https://thenkiri.com/first-kill-s01-complete-tv-series/|2022-06-11T06:47:26|2023-09-02T14:06:39|{'rendered': 'First Kill S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:06:39",
+      "skipped_at": 1789455945,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
