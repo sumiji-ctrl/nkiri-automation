@@ -1966,6 +1966,13 @@
       "modified": "2023-09-02T09:25:51",
       "skipped_at": 1789475421,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/girl-from-nowhere-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "16312|https://thenkiri.com/girl-from-nowhere-s02-complete-tv-series/|2021-05-18T08:28:44|2023-09-02T09:12:07|{'rendered': 'Girl From Nowhere S02 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:12:07",
+      "skipped_at": 1789475503,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
