@@ -1837,6 +1837,13 @@
       "modified": "2023-09-02T13:55:27",
       "skipped_at": 1789456080,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/shining-girls-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "41025|https://thenkiri.com/shining-girls-s01-complete-tv-series/|2022-04-30T10:37:25|2023-09-02T13:51:08|{'rendered': 'Shining Girls S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-09-02T13:51:08",
+      "skipped_at": 1789456115,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
