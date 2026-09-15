@@ -1926,6 +1926,13 @@
       "modified": "2023-09-02T10:14:59",
       "skipped_at": 1789473850,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/chucky-s01-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30549|https://thenkiri.com/chucky-s01-episode-1-added-tv-series/|2021-10-14T09:14:27|2023-09-02T10:13:07|{'rendered': 'Chucky S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T10:13:07",
+      "skipped_at": 1789473904,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
