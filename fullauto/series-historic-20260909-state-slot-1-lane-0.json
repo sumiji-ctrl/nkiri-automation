@@ -1973,6 +1973,13 @@
       "modified": "2023-09-02T09:12:07",
       "skipped_at": 1789475503,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/yasuke-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "15773|https://thenkiri.com/yasuke-s01-complete-tv-series/|2021-05-01T11:26:42|2023-09-02T09:04:09|{'rendered': 'Yasuke S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T09:04:09",
+      "skipped_at": 1789475557,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
