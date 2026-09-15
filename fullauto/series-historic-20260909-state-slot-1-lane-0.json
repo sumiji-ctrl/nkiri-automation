@@ -1750,6 +1750,13 @@
       "modified": "2023-09-02T15:09:08",
       "skipped_at": 1789466989,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/surface-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "47402|https://thenkiri.com/surface-s01-complete-tv-series/|2022-07-30T12:24:57|2023-09-02T15:04:33|{'rendered': 'Surface S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:04:33",
+      "completed_at": 1789467337,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3588,6 +3595,11 @@
     "https://downloadwella.com/y6ki4u5luh9e/The.Patient.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eTzx6I1MXtvNobp18Mt_yj4-MSP6H-2m",
     "https://downloadwella.com/b3g09zaw0vco/The.Patient.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bpNxg1SD_P3H7xYkuMk-gyDC7lympNnA",
     "https://downloadwella.com/xy9qnielg33l/The.Patient.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EkoANSl911K_edOYB7BRnIy15OL0rsc5",
-    "https://downloadwella.com/prxqtx3dfhq4/The.Patient.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U_txRwkbb6Wuwalo865e3fLGoYoff1ly"
+    "https://downloadwella.com/prxqtx3dfhq4/The.Patient.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U_txRwkbb6Wuwalo865e3fLGoYoff1ly",
+    "https://downloadwella.com/b3r3zsuny2ca/Surface.2022.S01E04.(NKIRI.COM).noivnfdoinbfnbg.mkv.html": "https://v1.vidfiles.com/d/970o1CQ-Vis7XfbYR03Ys5xqaEuFD1ps",
+    "https://downloadwella.com/6bg7hkkzcc4t/Surface.2022.s01e05.(NKIRI.COM).noivnfdoinvdfoinbofgbddd.mkv.html": "https://v1.vidfiles.com/d/QR_01nvjFd-Sz2MqClDiBHmvmR5nxoHi",
+    "https://downloadwella.com/5qnvaw3umyen/Surface.2022.s01e06.(NKIRI.COM).niovnfdoinvoidnb.mkv.html": "https://v1.vidfiles.com/d/J_IqWzq9Qtv_s7w3Lj5Lje9mQe8iOcap",
+    "https://downloadwella.com/l3d13dgmuw6f/Surface.S01E07.(NKIRI.COM).noidoivndfoinvidfnvofdi.mkv.html": "https://v1.vidfiles.com/d/3wordtnwHpm7_O5SclvT-1g3jsjAUtRu",
+    "https://downloadwella.com/420vie11gysq/Surface.2022.S01E08.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/VPFx-mtoDokC6FrCNpon-Na4KAmdzlGP"
   }
 }
