@@ -1980,6 +1980,13 @@
       "modified": "2023-09-02T09:04:09",
       "skipped_at": 1789475557,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/attack-on-titan-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "15054|https://thenkiri.com/attack-on-titan-s01-complete-tv-series/|2021-04-08T12:12:26|2023-09-02T08:58:09|{'rendered': 'Attack On Titan S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:58:09",
+      "skipped_at": 1789475595,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
