@@ -1795,6 +1795,13 @@
       "modified": "2023-09-02T14:27:16",
       "skipped_at": 1789455739,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/loot-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45065|https://thenkiri.com/loot-s01-complete-tv-series/|2022-06-26T07:48:52|2023-09-02T14:20:56|{'rendered': 'Loot S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-09-02T14:20:56",
+      "skipped_at": 1789455786,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
