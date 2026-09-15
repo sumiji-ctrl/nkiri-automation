@@ -1885,6 +1885,13 @@
       "modified": "2023-09-02T13:28:34",
       "skipped_at": 1789471659,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/tyler-perrys-the-oval-s03-episode-1-11-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34712|https://thenkiri.com/tyler-perrys-the-oval-s03-episode-1-11-added-tv-series/|2022-01-08T07:35:28|2023-09-02T13:23:53|{'rendered': 'Tyler Perry’s The Oval S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:23:53",
+      "skipped_at": 1789471729,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
