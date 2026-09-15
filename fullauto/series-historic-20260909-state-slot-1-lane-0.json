@@ -1933,6 +1933,13 @@
       "modified": "2023-09-02T10:13:07",
       "skipped_at": 1789473904,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-equalizer-s02-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30347|https://thenkiri.com/the-equalizer-s02-episode-1-added-tv-series/|2021-10-11T07:32:54|2023-09-02T10:05:30|{'rendered': 'The Equalizer S02 (Episode 18 Added) | TV Series'}",
+      "modified": "2023-09-02T10:05:30",
+      "skipped_at": 1789473964,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
