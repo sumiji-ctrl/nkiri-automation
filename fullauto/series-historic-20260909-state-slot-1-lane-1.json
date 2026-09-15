@@ -1940,6 +1940,13 @@
       "modified": "2023-09-02T10:50:37",
       "skipped_at": 1789459710,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/titans-s01-and-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30688|https://thenkiri.com/titans-s01-and-s02-complete-tv-series/|2021-10-16T13:42:02|2023-09-02T10:15:46|{'rendered': 'Titans S01 and S02 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T10:15:46",
+      "skipped_at": 1789459914,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
