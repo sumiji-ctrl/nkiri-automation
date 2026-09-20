@@ -885,6 +885,13 @@
       "modified": "2023-09-02T13:08:22",
       "skipped_at": 1789940900,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/when-the-weather-is-fine-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32088|https://thenkiri.com/when-the-weather-is-fine-complete-korean-drama/|2021-11-16T07:17:41|2023-09-02T12:57:02|{'rendered': 'When the Weather is Fine (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T12:57:02",
+      "skipped_at": 1789941034,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
