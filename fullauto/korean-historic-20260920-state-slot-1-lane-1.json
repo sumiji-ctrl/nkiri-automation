@@ -1014,6 +1014,13 @@
       "signature": "7349|https://thenkiri.com/personal-taste-korean-drama/|2020-08-01T09:12:20|2023-09-02T07:49:48|{'rendered': 'Personal Taste S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T07:49:48",
       "completed_at": 1789946598
+    },
+    "https://thenkiri.com/legend-of-the-blue-sea-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "6332|https://thenkiri.com/legend-of-the-blue-sea-complete-korean-drama/|2020-06-28T09:05:00|2024-02-24T09:10:59|{'rendered': 'Legend of the Blue Sea (Complete) | Korean Drama'}",
+      "modified": "2024-02-24T09:10:59",
+      "skipped_at": 1789946793,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
