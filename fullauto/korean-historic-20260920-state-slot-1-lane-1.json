@@ -752,6 +752,13 @@
       "modified": "2023-09-02T14:21:57",
       "skipped_at": 1789938196,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/beautiful-gong-shim-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "43769|https://thenkiri.com/beautiful-gong-shim-s01-complete-korean-drama/|2022-06-09T17:30:48|2023-09-02T14:07:25|{'rendered': 'Beautiful Gong Shim S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:07:25",
+      "skipped_at": 1789938244,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
