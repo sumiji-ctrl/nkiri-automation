@@ -808,6 +808,13 @@
       "signature": "40495|https://thenkiri.com/designated-survivor-s01-complete-korean-drama/|2022-04-24T09:24:23|2023-09-02T13:45:09|{'rendered': 'Designated Survivor S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:45:09",
       "completed_at": 1789939406
+    },
+    "https://thenkiri.com/level-up-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "39210|https://thenkiri.com/level-up-s01-complete-korean-drama/|2022-04-07T09:02:25|2023-09-02T13:35:53|{'rendered': 'Level Up S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:35:53",
+      "skipped_at": 1789939547,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
