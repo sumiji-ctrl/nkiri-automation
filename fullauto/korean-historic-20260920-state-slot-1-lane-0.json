@@ -958,6 +958,13 @@
       "signature": "16835|https://thenkiri.com/heres-my-plan-complete-korean-drama/|2021-05-31T08:52:41|2023-09-02T09:16:43|{'rendered': 'Here’s My Plan (Complete) | Korean Drama'}",
       "modified": "2023-09-02T09:16:43",
       "completed_at": 1789943003
+    },
+    "https://thenkiri.com/doom-at-your-service-episode-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "16105|https://thenkiri.com/doom-at-your-service-episode-2-added-korean-drama/|2021-05-12T14:32:48|2023-09-02T09:08:53|{'rendered': 'Doom at Your Service (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:08:53",
+      "skipped_at": 1789943210,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
