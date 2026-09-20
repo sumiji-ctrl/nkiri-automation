@@ -939,6 +939,13 @@
       "signature": "18703|https://thenkiri.com/its-okay-thats-love-s01-complete-korean-drama/|2021-07-10T16:27:05|2024-02-28T06:40:36|{'rendered': 'Its Okay Thats Love S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-28T06:40:36",
       "completed_at": 1789942341
+    },
+    "https://thenkiri.com/undercover-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17679|https://thenkiri.com/undercover-s01-complete-korean-drama/|2021-06-18T08:03:28|2023-09-02T09:23:29|{'rendered': 'Undercover S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:23:29",
+      "skipped_at": 1789942399,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
