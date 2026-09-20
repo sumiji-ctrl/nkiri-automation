@@ -986,6 +986,13 @@
       "modified": "2023-09-02T08:48:30",
       "skipped_at": 1789943532,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/catch-the-ghost-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13709|https://thenkiri.com/catch-the-ghost-complete-korean-drama/|2021-03-08T16:53:26|2023-09-02T08:43:37|{'rendered': 'Catch the Ghost (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:43:37",
+      "skipped_at": 1789943580,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
