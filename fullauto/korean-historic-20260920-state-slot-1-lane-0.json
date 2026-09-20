@@ -850,6 +850,13 @@
       "modified": "2023-09-02T13:42:34",
       "skipped_at": 1789940124,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/another-miss-oh-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "36045|https://thenkiri.com/another-miss-oh-s01-complete-korean-drama/|2022-02-03T13:47:21|2023-09-02T13:38:23|{'rendered': 'Another Miss Oh S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:38:23",
+      "skipped_at": 1789940278,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
