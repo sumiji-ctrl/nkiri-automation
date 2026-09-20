@@ -1006,6 +1006,13 @@
       "modified": "2023-09-02T08:34:25",
       "skipped_at": 1789944602,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/secret-love-affair-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9977|https://thenkiri.com/secret-love-affair-korean-drama/|2021-01-03T19:58:18|2023-09-02T08:28:11|{'rendered': 'Secret Love Affair | Korean Drama'}",
+      "modified": "2023-09-02T08:28:11",
+      "skipped_at": 1789944647,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
