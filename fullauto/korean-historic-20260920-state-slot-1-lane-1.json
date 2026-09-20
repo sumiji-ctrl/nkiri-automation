@@ -833,6 +833,13 @@
       "modified": "2023-09-02T13:40:25",
       "skipped_at": 1789940601,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/love-in-the-moonlight-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "35423|https://thenkiri.com/love-in-the-moonlight-complete-korean-drama/|2022-01-22T09:41:00|2023-09-02T13:27:43|{'rendered': 'Love in the Moonlight (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:27:43",
+      "skipped_at": 1789940766,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
