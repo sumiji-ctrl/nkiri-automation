@@ -731,6 +731,13 @@
       "modified": "2024-02-25T02:27:01",
       "completed_at": 1789937921,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/a-beautiful-mind-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "46715|https://thenkiri.com/a-beautiful-mind-complete-korean-drama/|2022-07-20T09:16:34|2023-09-02T14:46:57|{'rendered': 'A Beautiful Mind (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:46:57",
+      "skipped_at": 1789937984,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
