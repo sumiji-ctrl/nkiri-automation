@@ -995,6 +995,13 @@
       "modified": "2023-09-02T08:23:16",
       "skipped_at": 1789945041,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-bride-of-the-water-god-habaek-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9273|https://thenkiri.com/the-bride-of-the-water-god-habaek-korean-drama/|2020-11-09T05:56:40|2023-09-02T08:18:49|{'rendered': 'The Bride of the Water God ( Habaek ) | Korean Drama'}",
+      "modified": "2023-09-02T08:18:49",
+      "skipped_at": 1789945077,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
