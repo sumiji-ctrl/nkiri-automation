@@ -1013,6 +1013,13 @@
       "modified": "2023-09-02T08:28:11",
       "skipped_at": 1789944647,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/do-do-sol-sol-la-la-sol-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9504|https://thenkiri.com/do-do-sol-sol-la-la-sol-korean-drama/|2020-11-25T19:11:59|2023-09-02T08:20:52|{'rendered': 'Do Do Sol Sol La La Sol | Korean Drama'}",
+      "modified": "2023-09-02T08:20:52",
+      "skipped_at": 1789944689,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
