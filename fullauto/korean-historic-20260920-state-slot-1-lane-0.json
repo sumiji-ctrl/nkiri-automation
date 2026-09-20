@@ -829,6 +829,13 @@
       "modified": "2023-09-02T13:14:27",
       "skipped_at": 1789939734,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/woman-of-dignity-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37688|https://thenkiri.com/woman-of-dignity-complete-korean-drama/|2022-03-09T09:28:31|2023-09-02T13:12:56|{'rendered': 'Woman of Dignity (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:12:56",
+      "skipped_at": 1789939915,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
