@@ -939,6 +939,13 @@
       "modified": "2024-02-23T20:07:41",
       "skipped_at": 1789944224,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/youth-of-may-episode-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15912|https://thenkiri.com/youth-of-may-episode-2-added-korean-drama/|2021-05-06T07:07:38|2023-09-02T09:10:23|{'rendered': 'Youth of May S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:10:23",
+      "skipped_at": 1789944354,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
