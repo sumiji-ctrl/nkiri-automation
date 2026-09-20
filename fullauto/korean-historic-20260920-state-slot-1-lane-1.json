@@ -953,6 +953,13 @@
       "modified": "2023-09-02T09:01:58",
       "skipped_at": 1789944514,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/save-me-s02-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "14627|https://thenkiri.com/save-me-s02-complete-korean-drama/|2021-04-05T08:11:26|2023-09-02T08:54:17|{'rendered': 'Save Me S02 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:54:17",
+      "skipped_at": 1789944673,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
