@@ -979,6 +979,13 @@
       "modified": "2023-09-02T09:02:43",
       "completed_at": 1789943482,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/oh-my-ghost-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13946|https://thenkiri.com/oh-my-ghost-complete-korean-drama/|2021-03-20T12:57:16|2023-09-02T08:48:30|{'rendered': 'Oh My Ghost (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:48:30",
+      "skipped_at": 1789943532,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
