@@ -1026,6 +1026,13 @@
       "signature": "8735|https://thenkiri.com/record-of-youth-korean-drama/|2020-09-24T14:12:00|2023-09-02T08:08:23|{'rendered': 'Record of Youth (480p) | Korean Drama'}",
       "modified": "2023-09-02T08:08:23",
       "completed_at": 1789945424
+    },
+    "https://thenkiri.com/w-two-worlds-apart-korean-drama/": {
+      "status": "partial",
+      "signature": "7835|https://thenkiri.com/w-two-worlds-apart-korean-drama/|2020-08-16T19:03:42|2024-02-24T12:07:57|{'rendered': 'W Two Worlds Apart S01 (Complete) | Korean Drama'}",
+      "modified": "2024-02-24T12:07:57",
+      "completed_at": 1789945968,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1300,6 +1307,21 @@
     "https://downloadwella.com/m41swjv8kmh1/Record.of.Youth.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y7TpivYduGRY_cd06Gyw_Bv06arB1uV7",
     "https://downloadwella.com/b0myg6ow0yhn/Record.of.Youth.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GmWtsdOBr5TUEyKoZhHeoor9wg9pxffV",
     "https://downloadwella.com/y38ldee1kao7/Record.of.Youth.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GLz7DFH21NlcvUQ7MIAviKOvIrHRNRim",
-    "https://downloadwella.com/aj0c919e66fj/Record.of.Youth.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ac-bmF0Wiekh30JvKVz6_YnHS7uVLBXb"
+    "https://downloadwella.com/aj0c919e66fj/Record.of.Youth.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ac-bmF0Wiekh30JvKVz6_YnHS7uVLBXb",
+    "https://downloadwella.com/derpi2o6rt8e/W.Two.Worlds.Apart.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cFYEyczFTC5vasl5Vx_KM871ydylxuKg",
+    "https://downloadwella.com/m5ebyzgyi57e/W.Two.Worlds.Apart.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3ZYOPh-58gOoha3LjNSTv7LiITQVUKzt",
+    "https://downloadwella.com/507cy3h7f9k0/W.Two.Worlds.Apart.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/stoy0vja_f32C85HptgjCCgvPmiEVEjv",
+    "https://downloadwella.com/q0ry35dqcwek/W.Two.Worlds.Apart.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I9DN0KC7-qsYwhdLb0yiZlEYqHFeXUkr",
+    "https://downloadwella.com/z5sbfe51b9wo/W.Two.Worlds.Apart.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m1ApAR7eqiyMnY_8X5ORCcp3_O86OkH1",
+    "https://downloadwella.com/vwmnjt99pc31/W.Two.Worlds.Apart.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9ecmeubnqPijqcG4mrDIAYJJRd6ETZ7C",
+    "https://downloadwella.com/rbt7vy4gql1g/W.Two.Worlds.Apart.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dWw3jjggmhSEAmB8WmwOetTF41AqOV5V",
+    "https://downloadwella.com/pamtbkvoxuf2/W.Two.Worlds.Apart.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MqAMoAn1k9JtYzyAFG3t2QwwsMBeMkaU",
+    "https://downloadwella.com/9tpdxjntj8z8/W.Two.Worlds.Apart.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Bt27C9igZCe8AIUHtfTPP73hov6x156_",
+    "https://downloadwella.com/sox3ers04rb7/W.Two.Worlds.Apart.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Uf-rTkmpj2dxctnEowTIDAMam5ukzma",
+    "https://downloadwella.com/3xt7w1igpsfp/W.Two.Worlds.Apart.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TxNycwcpXYiq98-22JY5RWSVG7LJgi6D",
+    "https://downloadwella.com/dm6ji7wlk4c8/W.Two.Worlds.Apart.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-aj-XQnMx1LsJS5SRFnao4fegI6Aw4Pv",
+    "https://downloadwella.com/kxxb72tca6z0/W.Two.Worlds.Apart.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uhJZ-Kl4z9JC39_t3xXV5PE1UeYfSZyK",
+    "https://downloadwella.com/7desfr8nfslc/W.Two.Worlds.Apart.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l209ZeCcy7sUUPN2CDXfgl73DnGBq8HM",
+    "https://downloadwella.com/hwjzelny263b/W.Two.Worlds.Apart.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GJTIvo0amzOmDIQcuDlG_zoFJdCq35GQ"
   }
 }
