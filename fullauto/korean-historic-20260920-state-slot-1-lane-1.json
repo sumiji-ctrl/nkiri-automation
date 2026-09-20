@@ -785,6 +785,13 @@
       "signature": "40756|https://thenkiri.com/princess-hours-aka-goong-s01-complete-korean-drama/|2022-04-28T07:30:44|2023-09-02T13:47:49|{'rendered': 'Princess Hours aka Goong S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:47:49",
       "completed_at": 1789939271
+    },
+    "https://thenkiri.com/baba-papa-s01-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "39954|https://thenkiri.com/baba-papa-s01-complete-korean-drama/|2022-04-19T11:15:22|2023-09-02T13:43:37|{'rendered': 'Bad Papa S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:43:37",
+      "completed_at": 1789939483,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1018,6 +1025,7 @@
     "https://downloadwella.com/7vizcqxue86n/Goong.E21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vhjf4h6Nk5g1A3FZ9uz5kmxYW-jYWzNd",
     "https://downloadwella.com/byjc5pasl0gk/Goong.E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eGDuo-fDxMpsYba8PAD22WM9vC-CById",
     "https://downloadwella.com/hq6cbbkanz63/Goong.E23.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jcPd_L4eWhZwDRUHrRkA8Dd7EFqPn2gV",
-    "https://downloadwella.com/ztr5sre8vwvq/Goong.E24.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o-uMF4htrRi15r9v2h7rxOp0v6RW62Nr"
+    "https://downloadwella.com/ztr5sre8vwvq/Goong.E24.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o-uMF4htrRi15r9v2h7rxOp0v6RW62Nr",
+    "https://downloadwella.com/zxkvu5r8yjys/Bad.Papa.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6nZFfzu-L1DZ8ixp40TVUrFm5UujOmBt"
   }
 }
