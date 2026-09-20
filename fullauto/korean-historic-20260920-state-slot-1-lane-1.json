@@ -974,6 +974,13 @@
       "modified": "2023-09-02T08:40:55",
       "skipped_at": 1789944891,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/arthdal-chronicles-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13254|https://thenkiri.com/arthdal-chronicles-korean-drama/|2021-02-17T17:02:00|2023-09-02T08:39:38|{'rendered': 'Arthdal Chronicles  | Korean Drama'}",
+      "modified": "2023-09-02T08:39:38",
+      "skipped_at": 1789944960,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
