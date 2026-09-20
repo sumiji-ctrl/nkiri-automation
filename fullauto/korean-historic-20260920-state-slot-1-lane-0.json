@@ -920,6 +920,13 @@
       "modified": "2023-09-02T10:05:25",
       "completed_at": 1789941743,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/yumis-cells-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "29446|https://thenkiri.com/yumis-cells-episode-1-added-korean-drama/|2021-09-17T19:37:03|2023-09-02T10:00:38|{'rendered': 'Yumis Cells S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:00:38",
+      "skipped_at": 1789941790,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
