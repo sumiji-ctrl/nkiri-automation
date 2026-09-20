@@ -843,6 +843,13 @@
       "modified": "2023-09-02T13:05:07",
       "skipped_at": 1789939975,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/discovery-of-love-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "36640|https://thenkiri.com/discovery-of-love-complete-korean-drama/|2022-02-15T14:05:50|2023-09-02T13:42:34|{'rendered': 'Discovery of Love (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:42:34",
+      "skipped_at": 1789940124,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
