@@ -1033,6 +1033,13 @@
       "modified": "2024-02-24T12:07:57",
       "completed_at": 1789945968,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/100-days-my-prince-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "6816|https://thenkiri.com/100-days-my-prince-complete-korean-drama/|2020-07-15T11:18:10|2023-09-02T07:42:33|{'rendered': '100 Days My Prince (Reupload & Complete) | Korean Drama'}",
+      "modified": "2023-09-02T07:42:33",
+      "skipped_at": 1789946174,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
