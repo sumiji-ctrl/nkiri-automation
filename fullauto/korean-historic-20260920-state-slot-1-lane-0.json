@@ -999,6 +999,13 @@
       "signature": "13418|https://thenkiri.com/the-penthouse-war-in-life-s01-complete-korean-drama/|2021-02-24T09:32:53|2023-09-02T08:41:47|{'rendered': 'The Penthouse War in Life S01 ( Complete)| Korean Drama'}",
       "modified": "2023-09-02T08:41:47",
       "completed_at": 1789944561
+    },
+    "https://thenkiri.com/run-on-complete-480p-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13100|https://thenkiri.com/run-on-complete-480p-korean-drama/|2021-02-08T11:34:27|2023-09-02T08:34:25|{'rendered': 'Run On ( Complete 480p) | Korean Drama'}",
+      "modified": "2023-09-02T08:34:25",
+      "skipped_at": 1789944602,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
