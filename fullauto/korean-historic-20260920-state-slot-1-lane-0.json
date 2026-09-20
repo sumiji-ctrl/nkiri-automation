@@ -713,10 +713,10 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/gannibal-complete-korean-drama/": {
-      "status": "pending",
+      "status": "done",
       "signature": "78128|https://thenkiri.com/gannibal-complete-korean-drama/|2022-12-28T13:37:47|2023-12-19T06:55:27|{'rendered': 'Gannibal (Episode 7 Added) | Japanese Drama'}",
-      "attempts": 1,
-      "last_attempt": 1789934839.7802932
+      "modified": "2023-12-19T06:55:27",
+      "completed_at": 1789935880
     }
   },
   "series_links": {
@@ -806,6 +806,12 @@
     "https://downloadwella.com/npr7o3vgot5o/Decoy.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zPIqWrlHe2GgZVjNw90UUkDA95TCv09x",
     "https://downloadwella.com/q4nght6bksl0/Decoy.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MURVCrQCYBcJd_50m6BCEyGBrZzgrM2Q",
     "https://downloadwella.com/w8dblhiy398i/Decoy.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2p821gyxP_2jQcmwwnXmfXm8R_ZCgYTH",
-    "https://downloadwella.com/o2mze4m9abm1/Gannibal.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2QYxc67Iuf8efFBKeBbQwkZOEFZAbMwd"
+    "https://downloadwella.com/o2mze4m9abm1/Gannibal.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2QYxc67Iuf8efFBKeBbQwkZOEFZAbMwd",
+    "https://downloadwella.com/tk0ufft3nwic/Gannibal.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WOxt_qQ40UxD82EsjQoSBZxExX11Cbxs",
+    "https://downloadwella.com/birs9lswps4s/Gannibal.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vk8Hr5RTJZqOQ2Gie71WQtu9yvv2RfkM",
+    "https://downloadwella.com/mdx3p88vjv7k/Gannibal.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CIslG0jfNHRZ8iqL9EZnZw3IAGuLzXCC",
+    "https://downloadwella.com/vug0g12jr79q/Gannibal.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u_mMJfQ7l5sHNNYW901cE6NP4CpkPdAC",
+    "https://downloadwella.com/8x6dfn034k11/Gannibal.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3qLcvPMRICzKx_8YBU08xUsjezNHNiix",
+    "https://downloadwella.com/frvaurcfs5kj/Gannibal.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nmQ0k9YWzyHvvPYdbFDopQ9SBuB-grxd"
   }
 }
