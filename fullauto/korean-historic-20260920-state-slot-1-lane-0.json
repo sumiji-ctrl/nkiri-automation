@@ -864,6 +864,13 @@
       "modified": "2026-06-08T14:37:44",
       "skipped_at": 1789940398,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-one-and-only-episode-123-4-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "34257|https://thenkiri.com/the-one-and-only-episode-123-4-added-korean-drama/|2021-12-31T13:06:23|2023-09-02T13:19:35|{'rendered': 'The One and Only (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:19:35",
+      "skipped_at": 1789940568,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
