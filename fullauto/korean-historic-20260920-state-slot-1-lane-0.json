@@ -822,6 +822,13 @@
       "modified": "2023-09-02T13:24:22",
       "skipped_at": 1789939613,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-cursed-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "38234|https://thenkiri.com/the-cursed-s01-complete-korean-drama/|2022-03-19T06:47:19|2023-09-02T13:14:27|{'rendered': 'The Cursed S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:14:27",
+      "skipped_at": 1789939734,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
