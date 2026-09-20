@@ -711,6 +711,12 @@
       "modified": "2023-09-02T16:54:52",
       "completed_at": 1789934669,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/gannibal-complete-korean-drama/": {
+      "status": "pending",
+      "signature": "78128|https://thenkiri.com/gannibal-complete-korean-drama/|2022-12-28T13:37:47|2023-12-19T06:55:27|{'rendered': 'Gannibal (Episode 7 Added) | Japanese Drama'}",
+      "attempts": 1,
+      "last_attempt": 1789934839.7802932
     }
   },
   "series_links": {
@@ -799,6 +805,7 @@
     "https://downloadwella.com/4omkgrh4npci/Decoy.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eWUhFBuvRCxR5UFBspCh5RKbr7NkQPOF",
     "https://downloadwella.com/npr7o3vgot5o/Decoy.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zPIqWrlHe2GgZVjNw90UUkDA95TCv09x",
     "https://downloadwella.com/q4nght6bksl0/Decoy.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MURVCrQCYBcJd_50m6BCEyGBrZzgrM2Q",
-    "https://downloadwella.com/w8dblhiy398i/Decoy.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2p821gyxP_2jQcmwwnXmfXm8R_ZCgYTH"
+    "https://downloadwella.com/w8dblhiy398i/Decoy.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2p821gyxP_2jQcmwwnXmfXm8R_ZCgYTH",
+    "https://downloadwella.com/o2mze4m9abm1/Gannibal.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2QYxc67Iuf8efFBKeBbQwkZOEFZAbMwd"
   }
 }
