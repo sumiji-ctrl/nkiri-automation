@@ -972,6 +972,13 @@
       "modified": "2023-09-02T09:03:48",
       "skipped_at": 1789943264,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sell-your-haunted-house-korean-drama/": {
+      "status": "partial",
+      "signature": "15322|https://thenkiri.com/sell-your-haunted-house-korean-drama/|2021-04-20T07:26:45|2023-09-02T09:02:43|{'rendered': 'Sell Your Haunted House (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:02:43",
+      "completed_at": 1789943482,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1207,6 +1214,8 @@
     "https://downloadwella.com/j7nd9yed4vmq/Heres.My.Plan.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QZ8agMz9uz0644Oa9KyjvvZQHVwfnVaT",
     "https://downloadwella.com/k9flxisbt15r/Heres.My.Plan.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0LMs-WEaZ6LVihBI5W_mY9dyjvxMXCfe",
     "https://downloadwella.com/fx4a6689o6nh/Heres.My.Plan.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Rc-o-GDbpCyN-xIHi6OrypUG5j4N6jJ",
-    "https://downloadwella.com/h1jyfxseynle/Heres.My.Plan.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XMmQJ9QogROpy1i0eSU-2I5a2T9ktwRx"
+    "https://downloadwella.com/h1jyfxseynle/Heres.My.Plan.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XMmQJ9QogROpy1i0eSU-2I5a2T9ktwRx",
+    "https://downloadwella.com/w0fwvnj1rmwi/Sell.Your.Haunted.House.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/93_Z-Qmh9djvGxnDrybog7FN0Rku9IL2",
+    "https://downloadwella.com/bx47sv4amexm/Sell.Your.Haunted.House.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AzJqZk2D3-enfbvH1WG9r7-Msm3_93Pf"
   }
 }
