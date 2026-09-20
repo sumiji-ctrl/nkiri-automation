@@ -840,6 +840,13 @@
       "modified": "2023-09-02T13:27:43",
       "skipped_at": 1789940766,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/monthly-magazine-home-episode-1-korean-drama-172/": {
+      "status": "skipped_unavailable",
+      "signature": "34567|https://thenkiri.com/monthly-magazine-home-episode-1-korean-drama-172/|2022-01-05T10:09:13|2023-09-02T13:21:30|{'rendered': 'Kiss Goblin (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:21:30",
+      "skipped_at": 1789940810,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
