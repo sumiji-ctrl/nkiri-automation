@@ -967,6 +967,13 @@
       "modified": "2023-09-02T08:45:36",
       "skipped_at": 1789944851,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-school-nurse-files-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13564|https://thenkiri.com/the-school-nurse-files-korean-drama/|2021-03-02T13:53:26|2023-09-02T08:40:55|{'rendered': 'The School Nurse Files | Korean Drama'}",
+      "modified": "2023-09-02T08:40:55",
+      "skipped_at": 1789944891,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
