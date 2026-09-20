@@ -705,6 +705,13 @@
       "signature": "74295|https://thenkiri.com/drama-special-season-13-indulgence-complete-korean-drama/|2022-11-27T20:16:05|2023-09-02T13:47:17|{'rendered': 'Drama Special Season 13: Indulgence (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:47:17",
       "completed_at": 1789936981
+    },
+    "https://thenkiri.com/jang-ok-jung-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "70257|https://thenkiri.com/jang-ok-jung-complete-korean-drama/|2022-11-02T07:39:19|2023-09-02T16:33:53|{'rendered': 'Jang Ok Jung (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T16:33:53",
+      "skipped_at": 1789937191,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
