@@ -988,6 +988,13 @@
       "modified": "2023-09-02T08:29:33",
       "skipped_at": 1789944995,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/extraordinary-you-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9718|https://thenkiri.com/extraordinary-you-korean-drama/|2020-12-09T19:03:57|2023-09-02T08:23:16|{'rendered': 'Extraordinary You | Korean Drama'}",
+      "modified": "2023-09-02T08:23:16",
+      "skipped_at": 1789945041,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
