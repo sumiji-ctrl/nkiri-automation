@@ -755,6 +755,13 @@
       "modified": "2023-09-02T14:52:44",
       "skipped_at": 1789937880,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sungkyunkwan-scandal-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "46143|https://thenkiri.com/sungkyunkwan-scandal-s01-complete-korean-drama/|2022-07-11T11:12:43|2023-09-02T14:41:58|{'rendered': 'Sungkyunkwan Scandal S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:41:58",
+      "skipped_at": 1789937916,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
