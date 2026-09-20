@@ -765,6 +765,13 @@
       "signature": "42834|https://thenkiri.com/mother-s01-complete-korean-drama/|2022-05-25T08:06:31|2024-02-23T20:38:04|{'rendered': 'Mother S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-23T20:38:04",
       "completed_at": 1789938634
+    },
+    "https://thenkiri.com/the-royal-gambler-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "41752|https://thenkiri.com/the-royal-gambler-s01-complete-korean-drama/|2022-05-11T07:19:31|2023-09-02T13:55:19|{'rendered': 'The Royal Gambler S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:55:19",
+      "skipped_at": 1789938677,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
