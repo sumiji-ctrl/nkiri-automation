@@ -762,6 +762,13 @@
       "modified": "2023-09-02T14:41:58",
       "skipped_at": 1789937916,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/wok-of-love-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "45207|https://thenkiri.com/wok-of-love-s01-complete-korean-drama/|2022-06-28T13:06:46|2023-09-02T14:28:55|{'rendered': 'Wok of Love S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:28:55",
+      "skipped_at": 1789937959,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
