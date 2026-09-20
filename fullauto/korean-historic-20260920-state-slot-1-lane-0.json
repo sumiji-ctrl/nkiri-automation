@@ -878,6 +878,13 @@
       "modified": "2023-09-02T13:13:28",
       "skipped_at": 1789940729,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/mad-dog-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32907|https://thenkiri.com/mad-dog-complete-korean-drama/|2021-11-30T13:09:48|2023-09-02T13:08:22|{'rendered': 'Mad Dog (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:08:22",
+      "skipped_at": 1789940900,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
