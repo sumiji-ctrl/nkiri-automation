@@ -748,6 +748,13 @@
       "signature": "59830|https://thenkiri.com/ultimate-weapon-alice-s01-complete-korean-drama/|2022-08-19T07:31:03|2023-09-02T15:16:25|{'rendered': 'Ultimate Weapon Alice S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T15:16:25",
       "completed_at": 1789937657
+    },
+    "https://thenkiri.com/jang-yeong-sil-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "47039|https://thenkiri.com/jang-yeong-sil-s01-complete-korean-drama/|2022-07-25T11:28:31|2023-09-02T14:52:44|{'rendered': 'Jang Yeong Sil S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:52:44",
+      "skipped_at": 1789937880,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
