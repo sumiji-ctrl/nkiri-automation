@@ -932,6 +932,13 @@
       "modified": "2023-09-02T09:18:55",
       "skipped_at": 1789944055,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/moorim-school-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "16601|https://thenkiri.com/moorim-school-complete-korean-drama/|2021-05-26T09:45:30|2024-02-23T20:07:41|{'rendered': 'Moorim School (Complete) | Korean Drama'}",
+      "modified": "2024-02-23T20:07:41",
+      "skipped_at": 1789944224,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
