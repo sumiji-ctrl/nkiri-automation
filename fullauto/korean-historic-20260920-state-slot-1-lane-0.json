@@ -892,6 +892,13 @@
       "modified": "2023-09-02T12:57:02",
       "skipped_at": 1789941034,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/let-me-be-your-knight-episode-1-added-korean-drama/": {
+      "status": "partial",
+      "signature": "31697|https://thenkiri.com/let-me-be-your-knight-episode-1-added-korean-drama/|2021-11-08T18:48:08|2023-09-02T10:58:10|{'rendered': 'Let Me Be Your Knight (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:58:10",
+      "completed_at": 1789941235,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1081,6 +1088,7 @@
     "https://downloadwella.com/jlijc690a1s2/Designated.Survivor.60.Days.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ot1lAKP-nDYgPPSs0j4w3I-Q1rq8a7Oe",
     "https://downloadwella.com/dw83uwew6oo3/Designated.Survivor.60.Days.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m0YwFQCUsGr38WGGKQo6jGwpNh2WY1lg",
     "https://downloadwella.com/1qklls7y2il6/Designated.Survivor.60.Days.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o8p26gjXkue9-RqUwphJyzDkmY1dZmqA",
-    "https://downloadwella.com/5m9525z7j7b8/Designated.Survivor.60.Days.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5Ba2-2oyJEKzdt8ks50hPWmoYV0uVyKw"
+    "https://downloadwella.com/5m9525z7j7b8/Designated.Survivor.60.Days.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5Ba2-2oyJEKzdt8ks50hPWmoYV0uVyKw",
+    "https://downloadwella.com/909ve22561wz/Let.Me.Be.Your.Knight.E03.(NKIRI.COM).ncidsnocsdnocinoidscindincsdc.mkv.html": "https://v1.vidfiles.com/d/ArrhmiRIvS82Y55kc8KoFeov0U5sl-TN"
   }
 }
