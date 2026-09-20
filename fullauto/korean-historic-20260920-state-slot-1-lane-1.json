@@ -888,6 +888,13 @@
       "signature": "31064|https://thenkiri.com/come-back-mister-s01-complete-korean-drama/|2021-10-25T07:48:46|2023-09-02T10:50:18|{'rendered': 'Come Back Mister S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T10:50:18",
       "completed_at": 1789941816
+    },
+    "https://thenkiri.com/my-name-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "30641|https://thenkiri.com/my-name-complete-korean-drama/|2021-10-15T14:39:18|2023-09-02T10:10:13|{'rendered': 'My Name (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:10:13",
+      "skipped_at": 1789941895,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
