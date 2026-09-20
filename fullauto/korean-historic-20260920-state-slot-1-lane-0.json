@@ -729,6 +729,13 @@
       "signature": "71314|https://thenkiri.com/the-first-responders-episode-1-added-korean-drama/|2022-11-12T19:32:24|2023-12-15T05:39:39|{'rendered': 'The First Responders (Episode 12 Added) | Korean Drama'}",
       "modified": "2023-12-15T05:39:39",
       "completed_at": 1789936613
+    },
+    "https://thenkiri.com/she-makes-my-heart-flutter-episodes-1-2-added-korean-drama/": {
+      "status": "partial",
+      "signature": "68872|https://thenkiri.com/she-makes-my-heart-flutter-episodes-1-2-added-korean-drama/|2022-10-24T15:11:19|2024-02-27T20:21:47|{'rendered': 'She Makes My Heart Flutter (Complete) | Korean Drama'}",
+      "modified": "2024-02-27T20:21:47",
+      "completed_at": 1789936760,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -848,6 +855,10 @@
     "https://downloadwella.com/zc8as08kz3zn/The.First.Responders.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SJfmY9xLA8koMCQ2WUO_lpFQIND2gfJt",
     "https://downloadwella.com/yjqx5adzcedg/The.First.Responders.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JuaU_4De2X-xbJpCoJx5sbHZLDB90R93",
     "https://downloadwella.com/qu8uubna4urs/The.First.Responders.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jEDS5E9uqgz2C76Jtmho4ybffKWl7roW",
-    "https://downloadwella.com/mqdwr45mkd3j/The.First.Responders.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PB1Nmb18GtLgB78P6RzI0Cc7jfai3hcs"
+    "https://downloadwella.com/mqdwr45mkd3j/The.First.Responders.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PB1Nmb18GtLgB78P6RzI0Cc7jfai3hcs",
+    "https://downloadwella.com/jrk00ukldryh/She.Makes.My.Heart.Flutter.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_LBwfgwnsfgoAFBu0agfKEHwrUERrhfH",
+    "https://downloadwella.com/vwaczs3cp26e/She.Makes.My.Heart.Flutter.E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/whu2sd82TpkDssyIBqEUQ0RTdzTGdaHs",
+    "https://downloadwella.com/3r4p93k9cpfa/she-makes-my-heart-flutter-E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/a20-2DJTh0ylomuCji86SPm1q6M-Wka-",
+    "https://downloadwella.com/l6p8eaq5m9wm/She.Makes.My.Heart.Flutter.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P_1k6dD6mo5qgc5VXOeJph12KoV5F6DR"
   }
 }
