@@ -925,6 +925,13 @@
       "signature": "17519|https://thenkiri.com/at-a-distance-spring-is-green-episode-1-korean-drama__trashed/|2021-06-14T18:53:49|2023-09-02T09:25:33|{'rendered': 'At a Distance Spring is Green S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T09:25:33",
       "completed_at": 1789944001
+    },
+    "https://thenkiri.com/voice-3-complete-s03-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17135|https://thenkiri.com/voice-3-complete-s03-korean-drama/|2021-06-07T06:16:38|2023-09-02T09:18:55|{'rendered': 'Voice 3 (Complete S03) | Korean Drama'}",
+      "modified": "2023-09-02T09:18:55",
+      "skipped_at": 1789944055,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
