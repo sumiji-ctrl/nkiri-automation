@@ -836,6 +836,13 @@
       "modified": "2023-09-02T13:12:56",
       "skipped_at": 1789939915,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/part-time-idol-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37146|https://thenkiri.com/part-time-idol-s01-complete-korean-drama/|2022-02-26T06:49:07|2023-09-02T13:05:07|{'rendered': 'Part-Time Idol S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:05:07",
+      "skipped_at": 1789939975,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
