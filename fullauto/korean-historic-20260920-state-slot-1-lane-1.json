@@ -812,6 +812,13 @@
       "signature": "37971|https://thenkiri.com/superior-day-episode-1-added-korean-drama/|2022-03-15T08:32:55|2026-06-16T12:41:49|{'rendered': 'A Superior Day (Complete) | Korean Drama'}",
       "modified": "2026-06-16T12:41:49",
       "completed_at": 1789939932
+    },
+    "https://thenkiri.com/military-prosecutor-doberman-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37289|https://thenkiri.com/military-prosecutor-doberman-episode-1-added-korean-drama/|2022-02-28T21:51:43|2023-09-02T13:10:56|{'rendered': 'Military Prosecutor Doberman S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:10:56",
+      "skipped_at": 1789940109,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
