@@ -871,6 +871,13 @@
       "modified": "2023-09-02T13:19:35",
       "skipped_at": 1789940568,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/bad-and-crazy-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "33711|https://thenkiri.com/bad-and-crazy-episode-1-added-korean-drama/|2021-12-18T04:42:05|2023-09-02T13:13:28|{'rendered': 'Bad and Crazy (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:13:28",
+      "skipped_at": 1789940729,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
