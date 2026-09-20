@@ -981,6 +981,13 @@
       "modified": "2023-09-02T08:39:38",
       "skipped_at": 1789944960,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/because-its-the-first-time-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "10319|https://thenkiri.com/because-its-the-first-time-korean-drama/|2021-01-19T07:01:48|2023-09-02T08:29:33|{'rendered': 'Because its the First Time | Korean Drama'}",
+      "modified": "2023-09-02T08:29:33",
+      "skipped_at": 1789944995,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
